@@ -1,0 +1,79 @@
+{
+    "DOI": "10.1016/0378-3812(93)87146-r",
+    "adsorbates": [
+        {
+            "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+            "name": "Nitrogen"
+        },
+        {
+            "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+            "name": "Methane"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NISTSRDXXX-7049d5f224aa727b1a6c07f3edfe3d97",
+        "name": "Wet Lower Basin Fruitland Coal"
+    },
+    "adsorptionUnits": "",
+    "articleSource": "Table 10",
+    "category": "exp",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "2017-07-19",
+    "digitizer": "Julia Chotoo",
+    "filename": "10.1016037838129387146r.Isotherm5",
+    "isotherm_data": [
+        {
+            "pressure": 39.748,
+            "species_data": [
+                {
+                    "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+                    "adsorption": 0.02169,
+                    "composition": 0.201
+                },
+                {
+                    "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+                    "adsorption": 0.4863,
+                    "composition": 0.799
+                }
+            ],
+            "total_adsorption": 0
+        },
+        {
+            "pressure": 72.671,
+            "species_data": [
+                {
+                    "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+                    "adsorption": 0.02192,
+                    "composition": 0.201
+                },
+                {
+                    "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+                    "adsorption": 0.6056,
+                    "composition": 0.799
+                }
+            ],
+            "total_adsorption": 0
+        },
+        {
+            "pressure": 106.663,
+            "species_data": [
+                {
+                    "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+                    "adsorption": 0.0195,
+                    "composition": 0.201
+                },
+                {
+                    "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+                    "adsorption": 0.6616,
+                    "composition": 0.799
+                }
+            ],
+            "total_adsorption": 0
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 1,
+    "temperature": 319
+}

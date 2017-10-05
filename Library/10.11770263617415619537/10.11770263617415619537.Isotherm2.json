@@ -1,0 +1,93 @@
+{
+    "DOI": "10.1177/0263617415619537",
+    "adsorbates": [
+        {
+            "InChIKey": "XKRFYHLGVUSROY-UHFFFAOYSA-N",
+            "name": "Argon"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NISTSRDXXX-7a5ae84c6b37df445be83f067c14cd71",
+        "name": "Activated Carbon BAM-P109"
+    },
+    "adsorptionUnits": "cm3(STP)/g",
+    "articleSource": "Figure 7",
+    "category": "sim",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "2016-03-09",
+    "digitizer": "Daniel W. Siderius",
+    "filename": "10.11770263617415619537.Isotherm2",
+    "isotherm_data": [
+        {
+            "pressure": 0.01013,
+            "species_data": [
+                {
+                    "InChIKey": "XKRFYHLGVUSROY-UHFFFAOYSA-N",
+                    "adsorption": 328,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 328
+        },
+        {
+            "pressure": 0.05065,
+            "species_data": [
+                {
+                    "InChIKey": "XKRFYHLGVUSROY-UHFFFAOYSA-N",
+                    "adsorption": 372,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 372
+        },
+        {
+            "pressure": 0.24312,
+            "species_data": [
+                {
+                    "InChIKey": "XKRFYHLGVUSROY-UHFFFAOYSA-N",
+                    "adsorption": 425,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 425
+        },
+        {
+            "pressure": 0.47611,
+            "species_data": [
+                {
+                    "InChIKey": "XKRFYHLGVUSROY-UHFFFAOYSA-N",
+                    "adsorption": 438,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 438
+        },
+        {
+            "pressure": 0.71923,
+            "species_data": [
+                {
+                    "InChIKey": "XKRFYHLGVUSROY-UHFFFAOYSA-N",
+                    "adsorption": 442,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 442
+        },
+        {
+            "pressure": 0.96235,
+            "species_data": [
+                {
+                    "InChIKey": "XKRFYHLGVUSROY-UHFFFAOYSA-N",
+                    "adsorption": 428,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 428
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 87
+}
