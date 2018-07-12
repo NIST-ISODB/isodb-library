@@ -16,18 +16,14 @@
     ],
     "adsorbentMaterial": [
         "Li-CuBTC",
-        "MIL-101(Cr)",
         "Li-MIL-101(Cr)",
-        "CuBTC"
+        "CuBTC",
+        "Cr-MIL(101)"
     ],
     "adsorbents": [
         {
             "hashkey": "NIST-MATDB-0f44d34dfe087e844ae143eed9793164",
             "name": "Li-CuBTC"
-        },
-        {
-            "hashkey": "NIST-MATDB-60f339993e57d0833aa7ef80a0d97759",
-            "name": "MIL-101(Cr)"
         },
         {
             "hashkey": "NIST-MATDB-6518260d77d71b3019421610151f60e7",
@@ -36,6 +32,10 @@
         {
             "hashkey": "NIST-MATDB-991daf7313251e7e607e2bab2da57e33",
             "name": "CuBTC"
+        },
+        {
+            "hashkey": "NIST-MATDB-e23e0f3921a269533d74caae8c5a12bf",
+            "name": "Cr-MIL(101)"
         }
     ],
     "authors": [

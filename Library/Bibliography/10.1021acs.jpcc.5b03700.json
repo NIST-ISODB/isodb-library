@@ -12,11 +12,11 @@
     "adsorbentMaterial": [
         "Ni-MOF-74 with residual MeOH",
         "Cu-MOF-74",
+        "MOF-74-Co",
         "Ni-MOF-74",
         "Co-MOF-74 with residual MeOH",
         "Mn-MOF-74 with residual MeOH",
-        "Mn-MOF-74",
-        "Co-MOF-74"
+        "Mn-MOF-74"
     ],
     "adsorbents": [
         {
@@ -26,6 +26,10 @@
         {
             "hashkey": "NIST-MATDB-2dcd78762c5032d1b5b3a93ef6f898b5",
             "name": "Cu-MOF-74"
+        },
+        {
+            "hashkey": "NIST-MATDB-8b2f5bfff597fd6ac1507365a3732a97",
+            "name": "MOF-74-Co"
         },
         {
             "hashkey": "NIST-MATDB-9bae32c6554495448eec59ee03478627",
@@ -42,10 +46,6 @@
         {
             "hashkey": "NIST-MATDB-f615a0462385c0cf6402e3408f388123",
             "name": "Mn-MOF-74"
-        },
-        {
-            "hashkey": "NIST-MATDB-f9b35753390746ca1668d88014668938",
-            "name": "Co-MOF-74"
         }
     ],
     "authors": [

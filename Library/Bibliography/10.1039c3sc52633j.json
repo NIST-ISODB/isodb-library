@@ -12,11 +12,11 @@
     "adsorbentMaterial": [
         "PCN-14",
         "Ni2(dobdc)",
+        "MOF-74-Co",
         "CuBTC",
         "AX-21",
         "Zn4O(BDC)3",
-        "Mg2(dobdc)",
-        "Co-MOF-74"
+        "Mg2(dobdc)"
     ],
     "adsorbents": [
         {
@@ -26,6 +26,10 @@
         {
             "hashkey": "NIST-MATDB-56a7e860822819db08b3fd9fc437f425",
             "name": "Ni2(dobdc)"
+        },
+        {
+            "hashkey": "NIST-MATDB-8b2f5bfff597fd6ac1507365a3732a97",
+            "name": "MOF-74-Co"
         },
         {
             "hashkey": "NIST-MATDB-991daf7313251e7e607e2bab2da57e33",
@@ -42,10 +46,6 @@
         {
             "hashkey": "NIST-MATDB-f4b549a56c1a5caf008c436b7d0aaaea",
             "name": "Mg2(dobdc)"
-        },
-        {
-            "hashkey": "NIST-MATDB-f9b35753390746ca1668d88014668938",
-            "name": "Co-MOF-74"
         }
     ],
     "authors": [

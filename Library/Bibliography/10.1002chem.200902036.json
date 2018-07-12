@@ -11,18 +11,14 @@
     ],
     "adsorbentMaterial": [
         "MIL-53(Al)",
-        "MIL-101(Cr)",
         "MIL-53(Cr)",
-        "MIL-47(V)"
+        "MIL-47(V)",
+        "Cr-MIL(101)"
     ],
     "adsorbents": [
         {
             "hashkey": "NIST-MATDB-1b85b1862d4e9cc2e0f46d0e2698ab79",
             "name": "MIL-53(Al)"
-        },
-        {
-            "hashkey": "NIST-MATDB-60f339993e57d0833aa7ef80a0d97759",
-            "name": "MIL-101(Cr)"
         },
         {
             "hashkey": "NIST-MATDB-7cb7f2ebc677a987561f61f34f01f965",
@@ -31,6 +27,10 @@
         {
             "hashkey": "NIST-MATDB-88982b60a6735e027ce761e7a7181713",
             "name": "MIL-47(V)"
+        },
+        {
+            "hashkey": "NIST-MATDB-e23e0f3921a269533d74caae8c5a12bf",
+            "name": "Cr-MIL(101)"
         }
     ],
     "authors": [
