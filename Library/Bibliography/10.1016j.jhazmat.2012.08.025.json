@@ -15,16 +15,12 @@
         }
     ],
     "adsorbentMaterial": [
-        "MIL-100-Fe",
         "MIL-100-Fe/Cu+(L)",
         "MIL-100-Fe/Cu+(M)",
+        "MIL-100(Fe)",
         "MIL-100-Fe/Cu+(H)"
     ],
     "adsorbents": [
-        {
-            "hashkey": "NIST-MATDB-5af5d2ca319a85603efa49b8a3915a63",
-            "name": "MIL-100-Fe"
-        },
         {
             "hashkey": "NIST-MATDB-833d5622e49d54b4fc2087b5f69b8a39",
             "name": "MIL-100-Fe/Cu+(L)"
@@ -32,6 +28,10 @@
         {
             "hashkey": "NIST-MATDB-9d738e8a92072cf8fedbe0a7933bf25f",
             "name": "MIL-100-Fe/Cu+(M)"
+        },
+        {
+            "hashkey": "NIST-MATDB-e8a1a82c4fe2ad952d1c107156f780f2",
+            "name": "MIL-100(Fe)"
         },
         {
             "hashkey": "NIST-MATDB-f56393c6dd0ab5ec49cf63426ef3fcc0",
