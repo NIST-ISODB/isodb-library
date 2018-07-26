@@ -10,16 +10,12 @@
         }
     ],
     "adsorbentMaterial": [
-        "CaBTT",
         "CuBTT",
         "MgBTT",
+        "Ca-BTT",
         "CuBTTri"
     ],
     "adsorbents": [
-        {
-            "hashkey": "NIST-MATDB-1c110709ac3e3491a035060aa252fce8",
-            "name": "CaBTT"
-        },
         {
             "hashkey": "NIST-MATDB-321d602bb363a7db71da4d4feafaaa5b",
             "name": "CuBTT"
@@ -27,6 +23,10 @@
         {
             "hashkey": "NIST-MATDB-99afbed9f9b65d2577c48672d67733a8",
             "name": "MgBTT"
+        },
+        {
+            "hashkey": "NIST-MATDB-b455ecf6065009cddb9e35809dd8d5eb",
+            "name": "Ca-BTT"
         },
         {
             "hashkey": "NIST-MATDB-c14b7207c2cb75af6d08fd0b8f45eee8",
