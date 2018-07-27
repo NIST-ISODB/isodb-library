@@ -10,12 +10,16 @@
         }
     ],
     "adsorbentMaterial": [
+        "NH2-MIL-53(Al)",
         "MIL-53(Al)",
         "Pd/Al(OH)(BDC)0.5(ABDC)0.5",
-        "Al(OH)(BDC)0.5(ABDC)0.5",
-        "MIL-53(Al)-NH2"
+        "Al(OH)(BDC)0.5(ABDC)0.5"
     ],
     "adsorbents": [
+        {
+            "hashkey": "NIST-MATDB-1b5c20248717ca46ef341e3c5f2c1f30",
+            "name": "NH2-MIL-53(Al)"
+        },
         {
             "hashkey": "NIST-MATDB-1b85b1862d4e9cc2e0f46d0e2698ab79",
             "name": "MIL-53(Al)"
@@ -27,10 +31,6 @@
         {
             "hashkey": "NIST-MATDB-44b9dcd31b99cd440011c8d09d47ad1a",
             "name": "Al(OH)(BDC)0.5(ABDC)0.5"
-        },
-        {
-            "hashkey": "NIST-MATDB-93d9c781dacb3d2a4759b948d690524e",
-            "name": "MIL-53(Al)-NH2"
         }
     ],
     "authors": [

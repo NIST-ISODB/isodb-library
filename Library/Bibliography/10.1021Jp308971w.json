@@ -79,9 +79,7 @@
         "ZSM-5",
         "Zeolite DDR",
         "Zeolite FER",
-        "NiMOF-74",
         "Zeolite NaX",
-        "FeMOF-74",
         "Zeolite TSC",
         "IRMOF-1",
         "BTP-COF",
@@ -90,12 +88,13 @@
         "Zeolite TON",
         "Zn(bdc)(dabco)",
         "ITQ-29",
+        "Fe-MOF-74",
         "Zeolite MTW",
-        "MgMOF-74",
         "Zeolite ISV",
         "Zeolite BOG",
         "Zn-MOF-74",
         "Zeolite AFI",
+        "MOF-74-Ni",
         "Zeolite MOR",
         "MIL-53(Cr)",
         "Zeolite BEA",
@@ -109,6 +108,7 @@
         "Zeolite SOD-Si",
         "Zeolite FAU-Si",
         "MIL-53(Cr)-lp",
+        "Mg-MOF-74",
         "Zeolite ERI"
     ],
     "adsorbents": [
@@ -129,16 +129,8 @@
             "name": "Zeolite FER"
         },
         {
-            "hashkey": "NIST-MATDB-1d942ec395e4c0be53ac7901965489af",
-            "name": "NiMOF-74"
-        },
-        {
             "hashkey": "NIST-MATDB-1e130146cc6d11f05471f1e054d640c8",
             "name": "Zeolite NaX"
-        },
-        {
-            "hashkey": "NIST-MATDB-1e9799fcf1f65c4af0accb72f9ca6b57",
-            "name": "FeMOF-74"
         },
         {
             "hashkey": "NIST-MATDB-298bd18ef94b93bf8e5c0052dbd6a2f8",
@@ -173,12 +165,12 @@
             "name": "ITQ-29"
         },
         {
-            "hashkey": "NIST-MATDB-65162ec4cf390d9e46ea1d7a0b27bf24",
-            "name": "Zeolite MTW"
+            "hashkey": "NIST-MATDB-627250e1b90f307bafa15a3443ff8fa0",
+            "name": "Fe-MOF-74"
         },
         {
-            "hashkey": "NIST-MATDB-68ebdf2e901a1f6de1b04ecbd1990517",
-            "name": "MgMOF-74"
+            "hashkey": "NIST-MATDB-65162ec4cf390d9e46ea1d7a0b27bf24",
+            "name": "Zeolite MTW"
         },
         {
             "hashkey": "NIST-MATDB-6c372b00bde601be7642210d9d4ab853",
@@ -195,6 +187,10 @@
         {
             "hashkey": "NIST-MATDB-7326726fbec7781f77d541a72930c610",
             "name": "Zeolite AFI"
+        },
+        {
+            "hashkey": "NIST-MATDB-775250b0154475da1a9521dd991a76d6",
+            "name": "MOF-74-Ni"
         },
         {
             "hashkey": "NIST-MATDB-79028cd0a543aaf6303bec108c0276dd",
@@ -247,6 +243,10 @@
         {
             "hashkey": "NIST-MATDB-ea78e771b01aee310818523feaf9decc",
             "name": "MIL-53(Cr)-lp"
+        },
+        {
+            "hashkey": "NIST-MATDB-f5e80ffaaaf05f4ed655664fd22defb9",
+            "name": "Mg-MOF-74"
         },
         {
             "hashkey": "NIST-MATDB-fc6b9ac16e0293a6e747be1f5895e1b6",

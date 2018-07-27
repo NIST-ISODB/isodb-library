@@ -15,22 +15,22 @@
         }
     ],
     "adsorbentMaterial": [
+        "Cu-BTTri",
         "MEN-CuBTTri",
-        "MMEN-CuBTTri",
-        "CuBTTri"
+        "CuBTTri-mmen"
     ],
     "adsorbents": [
+        {
+            "hashkey": "NIST-MATDB-6314ef7e6bdc7dcfa8cda20f5878094f",
+            "name": "Cu-BTTri"
+        },
         {
             "hashkey": "NIST-MATDB-7a555552c8aee83a550c926b85ab892a",
             "name": "MEN-CuBTTri"
         },
         {
-            "hashkey": "NIST-MATDB-7b4b2e958b046a6846dd76c7d2c7c966",
-            "name": "MMEN-CuBTTri"
-        },
-        {
-            "hashkey": "NIST-MATDB-c14b7207c2cb75af6d08fd0b8f45eee8",
-            "name": "CuBTTri"
+            "hashkey": "NIST-MATDB-a320691f48e701c419bea37582969820",
+            "name": "CuBTTri-mmen"
         }
     ],
     "authors": [

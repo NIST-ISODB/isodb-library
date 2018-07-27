@@ -16,24 +16,16 @@
     ],
     "adsorbentMaterial": [
         "CrBTC",
-        "CrBDC",
-        "CuBDC",
         "MIL-100",
         "CuBTC",
-        "MIL-53"
+        "MIL-53",
+        "Cu-BDC",
+        "Cr-BDC"
     ],
     "adsorbents": [
         {
             "hashkey": "NIST-MATDB-19863594568f639822e507fadea4facf",
             "name": "CrBTC"
-        },
-        {
-            "hashkey": "NIST-MATDB-2f224054d8ddf28f8332ebedec648247",
-            "name": "CrBDC"
-        },
-        {
-            "hashkey": "NIST-MATDB-50262537fdc72a75d02c3a43192c7679",
-            "name": "CuBDC"
         },
         {
             "hashkey": "NIST-MATDB-979e667be7fe222f20d8bad36617dc66",
@@ -46,6 +38,14 @@
         {
             "hashkey": "NIST-MATDB-9f02824618e94d86caedc9fb497366ba",
             "name": "MIL-53"
+        },
+        {
+            "hashkey": "NIST-MATDB-babf81d2b7aa67c7a9223ef580779ebe",
+            "name": "Cu-BDC"
+        },
+        {
+            "hashkey": "NIST-MATDB-fb908e20b37db7babbae0e7c688f33ed",
+            "name": "Cr-BDC"
         }
     ],
     "authors": [

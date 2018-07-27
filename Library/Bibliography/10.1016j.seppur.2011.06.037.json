@@ -20,11 +20,15 @@
         }
     ],
     "adsorbentMaterial": [
+        "MIL-53(Al)",
         "CuBTC",
-        "ZIF-8",
-        "MIL-53-Al"
+        "ZIF-8"
     ],
     "adsorbents": [
+        {
+            "hashkey": "NIST-MATDB-1b85b1862d4e9cc2e0f46d0e2698ab79",
+            "name": "MIL-53(Al)"
+        },
         {
             "hashkey": "NIST-MATDB-991daf7313251e7e607e2bab2da57e33",
             "name": "CuBTC"
@@ -32,10 +36,6 @@
         {
             "hashkey": "NIST-MATDB-b2dc02871a66ac38e4b195796cf3e00b",
             "name": "ZIF-8"
-        },
-        {
-            "hashkey": "NIST-MATDB-dfd3139bbb0d5f3dba7a8576eb6c7216",
-            "name": "MIL-53-Al"
         }
     ],
     "authors": [
