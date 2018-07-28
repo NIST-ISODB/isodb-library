@@ -10,16 +10,12 @@
         }
     ],
     "adsorbentMaterial": [
-        "RhoZMOF",
         "RhoZMOF(CU)",
         "RhoZMOF(Ni)",
-        "RhoZMOF(Co)"
+        "RhoZMOF(Co)",
+        "Rho-ZMOF"
     ],
     "adsorbents": [
-        {
-            "hashkey": "NIST-MATDB-043fee565d6b910a20c636a5e04287f9",
-            "name": "RhoZMOF"
-        },
         {
             "hashkey": "NIST-MATDB-3e28e39265b4eb9989bd4f7cbd61cd0d",
             "name": "RhoZMOF(CU)"
@@ -31,6 +27,10 @@
         {
             "hashkey": "NIST-MATDB-e5745b8f98c9f4c44875f6df72cc5af9",
             "name": "RhoZMOF(Co)"
+        },
+        {
+            "hashkey": "NIST-MATDB-fd7ade7b33c3327069abc402f4d18439",
+            "name": "Rho-ZMOF"
         }
     ],
     "authors": [
