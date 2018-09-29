@@ -1,0 +1,71 @@
+{
+    "DOI": "10.1021/ar500272n",
+    "adsorbates": [
+        {
+            "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+            "name": "Carbon Dioxide"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-9e5edba55f0f609476161019d58113ed",
+        "name": "ZIF-68"
+    },
+    "adsorptionUnits": "cm3(STP)/cm3",
+    "articleSource": "Figure 5- ZIF68 simulation",
+    "category": "sim",
+    "compositionType": "massfraction",
+    "concentrationUnits": "",
+    "date": "2018-07-03",
+    "digitizer": "Julie Yagodich",
+    "filename": "10.1021ar500272n.Isotherm8",
+    "isotherm_data": [
+        {
+            "pressure": 0.199937,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 8.859,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 0.400045,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 16.801,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 0.599983,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 23.95,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 0.79998,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 28.935,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}

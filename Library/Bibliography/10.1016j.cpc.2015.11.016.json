@@ -1,0 +1,58 @@
+{
+    "DOI": "10.1016/j.cpc.2015.11.016",
+    "adsorbateGas": [
+        "Ethane",
+        "Methane"
+    ],
+    "adsorbates": [
+        {
+            "InChIKey": "OTMSDBZUPAUEDD-UHFFFAOYSA-N",
+            "name": "Ethane"
+        },
+        {
+            "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+            "name": "Methane"
+        }
+    ],
+    "adsorbentMaterial": [
+        "IRMOF-1"
+    ],
+    "adsorbents": [
+        {
+            "hashkey": "NIST-MATDB-2c9380bddc59f547484ff729eab7d7cb",
+            "name": "IRMOF-1"
+        }
+    ],
+    "authors": [
+        "Cory M. Simon",
+        "Berend Smit",
+        "Maciej Haranczyk"
+    ],
+    "categories": [
+        "sim"
+    ],
+    "isotherms": [
+        {
+            "filename": "10.1016j.cpc.2015.11.016.Isotherm1"
+        },
+        {
+            "filename": "10.1016j.cpc.2015.11.016.Isotherm2"
+        },
+        {
+            "filename": "10.1016j.cpc.2015.11.016.Isotherm3"
+        },
+        {
+            "filename": "10.1016j.cpc.2015.11.016.Isotherm4"
+        }
+    ],
+    "journal": "Computer Physics Communications",
+    "pressures": [
+        0.68,
+        99.87
+    ],
+    "temperatures": [
+        298
+    ],
+    "title": "pyIAST: Ideal adsorbed solution theory (IAST) Python package",
+    "year": 2016
+}
