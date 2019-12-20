@@ -1,0 +1,93 @@
+{
+    "DOI": "10.1016/j.apsusc.2017.04.137",
+    "adsorbates": [
+        {
+            "InChIKey": "RQNWIZPPADIBDY-UHFFFAOYSA-N",
+            "name": "Arsenic"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-ff75a38b07f68074a5164d8906590974",
+        "name": "ZrO2-Fe3O4 nanoparticles"
+    },
+    "adsorptionUnits": "mg/g",
+    "articleSource": "Figure 6",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-07-12",
+    "digitizer": "Noah C. Whelpley",
+    "filename": "10.1016j.apsusc.2017.04.137.Isotherm2",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "RQNWIZPPADIBDY-UHFFFAOYSA-N",
+                    "adsorption": 4.682,
+                    "composition": 0.0052
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "RQNWIZPPADIBDY-UHFFFAOYSA-N",
+                    "adsorption": 23.448,
+                    "composition": 0.1767
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "RQNWIZPPADIBDY-UHFFFAOYSA-N",
+                    "adsorption": 45.4,
+                    "composition": 0.8667
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "RQNWIZPPADIBDY-UHFFFAOYSA-N",
+                    "adsorption": 76.563,
+                    "composition": 4.5688
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "RQNWIZPPADIBDY-UHFFFAOYSA-N",
+                    "adsorption": 101.891,
+                    "composition": 9.4819
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "RQNWIZPPADIBDY-UHFFFAOYSA-N",
+                    "adsorption": 130.137,
+                    "composition": 23.7957
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}

@@ -1,0 +1,82 @@
+{
+    "DOI": "10.1016/j.cej.2016.10.058",
+    "adsorbates": [
+        {
+            "InChIKey": "InChI=1S/C22H16N6O9S2.2Na/c23-19-18-12(11-17(39(35",
+            "name": "Naphthol Blue Black"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-2cb9f0d3672e4499f3e5e851d861c7d6",
+        "name": "CNT-NH2"
+    },
+    "adsorptionUnits": "mg/g",
+    "articleSource": "Figure 11",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-07-25",
+    "digitizer": "Justin Chen",
+    "filename": "10.1016j.cej.2016.10.058.Isotherm1",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "InChI=1S/C22H16N6O9S2.2Na/c23-19-18-12(11-17(39(35",
+                    "adsorption": 1.53,
+                    "composition": 0.082
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "InChI=1S/C22H16N6O9S2.2Na/c23-19-18-12(11-17(39(35",
+                    "adsorption": 224.77,
+                    "composition": 2.589
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "InChI=1S/C22H16N6O9S2.2Na/c23-19-18-12(11-17(39(35",
+                    "adsorption": 424.24,
+                    "composition": 7.55
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "InChI=1S/C22H16N6O9S2.2Na/c23-19-18-12(11-17(39(35",
+                    "adsorption": 539.72,
+                    "composition": 21.228
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "InChI=1S/C22H16N6O9S2.2Na/c23-19-18-12(11-17(39(35",
+                    "adsorption": 585.52,
+                    "composition": 39.905
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}

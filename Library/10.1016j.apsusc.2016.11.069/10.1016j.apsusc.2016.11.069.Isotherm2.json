@@ -1,0 +1,82 @@
+{
+    "DOI": "10.1016/j.apsusc.2016.11.069",
+    "adsorbates": [
+        {
+            "InChIKey": "FOIXSVOLVBLSDH-UHFFFAOYSA-N",
+            "name": "Ag(I)"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-cea708255f79d0620ede00681a19a740",
+        "name": "marine diatom biosilica"
+    },
+    "adsorptionUnits": "mg/g",
+    "articleSource": "Figure 7c",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-07-09",
+    "digitizer": "Justin Chen",
+    "filename": "10.1016j.apsusc.2016.11.069.Isotherm2",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "FOIXSVOLVBLSDH-UHFFFAOYSA-N",
+                    "adsorption": 4.842,
+                    "composition": 57.46
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "FOIXSVOLVBLSDH-UHFFFAOYSA-N",
+                    "adsorption": 4.189,
+                    "composition": 106.2
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "FOIXSVOLVBLSDH-UHFFFAOYSA-N",
+                    "adsorption": 11.739,
+                    "composition": 244.55
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "FOIXSVOLVBLSDH-UHFFFAOYSA-N",
+                    "adsorption": 16.83,
+                    "composition": 420
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "FOIXSVOLVBLSDH-UHFFFAOYSA-N",
+                    "adsorption": 13.96,
+                    "composition": 687.16
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}

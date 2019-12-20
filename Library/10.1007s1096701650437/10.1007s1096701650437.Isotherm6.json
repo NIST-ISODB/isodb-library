@@ -1,0 +1,111 @@
+{
+    "DOI": "10.1007/s10967-016-5043-7",
+    "adsorbates": [
+        {
+            "InChIKey": "WLZRMCYVCSSEQC-UHFFFAOYSA-N",
+            "name": "Cadmium(II) Ion"
+        },
+        {
+            "InChIKey": "XLJKHNWPARRRJB-UHFFFAOYSA-N",
+            "name": "Co(II)"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-aedfc1a289ae073dc12d657b4ff9dee4",
+        "name": "straw biochar"
+    },
+    "adsorptionUnits": "mmol/kg",
+    "articleSource": "Figure 2",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-07-23",
+    "digitizer": "Justin Chen",
+    "filename": "10.1007s1096701650437.Isotherm6",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "WLZRMCYVCSSEQC-UHFFFAOYSA-N",
+                    "adsorption": 22.865,
+                    "composition": 34.6
+                },
+                {
+                    "InChIKey": "XLJKHNWPARRRJB-UHFFFAOYSA-N",
+                    "adsorption": 1.876,
+                    "composition": 88.1
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "WLZRMCYVCSSEQC-UHFFFAOYSA-N",
+                    "adsorption": 114.343,
+                    "composition": 212.8
+                },
+                {
+                    "InChIKey": "XLJKHNWPARRRJB-UHFFFAOYSA-N",
+                    "adsorption": 46.077,
+                    "composition": 386.3
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "WLZRMCYVCSSEQC-UHFFFAOYSA-N",
+                    "adsorption": 128.371,
+                    "composition": 671.8
+                },
+                {
+                    "InChIKey": "XLJKHNWPARRRJB-UHFFFAOYSA-N",
+                    "adsorption": 55.204,
+                    "composition": 882.1
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "WLZRMCYVCSSEQC-UHFFFAOYSA-N",
+                    "adsorption": 137.315,
+                    "composition": 1667.7
+                },
+                {
+                    "InChIKey": "XLJKHNWPARRRJB-UHFFFAOYSA-N",
+                    "adsorption": 50.577,
+                    "composition": 1942
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "WLZRMCYVCSSEQC-UHFFFAOYSA-N",
+                    "adsorption": 161.242,
+                    "composition": 3593.1
+                },
+                {
+                    "InChIKey": "XLJKHNWPARRRJB-UHFFFAOYSA-N",
+                    "adsorption": 51.097,
+                    "composition": 3907.7
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 293
+}

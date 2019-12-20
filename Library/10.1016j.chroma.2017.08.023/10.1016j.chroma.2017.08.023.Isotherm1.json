@@ -1,0 +1,104 @@
+{
+    "DOI": "10.1016/j.chroma.2017.08.023",
+    "adsorbates": [
+        {
+            "InChIKey": "SNGREZUHAYWORS-UHFFFAOYSA-N",
+            "name": "Perfluorooctanoic acid"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-da2dd697b6349935456ae7546b6c8915",
+        "name": "TFMAA/4-Vpy-MIPs"
+    },
+    "adsorptionUnits": "mg/g",
+    "articleSource": "Figure 5",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-07-17",
+    "digitizer": "Noah C. Whelpley",
+    "filename": "10.1016j.chroma.2017.08.023.Isotherm1",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "SNGREZUHAYWORS-UHFFFAOYSA-N",
+                    "adsorption": 0.6491,
+                    "composition": 0.0651
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "SNGREZUHAYWORS-UHFFFAOYSA-N",
+                    "adsorption": 1.273,
+                    "composition": 0.1348
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "SNGREZUHAYWORS-UHFFFAOYSA-N",
+                    "adsorption": 2.5774,
+                    "composition": 0.2766
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "SNGREZUHAYWORS-UHFFFAOYSA-N",
+                    "adsorption": 3.5056,
+                    "composition": 0.6537
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "SNGREZUHAYWORS-UHFFFAOYSA-N",
+                    "adsorption": 4.3602,
+                    "composition": 1.091
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "SNGREZUHAYWORS-UHFFFAOYSA-N",
+                    "adsorption": 4.7383,
+                    "composition": 1.8399
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "SNGREZUHAYWORS-UHFFFAOYSA-N",
+                    "adsorption": 5.7653,
+                    "composition": 6.1631
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}

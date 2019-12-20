@@ -1,0 +1,93 @@
+{
+    "DOI": "10.1016/j.cherd.2017.06.034",
+    "adsorbates": [
+        {
+            "InChIKey": "STZCRXQWRGQSJD-GEEYTBSJSA-M",
+            "name": "Methyl Orange"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-e7f13bd239be6d5d5e6384d63f84acde",
+        "name": "20Carboxymethyl Cellulose-Bentonite"
+    },
+    "adsorptionUnits": "mg/g",
+    "articleSource": "Figure 7",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-07-11",
+    "digitizer": "Daniel Coile",
+    "filename": "10.1016j.cherd.2017.06.034.Isotherm3",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "STZCRXQWRGQSJD-GEEYTBSJSA-M",
+                    "adsorption": 12.829,
+                    "composition": 6.062
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "STZCRXQWRGQSJD-GEEYTBSJSA-M",
+                    "adsorption": 36.905,
+                    "composition": 11.746
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "STZCRXQWRGQSJD-GEEYTBSJSA-M",
+                    "adsorption": 60.932,
+                    "composition": 18.232
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "STZCRXQWRGQSJD-GEEYTBSJSA-M",
+                    "adsorption": 82.283,
+                    "composition": 28.948
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "STZCRXQWRGQSJD-GEEYTBSJSA-M",
+                    "adsorption": 97.938,
+                    "composition": 50.226
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "STZCRXQWRGQSJD-GEEYTBSJSA-M",
+                    "adsorption": 109.893,
+                    "composition": 78.528
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}

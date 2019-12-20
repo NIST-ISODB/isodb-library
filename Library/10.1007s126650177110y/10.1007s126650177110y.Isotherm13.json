@@ -1,0 +1,86 @@
+{
+    "DOI": "10.1007/s12665-017-7110-y",
+    "adsorbates": [
+        {
+            "InChIKey": "JPVYNHNXODAKFH-UHFFFAOYSA-N",
+            "name": "Copper(II) Ion"
+        },
+        {
+            "InChIKey": "PTFCDOFLOPIGGS-UHFFFAOYSA-N",
+            "name": "Zn(II)"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-4a71e09b677b5f6923023929c64b2015",
+        "name": "Leonardite"
+    },
+    "adsorptionUnits": "mg/g",
+    "articleSource": "Figure 3",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-07-18",
+    "digitizer": "Justin Chen",
+    "filename": "10.1007s126650177110y.Isotherm13",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "PTFCDOFLOPIGGS-UHFFFAOYSA-N",
+                    "adsorption": 2.1316,
+                    "composition": 2.8093
+                }
+            ],
+            "total_adsorption": 15
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "PTFCDOFLOPIGGS-UHFFFAOYSA-N",
+                    "adsorption": 3.7368,
+                    "composition": 6.2582
+                }
+            ],
+            "total_adsorption": 15
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "PTFCDOFLOPIGGS-UHFFFAOYSA-N",
+                    "adsorption": 5.0081,
+                    "composition": 10.0885
+                }
+            ],
+            "total_adsorption": 15
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "PTFCDOFLOPIGGS-UHFFFAOYSA-N",
+                    "adsorption": 7.0676,
+                    "composition": 18.1401
+                }
+            ],
+            "total_adsorption": 15
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "PTFCDOFLOPIGGS-UHFFFAOYSA-N",
+                    "adsorption": 8.0745,
+                    "composition": 21.9995
+                }
+            ],
+            "total_adsorption": 15
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 303
+}

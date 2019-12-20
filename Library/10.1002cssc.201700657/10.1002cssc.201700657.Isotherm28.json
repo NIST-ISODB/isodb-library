@@ -1,0 +1,104 @@
+{
+    "DOI": "10.1002/cssc.201700657",
+    "adsorbates": [
+        {
+            "InChIKey": "VXNZUUAINFGPBY-UHFFFAOYSA-N",
+            "name": "1-butene"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-abbe09b6ab634381d11a438b514bc438",
+        "name": "Ag-Y(15)"
+    },
+    "adsorptionUnits": "molecules/unitcell",
+    "articleSource": "Figure 3",
+    "category": "exp",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "2019-07-09",
+    "digitizer": "Gabrielle Magid",
+    "filename": "10.1002cssc.201700657.Isotherm28",
+    "isotherm_data": [
+        {
+            "pressure": 0.000773,
+            "species_data": [
+                {
+                    "InChIKey": "VXNZUUAINFGPBY-UHFFFAOYSA-N",
+                    "adsorption": 5.694,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 0.001764,
+            "species_data": [
+                {
+                    "InChIKey": "VXNZUUAINFGPBY-UHFFFAOYSA-N",
+                    "adsorption": 6.436,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 0.004394,
+            "species_data": [
+                {
+                    "InChIKey": "VXNZUUAINFGPBY-UHFFFAOYSA-N",
+                    "adsorption": 7.171,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 0.010743,
+            "species_data": [
+                {
+                    "InChIKey": "VXNZUUAINFGPBY-UHFFFAOYSA-N",
+                    "adsorption": 10.109,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 0.03178,
+            "species_data": [
+                {
+                    "InChIKey": "VXNZUUAINFGPBY-UHFFFAOYSA-N",
+                    "adsorption": 13.678,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 0.109745,
+            "species_data": [
+                {
+                    "InChIKey": "VXNZUUAINFGPBY-UHFFFAOYSA-N",
+                    "adsorption": 23.036,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 0.643453,
+            "species_data": [
+                {
+                    "InChIKey": "VXNZUUAINFGPBY-UHFFFAOYSA-N",
+                    "adsorption": 30.526,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 393
+}

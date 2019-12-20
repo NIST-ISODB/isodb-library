@@ -1,0 +1,82 @@
+{
+    "DOI": "10.1016/j.supflu.2017.06.001",
+    "adsorbates": [
+        {
+            "InChIKey": "WRMNZCZEMHIOCP-UHFFFAOYSA-N",
+            "name": "Phenylethyl Alcohol"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-3c2a25352a3407450cf1e16fb2cf487f",
+        "name": "Silica"
+    },
+    "adsorptionUnits": "g/g",
+    "articleSource": "Figure 3",
+    "category": "exp",
+    "compositionType": "moleratio",
+    "concentrationUnits": "",
+    "date": "2019-07-11",
+    "digitizer": "Noah C. Whelpley",
+    "filename": "10.1016j.supflu.2017.06.001.Isotherm6",
+    "isotherm_data": [
+        {
+            "pressure": 81.959,
+            "species_data": [
+                {
+                    "InChIKey": "WRMNZCZEMHIOCP-UHFFFAOYSA-N",
+                    "adsorption": 0.08199,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 89.632,
+            "species_data": [
+                {
+                    "InChIKey": "WRMNZCZEMHIOCP-UHFFFAOYSA-N",
+                    "adsorption": 0.08705,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 97.661,
+            "species_data": [
+                {
+                    "InChIKey": "WRMNZCZEMHIOCP-UHFFFAOYSA-N",
+                    "adsorption": 0.09593,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 108.247,
+            "species_data": [
+                {
+                    "InChIKey": "WRMNZCZEMHIOCP-UHFFFAOYSA-N",
+                    "adsorption": 0.16016,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 121.998,
+            "species_data": [
+                {
+                    "InChIKey": "WRMNZCZEMHIOCP-UHFFFAOYSA-N",
+                    "adsorption": 0.19831,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 333
+}
