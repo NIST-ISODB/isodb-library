@@ -1,0 +1,97 @@
+{
+    "DOI": "10.1002/clen.201600333",
+    "adsorbates": [
+        {
+            "InChIKey": "  OIQPTROHQCGFEF-UHFFFAOYSA-L",
+            "name": "Sunset Yellow"
+        },
+        {
+            "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+            "name": "Water"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-69283eb792bd861f748aeda8d4a65f2d",
+        "name": "Activated pine wood biochar"
+    },
+    "adsorptionUnits": "mg/g",
+    "articleSource": "Figure 4a",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-07-18",
+    "digitizer": "Gabrielle Magid",
+    "filename": "10.1002clen.201600333.Isotherm2",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "  OIQPTROHQCGFEF-UHFFFAOYSA-L",
+                    "adsorption": 9.889,
+                    "composition": 5.88
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "  OIQPTROHQCGFEF-UHFFFAOYSA-L",
+                    "adsorption": 29.069,
+                    "composition": 10.13
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "  OIQPTROHQCGFEF-UHFFFAOYSA-L",
+                    "adsorption": 46.99,
+                    "composition": 29.53
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "  OIQPTROHQCGFEF-UHFFFAOYSA-L",
+                    "adsorption": 59.173,
+                    "composition": 109.16
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "  OIQPTROHQCGFEF-UHFFFAOYSA-L",
+                    "adsorption": 80.241,
+                    "composition": 168.19
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "  OIQPTROHQCGFEF-UHFFFAOYSA-L",
+                    "adsorption": 89.317,
+                    "composition": 228.8
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}

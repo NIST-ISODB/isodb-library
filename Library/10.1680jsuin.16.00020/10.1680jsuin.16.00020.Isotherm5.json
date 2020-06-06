@@ -1,0 +1,97 @@
+{
+    "DOI": "10.1680/jsuin.16.00020",
+    "adsorbates": [
+        {
+            "InChIKey": "VAOCPAMSLUNLGC-UHFFFAOYSA-N",
+            "name": "Metronidazole"
+        },
+        {
+            "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+            "name": "Water"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-9e39f52078f472280ae34a2557e2b34f",
+        "name": "LiChrosorb RP-18 particles prepared with Ctab and Teos"
+    },
+    "adsorptionUnits": "mmol/kg",
+    "articleSource": "Figure 8",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-07-26",
+    "digitizer": "Noah C. Whelpley",
+    "filename": "10.1680jsuin.16.00020.Isotherm5",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "VAOCPAMSLUNLGC-UHFFFAOYSA-N",
+                    "adsorption": 0.0103,
+                    "composition": 0.02884
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "VAOCPAMSLUNLGC-UHFFFAOYSA-N",
+                    "adsorption": 0.4576,
+                    "composition": 0.09459
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "VAOCPAMSLUNLGC-UHFFFAOYSA-N",
+                    "adsorption": 1.459,
+                    "composition": 0.18112
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "VAOCPAMSLUNLGC-UHFFFAOYSA-N",
+                    "adsorption": 2.1899,
+                    "composition": 0.369
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "VAOCPAMSLUNLGC-UHFFFAOYSA-N",
+                    "adsorption": 5.1285,
+                    "composition": 0.71608
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "VAOCPAMSLUNLGC-UHFFFAOYSA-N",
+                    "adsorption": 6.9702,
+                    "composition": 0.90445
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "excess",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}

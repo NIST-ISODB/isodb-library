@@ -1,0 +1,86 @@
+{
+    "DOI": "10.1016/j.ultsonch.2016.12.010",
+    "adsorbates": [
+        {
+            "InChIKey": "GCFAQSYBSUQUPL-UHFFFAOYSA-I",
+            "name": "Reactive Red 195"
+        },
+        {
+            "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+            "name": "Water"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-4b284793a1ce519d8b976f5ab1f4e1f1",
+        "name": "Ag-Cr-AC nanocomposite"
+    },
+    "adsorptionUnits": "mg/g",
+    "articleSource": "Figure 8",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-07-08",
+    "digitizer": "Noah C. Whelpley",
+    "filename": "10.1016j.ultsonch.2016.12.010.Isotherm8",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "GCFAQSYBSUQUPL-UHFFFAOYSA-I",
+                    "adsorption": 37.0124,
+                    "composition": 1.281
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "GCFAQSYBSUQUPL-UHFFFAOYSA-I",
+                    "adsorption": 64.7562,
+                    "composition": 3.48
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "GCFAQSYBSUQUPL-UHFFFAOYSA-I",
+                    "adsorption": 66.5902,
+                    "composition": 8.417
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "GCFAQSYBSUQUPL-UHFFFAOYSA-I",
+                    "adsorption": 69.7651,
+                    "composition": 13.097
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "GCFAQSYBSUQUPL-UHFFFAOYSA-I",
+                    "adsorption": 67.8519,
+                    "composition": 18.185
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 313
+}

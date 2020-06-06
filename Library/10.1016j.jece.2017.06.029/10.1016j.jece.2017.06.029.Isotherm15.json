@@ -1,0 +1,87 @@
+{
+    "DOI": "10.1016/j.jece.2017.06.029",
+    "adsorbates": [
+        {
+            "InChIKey": "BDOSMKKIYDKNTQ-UHFFFAOYSA-N",
+            "name": "Cadmium"
+        },
+        {
+            "InChIKey": "HCHKCACWOHOZIP-UHFFFAOYSA-N",
+            "name": "Zinc"
+        },
+        {
+            "InChIKey": "PXHVJJICTQNCMI-UHFFFAOYSA-N",
+            "name": "Nickel"
+        },
+        {
+            "InChIKey": "RYGMFSIKBFXOCR-UHFFFAOYSA-N",
+            "name": "Copper"
+        },
+        {
+            "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+            "name": "Water"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-64e64627f356693b5d321463926d160b",
+        "name": "Treated Laterite"
+    },
+    "adsorptionUnits": "mg/g",
+    "articleSource": "Figure 6",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-07-24",
+    "digitizer": "Daniel Coile",
+    "filename": "10.1016j.jece.2017.06.029.Isotherm15",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "PXHVJJICTQNCMI-UHFFFAOYSA-N",
+                    "adsorption": 0.00454,
+                    "composition": 0.097
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "PXHVJJICTQNCMI-UHFFFAOYSA-N",
+                    "adsorption": 0.792,
+                    "composition": 15.555
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "PXHVJJICTQNCMI-UHFFFAOYSA-N",
+                    "adsorption": 0.91966,
+                    "composition": 34.856
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "PXHVJJICTQNCMI-UHFFFAOYSA-N",
+                    "adsorption": 0.91775,
+                    "composition": 54.933
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}

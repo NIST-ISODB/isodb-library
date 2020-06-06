@@ -1,0 +1,112 @@
+{
+    "DOI": "10.1016/j.marpolbul.2017.06.068",
+    "adsorbates": [
+        {
+            "InChIKey": "BFPYWIDHMRZLRN-SLHNCBLASA-N",
+            "name": "17alpha-ethynylestradiol"
+        },
+        {
+            "InChIKey": "IISBACLAFKSPIT-UHFFFAOYSA-N",
+            "name": "Bisphenol A"
+        },
+        {
+            "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+            "name": "Water"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-4c288cd3b53a23ad8313bbbae4e9c404",
+        "name": "marine sediment from Victoria Harbour, Hong Kong (22°18.142/114°03.051)"
+    },
+    "adsorptionUnits": "",
+    "articleSource": "Figure 4",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-07-24",
+    "digitizer": "Noah C. Whelpley",
+    "filename": "10.1016j.marpolbul.2017.06.068.Isotherm14",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "BFPYWIDHMRZLRN-SLHNCBLASA-N",
+                    "adsorption": 2.5,
+                    "composition": 0.1957
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "BFPYWIDHMRZLRN-SLHNCBLASA-N",
+                    "adsorption": 6.953,
+                    "composition": 0.4471
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "BFPYWIDHMRZLRN-SLHNCBLASA-N",
+                    "adsorption": 6.386,
+                    "composition": 0.4889
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "BFPYWIDHMRZLRN-SLHNCBLASA-N",
+                    "adsorption": 14.599,
+                    "composition": 1.0365
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "BFPYWIDHMRZLRN-SLHNCBLASA-N",
+                    "adsorption": 19.388,
+                    "composition": 1.4
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "BFPYWIDHMRZLRN-SLHNCBLASA-N",
+                    "adsorption": 28.295,
+                    "composition": 1.9608
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "BFPYWIDHMRZLRN-SLHNCBLASA-N",
+                    "adsorption": 30.269,
+                    "composition": 2.213
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}

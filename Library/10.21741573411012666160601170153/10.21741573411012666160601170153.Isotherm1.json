@@ -1,0 +1,86 @@
+{
+    "DOI": "10.2174/1573411012666160601170153",
+    "adsorbates": [
+        {
+            "InChIKey": "FDZZZRQASAIRJF-UHFFFAOYSA-M",
+            "name": "Malachite green"
+        },
+        {
+            "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+            "name": "Water"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-a134b8df9628b6940676f7d244975941",
+        "name": "White cedar sawdust"
+    },
+    "adsorptionUnits": "mg/g",
+    "articleSource": "Figure 7",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-07-23",
+    "digitizer": "Gabrielle Magid",
+    "filename": "10.21741573411012666160601170153.Isotherm1",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "FDZZZRQASAIRJF-UHFFFAOYSA-M",
+                    "adsorption": 8.499,
+                    "composition": 4.0933
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "FDZZZRQASAIRJF-UHFFFAOYSA-M",
+                    "adsorption": 10.168,
+                    "composition": 5.0714
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "FDZZZRQASAIRJF-UHFFFAOYSA-M",
+                    "adsorption": 19.998,
+                    "composition": 7.6484
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "FDZZZRQASAIRJF-UHFFFAOYSA-M",
+                    "adsorption": 26.921,
+                    "composition": 8.6455
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "FDZZZRQASAIRJF-UHFFFAOYSA-M",
+                    "adsorption": 67.051,
+                    "composition": 15.9354
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}

@@ -1,0 +1,68 @@
+{
+    "DOI": "10.1016/j.seppur.2017.02.009",
+    "adsorbates": [
+        {
+            "InChIKey": "BHPQYMZQTOCNFJ-UHFFFAOYSA-N",
+            "name": "Ca(II)"
+        },
+        {
+            "InChIKey": "WLZRMCYVCSSEQC-UHFFFAOYSA-N",
+            "name": "Cadmium(II) Ion"
+        },
+        {
+            "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+            "name": "Water"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-1fc95e5fe53327ae40c550396429e358",
+        "name": "PAA-modified electrospun nanofiber membranes"
+    },
+    "adsorptionUnits": "mg/g",
+    "articleSource": "Figure S5",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-07-19",
+    "digitizer": "Daniel Coile",
+    "filename": "10.1016j.seppur.2017.02.009.Isotherm61",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "BHPQYMZQTOCNFJ-UHFFFAOYSA-N",
+                    "adsorption": 34.826,
+                    "composition": 87.47
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "BHPQYMZQTOCNFJ-UHFFFAOYSA-N",
+                    "adsorption": 58.11,
+                    "composition": 279.83
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "BHPQYMZQTOCNFJ-UHFFFAOYSA-N",
+                    "adsorption": 94.831,
+                    "composition": 467.99
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}

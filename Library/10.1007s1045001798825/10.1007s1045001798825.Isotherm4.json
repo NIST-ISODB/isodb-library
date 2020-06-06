@@ -1,0 +1,86 @@
+{
+    "DOI": "10.1007/s10450-017-9882-5",
+    "adsorbates": [
+        {
+            "InChIKey": "ROBFUDYVXSDBQM-UHFFFAOYSA-N",
+            "name": "Tartronic acid"
+        },
+        {
+            "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+            "name": "Water"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-d1d7bb46da3c7c86dc3065748817dc69",
+        "name": "Dowex 50WX-4"
+    },
+    "adsorptionUnits": "g/g",
+    "articleSource": "Figure 2",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-07-22",
+    "digitizer": "Noah C. Whelpley",
+    "filename": "10.1007s1045001798825.Isotherm4",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "ROBFUDYVXSDBQM-UHFFFAOYSA-N",
+                    "adsorption": 0.0224,
+                    "composition": 0.0116
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "ROBFUDYVXSDBQM-UHFFFAOYSA-N",
+                    "adsorption": 0.8217,
+                    "composition": 2.5123
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "ROBFUDYVXSDBQM-UHFFFAOYSA-N",
+                    "adsorption": 1.6937,
+                    "composition": 4.9667
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "ROBFUDYVXSDBQM-UHFFFAOYSA-N",
+                    "adsorption": 2.5937,
+                    "composition": 7.5687
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "ROBFUDYVXSDBQM-UHFFFAOYSA-N",
+                    "adsorption": 3.6058,
+                    "composition": 9.9913
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 293
+}

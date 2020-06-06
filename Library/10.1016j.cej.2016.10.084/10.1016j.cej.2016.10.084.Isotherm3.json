@@ -1,0 +1,97 @@
+{
+    "DOI": "10.1016/j.cej.2016.10.084",
+    "adsorbates": [
+        {
+            "InChIKey": "XKNKHVGWJDPIRJ-UHFFFAOYSA-N",
+            "name": "4-aminophenylarsonic acid"
+        },
+        {
+            "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+            "name": "Water"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-97975946f49366a9d0a189c2e23420cd",
+        "name": "MnO2"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "Figure 2",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-07-29",
+    "digitizer": "Gabrielle Magid",
+    "filename": "10.1016j.cej.2016.10.084.Isotherm3",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "XKNKHVGWJDPIRJ-UHFFFAOYSA-N",
+                    "adsorption": 0.0563,
+                    "composition": 0.07976
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "XKNKHVGWJDPIRJ-UHFFFAOYSA-N",
+                    "adsorption": 0.09435,
+                    "composition": 0.09601
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "XKNKHVGWJDPIRJ-UHFFFAOYSA-N",
+                    "adsorption": 0.11032,
+                    "composition": 0.16978
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "XKNKHVGWJDPIRJ-UHFFFAOYSA-N",
+                    "adsorption": 0.14989,
+                    "composition": 0.20756
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "XKNKHVGWJDPIRJ-UHFFFAOYSA-N",
+                    "adsorption": 0.19172,
+                    "composition": 0.38479
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "XKNKHVGWJDPIRJ-UHFFFAOYSA-N",
+                    "adsorption": 0.21681,
+                    "composition": 0.55902
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}
