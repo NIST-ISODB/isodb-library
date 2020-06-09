@@ -1,0 +1,71 @@
+{
+    "DOI": "10.1021/ar500272n",
+    "adsorbates": [
+        {
+            "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+            "name": "Carbon Dioxide"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-e09d347dd969d6bd83df1d148fc34ecc",
+        "name": "ZIF-69"
+    },
+    "adsorptionUnits": "cm3(STP)/cm3",
+    "articleSource": "Figure 5- ZIF69 simulation",
+    "category": "sim",
+    "compositionType": "massfraction",
+    "concentrationUnits": "",
+    "date": "2018-07-03",
+    "digitizer": "Julie Yagodich",
+    "filename": "10.1021ar500272n.Isotherm6",
+    "isotherm_data": [
+        {
+            "pressure": 0.200039,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 10.99,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 0.400086,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 21.087,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 0.599596,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 27.877,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 0.799898,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 35.634,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}

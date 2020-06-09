@@ -1,0 +1,86 @@
+{
+    "DOI": "10.1016/j.cej.2017.02.073",
+    "adsorbates": [
+        {
+            "InChIKey": "BQPIGGFYSBELGY-UHFFFAOYSA-N",
+            "name": "Hg(II)"
+        },
+        {
+            "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+            "name": "Water"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-ea2fcfc5c9f32c3f6c216ae1a4300537",
+        "name": "PPTA-PAPSQ-4"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "Figure 18",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-07-12",
+    "digitizer": "Gabrielle Magid",
+    "filename": "10.1016j.cej.2017.02.073.Isotherm9",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "BQPIGGFYSBELGY-UHFFFAOYSA-N",
+                    "adsorption": 0.08095,
+                    "composition": 0.7616
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "BQPIGGFYSBELGY-UHFFFAOYSA-N",
+                    "adsorption": 0.1444,
+                    "composition": 1.6681
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "BQPIGGFYSBELGY-UHFFFAOYSA-N",
+                    "adsorption": 0.20744,
+                    "composition": 2.8035
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "BQPIGGFYSBELGY-UHFFFAOYSA-N",
+                    "adsorption": 0.24414,
+                    "composition": 3.6957
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "BQPIGGFYSBELGY-UHFFFAOYSA-N",
+                    "adsorption": 0.28084,
+                    "composition": 4.8092
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}

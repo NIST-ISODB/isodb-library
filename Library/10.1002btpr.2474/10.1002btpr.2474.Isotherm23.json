@@ -1,0 +1,130 @@
+{
+    "DOI": "10.1002/btpr.2474",
+    "adsorbates": [
+        {
+            "InChIKey": "NIST-ISODB-6FF7D40AFE90F925B5E0",
+            "name": "di-PEG-lysozyme-5kDa"
+        },
+        {
+            "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+            "name": "Water"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-1e7aeff742e0f4c523fc8ef85cd658f2",
+        "name": "Toyopearl PPG-600M"
+    },
+    "adsorptionUnits": "mmol adsorbed",
+    "articleSource": "Figure 4",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-07-19",
+    "digitizer": "Gabrielle Magid",
+    "filename": "10.1002btpr.2474.Isotherm23",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "NIST-ISODB-6FF7D40AFE90F925B5E0",
+                    "adsorption": 0.05269,
+                    "composition": 0.00123
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "NIST-ISODB-6FF7D40AFE90F925B5E0",
+                    "adsorption": 0.09647,
+                    "composition": 0.001273
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "NIST-ISODB-6FF7D40AFE90F925B5E0",
+                    "adsorption": 0.22973,
+                    "composition": 0.002165
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "NIST-ISODB-6FF7D40AFE90F925B5E0",
+                    "adsorption": 0.33445,
+                    "composition": 0.005678
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "NIST-ISODB-6FF7D40AFE90F925B5E0",
+                    "adsorption": 0.45496,
+                    "composition": 0.022835
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "NIST-ISODB-6FF7D40AFE90F925B5E0",
+                    "adsorption": 0.52153,
+                    "composition": 0.034346
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "NIST-ISODB-6FF7D40AFE90F925B5E0",
+                    "adsorption": 0.52925,
+                    "composition": 0.05369
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "NIST-ISODB-6FF7D40AFE90F925B5E0",
+                    "adsorption": 0.64722,
+                    "composition": 0.068202
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "NIST-ISODB-6FF7D40AFE90F925B5E0",
+                    "adsorption": 0.68063,
+                    "composition": 0.087975
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}

@@ -1,0 +1,97 @@
+{
+    "DOI": "10.1007/s10450-017-9882-5",
+    "adsorbates": [
+        {
+            "InChIKey": "RBNPOMFGQQGHHO-UHFFFAOYSA-N",
+            "name": "Glyceric acid"
+        },
+        {
+            "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+            "name": "Water"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-94141350b5f4c0efb4e7ea179a6f9920",
+        "name": "Dowex 50WX-8"
+    },
+    "adsorptionUnits": "g/g",
+    "articleSource": "Figure 1",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-07-22",
+    "digitizer": "Noah C. Whelpley",
+    "filename": "10.1007s1045001798825.Isotherm1",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "RBNPOMFGQQGHHO-UHFFFAOYSA-N",
+                    "adsorption": 0.0091,
+                    "composition": 0.0088
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "RBNPOMFGQQGHHO-UHFFFAOYSA-N",
+                    "adsorption": 0.2882,
+                    "composition": 1.4755
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "RBNPOMFGQQGHHO-UHFFFAOYSA-N",
+                    "adsorption": 1.0168,
+                    "composition": 5.1094
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "RBNPOMFGQQGHHO-UHFFFAOYSA-N",
+                    "adsorption": 1.8247,
+                    "composition": 10.1522
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "RBNPOMFGQQGHHO-UHFFFAOYSA-N",
+                    "adsorption": 2.7194,
+                    "composition": 11.4794
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "RBNPOMFGQQGHHO-UHFFFAOYSA-N",
+                    "adsorption": 2.6581,
+                    "composition": 11.5585
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 293
+}

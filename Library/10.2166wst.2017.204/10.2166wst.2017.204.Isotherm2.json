@@ -1,0 +1,104 @@
+{
+    "DOI": "10.2166/wst.2017.204",
+    "adsorbates": [
+        {
+            "InChIKey": "HAYXDMNJJFVXCI-UHFFFAOYSA-N",
+            "name": " Arsenate"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-aca80eb7dc0db80dc7d0ec04ad368749",
+        "name": "Fe-FeS2 Mixture"
+    },
+    "adsorptionUnits": "mg/g",
+    "articleSource": "Figure 10b",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-07-17",
+    "digitizer": "Justin Chen",
+    "filename": "10.2166wst.2017.204.Isotherm2",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "HAYXDMNJJFVXCI-UHFFFAOYSA-N",
+                    "adsorption": 26.483,
+                    "composition": 0.096
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "HAYXDMNJJFVXCI-UHFFFAOYSA-N",
+                    "adsorption": 48.994,
+                    "composition": 0.431
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "HAYXDMNJJFVXCI-UHFFFAOYSA-N",
+                    "adsorption": 73.858,
+                    "composition": 6.414
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "HAYXDMNJJFVXCI-UHFFFAOYSA-N",
+                    "adsorption": 92.899,
+                    "composition": 62.99
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "HAYXDMNJJFVXCI-UHFFFAOYSA-N",
+                    "adsorption": 95.833,
+                    "composition": 102.319
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "HAYXDMNJJFVXCI-UHFFFAOYSA-N",
+                    "adsorption": 98.84,
+                    "composition": 143.86
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "HAYXDMNJJFVXCI-UHFFFAOYSA-N",
+                    "adsorption": 98.93,
+                    "composition": 194.712
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}

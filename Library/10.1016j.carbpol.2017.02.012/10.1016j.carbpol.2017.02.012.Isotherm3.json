@@ -1,0 +1,86 @@
+{
+    "DOI": "10.1016/j.carbpol.2017.02.012",
+    "adsorbates": [
+        {
+            "InChIKey": "NIST-ISODB-0831C421D22BF0496949",
+            "name": "Pluronic F127"
+        },
+        {
+            "InChIKey": "NIST-ISODB-88C6BA74DC27D71F866E",
+            "name": "Solcoat P55"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-3c2a25352a3407450cf1e16fb2cf487f",
+        "name": "Silica"
+    },
+    "adsorptionUnits": "mg/m2",
+    "articleSource": "Figure 6a",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-07-18",
+    "digitizer": "Justin Chen",
+    "filename": "10.1016j.carbpol.2017.02.012.Isotherm3",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "NIST-ISODB-0831C421D22BF0496949",
+                    "adsorption": 0.06727,
+                    "composition": 0.497
+                }
+            ],
+            "total_adsorption": 100
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "NIST-ISODB-0831C421D22BF0496949",
+                    "adsorption": 0.34553,
+                    "composition": 0.516
+                }
+            ],
+            "total_adsorption": 100
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "NIST-ISODB-0831C421D22BF0496949",
+                    "adsorption": 0.50697,
+                    "composition": 5.113
+                }
+            ],
+            "total_adsorption": 100
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "NIST-ISODB-0831C421D22BF0496949",
+                    "adsorption": 0.66361,
+                    "composition": 20.024
+                }
+            ],
+            "total_adsorption": 100
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "NIST-ISODB-0831C421D22BF0496949",
+                    "adsorption": 0.79943,
+                    "composition": 50.076
+                }
+            ],
+            "total_adsorption": 100
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 293
+}

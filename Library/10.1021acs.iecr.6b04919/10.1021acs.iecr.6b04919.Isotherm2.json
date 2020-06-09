@@ -1,0 +1,108 @@
+{
+    "DOI": "10.1021/acs.iecr.6b04919",
+    "adsorbates": [
+        {
+            "InChIKey": "WAEMQWOKJMHJLA-UHFFFAOYSA-N",
+            "name": "Mn(II)"
+        },
+        {
+            "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+            "name": "Water"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-51e667185e98dfd13c1c427f09ef2dab",
+        "name": "triethyline-tetramine modified cross-linked chitosan"
+    },
+    "adsorptionUnits": "mg/g",
+    "articleSource": "Figure 1",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-07-11",
+    "digitizer": "Daniel Coile",
+    "filename": "10.1021acs.iecr.6b04919.Isotherm2",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "WAEMQWOKJMHJLA-UHFFFAOYSA-N",
+                    "adsorption": 4.143,
+                    "composition": 1.347
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "WAEMQWOKJMHJLA-UHFFFAOYSA-N",
+                    "adsorption": 9.398,
+                    "composition": 2.34
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "WAEMQWOKJMHJLA-UHFFFAOYSA-N",
+                    "adsorption": 19.702,
+                    "composition": 3.797
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "WAEMQWOKJMHJLA-UHFFFAOYSA-N",
+                    "adsorption": 29.898,
+                    "composition": 26.569
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "WAEMQWOKJMHJLA-UHFFFAOYSA-N",
+                    "adsorption": 34.729,
+                    "composition": 73.234
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "WAEMQWOKJMHJLA-UHFFFAOYSA-N",
+                    "adsorption": 39.717,
+                    "composition": 110.435
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "WAEMQWOKJMHJLA-UHFFFAOYSA-N",
+                    "adsorption": 40.89,
+                    "composition": 155.379
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 303
+}

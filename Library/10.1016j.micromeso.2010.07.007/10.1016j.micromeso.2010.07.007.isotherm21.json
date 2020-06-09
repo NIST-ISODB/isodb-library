@@ -1,0 +1,71 @@
+{
+    "DOI": "10.1016/j.micromeso.2010.07.007",
+    "adsorbates": [
+        {
+            "InChIKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+            "name": "Hydrogen"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-2c9380bddc59f547484ff729eab7d7cb",
+        "name": "IRMOF-1"
+    },
+    "adsorptionUnits": "wt%",
+    "articleSource": "UNKNOWN",
+    "category": "",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "1000-01-01",
+    "digitizer": "UNKNOWN",
+    "filename": "10.1016j.micromeso.2010.07.007.isotherm21",
+    "isotherm_data": [
+        {
+            "pressure": 1003.4,
+            "species_data": [
+                {
+                    "InChIKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+                    "adsorption": 39.3765,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 39.3765
+        },
+        {
+            "pressure": 2017.29,
+            "species_data": [
+                {
+                    "InChIKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+                    "adsorption": 56.1821,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 56.1821
+        },
+        {
+            "pressure": 3010.34,
+            "species_data": [
+                {
+                    "InChIKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+                    "adsorption": 66.4598,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 66.4598
+        },
+        {
+            "pressure": 4017.29,
+            "species_data": [
+                {
+                    "InChIKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+                    "adsorption": 74.7932,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 74.7932
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}

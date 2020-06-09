@@ -1,0 +1,71 @@
+{
+    "DOI": "10.1016/j.jcis.2007.12.023",
+    "adsorbates": [
+        {
+            "InChIKey": "QGZKDVFQNNGYKY-UHFFFAOYSA-N",
+            "name": "Ammonia"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-453276ee992ed07dc207ed08b2b221ce",
+        "name": "Carbon"
+    },
+    "adsorptionUnits": "micromoles/m2",
+    "articleSource": "UNKNOWN",
+    "category": "",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "1000-01-01",
+    "digitizer": "UNKNOWN",
+    "filename": "10.1016j.jcis.2007.12.023.isotherm34",
+    "isotherm_data": [
+        {
+            "pressure": 0.759084,
+            "species_data": [
+                {
+                    "InChIKey": "QGZKDVFQNNGYKY-UHFFFAOYSA-N",
+                    "adsorption": 1.27809,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.27809
+        },
+        {
+            "pressure": 0.81629,
+            "species_data": [
+                {
+                    "InChIKey": "QGZKDVFQNNGYKY-UHFFFAOYSA-N",
+                    "adsorption": 1.3925,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.3925
+        },
+        {
+            "pressure": 0.877309,
+            "species_data": [
+                {
+                    "InChIKey": "QGZKDVFQNNGYKY-UHFFFAOYSA-N",
+                    "adsorption": 1.82154,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.82154
+        },
+        {
+            "pressure": 0.933561,
+            "species_data": [
+                {
+                    "InChIKey": "QGZKDVFQNNGYKY-UHFFFAOYSA-N",
+                    "adsorption": 2.56522,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 2.56522
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 240
+}

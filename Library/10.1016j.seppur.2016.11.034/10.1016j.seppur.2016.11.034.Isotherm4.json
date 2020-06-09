@@ -1,0 +1,97 @@
+{
+    "DOI": "10.1016/j.seppur.2016.11.034",
+    "adsorbates": [
+        {
+            "InChIKey": "WLZRMCYVCSSEQC-UHFFFAOYSA-N",
+            "name": "Cadmium(II) Ion"
+        },
+        {
+            "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+            "name": "Water"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-cb38569d98865691345c4ad45861b6ba",
+        "name": "Purolite C100 Gel Resin"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "Figure 3",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-08-02",
+    "digitizer": "Noah C. Whelpley",
+    "filename": "10.1016j.seppur.2016.11.034.Isotherm4",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "WLZRMCYVCSSEQC-UHFFFAOYSA-N",
+                    "adsorption": 0.6295,
+                    "composition": -0.0021
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "WLZRMCYVCSSEQC-UHFFFAOYSA-N",
+                    "adsorption": 1.2452,
+                    "composition": 0.0372
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "WLZRMCYVCSSEQC-UHFFFAOYSA-N",
+                    "adsorption": 1.6023,
+                    "composition": 0.3724
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "WLZRMCYVCSSEQC-UHFFFAOYSA-N",
+                    "adsorption": 1.668,
+                    "composition": 1.4103
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "WLZRMCYVCSSEQC-UHFFFAOYSA-N",
+                    "adsorption": 1.5879,
+                    "composition": 1.9726
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "WLZRMCYVCSSEQC-UHFFFAOYSA-N",
+                    "adsorption": 1.3104,
+                    "composition": 2.3982
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 296
+}

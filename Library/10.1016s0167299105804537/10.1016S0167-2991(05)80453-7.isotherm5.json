@@ -1,0 +1,93 @@
+{
+    "DOI": "10.1016/S0167-2991(05)80453-7",
+    "adsorbates": [
+        {
+            "InChIKey": "OTMSDBZUPAUEDD-UHFFFAOYSA-N",
+            "name": "Ethane"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-404c978607c6bad901f59f13631d588e",
+        "name": "Zeolite Na-MOF"
+    },
+    "adsorptionUnits": "molecules/unitcell",
+    "articleSource": "UNKNOWN",
+    "category": "",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "1000-01-01",
+    "digitizer": "UNKNOWN",
+    "filename": "10.1016S0167-2991(05)80453-7.isotherm5",
+    "isotherm_data": [
+        {
+            "pressure": 0.000198,
+            "species_data": [
+                {
+                    "InChIKey": "OTMSDBZUPAUEDD-UHFFFAOYSA-N",
+                    "adsorption": 4.48463,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 4.48463
+        },
+        {
+            "pressure": 0.000321,
+            "species_data": [
+                {
+                    "InChIKey": "OTMSDBZUPAUEDD-UHFFFAOYSA-N",
+                    "adsorption": 5.82547,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 5.82547
+        },
+        {
+            "pressure": 0.000523,
+            "species_data": [
+                {
+                    "InChIKey": "OTMSDBZUPAUEDD-UHFFFAOYSA-N",
+                    "adsorption": 6.69308,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 6.69308
+        },
+        {
+            "pressure": 0.000797,
+            "species_data": [
+                {
+                    "InChIKey": "OTMSDBZUPAUEDD-UHFFFAOYSA-N",
+                    "adsorption": 7.49308,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 7.49308
+        },
+        {
+            "pressure": 0.00117563,
+            "species_data": [
+                {
+                    "InChIKey": "OTMSDBZUPAUEDD-UHFFFAOYSA-N",
+                    "adsorption": 7.79731,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 7.79731
+        },
+        {
+            "pressure": 0.00173494,
+            "species_data": [
+                {
+                    "InChIKey": "OTMSDBZUPAUEDD-UHFFFAOYSA-N",
+                    "adsorption": 8.06773,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 8.06773
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 296
+}

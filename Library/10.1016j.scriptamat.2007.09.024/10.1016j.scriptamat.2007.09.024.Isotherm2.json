@@ -1,0 +1,60 @@
+{
+    "DOI": "10.1016/j.scriptamat.2007.09.024",
+    "adsorbates": [
+        {
+            "InChIKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+            "name": "Hydrogen"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-aa799b0fd7360342c55d68cc666d449e",
+        "name": "CuSO4"
+    },
+    "adsorptionUnits": "wt%",
+    "articleSource": "UNKNOWN",
+    "category": "",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "1000-01-01",
+    "digitizer": "UNKNOWN",
+    "filename": "10.1016j.scriptamat.2007.09.024.Isotherm2",
+    "isotherm_data": [
+        {
+            "pressure": 5.58413,
+            "species_data": [
+                {
+                    "InChIKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+                    "adsorption": 0.144927,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.144927
+        },
+        {
+            "pressure": 10.6638,
+            "species_data": [
+                {
+                    "InChIKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+                    "adsorption": 0.28939,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.28939
+        },
+        {
+            "pressure": 11.1682,
+            "species_data": [
+                {
+                    "InChIKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+                    "adsorption": 0.329579,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.329579
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}

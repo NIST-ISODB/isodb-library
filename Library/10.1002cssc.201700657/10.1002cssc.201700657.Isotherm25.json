@@ -1,0 +1,93 @@
+{
+    "DOI": "10.1002/cssc.201700657",
+    "adsorbates": [
+        {
+            "InChIKey": "KAKZBPTYRLMSJV-UHFFFAOYSA-N",
+            "name": "1,3-butadiene"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-36e316c6c3c7d62c3ad4b6d5c545d04b",
+        "name": "Ag-Y(2.43)"
+    },
+    "adsorptionUnits": "molecules/unitcell",
+    "articleSource": "Figure 3",
+    "category": "exp",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "2019-07-09",
+    "digitizer": "Gabrielle Magid",
+    "filename": "10.1002cssc.201700657.Isotherm25",
+    "isotherm_data": [
+        {
+            "pressure": 3.6e-05,
+            "species_data": [
+                {
+                    "InChIKey": "KAKZBPTYRLMSJV-UHFFFAOYSA-N",
+                    "adsorption": 29.514,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 0.00014,
+            "species_data": [
+                {
+                    "InChIKey": "KAKZBPTYRLMSJV-UHFFFAOYSA-N",
+                    "adsorption": 35.103,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 0.000464,
+            "species_data": [
+                {
+                    "InChIKey": "KAKZBPTYRLMSJV-UHFFFAOYSA-N",
+                    "adsorption": 35.977,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 0.001528,
+            "species_data": [
+                {
+                    "InChIKey": "KAKZBPTYRLMSJV-UHFFFAOYSA-N",
+                    "adsorption": 38.033,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 0.00586,
+            "species_data": [
+                {
+                    "InChIKey": "KAKZBPTYRLMSJV-UHFFFAOYSA-N",
+                    "adsorption": 39.648,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 0.633442,
+            "species_data": [
+                {
+                    "InChIKey": "KAKZBPTYRLMSJV-UHFFFAOYSA-N",
+                    "adsorption": 51.102,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 393
+}

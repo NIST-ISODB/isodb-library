@@ -1,0 +1,75 @@
+{
+    "DOI": "10.1002/cjce.22748",
+    "adsorbates": [
+        {
+            "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+            "name": "Water"
+        },
+        {
+            "InChIKey": "YXFVVABEGXRONW-UHFFFAOYSA-N",
+            "name": "Toluene"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-2d8c93f6032ca3a4b729d4f36b776ad0",
+        "name": "spectrogel (type c)"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "Figure 6",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-07-11",
+    "digitizer": "Noah C. Whelpley",
+    "filename": "10.1002cjce.22748.Isotherm6",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "YXFVVABEGXRONW-UHFFFAOYSA-N",
+                    "adsorption": 0.015031,
+                    "composition": 0.085184
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "YXFVVABEGXRONW-UHFFFAOYSA-N",
+                    "adsorption": 0.031585,
+                    "composition": 0.113221
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "YXFVVABEGXRONW-UHFFFAOYSA-N",
+                    "adsorption": 0.054969,
+                    "composition": 0.163277
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "YXFVVABEGXRONW-UHFFFAOYSA-N",
+                    "adsorption": 0.086571,
+                    "composition": 0.216878
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}

@@ -1,0 +1,104 @@
+{
+    "DOI": "10.1021/acs.iecr.7b01523",
+    "adsorbates": [
+        {
+            "InChIKey": "NBIIXXVUZAFLBC-UHFFFAOYSA-K",
+            "name": "Phosphate Ion"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-c17d215cce70563fb7c10277658f40ce",
+        "name": "N-Ethylmethylamine-(Zr-OH)"
+    },
+    "adsorptionUnits": "",
+    "articleSource": "Figure 1",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-07-08",
+    "digitizer": "Daniel Coile",
+    "filename": "10.1021acs.iecr.7b01523.Isotherm3",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "NBIIXXVUZAFLBC-UHFFFAOYSA-K",
+                    "adsorption": 15.913,
+                    "composition": 1.457
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "NBIIXXVUZAFLBC-UHFFFAOYSA-K",
+                    "adsorption": 30.571,
+                    "composition": 4.58
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "NBIIXXVUZAFLBC-UHFFFAOYSA-K",
+                    "adsorption": 48.622,
+                    "composition": 6.132
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "NBIIXXVUZAFLBC-UHFFFAOYSA-K",
+                    "adsorption": 68.401,
+                    "composition": 71.247
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "NBIIXXVUZAFLBC-UHFFFAOYSA-K",
+                    "adsorption": 75.186,
+                    "composition": 89.898
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "NBIIXXVUZAFLBC-UHFFFAOYSA-K",
+                    "adsorption": 81.395,
+                    "composition": 136.039
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "NBIIXXVUZAFLBC-UHFFFAOYSA-K",
+                    "adsorption": 86.132,
+                    "composition": 202.159
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}

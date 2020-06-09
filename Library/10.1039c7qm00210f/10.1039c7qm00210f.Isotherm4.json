@@ -1,0 +1,112 @@
+{
+    "DOI": "10.1039/c7qm00210f",
+    "adsorbates": [
+        {
+            "InChIKey": "BQPIGGFYSBELGY-UHFFFAOYSA-N",
+            "name": "Hg(II)"
+        },
+        {
+            "InChIKey": "JPVYNHNXODAKFH-UHFFFAOYSA-N",
+            "name": "Copper(II) Ion"
+        },
+        {
+            "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+            "name": "Water"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-1d4665eecd86d0344e47415bb283c611",
+        "name": "Glutamic acid-modified cellulose fibrous composite"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "Figure 7",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-07-12",
+    "digitizer": "Daniel Coile",
+    "filename": "10.1039c7qm00210f.Isotherm4",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "JPVYNHNXODAKFH-UHFFFAOYSA-N",
+                    "adsorption": 0.07632,
+                    "composition": 0.224
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "JPVYNHNXODAKFH-UHFFFAOYSA-N",
+                    "adsorption": 0.23278,
+                    "composition": 0.719
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "JPVYNHNXODAKFH-UHFFFAOYSA-N",
+                    "adsorption": 0.36623,
+                    "composition": 3.245
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "JPVYNHNXODAKFH-UHFFFAOYSA-N",
+                    "adsorption": 0.44569,
+                    "composition": 12.99
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "JPVYNHNXODAKFH-UHFFFAOYSA-N",
+                    "adsorption": 0.47536,
+                    "composition": 38.922
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "JPVYNHNXODAKFH-UHFFFAOYSA-N",
+                    "adsorption": 0.53825,
+                    "composition": 81.489
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "JPVYNHNXODAKFH-UHFFFAOYSA-N",
+                    "adsorption": 0.64383,
+                    "composition": 117.729
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}

@@ -1,0 +1,104 @@
+{
+    "DOI": "10.1021/acs.iecr.5b04570",
+    "adsorbates": [
+        {
+            "InChIKey": "MYMOFIZGZYHOMD-UHFFFAOYSA-N",
+            "name": "Oxygen"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-abf66157d5cc57c8d394c02171df4c1a",
+        "name": "LiLSX Zeolite"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "Figure 1B",
+    "category": "mod",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "2018-08-09",
+    "digitizer": "Matthew Weiss",
+    "filename": "10.1021acs.iecr.5b04570.Isotherm7",
+    "isotherm_data": [
+        {
+            "pressure": 0.033843,
+            "species_data": [
+                {
+                    "InChIKey": "MYMOFIZGZYHOMD-UHFFFAOYSA-N",
+                    "adsorption": 0.01085,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 0.526181,
+            "species_data": [
+                {
+                    "InChIKey": "MYMOFIZGZYHOMD-UHFFFAOYSA-N",
+                    "adsorption": 0.06824,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01406,
+            "species_data": [
+                {
+                    "InChIKey": "MYMOFIZGZYHOMD-UHFFFAOYSA-N",
+                    "adsorption": 0.11751,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 2.49391,
+            "species_data": [
+                {
+                    "InChIKey": "MYMOFIZGZYHOMD-UHFFFAOYSA-N",
+                    "adsorption": 0.23913,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 3.72258,
+            "species_data": [
+                {
+                    "InChIKey": "MYMOFIZGZYHOMD-UHFFFAOYSA-N",
+                    "adsorption": 0.32904,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 4.9477,
+            "species_data": [
+                {
+                    "InChIKey": "MYMOFIZGZYHOMD-UHFFFAOYSA-N",
+                    "adsorption": 0.45697,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 6.20221,
+            "species_data": [
+                {
+                    "InChIKey": "MYMOFIZGZYHOMD-UHFFFAOYSA-N",
+                    "adsorption": 0.54292,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 338
+}

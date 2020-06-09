@@ -1,0 +1,139 @@
+{
+    "DOI": "10.1002/jctb.5164",
+    "adsorbates": [
+        {
+            "InChIKey": "FKNQFGJONOIPTF-UHFFFAOYSA-N",
+            "name": "Sodium Ion"
+        },
+        {
+            "InChIKey": "GPRLSGONYQIRFK-FTGQXOHASA-N",
+            "name": "Hydrogen Ion"
+        },
+        {
+            "InChIKey": "SCJSKMYJIYDUHN-UHFFFAOYSA-N",
+            "name": "Chloride"
+        },
+        {
+            "InChIKey": "UDMBCSSLTHHNCD-KQYNXXCUSA-N",
+            "name": "Adenosine monophosphate"
+        },
+        {
+            "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+            "name": "Water"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-df8b53ed8ea107385cfaf67bed43cab3",
+        "name": "resin NH-1"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "Table 4",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-08-01",
+    "digitizer": "Daniel Coile",
+    "filename": "10.1002jctb.5164.Isotherm11",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "FKNQFGJONOIPTF-UHFFFAOYSA-N",
+                    "adsorption": 0.617,
+                    "composition": 0.00487
+                },
+                {
+                    "InChIKey": "UDMBCSSLTHHNCD-KQYNXXCUSA-N",
+                    "adsorption": 0.216,
+                    "composition": 0.0106
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "FKNQFGJONOIPTF-UHFFFAOYSA-N",
+                    "adsorption": 0.492,
+                    "composition": 0.00387
+                },
+                {
+                    "InChIKey": "UDMBCSSLTHHNCD-KQYNXXCUSA-N",
+                    "adsorption": 0.195,
+                    "composition": 0.00858
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "FKNQFGJONOIPTF-UHFFFAOYSA-N",
+                    "adsorption": 0.41,
+                    "composition": 0.0033
+                },
+                {
+                    "InChIKey": "UDMBCSSLTHHNCD-KQYNXXCUSA-N",
+                    "adsorption": 0.175,
+                    "composition": 0.00725
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "FKNQFGJONOIPTF-UHFFFAOYSA-N",
+                    "adsorption": 0.352,
+                    "composition": 0.00269
+                },
+                {
+                    "InChIKey": "UDMBCSSLTHHNCD-KQYNXXCUSA-N",
+                    "adsorption": 0.157,
+                    "composition": 0.00618
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "FKNQFGJONOIPTF-UHFFFAOYSA-N",
+                    "adsorption": 0.291,
+                    "composition": 0.00224
+                },
+                {
+                    "InChIKey": "UDMBCSSLTHHNCD-KQYNXXCUSA-N",
+                    "adsorption": 0.139,
+                    "composition": 0.0048
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "FKNQFGJONOIPTF-UHFFFAOYSA-N",
+                    "adsorption": 0.247,
+                    "composition": 0.00182
+                },
+                {
+                    "InChIKey": "UDMBCSSLTHHNCD-KQYNXXCUSA-N",
+                    "adsorption": 0.122,
+                    "composition": 0.00407
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 304
+}

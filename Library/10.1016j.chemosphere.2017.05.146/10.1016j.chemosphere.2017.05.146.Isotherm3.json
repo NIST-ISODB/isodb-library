@@ -1,0 +1,115 @@
+{
+    "DOI": "10.1016/j.chemosphere.2017.05.146",
+    "adsorbates": [
+        {
+            "InChIKey": "PTFCDOFLOPIGGS-UHFFFAOYSA-N",
+            "name": "Zn(II)"
+        },
+        {
+            "InChIKey": "RVPVRDXYQKGNMQ-UHFFFAOYSA-N",
+            "name": "Lead(II) Ion"
+        },
+        {
+            "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+            "name": "Water"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-2388ce528d3409f5d34709a13018bd46",
+        "name": "DTPA-functionalised, silicacoated magnetic nanoparticles"
+    },
+    "adsorptionUnits": "mmol/kg",
+    "articleSource": "Figure 3",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-07-31",
+    "digitizer": "Gabrielle Magid",
+    "filename": "10.1016j.chemosphere.2017.05.146.Isotherm3",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "PTFCDOFLOPIGGS-UHFFFAOYSA-N",
+                    "adsorption": 2.93,
+                    "composition": 0.00454
+                },
+                {
+                    "InChIKey": "RVPVRDXYQKGNMQ-UHFFFAOYSA-N",
+                    "adsorption": 7.98,
+                    "composition": 0.00464
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "PTFCDOFLOPIGGS-UHFFFAOYSA-N",
+                    "adsorption": 67.25,
+                    "composition": 0.03027
+                },
+                {
+                    "InChIKey": "RVPVRDXYQKGNMQ-UHFFFAOYSA-N",
+                    "adsorption": 78.59,
+                    "composition": 0.01477
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "PTFCDOFLOPIGGS-UHFFFAOYSA-N",
+                    "adsorption": 420.85,
+                    "composition": 0.7185
+                },
+                {
+                    "InChIKey": "RVPVRDXYQKGNMQ-UHFFFAOYSA-N",
+                    "adsorption": 337.6,
+                    "composition": 0.62959
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "PTFCDOFLOPIGGS-UHFFFAOYSA-N",
+                    "adsorption": 417.26,
+                    "composition": 0.72756
+                },
+                {
+                    "InChIKey": "RVPVRDXYQKGNMQ-UHFFFAOYSA-N",
+                    "adsorption": 317.3,
+                    "composition": 0.64908
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "PTFCDOFLOPIGGS-UHFFFAOYSA-N",
+                    "adsorption": 399.29,
+                    "composition": 0.74454
+                },
+                {
+                    "InChIKey": "RVPVRDXYQKGNMQ-UHFFFAOYSA-N",
+                    "adsorption": 310.05,
+                    "composition": 0.65597
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 293
+}

@@ -1,0 +1,71 @@
+{
+    "DOI": "10.1080/08927020108031359",
+    "adsorbates": [
+        {
+            "InChIKey": "URLKBWYHVLBVBO-UHFFFAOYSA-N",
+            "name": "P-Xylene"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-99e052f97f793d489eba02ae30795a3a",
+        "name": "Faujasite NaY"
+    },
+    "adsorptionUnits": "molecules/cage",
+    "articleSource": "UNKNOWN",
+    "category": "",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "1000-01-01",
+    "digitizer": "UNKNOWN",
+    "filename": "10.108008927020108031359.isotherm15",
+    "isotherm_data": [
+        {
+            "pressure": 2.81e-05,
+            "species_data": [
+                {
+                    "InChIKey": "URLKBWYHVLBVBO-UHFFFAOYSA-N",
+                    "adsorption": 0.180791,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.180791
+        },
+        {
+            "pressure": 0.000105,
+            "species_data": [
+                {
+                    "InChIKey": "URLKBWYHVLBVBO-UHFFFAOYSA-N",
+                    "adsorption": 2.76768,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 2.76768
+        },
+        {
+            "pressure": 0.0010222,
+            "species_data": [
+                {
+                    "InChIKey": "URLKBWYHVLBVBO-UHFFFAOYSA-N",
+                    "adsorption": 3.10561,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 3.10561
+        },
+        {
+            "pressure": 0.00301044,
+            "species_data": [
+                {
+                    "InChIKey": "URLKBWYHVLBVBO-UHFFFAOYSA-N",
+                    "adsorption": 3.32118,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 3.32118
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 423
+}

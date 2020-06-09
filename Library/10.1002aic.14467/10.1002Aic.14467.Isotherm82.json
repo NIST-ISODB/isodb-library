@@ -1,0 +1,60 @@
+{
+    "DOI": "10.1002/Aic.14467",
+    "adsorbates": [
+        {
+            "InChIKey": "RAHZWNYVWXNFOC-UHFFFAOYSA-N",
+            "name": "Sulfur dioxide"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-367c1fc33062b7f842fdf3a5071148d9",
+        "name": "Zeolite FAU"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "UNKNOWN",
+    "category": "",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "1000-01-01",
+    "digitizer": "UNKNOWN",
+    "filename": "10.1002Aic.14467.Isotherm82",
+    "isotherm_data": [
+        {
+            "pressure": 0.491794,
+            "species_data": [
+                {
+                    "InChIKey": "RAHZWNYVWXNFOC-UHFFFAOYSA-N",
+                    "adsorption": -0.0056205,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": -0.0056205
+        },
+        {
+            "pressure": 0.752131,
+            "species_data": [
+                {
+                    "InChIKey": "RAHZWNYVWXNFOC-UHFFFAOYSA-N",
+                    "adsorption": -0.00631007,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": -0.00631007
+        },
+        {
+            "pressure": 1.0042,
+            "species_data": [
+                {
+                    "InChIKey": "RAHZWNYVWXNFOC-UHFFFAOYSA-N",
+                    "adsorption": -0.00690518,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": -0.00690518
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 313
+}

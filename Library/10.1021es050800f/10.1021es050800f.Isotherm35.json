@@ -1,0 +1,82 @@
+{
+    "DOI": "10.1021/es050800f",
+    "adsorbates": [
+        {
+            "InChIKey": "HXGDTGSAIMULJN-UHFFFAOYSA-N",
+            "name": "Acenaphthylene"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-361e2b416a215b9cc9faa7cfa888fc93",
+        "name": "NC6H14 Soot Film"
+    },
+    "adsorptionUnits": "molecules/cm2",
+    "articleSource": "UNKNOWN",
+    "category": "",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "1000-01-01",
+    "digitizer": "UNKNOWN",
+    "filename": "10.1021es050800f.Isotherm35",
+    "isotherm_data": [
+        {
+            "pressure": 1.64366e-09,
+            "species_data": [
+                {
+                    "InChIKey": "HXGDTGSAIMULJN-UHFFFAOYSA-N",
+                    "adsorption": 937346000000,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 937346000000
+        },
+        {
+            "pressure": 4.2946e-09,
+            "species_data": [
+                {
+                    "InChIKey": "HXGDTGSAIMULJN-UHFFFAOYSA-N",
+                    "adsorption": 4144770000000,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 4144770000000
+        },
+        {
+            "pressure": 9.67973e-09,
+            "species_data": [
+                {
+                    "InChIKey": "HXGDTGSAIMULJN-UHFFFAOYSA-N",
+                    "adsorption": 7624300000000,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 7624300000000
+        },
+        {
+            "pressure": 1.43547e-08,
+            "species_data": [
+                {
+                    "InChIKey": "HXGDTGSAIMULJN-UHFFFAOYSA-N",
+                    "adsorption": 11797800000000,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 11797800000000
+        },
+        {
+            "pressure": 1.70551e-08,
+            "species_data": [
+                {
+                    "InChIKey": "HXGDTGSAIMULJN-UHFFFAOYSA-N",
+                    "adsorption": 13642700000000,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 13642700000000
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 308
+}

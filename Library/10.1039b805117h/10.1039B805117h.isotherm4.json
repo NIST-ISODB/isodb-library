@@ -1,0 +1,104 @@
+{
+    "DOI": "10.1039/B805117h",
+    "adsorbates": [
+        {
+            "InChIKey": "CYTYCFOTNPOANT-UHFFFAOYSA-N",
+            "name": "Tetrachloroethene"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-5d0728ebc1e0053aa120288307a704c8",
+        "name": "Silicalite MFI"
+    },
+    "adsorptionUnits": "molecules/unitcell",
+    "articleSource": "UNKNOWN",
+    "category": "",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "1000-01-01",
+    "digitizer": "UNKNOWN",
+    "filename": "10.1039B805117h.isotherm4",
+    "isotherm_data": [
+        {
+            "pressure": 1.1e-06,
+            "species_data": [
+                {
+                    "InChIKey": "CYTYCFOTNPOANT-UHFFFAOYSA-N",
+                    "adsorption": 0.0529291,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.0529291
+        },
+        {
+            "pressure": 1.01e-05,
+            "species_data": [
+                {
+                    "InChIKey": "CYTYCFOTNPOANT-UHFFFAOYSA-N",
+                    "adsorption": 0.167341,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.167341
+        },
+        {
+            "pressure": 0.000102,
+            "species_data": [
+                {
+                    "InChIKey": "CYTYCFOTNPOANT-UHFFFAOYSA-N",
+                    "adsorption": 1.65469,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.65469
+        },
+        {
+            "pressure": 0.000398,
+            "species_data": [
+                {
+                    "InChIKey": "CYTYCFOTNPOANT-UHFFFAOYSA-N",
+                    "adsorption": 3.29077,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 3.29077
+        },
+        {
+            "pressure": 0.000969,
+            "species_data": [
+                {
+                    "InChIKey": "CYTYCFOTNPOANT-UHFFFAOYSA-N",
+                    "adsorption": 3.81707,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 3.81707
+        },
+        {
+            "pressure": 0.0100363,
+            "species_data": [
+                {
+                    "InChIKey": "CYTYCFOTNPOANT-UHFFFAOYSA-N",
+                    "adsorption": 5.15568,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 5.15568
+        },
+        {
+            "pressure": 0.100617,
+            "species_data": [
+                {
+                    "InChIKey": "CYTYCFOTNPOANT-UHFFFAOYSA-N",
+                    "adsorption": 6.48285,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 6.48285
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 300
+}

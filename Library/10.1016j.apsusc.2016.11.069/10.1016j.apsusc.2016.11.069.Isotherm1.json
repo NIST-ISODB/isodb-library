@@ -1,0 +1,93 @@
+{
+    "DOI": "10.1016/j.apsusc.2016.11.069",
+    "adsorbates": [
+        {
+            "InChIKey": "RVPVRDXYQKGNMQ-UHFFFAOYSA-N",
+            "name": "Lead(II) Ion"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-cea708255f79d0620ede00681a19a740",
+        "name": "marine diatom biosilica"
+    },
+    "adsorptionUnits": "mg/g",
+    "articleSource": "Figure 5a",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-07-09",
+    "digitizer": "Justin Chen",
+    "filename": "10.1016j.apsusc.2016.11.069.Isotherm1",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "RVPVRDXYQKGNMQ-UHFFFAOYSA-N",
+                    "adsorption": 9.87,
+                    "composition": 11.98
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "RVPVRDXYQKGNMQ-UHFFFAOYSA-N",
+                    "adsorption": 41.466,
+                    "composition": 49.67
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "RVPVRDXYQKGNMQ-UHFFFAOYSA-N",
+                    "adsorption": 60.67,
+                    "composition": 79.84
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "RVPVRDXYQKGNMQ-UHFFFAOYSA-N",
+                    "adsorption": 101.513,
+                    "composition": 221.56
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "RVPVRDXYQKGNMQ-UHFFFAOYSA-N",
+                    "adsorption": 108.274,
+                    "composition": 391.61
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "RVPVRDXYQKGNMQ-UHFFFAOYSA-N",
+                    "adsorption": 104.821,
+                    "composition": 643.15
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}

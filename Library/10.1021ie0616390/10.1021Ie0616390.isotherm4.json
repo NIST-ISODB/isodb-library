@@ -1,0 +1,71 @@
+{
+    "DOI": "10.1021/Ie0616390",
+    "adsorbates": [
+        {
+            "InChIKey": "CYTYCFOTNPOANT-UHFFFAOYSA-N",
+            "name": "Tetrachloroethene"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-0bc51186bfbb5e3952c33bbc5aed17c1",
+        "name": "Zeolite CsX"
+    },
+    "adsorptionUnits": "molecules/supercage",
+    "articleSource": "UNKNOWN",
+    "category": "",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "1000-01-01",
+    "digitizer": "UNKNOWN",
+    "filename": "10.1021Ie0616390.isotherm4",
+    "isotherm_data": [
+        {
+            "pressure": 0.00377819,
+            "species_data": [
+                {
+                    "InChIKey": "CYTYCFOTNPOANT-UHFFFAOYSA-N",
+                    "adsorption": 1.07905,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.07905
+        },
+        {
+            "pressure": 0.115329,
+            "species_data": [
+                {
+                    "InChIKey": "CYTYCFOTNPOANT-UHFFFAOYSA-N",
+                    "adsorption": 1.3708,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.3708
+        },
+        {
+            "pressure": 0.270357,
+            "species_data": [
+                {
+                    "InChIKey": "CYTYCFOTNPOANT-UHFFFAOYSA-N",
+                    "adsorption": 1.46805,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.46805
+        },
+        {
+            "pressure": 0.365318,
+            "species_data": [
+                {
+                    "InChIKey": "CYTYCFOTNPOANT-UHFFFAOYSA-N",
+                    "adsorption": 1.50809,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.50809
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}

@@ -1,0 +1,86 @@
+{
+    "DOI": "10.1166/jnn.2017.14510",
+    "adsorbates": [
+        {
+            "InChIKey": "JPVYNHNXODAKFH-UHFFFAOYSA-N",
+            "name": "Copper(II) Ion"
+        },
+        {
+            "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+            "name": "Water"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-b7d9223b9f52c26cbeabc52418e13a61",
+        "name": "Cu-IIAFMS"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "Figure 5",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-07-18",
+    "digitizer": "Gabrielle Magid",
+    "filename": "10.1166jnn.2017.14510.Isotherm2",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "JPVYNHNXODAKFH-UHFFFAOYSA-N",
+                    "adsorption": 0.0026,
+                    "composition": 0.00124
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "JPVYNHNXODAKFH-UHFFFAOYSA-N",
+                    "adsorption": 0.30179,
+                    "composition": 0.04733
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "JPVYNHNXODAKFH-UHFFFAOYSA-N",
+                    "adsorption": 0.45411,
+                    "composition": 0.17496
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "JPVYNHNXODAKFH-UHFFFAOYSA-N",
+                    "adsorption": 0.57553,
+                    "composition": 0.51256
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "JPVYNHNXODAKFH-UHFFFAOYSA-N",
+                    "adsorption": 0.60069,
+                    "composition": 0.70057
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}

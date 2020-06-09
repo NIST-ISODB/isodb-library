@@ -1,0 +1,71 @@
+{
+    "DOI": "10.1021/Jp074889i",
+    "adsorbates": [
+        {
+            "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+            "name": "Methane"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-2c9380bddc59f547484ff729eab7d7cb",
+        "name": "IRMOF-1"
+    },
+    "adsorptionUnits": "wt%",
+    "articleSource": "UNKNOWN",
+    "category": "",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "1000-01-01",
+    "digitizer": "UNKNOWN",
+    "filename": "10.1021Jp074889i.Isotherm40",
+    "isotherm_data": [
+        {
+            "pressure": 0.262172,
+            "species_data": [
+                {
+                    "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+                    "adsorption": 0.262172,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.262172
+        },
+        {
+            "pressure": 0.524345,
+            "species_data": [
+                {
+                    "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+                    "adsorption": 49.76,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 49.76
+        },
+        {
+            "pressure": 1.31086,
+            "species_data": [
+                {
+                    "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+                    "adsorption": 50.56,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 50.56
+        },
+        {
+            "pressure": 1.57303,
+            "species_data": [
+                {
+                    "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+                    "adsorption": 51.52,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 51.52
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 125
+}

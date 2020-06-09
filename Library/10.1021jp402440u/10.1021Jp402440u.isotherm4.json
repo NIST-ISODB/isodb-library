@@ -1,0 +1,93 @@
+{
+    "DOI": "10.1021/Jp402440u",
+    "adsorbates": [
+        {
+            "InChIKey": "RWSOTUBLDIXVET-UHFFFAOYSA-N",
+            "name": "Hydrogen sulfide"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-5b3ad76c63b1ce87a685648f69a4de28",
+        "name": "CPO-27-Ni"
+    },
+    "adsorptionUnits": "mol/mol",
+    "articleSource": "UNKNOWN",
+    "category": "",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "1000-01-01",
+    "digitizer": "UNKNOWN",
+    "filename": "10.1021Jp402440u.isotherm4",
+    "isotherm_data": [
+        {
+            "pressure": 0.000186,
+            "species_data": [
+                {
+                    "InChIKey": "RWSOTUBLDIXVET-UHFFFAOYSA-N",
+                    "adsorption": 0.0480903,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.0480903
+        },
+        {
+            "pressure": 0.000258,
+            "species_data": [
+                {
+                    "InChIKey": "RWSOTUBLDIXVET-UHFFFAOYSA-N",
+                    "adsorption": 0.14963,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.14963
+        },
+        {
+            "pressure": 0.000472,
+            "species_data": [
+                {
+                    "InChIKey": "RWSOTUBLDIXVET-UHFFFAOYSA-N",
+                    "adsorption": 0.285494,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.285494
+        },
+        {
+            "pressure": 0.000544,
+            "species_data": [
+                {
+                    "InChIKey": "RWSOTUBLDIXVET-UHFFFAOYSA-N",
+                    "adsorption": 0.484284,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.484284
+        },
+        {
+            "pressure": 0.0111983,
+            "species_data": [
+                {
+                    "InChIKey": "RWSOTUBLDIXVET-UHFFFAOYSA-N",
+                    "adsorption": 0.618717,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.618717
+        },
+        {
+            "pressure": 0.0291466,
+            "species_data": [
+                {
+                    "InChIKey": "RWSOTUBLDIXVET-UHFFFAOYSA-N",
+                    "adsorption": 0.684504,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.684504
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 473
+}

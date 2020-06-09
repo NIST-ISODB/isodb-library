@@ -1,0 +1,131 @@
+{
+    "DOI": "10.1016/j.molliq.2017.09.117",
+    "adsorbates": [
+        {
+            "InChIKey": "PTFCDOFLOPIGGS-UHFFFAOYSA-N",
+            "name": "Zn(II)"
+        },
+        {
+            "InChIKey": "WLZRMCYVCSSEQC-UHFFFAOYSA-N",
+            "name": "Cadmium(II) Ion"
+        },
+        {
+            "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+            "name": "Water"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-48771ab9f4aed341913f3c1ac74bc5ce",
+        "name": "Pseudoalteromonas sp. SCSE709-6"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "Figure 4",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-07-17",
+    "digitizer": "Gabrielle Magid",
+    "filename": "10.1016j.molliq.2017.09.117.Isotherm4",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "PTFCDOFLOPIGGS-UHFFFAOYSA-N",
+                    "adsorption": 0.0503,
+                    "composition": 0.074
+                },
+                {
+                    "InChIKey": "WLZRMCYVCSSEQC-UHFFFAOYSA-N",
+                    "adsorption": 0.17417,
+                    "composition": 0.4975
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "PTFCDOFLOPIGGS-UHFFFAOYSA-N",
+                    "adsorption": 0.07921,
+                    "composition": 0.1656
+                },
+                {
+                    "InChIKey": "WLZRMCYVCSSEQC-UHFFFAOYSA-N",
+                    "adsorption": 0.2644,
+                    "composition": 1.0055
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "PTFCDOFLOPIGGS-UHFFFAOYSA-N",
+                    "adsorption": 0.13601,
+                    "composition": 0.4958
+                },
+                {
+                    "InChIKey": "WLZRMCYVCSSEQC-UHFFFAOYSA-N",
+                    "adsorption": 0.37882,
+                    "composition": 1.9927
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "PTFCDOFLOPIGGS-UHFFFAOYSA-N",
+                    "adsorption": 0.20623,
+                    "composition": 0.9566
+                },
+                {
+                    "InChIKey": "WLZRMCYVCSSEQC-UHFFFAOYSA-N",
+                    "adsorption": 0.66877,
+                    "composition": 5.0274
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "PTFCDOFLOPIGGS-UHFFFAOYSA-N",
+                    "adsorption": 0.28747,
+                    "composition": 1.9665
+                },
+                {
+                    "InChIKey": "WLZRMCYVCSSEQC-UHFFFAOYSA-N",
+                    "adsorption": 0.79823,
+                    "composition": 8.0027
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "PTFCDOFLOPIGGS-UHFFFAOYSA-N",
+                    "adsorption": 0.55702,
+                    "composition": 4.9928
+                },
+                {
+                    "InChIKey": "WLZRMCYVCSSEQC-UHFFFAOYSA-N",
+                    "adsorption": 0.80593,
+                    "composition": 10.0309
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}

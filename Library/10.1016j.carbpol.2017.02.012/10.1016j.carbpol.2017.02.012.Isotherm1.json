@@ -1,0 +1,104 @@
+{
+    "DOI": "10.1016/j.carbpol.2017.02.012",
+    "adsorbates": [
+        {
+            "InChIKey": "NIST-ISODB-0831C421D22BF0496949",
+            "name": "Pluronic F127"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-3c2a25352a3407450cf1e16fb2cf487f",
+        "name": "Silica"
+    },
+    "adsorptionUnits": "mg/m2",
+    "articleSource": "Figure 6a",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-07-18",
+    "digitizer": "Justin Chen",
+    "filename": "10.1016j.carbpol.2017.02.012.Isotherm1",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "NIST-ISODB-0831C421D22BF0496949",
+                    "adsorption": 0.01927,
+                    "composition": 0.579
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "NIST-ISODB-0831C421D22BF0496949",
+                    "adsorption": 0.23706,
+                    "composition": 1.15
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "NIST-ISODB-0831C421D22BF0496949",
+                    "adsorption": 0.45647,
+                    "composition": 2.981
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "NIST-ISODB-0831C421D22BF0496949",
+                    "adsorption": 0.52376,
+                    "composition": 5.054
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "NIST-ISODB-0831C421D22BF0496949",
+                    "adsorption": 0.64062,
+                    "composition": 10.032
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "NIST-ISODB-0831C421D22BF0496949",
+                    "adsorption": 0.7091,
+                    "composition": 20.049
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "NIST-ISODB-0831C421D22BF0496949",
+                    "adsorption": 0.92179,
+                    "composition": 50.043
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 293
+}

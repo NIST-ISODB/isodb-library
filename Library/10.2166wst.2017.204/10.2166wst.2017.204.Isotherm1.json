@@ -1,0 +1,104 @@
+{
+    "DOI": "10.2166/wst.2017.204",
+    "adsorbates": [
+        {
+            "InChIKey": "LULLIKNODDLMDQ-UHFFFAOYSA-N",
+            "name": "As(III)"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-aca80eb7dc0db80dc7d0ec04ad368749",
+        "name": "Fe-FeS2 Mixture"
+    },
+    "adsorptionUnits": "mg/g",
+    "articleSource": "Figure 10a",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-07-17",
+    "digitizer": "Justin Chen",
+    "filename": "10.2166wst.2017.204.Isotherm1",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "LULLIKNODDLMDQ-UHFFFAOYSA-N",
+                    "adsorption": 24.029,
+                    "composition": 0.263
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "LULLIKNODDLMDQ-UHFFFAOYSA-N",
+                    "adsorption": 39.987,
+                    "composition": 5.054
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "LULLIKNODDLMDQ-UHFFFAOYSA-N",
+                    "adsorption": 63.243,
+                    "composition": 6.032
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "LULLIKNODDLMDQ-UHFFFAOYSA-N",
+                    "adsorption": 78.442,
+                    "composition": 12.947
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "LULLIKNODDLMDQ-UHFFFAOYSA-N",
+                    "adsorption": 94.368,
+                    "composition": 60.506
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "LULLIKNODDLMDQ-UHFFFAOYSA-N",
+                    "adsorption": 94.353,
+                    "composition": 80.445
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "LULLIKNODDLMDQ-UHFFFAOYSA-N",
+                    "adsorption": 96.771,
+                    "composition": 156.549
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}

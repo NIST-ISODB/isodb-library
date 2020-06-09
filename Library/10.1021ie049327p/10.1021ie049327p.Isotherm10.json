@@ -1,0 +1,104 @@
+{
+    "DOI": "10.1021/ie049327p",
+    "adsorbates": [
+        {
+            "InChIKey": "QQONPFPTGQHPMA-UHFFFAOYSA-N",
+            "name": "Propene"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-2c2787a74078c0560029862a836b99f3",
+        "name": "Carbon Molecular Sieve 4A"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "Table 3",
+    "category": "exp",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "2017-06-29",
+    "digitizer": "Julia Chotoo",
+    "filename": "10.1021ie049327p.Isotherm10",
+    "isotherm_data": [
+        {
+            "pressure": 2.443,
+            "species_data": [
+                {
+                    "InChIKey": "QQONPFPTGQHPMA-UHFFFAOYSA-N",
+                    "adsorption": 1.273,
+                    "composition": 0.75
+                }
+            ],
+            "total_adsorption": 1.273
+        },
+        {
+            "pressure": 2.4927,
+            "species_data": [
+                {
+                    "InChIKey": "QQONPFPTGQHPMA-UHFFFAOYSA-N",
+                    "adsorption": 1.341,
+                    "composition": 0.922
+                }
+            ],
+            "total_adsorption": 1.341
+        },
+        {
+            "pressure": 2.4943,
+            "species_data": [
+                {
+                    "InChIKey": "QQONPFPTGQHPMA-UHFFFAOYSA-N",
+                    "adsorption": 1.288,
+                    "composition": 0.55
+                }
+            ],
+            "total_adsorption": 1.288
+        },
+        {
+            "pressure": 2.4966,
+            "species_data": [
+                {
+                    "InChIKey": "QQONPFPTGQHPMA-UHFFFAOYSA-N",
+                    "adsorption": 1.16,
+                    "composition": 0.1
+                }
+            ],
+            "total_adsorption": 1.16
+        },
+        {
+            "pressure": 2.4968,
+            "species_data": [
+                {
+                    "InChIKey": "QQONPFPTGQHPMA-UHFFFAOYSA-N",
+                    "adsorption": 1.127,
+                    "composition": 0.025
+                }
+            ],
+            "total_adsorption": 1.127
+        },
+        {
+            "pressure": 2.4986,
+            "species_data": [
+                {
+                    "InChIKey": "QQONPFPTGQHPMA-UHFFFAOYSA-N",
+                    "adsorption": 1.258,
+                    "composition": 0.362
+                }
+            ],
+            "total_adsorption": 1.258
+        },
+        {
+            "pressure": 2.5102,
+            "species_data": [
+                {
+                    "InChIKey": "QQONPFPTGQHPMA-UHFFFAOYSA-N",
+                    "adsorption": 1.195,
+                    "composition": 0.148
+                }
+            ],
+            "total_adsorption": 1.195
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 1,
+    "temperature": 373
+}

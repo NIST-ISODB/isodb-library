@@ -1,0 +1,71 @@
+{
+    "DOI": "10.1021/Jp050948l",
+    "adsorbates": [
+        {
+            "InChIKey": "XKRFYHLGVUSROY-UHFFFAOYSA-N",
+            "name": "Argon"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-11c9699c86fc022fc814545ff4c9bd6b",
+        "name": "C2H2MnO4"
+    },
+    "adsorptionUnits": "cm3(STP)/g",
+    "articleSource": "UNKNOWN",
+    "category": "",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "1000-01-01",
+    "digitizer": "UNKNOWN",
+    "filename": "10.1021Jp050948l.isotherm17",
+    "isotherm_data": [
+        {
+            "pressure": 0.0349068,
+            "species_data": [
+                {
+                    "InChIKey": "XKRFYHLGVUSROY-UHFFFAOYSA-N",
+                    "adsorption": 0.68666,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.68666
+        },
+        {
+            "pressure": 0.0812771,
+            "species_data": [
+                {
+                    "InChIKey": "XKRFYHLGVUSROY-UHFFFAOYSA-N",
+                    "adsorption": 0.68666,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.68666
+        },
+        {
+            "pressure": 0.124022,
+            "species_data": [
+                {
+                    "InChIKey": "XKRFYHLGVUSROY-UHFFFAOYSA-N",
+                    "adsorption": 0.86145,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.86145
+        },
+        {
+            "pressure": 0.213533,
+            "species_data": [
+                {
+                    "InChIKey": "XKRFYHLGVUSROY-UHFFFAOYSA-N",
+                    "adsorption": 1.38582,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.38582
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 78
+}

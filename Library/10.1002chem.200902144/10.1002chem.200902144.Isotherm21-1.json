@@ -1,0 +1,71 @@
+{
+    "DOI": "10.1002/chem.200902144",
+    "adsorbates": [
+        {
+            "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+            "name": "Carbon Dioxide"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-e09d347dd969d6bd83df1d148fc34ecc",
+        "name": "ZIF-69"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "UNKNOWN",
+    "category": "",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "1000-01-01",
+    "digitizer": "UNKNOWN",
+    "filename": "10.1002chem.200902144.Isotherm21-1",
+    "isotherm_data": [
+        {
+            "pressure": 0.552114,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 1.04253,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.04253
+        },
+        {
+            "pressure": 0.684562,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 1.20108,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.20108
+        },
+        {
+            "pressure": 0.796657,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 1.33972,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.33972
+        },
+        {
+            "pressure": 0.918879,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 1.47861,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.47861
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}

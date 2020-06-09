@@ -1,0 +1,131 @@
+{
+    "DOI": "10.1016/j.biortech.2017.01.066",
+    "adsorbates": [
+        {
+            "InChIKey": "JPVYNHNXODAKFH-UHFFFAOYSA-N",
+            "name": "Copper(II) Ion"
+        },
+        {
+            "InChIKey": "RVPVRDXYQKGNMQ-UHFFFAOYSA-N",
+            "name": "Lead(II) Ion"
+        },
+        {
+            "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+            "name": "Water"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-0de40d41246eeacc5623a3478ddca34a",
+        "name": "Alginate"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "Figure 1",
+    "category": "mod",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-07-26",
+    "digitizer": "Gabrielle Magid",
+    "filename": "10.1016j.biortech.2017.01.066.Isotherm3",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "JPVYNHNXODAKFH-UHFFFAOYSA-N",
+                    "adsorption": 0.2388,
+                    "composition": 0.00991
+                },
+                {
+                    "InChIKey": "RVPVRDXYQKGNMQ-UHFFFAOYSA-N",
+                    "adsorption": 1.0136,
+                    "composition": 0.01109
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "JPVYNHNXODAKFH-UHFFFAOYSA-N",
+                    "adsorption": 0.2841,
+                    "composition": 0.02563
+                },
+                {
+                    "InChIKey": "RVPVRDXYQKGNMQ-UHFFFAOYSA-N",
+                    "adsorption": 1.2417,
+                    "composition": 0.01268
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "JPVYNHNXODAKFH-UHFFFAOYSA-N",
+                    "adsorption": 0.2891,
+                    "composition": 0.04202
+                },
+                {
+                    "InChIKey": "RVPVRDXYQKGNMQ-UHFFFAOYSA-N",
+                    "adsorption": 1.4507,
+                    "composition": 0.02219
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "JPVYNHNXODAKFH-UHFFFAOYSA-N",
+                    "adsorption": 0.2488,
+                    "composition": 0.1089
+                },
+                {
+                    "InChIKey": "RVPVRDXYQKGNMQ-UHFFFAOYSA-N",
+                    "adsorption": 1.8561,
+                    "composition": 0.06023
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "JPVYNHNXODAKFH-UHFFFAOYSA-N",
+                    "adsorption": 0.201,
+                    "composition": 0.16002
+                },
+                {
+                    "InChIKey": "RVPVRDXYQKGNMQ-UHFFFAOYSA-N",
+                    "adsorption": 2.0334,
+                    "composition": 0.18861
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "JPVYNHNXODAKFH-UHFFFAOYSA-N",
+                    "adsorption": 0.1682,
+                    "composition": 0.24706
+                },
+                {
+                    "InChIKey": "RVPVRDXYQKGNMQ-UHFFFAOYSA-N",
+                    "adsorption": 2.207,
+                    "composition": 0.75126
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 293
+}

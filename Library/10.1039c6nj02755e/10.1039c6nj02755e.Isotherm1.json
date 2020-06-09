@@ -1,0 +1,104 @@
+{
+    "DOI": "10.1039/c6nj02755e",
+    "adsorbates": [
+        {
+            "InChIKey": "NIST-ISODB-18A52E199E53595FB412",
+            "name": "Hemoglobin H8020"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-5065bc796ee973f1f74f3efeb111ecf0",
+        "name": "Fe3O4@SiO2@AT"
+    },
+    "adsorptionUnits": "",
+    "articleSource": "Figure 6",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-07-16",
+    "digitizer": "Gabrielle Magid",
+    "filename": "10.1039c6nj02755e.Isotherm1",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "NIST-ISODB-18A52E199E53595FB412",
+                    "adsorption": 0.06039,
+                    "composition": 0.0592
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "NIST-ISODB-18A52E199E53595FB412",
+                    "adsorption": 0.26991,
+                    "composition": 0.4717
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "NIST-ISODB-18A52E199E53595FB412",
+                    "adsorption": 0.52861,
+                    "composition": 0.9643
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "NIST-ISODB-18A52E199E53595FB412",
+                    "adsorption": 1.28982,
+                    "composition": 2.9659
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "NIST-ISODB-18A52E199E53595FB412",
+                    "adsorption": 1.64173,
+                    "composition": 4.964
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "NIST-ISODB-18A52E199E53595FB412",
+                    "adsorption": 1.78434,
+                    "composition": 7.9903
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "NIST-ISODB-18A52E199E53595FB412",
+                    "adsorption": 1.91183,
+                    "composition": 9.9848
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}

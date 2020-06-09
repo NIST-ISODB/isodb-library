@@ -1,0 +1,60 @@
+{
+    "DOI": "10.1039/C2dt12102f",
+    "adsorbates": [
+        {
+            "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+            "name": "Methane"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-48f4023d446be2a618f2ac6acc88fee2",
+        "name": "MIL-100(Cr)"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "UNKNOWN",
+    "category": "",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "1000-01-01",
+    "digitizer": "UNKNOWN",
+    "filename": "10.1039C2dt12102f.Isotherm26",
+    "isotherm_data": [
+        {
+            "pressure": 1.00719,
+            "species_data": [
+                {
+                    "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+                    "adsorption": 0.218182,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.218182
+        },
+        {
+            "pressure": 5.03597,
+            "species_data": [
+                {
+                    "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+                    "adsorption": 0.4,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.4
+        },
+        {
+            "pressure": 10,
+            "species_data": [
+                {
+                    "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+                    "adsorption": 0.436364,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.436364
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 303
+}

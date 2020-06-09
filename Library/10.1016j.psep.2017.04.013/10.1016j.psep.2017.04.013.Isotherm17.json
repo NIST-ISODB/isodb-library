@@ -1,0 +1,112 @@
+{
+    "DOI": "10.1016/j.psep.2017.04.013",
+    "adsorbates": [
+        {
+            "InChIKey": "AAORDHMTTHGXCV-UHFFFAOYSA-N",
+            "name": "U(VI)"
+        },
+        {
+            "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+            "name": "Water"
+        },
+        {
+            "InChIKey": "YMURPAJPLBCAQW-UHFFFAOYSA-N",
+            "name": "Th(IV)"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-796cacda4ebbbfd1fc4392ad8ec908bd",
+        "name": "PVA/SA/PEO/HZSM5 nanofiber"
+    },
+    "adsorptionUnits": "mg/g",
+    "articleSource": "Figure 9",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-07-15",
+    "digitizer": "Noah C. Whelpley",
+    "filename": "10.1016j.psep.2017.04.013.Isotherm17",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "AAORDHMTTHGXCV-UHFFFAOYSA-N",
+                    "adsorption": 2.463,
+                    "composition": 6.98
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "AAORDHMTTHGXCV-UHFFFAOYSA-N",
+                    "adsorption": 11.788,
+                    "composition": 38.1
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "AAORDHMTTHGXCV-UHFFFAOYSA-N",
+                    "adsorption": 21.596,
+                    "composition": 77.31
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "AAORDHMTTHGXCV-UHFFFAOYSA-N",
+                    "adsorption": 37.694,
+                    "composition": 162.22
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "AAORDHMTTHGXCV-UHFFFAOYSA-N",
+                    "adsorption": 44.731,
+                    "composition": 254.99
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "AAORDHMTTHGXCV-UHFFFAOYSA-N",
+                    "adsorption": 51.681,
+                    "composition": 348.61
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "AAORDHMTTHGXCV-UHFFFAOYSA-N",
+                    "adsorption": 55.595,
+                    "composition": 444.68
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}

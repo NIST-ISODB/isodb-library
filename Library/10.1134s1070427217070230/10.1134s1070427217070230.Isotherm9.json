@@ -1,0 +1,115 @@
+{
+    "DOI": "10.1134/s1070427217070230",
+    "adsorbates": [
+        {
+            "InChIKey": "JPVYNHNXODAKFH-UHFFFAOYSA-N",
+            "name": "Copper(II) Ion"
+        },
+        {
+            "InChIKey": "STZCRXQWRGQSJD-GEEYTBSJSA-M",
+            "name": "Methyl Orange"
+        },
+        {
+            "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+            "name": "Water"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-43b57b3d9f119524ee0697bf8eec8ebd",
+        "name": "Graphite/Zeolite composite"
+    },
+    "adsorptionUnits": "mg/g",
+    "articleSource": "Figure 5",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-07-10",
+    "digitizer": "Daniel Coile",
+    "filename": "10.1134s1070427217070230.Isotherm9",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "JPVYNHNXODAKFH-UHFFFAOYSA-N",
+                    "adsorption": 17.907,
+                    "composition": 2.983
+                },
+                {
+                    "InChIKey": "STZCRXQWRGQSJD-GEEYTBSJSA-M",
+                    "adsorption": 1.49752,
+                    "composition": 0.2297
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "JPVYNHNXODAKFH-UHFFFAOYSA-N",
+                    "adsorption": 29.855,
+                    "composition": 5.004
+                },
+                {
+                    "InChIKey": "STZCRXQWRGQSJD-GEEYTBSJSA-M",
+                    "adsorption": 2.63974,
+                    "composition": 0.5061
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "JPVYNHNXODAKFH-UHFFFAOYSA-N",
+                    "adsorption": 34.848,
+                    "composition": 5.983
+                },
+                {
+                    "InChIKey": "STZCRXQWRGQSJD-GEEYTBSJSA-M",
+                    "adsorption": 3.24664,
+                    "composition": 1.0129
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "JPVYNHNXODAKFH-UHFFFAOYSA-N",
+                    "adsorption": 42.505,
+                    "composition": 14.966
+                },
+                {
+                    "InChIKey": "STZCRXQWRGQSJD-GEEYTBSJSA-M",
+                    "adsorption": 3.28045,
+                    "composition": 2.5125
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "JPVYNHNXODAKFH-UHFFFAOYSA-N",
+                    "adsorption": 41.949,
+                    "composition": 34.082
+                },
+                {
+                    "InChIKey": "STZCRXQWRGQSJD-GEEYTBSJSA-M",
+                    "adsorption": 3.34841,
+                    "composition": 4.8046
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 313
+}

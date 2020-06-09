@@ -1,0 +1,97 @@
+{
+    "DOI": "10.1016/j.seppur.2016.11.034",
+    "adsorbates": [
+        {
+            "InChIKey": "BHPQYMZQTOCNFJ-UHFFFAOYSA-N",
+            "name": "Ca(II)"
+        },
+        {
+            "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+            "name": "Water"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-559a9f38f4a090dcd176a4a871ab92e6",
+        "name": "Purolite C150 Macroporous Resin"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "Figure 3",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-08-02",
+    "digitizer": "Noah C. Whelpley",
+    "filename": "10.1016j.seppur.2016.11.034.Isotherm8",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "BHPQYMZQTOCNFJ-UHFFFAOYSA-N",
+                    "adsorption": 0.6068,
+                    "composition": 0.0018
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "BHPQYMZQTOCNFJ-UHFFFAOYSA-N",
+                    "adsorption": 1.207,
+                    "composition": 0.021
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "BHPQYMZQTOCNFJ-UHFFFAOYSA-N",
+                    "adsorption": 1.6165,
+                    "composition": 0.2918
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "BHPQYMZQTOCNFJ-UHFFFAOYSA-N",
+                    "adsorption": 1.7837,
+                    "composition": 1.2573
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "BHPQYMZQTOCNFJ-UHFFFAOYSA-N",
+                    "adsorption": 1.8024,
+                    "composition": 1.8715
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "BHPQYMZQTOCNFJ-UHFFFAOYSA-N",
+                    "adsorption": 1.5079,
+                    "composition": 2.3911
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 296
+}

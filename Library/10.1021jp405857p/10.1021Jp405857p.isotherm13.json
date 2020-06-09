@@ -1,0 +1,71 @@
+{
+    "DOI": "10.1021/Jp405857p",
+    "adsorbates": [
+        {
+            "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+            "name": "Carbon Dioxide"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-1adff27031a1584b21b25713c194a249",
+        "name": "IRMOF-1-EHI"
+    },
+    "adsorptionUnits": "cm3(STP)/cm3",
+    "articleSource": "UNKNOWN",
+    "category": "",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "1000-01-01",
+    "digitizer": "UNKNOWN",
+    "filename": "10.1021Jp405857p.isotherm13",
+    "isotherm_data": [
+        {
+            "pressure": 0.212688,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 9.25137,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 9.25137
+        },
+        {
+            "pressure": 0.495235,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 18.1657,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 18.1657
+        },
+        {
+            "pressure": 0.777783,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 26.9051,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 26.9051
+        },
+        {
+            "pressure": 1.05802,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 35.4699,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 35.4699
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}

@@ -1,0 +1,71 @@
+{
+    "DOI": "10.1007/s10450-013-9558-8",
+    "adsorbates": [
+        {
+            "InChIKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+            "name": "Hydrogen"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-9a40e70fe6ac5a232e2e7058619732bf",
+        "name": "GX31 superactivated carbon (Method V)"
+    },
+    "adsorptionUnits": "wt%",
+    "articleSource": "UNKNOWN",
+    "category": "",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "1000-01-01",
+    "digitizer": "UNKNOWN",
+    "filename": "10.1007s10450-013-9558-8.Isotherm1",
+    "isotherm_data": [
+        {
+            "pressure": 18.427,
+            "species_data": [
+                {
+                    "InChIKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+                    "adsorption": 0.154174,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.154174
+        },
+        {
+            "pressure": 35.2809,
+            "species_data": [
+                {
+                    "InChIKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+                    "adsorption": 0.295856,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.295856
+        },
+        {
+            "pressure": 51.0112,
+            "species_data": [
+                {
+                    "InChIKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+                    "adsorption": 0.412341,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.412341
+        },
+        {
+            "pressure": 69.2135,
+            "species_data": [
+                {
+                    "InChIKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+                    "adsorption": 0.549661,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.549661
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}

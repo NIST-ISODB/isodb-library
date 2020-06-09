@@ -1,0 +1,97 @@
+{
+    "DOI": "10.1016/j.catena.2016.06.029",
+    "adsorbates": [
+        {
+            "InChIKey": "UHOVQNZJYSORNB-UHFFFAOYSA-N",
+            "name": "Benzene"
+        },
+        {
+            "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+            "name": "Water"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-ff667ac41c373278b864da1589325ff9",
+        "name": "alginate beads"
+    },
+    "adsorptionUnits": "mg/g",
+    "articleSource": "Figure 2",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-07-10",
+    "digitizer": "Noah C. Whelpley",
+    "filename": "10.1016j.catena.2016.06.029.Isotherm1",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "UHOVQNZJYSORNB-UHFFFAOYSA-N",
+                    "adsorption": 0.97,
+                    "composition": 1.05
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "UHOVQNZJYSORNB-UHFFFAOYSA-N",
+                    "adsorption": 4.22,
+                    "composition": 45.29
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "UHOVQNZJYSORNB-UHFFFAOYSA-N",
+                    "adsorption": 13.75,
+                    "composition": 100.15
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "UHOVQNZJYSORNB-UHFFFAOYSA-N",
+                    "adsorption": 14.61,
+                    "composition": 194.62
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "UHOVQNZJYSORNB-UHFFFAOYSA-N",
+                    "adsorption": 10.5,
+                    "composition": 401.49
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "UHOVQNZJYSORNB-UHFFFAOYSA-N",
+                    "adsorption": 12.99,
+                    "composition": 505.98
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 296
+}

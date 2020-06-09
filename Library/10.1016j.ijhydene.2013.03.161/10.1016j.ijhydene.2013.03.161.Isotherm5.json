@@ -1,0 +1,71 @@
+{
+    "DOI": "10.1016/j.ijhydene.2013.03.161",
+    "adsorbates": [
+        {
+            "InChIKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+            "name": "Hydrogen"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-f55cae58cff61d336d8b65bece21175f",
+        "name": "MIL-101"
+    },
+    "adsorptionUnits": "wt%",
+    "articleSource": "UNKNOWN",
+    "category": "",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "1000-01-01",
+    "digitizer": "UNKNOWN",
+    "filename": "10.1016j.ijhydene.2013.03.161.Isotherm5",
+    "isotherm_data": [
+        {
+            "pressure": 0.957565,
+            "species_data": [
+                {
+                    "InChIKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+                    "adsorption": 1.27972,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.27972
+        },
+        {
+            "pressure": 17.8806,
+            "species_data": [
+                {
+                    "InChIKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+                    "adsorption": 4.04895,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 4.04895
+        },
+        {
+            "pressure": 50.8598,
+            "species_data": [
+                {
+                    "InChIKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+                    "adsorption": 4.6993,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 4.6993
+        },
+        {
+            "pressure": 91.9906,
+            "species_data": [
+                {
+                    "InChIKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+                    "adsorption": 4.55245,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 4.55245
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 77
+}

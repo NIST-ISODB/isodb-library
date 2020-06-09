@@ -1,0 +1,93 @@
+{
+    "DOI": "10.1061/(asce)0733-9372(2004)130:3(231)",
+    "adsorbates": [
+        {
+            "InChIKey": "CSCPPACGZOOCGX-UHFFFAOYSA-N",
+            "name": "Acetone"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-53256c6245916687da75e9161379dc5f",
+        "name": "Activated Carbon Fiber Cloth"
+    },
+    "adsorptionUnits": "mg/g",
+    "articleSource": "Figure 3a",
+    "category": "exp",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "2016-07-06",
+    "digitizer": "Kailey M. Stracka",
+    "filename": "10.1061asce0733937220041303231.Isotherm2",
+    "isotherm_data": [
+        {
+            "pressure": 0.0003,
+            "species_data": [
+                {
+                    "InChIKey": "CSCPPACGZOOCGX-UHFFFAOYSA-N",
+                    "adsorption": 53.26,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 53.26
+        },
+        {
+            "pressure": 0.003083,
+            "species_data": [
+                {
+                    "InChIKey": "CSCPPACGZOOCGX-UHFFFAOYSA-N",
+                    "adsorption": 205.426,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 205.426
+        },
+        {
+            "pressure": 0.010822,
+            "species_data": [
+                {
+                    "InChIKey": "CSCPPACGZOOCGX-UHFFFAOYSA-N",
+                    "adsorption": 296.708,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 296.708
+        },
+        {
+            "pressure": 0.05547,
+            "species_data": [
+                {
+                    "InChIKey": "CSCPPACGZOOCGX-UHFFFAOYSA-N",
+                    "adsorption": 516.144,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 516.144
+        },
+        {
+            "pressure": 0.12735,
+            "species_data": [
+                {
+                    "InChIKey": "CSCPPACGZOOCGX-UHFFFAOYSA-N",
+                    "adsorption": 550.718,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 550.718
+        },
+        {
+            "pressure": 0.196266,
+            "species_data": [
+                {
+                    "InChIKey": "CSCPPACGZOOCGX-UHFFFAOYSA-N",
+                    "adsorption": 562.475,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 562.475
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 303
+}

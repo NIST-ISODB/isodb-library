@@ -1,0 +1,93 @@
+{
+    "DOI": "10.1002/Aic.14467",
+    "adsorbates": [
+        {
+            "InChIKey": "NIST-ISODB-D45B7605C76C77F207BA",
+            "name": "Nitrous Oxides"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-991daf7313251e7e607e2bab2da57e33",
+        "name": "CuBTC"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "UNKNOWN",
+    "category": "",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "1000-01-01",
+    "digitizer": "UNKNOWN",
+    "filename": "10.1002Aic.14467.Isotherm92",
+    "isotherm_data": [
+        {
+            "pressure": 0.0493493,
+            "species_data": [
+                {
+                    "InChIKey": "NIST-ISODB-D45B7605C76C77F207BA",
+                    "adsorption": 8.62069e-05,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 8.62069e-05
+        },
+        {
+            "pressure": 0.102902,
+            "species_data": [
+                {
+                    "InChIKey": "NIST-ISODB-D45B7605C76C77F207BA",
+                    "adsorption": 0.000146552,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.000146552
+        },
+        {
+            "pressure": 0.251235,
+            "species_data": [
+                {
+                    "InChIKey": "NIST-ISODB-D45B7605C76C77F207BA",
+                    "adsorption": 0.000301724,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.000301724
+        },
+        {
+            "pressure": 0.498338,
+            "species_data": [
+                {
+                    "InChIKey": "NIST-ISODB-D45B7605C76C77F207BA",
+                    "adsorption": 0.000603448,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.000603448
+        },
+        {
+            "pressure": 0.749834,
+            "species_data": [
+                {
+                    "InChIKey": "NIST-ISODB-D45B7605C76C77F207BA",
+                    "adsorption": 0.000810345,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.000810345
+        },
+        {
+            "pressure": 1.00945,
+            "species_data": [
+                {
+                    "InChIKey": "NIST-ISODB-D45B7605C76C77F207BA",
+                    "adsorption": 0.00106897,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.00106897
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 313
+}

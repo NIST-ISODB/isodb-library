@@ -1,0 +1,86 @@
+{
+    "DOI": "10.1016/j.cej.2016.12.037",
+    "adsorbates": [
+        {
+            "InChIKey": "IISBACLAFKSPIT-UHFFFAOYSA-N",
+            "name": "Bisphenol A"
+        },
+        {
+            "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+            "name": "Water"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-0f82126abee9480c0aed7d4eb34bf048",
+        "name": "MNF-SH"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "Figure 4",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-07-16",
+    "digitizer": "Gabrielle Magid",
+    "filename": "10.1016j.cej.2016.12.037.Isotherm1",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "IISBACLAFKSPIT-UHFFFAOYSA-N",
+                    "adsorption": 0.41915,
+                    "composition": 0.25212
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "IISBACLAFKSPIT-UHFFFAOYSA-N",
+                    "adsorption": 0.79901,
+                    "composition": 0.4834
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "IISBACLAFKSPIT-UHFFFAOYSA-N",
+                    "adsorption": 1.42167,
+                    "composition": 1.18435
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "IISBACLAFKSPIT-UHFFFAOYSA-N",
+                    "adsorption": 1.97549,
+                    "composition": 1.74752
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "IISBACLAFKSPIT-UHFFFAOYSA-N",
+                    "adsorption": 2.40176,
+                    "composition": 2.39809
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 303
+}

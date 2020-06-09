@@ -1,0 +1,93 @@
+{
+    "DOI": "10.1021/Jp303274m",
+    "adsorbates": [
+        {
+            "InChIKey": "FHNFHKCVQCLJFQ-UHFFFAOYSA-N",
+            "name": "Xenon"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-e7af3c345990fcd8b4bb199f45ae180c",
+        "name": "IRMOF-2-Cl"
+    },
+    "adsorptionUnits": "cm3(STP)/mol",
+    "articleSource": "UNKNOWN",
+    "category": "",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "1000-01-01",
+    "digitizer": "UNKNOWN",
+    "filename": "10.1021Jp303274m.Isotherm35",
+    "isotherm_data": [
+        {
+            "pressure": 0.06825,
+            "species_data": [
+                {
+                    "InChIKey": "FHNFHKCVQCLJFQ-UHFFFAOYSA-N",
+                    "adsorption": 2210.98,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 2210.98
+        },
+        {
+            "pressure": 0.112875,
+            "species_data": [
+                {
+                    "InChIKey": "FHNFHKCVQCLJFQ-UHFFFAOYSA-N",
+                    "adsorption": 3381.5,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 3381.5
+        },
+        {
+            "pressure": 0.20475,
+            "species_data": [
+                {
+                    "InChIKey": "FHNFHKCVQCLJFQ-UHFFFAOYSA-N",
+                    "adsorption": 6242.77,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 6242.77
+        },
+        {
+            "pressure": 0.548625,
+            "species_data": [
+                {
+                    "InChIKey": "FHNFHKCVQCLJFQ-UHFFFAOYSA-N",
+                    "adsorption": 15997.1,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 15997.1
+        },
+        {
+            "pressure": 0.735,
+            "species_data": [
+                {
+                    "InChIKey": "FHNFHKCVQCLJFQ-UHFFFAOYSA-N",
+                    "adsorption": 22890.2,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 22890.2
+        },
+        {
+            "pressure": 1.05263,
+            "species_data": [
+                {
+                    "InChIKey": "FHNFHKCVQCLJFQ-UHFFFAOYSA-N",
+                    "adsorption": 33034.7,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 33034.7
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 292
+}

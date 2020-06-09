@@ -1,0 +1,93 @@
+{
+    "DOI": "10.1002/aic.690480710",
+    "adsorbates": [
+        {
+            "InChIKey": "XDTMQSROBMDMFD-UHFFFAOYSA-N",
+            "name": "Cyclohexane"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-48d6784c6df6cfc477fa6e40acfb4146",
+        "name": "H-USY"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "UNKNOWN",
+    "category": "",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "1000-01-01",
+    "digitizer": "UNKNOWN",
+    "filename": "10.1002aic.690480710.Isotherm7",
+    "isotherm_data": [
+        {
+            "pressure": 0.0320945,
+            "species_data": [
+                {
+                    "InChIKey": "XDTMQSROBMDMFD-UHFFFAOYSA-N",
+                    "adsorption": 0.0196629,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.0196629
+        },
+        {
+            "pressure": 0.0415205,
+            "species_data": [
+                {
+                    "InChIKey": "XDTMQSROBMDMFD-UHFFFAOYSA-N",
+                    "adsorption": 0.0432584,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.0432584
+        },
+        {
+            "pressure": 0.0512433,
+            "species_data": [
+                {
+                    "InChIKey": "XDTMQSROBMDMFD-UHFFFAOYSA-N",
+                    "adsorption": 0.0786517,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.0786517
+        },
+        {
+            "pressure": 0.0650895,
+            "species_data": [
+                {
+                    "InChIKey": "XDTMQSROBMDMFD-UHFFFAOYSA-N",
+                    "adsorption": 0.12191,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.12191
+        },
+        {
+            "pressure": 0.0807105,
+            "species_data": [
+                {
+                    "InChIKey": "XDTMQSROBMDMFD-UHFFFAOYSA-N",
+                    "adsorption": 0.204494,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.204494
+        },
+        {
+            "pressure": 0.108704,
+            "species_data": [
+                {
+                    "InChIKey": "XDTMQSROBMDMFD-UHFFFAOYSA-N",
+                    "adsorption": 0.322472,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.322472
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 453
+}

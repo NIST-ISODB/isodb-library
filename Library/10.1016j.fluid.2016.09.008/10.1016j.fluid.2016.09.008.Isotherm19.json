@@ -1,0 +1,137 @@
+{
+    "DOI": "10.1016/j.fluid.2016.09.008",
+    "adsorbates": [
+        {
+            "InChIKey": "ATUOYWHBWRKTHZ-UHFFFAOYSA-N",
+            "name": "N-propane"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-b2cbe7a27aa1570f2ff2c04b82289f25",
+        "name": "Activated Carbon"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "Figure 4b- C3H8 experiment at 283 K",
+    "category": "exp",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "2018-07-17",
+    "digitizer": "Julie Yagodich",
+    "filename": "10.1016j.fluid.2016.09.008.Isotherm19",
+    "isotherm_data": [
+        {
+            "pressure": 0.01374,
+            "species_data": [
+                {
+                    "InChIKey": "ATUOYWHBWRKTHZ-UHFFFAOYSA-N",
+                    "adsorption": 2.29938,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 0.02953,
+            "species_data": [
+                {
+                    "InChIKey": "ATUOYWHBWRKTHZ-UHFFFAOYSA-N",
+                    "adsorption": 2.86847,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 0.05905,
+            "species_data": [
+                {
+                    "InChIKey": "ATUOYWHBWRKTHZ-UHFFFAOYSA-N",
+                    "adsorption": 3.35813,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 0.1294,
+            "species_data": [
+                {
+                    "InChIKey": "ATUOYWHBWRKTHZ-UHFFFAOYSA-N",
+                    "adsorption": 3.92769,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 0.31682,
+            "species_data": [
+                {
+                    "InChIKey": "ATUOYWHBWRKTHZ-UHFFFAOYSA-N",
+                    "adsorption": 4.57038,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 0.44311,
+            "species_data": [
+                {
+                    "InChIKey": "ATUOYWHBWRKTHZ-UHFFFAOYSA-N",
+                    "adsorption": 4.80093,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 0.61759,
+            "species_data": [
+                {
+                    "InChIKey": "ATUOYWHBWRKTHZ-UHFFFAOYSA-N",
+                    "adsorption": 5.06359,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 0.80976,
+            "species_data": [
+                {
+                    "InChIKey": "ATUOYWHBWRKTHZ-UHFFFAOYSA-N",
+                    "adsorption": 5.29114,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.04981,
+            "species_data": [
+                {
+                    "InChIKey": "ATUOYWHBWRKTHZ-UHFFFAOYSA-N",
+                    "adsorption": 5.53242,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.25468,
+            "species_data": [
+                {
+                    "InChIKey": "ATUOYWHBWRKTHZ-UHFFFAOYSA-N",
+                    "adsorption": 5.70544,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 283
+}

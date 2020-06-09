@@ -1,0 +1,131 @@
+{
+    "DOI": "10.1080/01932691.2016.1228070",
+    "adsorbates": [
+        {
+            "InChIKey": "CXKWCBBOMKCUKX-UHFFFAOYSA-M",
+            "name": "Methylene blue"
+        },
+        {
+            "InChIKey": "IQFVPQOLBLOTPF-HKXUKFGYSA-L",
+            "name": "Congo Red"
+        },
+        {
+            "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+            "name": "Water"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-ce5fa8e9b5a626039e39e955e6783e83",
+        "name": "Jujube Shell (Zizyphus Lotus) pretreated with sulfuric acid and sodium bicarbonate"
+    },
+    "adsorptionUnits": "mg/g",
+    "articleSource": "Figure 7",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-08-02",
+    "digitizer": "Noah C. Whelpley",
+    "filename": "10.108001932691.2016.1228070.Isotherm2",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "CXKWCBBOMKCUKX-UHFFFAOYSA-M",
+                    "adsorption": 0.456,
+                    "composition": 1.12
+                },
+                {
+                    "InChIKey": "IQFVPQOLBLOTPF-HKXUKFGYSA-L",
+                    "adsorption": 0.456,
+                    "composition": 1.12
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "CXKWCBBOMKCUKX-UHFFFAOYSA-M",
+                    "adsorption": 100.24,
+                    "composition": 99.78
+                },
+                {
+                    "InChIKey": "IQFVPQOLBLOTPF-HKXUKFGYSA-L",
+                    "adsorption": 68.321,
+                    "composition": 100.06
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "CXKWCBBOMKCUKX-UHFFFAOYSA-M",
+                    "adsorption": 182.62,
+                    "composition": 200.02
+                },
+                {
+                    "InChIKey": "IQFVPQOLBLOTPF-HKXUKFGYSA-L",
+                    "adsorption": 92.564,
+                    "composition": 200.21
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "CXKWCBBOMKCUKX-UHFFFAOYSA-M",
+                    "adsorption": 210.359,
+                    "composition": 299.89
+                },
+                {
+                    "InChIKey": "IQFVPQOLBLOTPF-HKXUKFGYSA-L",
+                    "adsorption": 95.452,
+                    "composition": 300.26
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "CXKWCBBOMKCUKX-UHFFFAOYSA-M",
+                    "adsorption": 217.008,
+                    "composition": 399.94
+                },
+                {
+                    "InChIKey": "IQFVPQOLBLOTPF-HKXUKFGYSA-L",
+                    "adsorption": 99.176,
+                    "composition": 400.04
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "CXKWCBBOMKCUKX-UHFFFAOYSA-M",
+                    "adsorption": 220.352,
+                    "composition": 499.63
+                },
+                {
+                    "InChIKey": "IQFVPQOLBLOTPF-HKXUKFGYSA-L",
+                    "adsorption": 104.077,
+                    "composition": 499.72
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 323
+}

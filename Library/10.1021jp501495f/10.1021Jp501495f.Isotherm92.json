@@ -1,0 +1,60 @@
+{
+    "DOI": "10.1021/Jp501495f",
+    "adsorbates": [
+        {
+            "InChIKey": "SYUHGPGVQRZVTB-UHFFFAOYSA-N",
+            "name": "Radon"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-991daf7313251e7e607e2bab2da57e33",
+        "name": "CuBTC"
+    },
+    "adsorptionUnits": "cm3(STP)/g",
+    "articleSource": "UNKNOWN",
+    "category": "",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "1000-01-01",
+    "digitizer": "UNKNOWN",
+    "filename": "10.1021Jp501495f.Isotherm92",
+    "isotherm_data": [
+        {
+            "pressure": 0.0828576,
+            "species_data": [
+                {
+                    "InChIKey": "SYUHGPGVQRZVTB-UHFFFAOYSA-N",
+                    "adsorption": 45.7308,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 45.7308
+        },
+        {
+            "pressure": 0.224089,
+            "species_data": [
+                {
+                    "InChIKey": "SYUHGPGVQRZVTB-UHFFFAOYSA-N",
+                    "adsorption": 122.754,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 122.754
+        },
+        {
+            "pressure": 0.491263,
+            "species_data": [
+                {
+                    "InChIKey": "SYUHGPGVQRZVTB-UHFFFAOYSA-N",
+                    "adsorption": 196.776,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 196.776
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 292
+}

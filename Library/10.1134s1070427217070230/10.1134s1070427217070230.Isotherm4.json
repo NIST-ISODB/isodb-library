@@ -1,0 +1,71 @@
+{
+    "DOI": "10.1134/s1070427217070230",
+    "adsorbates": [
+        {
+            "InChIKey": "STZCRXQWRGQSJD-GEEYTBSJSA-M",
+            "name": "Methyl Orange"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-43b57b3d9f119524ee0697bf8eec8ebd",
+        "name": "Graphite/Zeolite composite"
+    },
+    "adsorptionUnits": "mg/g",
+    "articleSource": "Figure 5",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-07-10",
+    "digitizer": "Daniel Coile",
+    "filename": "10.1134s1070427217070230.Isotherm4",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "STZCRXQWRGQSJD-GEEYTBSJSA-M",
+                    "adsorption": 1.74474,
+                    "composition": 0.211
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "STZCRXQWRGQSJD-GEEYTBSJSA-M",
+                    "adsorption": 2.59631,
+                    "composition": 2.1766
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "STZCRXQWRGQSJD-GEEYTBSJSA-M",
+                    "adsorption": 2.64703,
+                    "composition": 3.8137
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "STZCRXQWRGQSJD-GEEYTBSJSA-M",
+                    "adsorption": 2.69762,
+                    "composition": 4.7196
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 293
+}

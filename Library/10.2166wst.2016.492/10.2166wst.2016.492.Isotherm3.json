@@ -1,0 +1,82 @@
+{
+    "DOI": "10.2166/wst.2016.492",
+    "adsorbates": [
+        {
+            "InChIKey": "NBIIXXVUZAFLBC-UHFFFAOYSA-K",
+            "name": "Phosphate Ion"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-5387c9440566cb633cb3313b9112f03f",
+        "name": "NiCo91"
+    },
+    "adsorptionUnits": "mg/g",
+    "articleSource": "Figure 9",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-07-23",
+    "digitizer": "Justin Chen",
+    "filename": "10.2166wst.2016.492.Isotherm3",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "NBIIXXVUZAFLBC-UHFFFAOYSA-K",
+                    "adsorption": 7.939,
+                    "composition": 6.054
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "NBIIXXVUZAFLBC-UHFFFAOYSA-K",
+                    "adsorption": 9.889,
+                    "composition": 22.505
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "NBIIXXVUZAFLBC-UHFFFAOYSA-K",
+                    "adsorption": 10.078,
+                    "composition": 41.237
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "NBIIXXVUZAFLBC-UHFFFAOYSA-K",
+                    "adsorption": 12.445,
+                    "composition": 58.364
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "NBIIXXVUZAFLBC-UHFFFAOYSA-K",
+                    "adsorption": 13.8,
+                    "composition": 82.897
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 323
+}

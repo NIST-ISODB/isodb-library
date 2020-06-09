@@ -1,0 +1,97 @@
+{
+    "DOI": "10.1016/j.cej.2016.10.084",
+    "adsorbates": [
+        {
+            "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+            "name": "Water"
+        },
+        {
+            "InChIKey": "XMVJITFPVVRMHC-UHFFFAOYSA-N",
+            "name": "4-hydroxy-3-nitrophenylarsonic acid"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-292e8d3794892d702137e1fefefcacb3",
+        "name": "Fe/MN binary oxide (57:1)"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "Figure 2",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-07-29",
+    "digitizer": "Gabrielle Magid",
+    "filename": "10.1016j.cej.2016.10.084.Isotherm4",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "XMVJITFPVVRMHC-UHFFFAOYSA-N",
+                    "adsorption": 0.12172,
+                    "composition": 0.02436
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "XMVJITFPVVRMHC-UHFFFAOYSA-N",
+                    "adsorption": 0.15516,
+                    "composition": 0.06034
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "XMVJITFPVVRMHC-UHFFFAOYSA-N",
+                    "adsorption": 0.1807,
+                    "composition": 0.09298
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "XMVJITFPVVRMHC-UHFFFAOYSA-N",
+                    "adsorption": 0.21106,
+                    "composition": 0.1633
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "XMVJITFPVVRMHC-UHFFFAOYSA-N",
+                    "adsorption": 0.23045,
+                    "composition": 0.25375
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "XMVJITFPVVRMHC-UHFFFAOYSA-N",
+                    "adsorption": 0.24554,
+                    "composition": 0.38776
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}

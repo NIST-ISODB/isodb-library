@@ -1,0 +1,108 @@
+{
+    "DOI": "10.1016/j.susmat.2017.04.004",
+    "adsorbates": [
+        {
+            "InChIKey": "CYIDZMCFTVVTJO-UHFFFAOYSA-N",
+            "name": "1,2,4,5-Benzenetetracarboxylic acid"
+        },
+        {
+            "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+            "name": "Water"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-3b8899908b2affe9551f276077cdbdce",
+        "name": "PANi/ANS"
+    },
+    "adsorptionUnits": "mg/g",
+    "articleSource": "Figure 5",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-07-15",
+    "digitizer": "Daniel Coile",
+    "filename": "10.1016j.susmat.2017.04.004.Isotherm2",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "CYIDZMCFTVVTJO-UHFFFAOYSA-N",
+                    "adsorption": 180.941,
+                    "composition": 0.09952
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "CYIDZMCFTVVTJO-UHFFFAOYSA-N",
+                    "adsorption": 230.527,
+                    "composition": 0.24991
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "CYIDZMCFTVVTJO-UHFFFAOYSA-N",
+                    "adsorption": 262.674,
+                    "composition": 0.5027
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "CYIDZMCFTVVTJO-UHFFFAOYSA-N",
+                    "adsorption": 265.11,
+                    "composition": 0.75127
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "CYIDZMCFTVVTJO-UHFFFAOYSA-N",
+                    "adsorption": 265.671,
+                    "composition": 1.00096
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "CYIDZMCFTVVTJO-UHFFFAOYSA-N",
+                    "adsorption": 266.564,
+                    "composition": 1.49814
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "CYIDZMCFTVVTJO-UHFFFAOYSA-N",
+                    "adsorption": 267.222,
+                    "composition": 2.00081
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}

@@ -1,0 +1,71 @@
+{
+    "DOI": "10.1061/(asce)0733-9372(2004)130:3(231)",
+    "adsorbates": [
+        {
+            "InChIKey": "ZWEHNKRNPOVVGH-UHFFFAOYSA-N",
+            "name": "Methyl ethyl ketone"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-66da0953adc7f80111c7b71c5a83614c",
+        "name": "Coal-derived Activated Carbon"
+    },
+    "adsorptionUnits": "mg/g",
+    "articleSource": "Figure 5b",
+    "category": "exp",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "2016-07-14",
+    "digitizer": "Kailey M. Stracka",
+    "filename": "10.1061asce0733937220041303231.Isotherm45",
+    "isotherm_data": [
+        {
+            "pressure": 0.004183,
+            "species_data": [
+                {
+                    "InChIKey": "ZWEHNKRNPOVVGH-UHFFFAOYSA-N",
+                    "adsorption": 212.433,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 212.433
+        },
+        {
+            "pressure": 0.022163,
+            "species_data": [
+                {
+                    "InChIKey": "ZWEHNKRNPOVVGH-UHFFFAOYSA-N",
+                    "adsorption": 260.278,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 260.278
+        },
+        {
+            "pressure": 0.048595,
+            "species_data": [
+                {
+                    "InChIKey": "ZWEHNKRNPOVVGH-UHFFFAOYSA-N",
+                    "adsorption": 277.752,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 277.752
+        },
+        {
+            "pressure": 0.075613,
+            "species_data": [
+                {
+                    "InChIKey": "ZWEHNKRNPOVVGH-UHFFFAOYSA-N",
+                    "adsorption": 290.471,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 290.471
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 303
+}

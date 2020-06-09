@@ -1,0 +1,104 @@
+{
+    "DOI": "10.1016/j.jhydrol.2016.11.014",
+    "adsorbates": [
+        {
+            "InChIKey": "KCXVZYZYPLLWCC-UHFFFAOYSA-N",
+            "name": "Ethylenediaminetetraacetic Acid"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-fa18db21c899439875dea53e0a94e105",
+        "name": "Callovo-Oxfordian Clay Rock"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "Figure 1",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-08-02",
+    "digitizer": "Noah C. Whelpley",
+    "filename": "10.1016j.jhydrol.2016.11.014.Isotherm1",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "KCXVZYZYPLLWCC-UHFFFAOYSA-N",
+                    "adsorption": 0,
+                    "composition": 0
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "KCXVZYZYPLLWCC-UHFFFAOYSA-N",
+                    "adsorption": 0,
+                    "composition": 1e-06
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "KCXVZYZYPLLWCC-UHFFFAOYSA-N",
+                    "adsorption": 1e-06,
+                    "composition": 6e-06
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "KCXVZYZYPLLWCC-UHFFFAOYSA-N",
+                    "adsorption": 9e-06,
+                    "composition": 5.6e-05
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "KCXVZYZYPLLWCC-UHFFFAOYSA-N",
+                    "adsorption": 9.3e-05,
+                    "composition": 0.000564
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "KCXVZYZYPLLWCC-UHFFFAOYSA-N",
+                    "adsorption": 0.00047,
+                    "composition": 0.002854
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "KCXVZYZYPLLWCC-UHFFFAOYSA-N",
+                    "adsorption": 0.007542,
+                    "composition": 0.028145
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 294
+}

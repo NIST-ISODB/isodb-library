@@ -1,0 +1,97 @@
+{
+    "DOI": "10.1007/s10570-017-1489-1",
+    "adsorbates": [
+        {
+            "InChIKey": "JUJWROOIHBZHMG-UHFFFAOYSA-N",
+            "name": "Pyridine"
+        },
+        {
+            "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+            "name": "Water"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-9a5e49f6f51d61e3a825f2e1c8bb51ec",
+        "name": "Cellulose laurate ester aerogel"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "Figure 3",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-07-17",
+    "digitizer": "Gabrielle Magid",
+    "filename": "10.1007s1057001714891.Isotherm2",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "JUJWROOIHBZHMG-UHFFFAOYSA-N",
+                    "adsorption": 4.1685,
+                    "composition": 0.2572
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "JUJWROOIHBZHMG-UHFFFAOYSA-N",
+                    "adsorption": 6.0798,
+                    "composition": 0.81321
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "JUJWROOIHBZHMG-UHFFFAOYSA-N",
+                    "adsorption": 7.8441,
+                    "composition": 1.35659
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "JUJWROOIHBZHMG-UHFFFAOYSA-N",
+                    "adsorption": 9.5758,
+                    "composition": 1.90156
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "JUJWROOIHBZHMG-UHFFFAOYSA-N",
+                    "adsorption": 9.7572,
+                    "composition": 2.44823
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "JUJWROOIHBZHMG-UHFFFAOYSA-N",
+                    "adsorption": 9.7151,
+                    "composition": 2.99521
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}

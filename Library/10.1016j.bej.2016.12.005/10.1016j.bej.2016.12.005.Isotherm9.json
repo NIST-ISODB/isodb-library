@@ -1,0 +1,147 @@
+{
+    "DOI": "10.1016/j.bej.2016.12.005",
+    "adsorbates": [
+        {
+            "InChIKey": "NIST-ISODB-52CDAC8E72899271CC9F",
+            "name": "Bovine Serum Albumin"
+        },
+        {
+            "InChIKey": "NIST-ISODB-BECCAEDBC0A149897168",
+            "name": "Bovine Serum Immunoglobulin G"
+        },
+        {
+            "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+            "name": "Water"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-ad85169fae6fbdc157e8bee855a835c1",
+        "name": "MMI-B-4FF-100"
+    },
+    "adsorptionUnits": "mg/g",
+    "articleSource": "Figure 2",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-07-10",
+    "digitizer": "Daniel Coile",
+    "filename": "10.1016j.bej.2016.12.005.Isotherm9",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "NIST-ISODB-52CDAC8E72899271CC9F",
+                    "adsorption": 5.151,
+                    "composition": 0.8632
+                },
+                {
+                    "InChIKey": "NIST-ISODB-BECCAEDBC0A149897168",
+                    "adsorption": 7.91,
+                    "composition": 0.117
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "NIST-ISODB-52CDAC8E72899271CC9F",
+                    "adsorption": 7.337,
+                    "composition": 1.8917
+                },
+                {
+                    "InChIKey": "NIST-ISODB-BECCAEDBC0A149897168",
+                    "adsorption": 12.392,
+                    "composition": 0.3001
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "NIST-ISODB-52CDAC8E72899271CC9F",
+                    "adsorption": 10.295,
+                    "composition": 4.4485
+                },
+                {
+                    "InChIKey": "NIST-ISODB-BECCAEDBC0A149897168",
+                    "adsorption": 18.169,
+                    "composition": 0.749
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "NIST-ISODB-52CDAC8E72899271CC9F",
+                    "adsorption": 14.967,
+                    "composition": 7.1906
+                },
+                {
+                    "InChIKey": "NIST-ISODB-BECCAEDBC0A149897168",
+                    "adsorption": 23.138,
+                    "composition": 1.6794
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "NIST-ISODB-52CDAC8E72899271CC9F",
+                    "adsorption": 14.753,
+                    "composition": 11.1417
+                },
+                {
+                    "InChIKey": "NIST-ISODB-BECCAEDBC0A149897168",
+                    "adsorption": 27.242,
+                    "composition": 2.4935
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "NIST-ISODB-52CDAC8E72899271CC9F",
+                    "adsorption": 15.224,
+                    "composition": 17.6746
+                },
+                {
+                    "InChIKey": "NIST-ISODB-BECCAEDBC0A149897168",
+                    "adsorption": 32.804,
+                    "composition": 4.0882
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "NIST-ISODB-52CDAC8E72899271CC9F",
+                    "adsorption": 17.196,
+                    "composition": 23.6025
+                },
+                {
+                    "InChIKey": "NIST-ISODB-BECCAEDBC0A149897168",
+                    "adsorption": 36.154,
+                    "composition": 6.3137
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}

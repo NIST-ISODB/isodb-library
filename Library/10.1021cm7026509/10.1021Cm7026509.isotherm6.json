@@ -1,0 +1,60 @@
+{
+    "DOI": "10.1021/Cm7026509",
+    "adsorbates": [
+        {
+            "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+            "name": "Nitrogen"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-fb7a2319d77d42821c6451f2864121e3",
+        "name": "Faujasite-Metglas Strip"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "UNKNOWN",
+    "category": "",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "1000-01-01",
+    "digitizer": "UNKNOWN",
+    "filename": "10.1021Cm7026509.isotherm6",
+    "isotherm_data": [
+        {
+            "pressure": 0.264375,
+            "species_data": [
+                {
+                    "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+                    "adsorption": 0.0457886,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.0457886
+        },
+        {
+            "pressure": 0.529182,
+            "species_data": [
+                {
+                    "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+                    "adsorption": 0.091671,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.091671
+        },
+        {
+            "pressure": 1.05355,
+            "species_data": [
+                {
+                    "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+                    "adsorption": 0.178192,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.178192
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 326
+}

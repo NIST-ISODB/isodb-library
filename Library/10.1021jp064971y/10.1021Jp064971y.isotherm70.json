@@ -1,0 +1,60 @@
+{
+    "DOI": "10.1021/Jp064971y",
+    "adsorbates": [
+        {
+            "InChIKey": "TVMXDCGIABBOFY-UHFFFAOYSA-N",
+            "name": "N-Octane"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-035dc75dddd00241bd76627f78cbef2d",
+        "name": "Zeolite 5A"
+    },
+    "adsorptionUnits": "molecules/cavity",
+    "articleSource": "UNKNOWN",
+    "category": "",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "1000-01-01",
+    "digitizer": "UNKNOWN",
+    "filename": "10.1021Jp064971y.isotherm70",
+    "isotherm_data": [
+        {
+            "pressure": 0.00257364,
+            "species_data": [
+                {
+                    "InChIKey": "TVMXDCGIABBOFY-UHFFFAOYSA-N",
+                    "adsorption": 0.00903848,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.00903848
+        },
+        {
+            "pressure": 0.0105493,
+            "species_data": [
+                {
+                    "InChIKey": "TVMXDCGIABBOFY-UHFFFAOYSA-N",
+                    "adsorption": 0.0924188,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.0924188
+        },
+        {
+            "pressure": 0.018428,
+            "species_data": [
+                {
+                    "InChIKey": "TVMXDCGIABBOFY-UHFFFAOYSA-N",
+                    "adsorption": 0.153264,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.153264
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 668
+}

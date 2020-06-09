@@ -1,0 +1,93 @@
+{
+    "DOI": "10.1002/cjce.22362",
+    "adsorbates": [
+        {
+            "InChIKey": "JVSWJIKNEAIKJW-UHFFFAOYSA-N",
+            "name": "2-Methylheptane"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-035dc75dddd00241bd76627f78cbef2d",
+        "name": "Zeolite 5A"
+    },
+    "adsorptionUnits": "g/g",
+    "articleSource": "Figure 2",
+    "category": "exp",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "2018-08-03",
+    "digitizer": "Soojin Jang",
+    "filename": "10.1002cjce.22362.Isotherm2",
+    "isotherm_data": [
+        {
+            "pressure": 5e-05,
+            "species_data": [
+                {
+                    "InChIKey": "JVSWJIKNEAIKJW-UHFFFAOYSA-N",
+                    "adsorption": 0.00275,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 0.000201,
+            "species_data": [
+                {
+                    "InChIKey": "JVSWJIKNEAIKJW-UHFFFAOYSA-N",
+                    "adsorption": 0.014547,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 0.000599,
+            "species_data": [
+                {
+                    "InChIKey": "JVSWJIKNEAIKJW-UHFFFAOYSA-N",
+                    "adsorption": 0.024354,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 0.00116,
+            "species_data": [
+                {
+                    "InChIKey": "JVSWJIKNEAIKJW-UHFFFAOYSA-N",
+                    "adsorption": 0.033131,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 0.00226,
+            "species_data": [
+                {
+                    "InChIKey": "JVSWJIKNEAIKJW-UHFFFAOYSA-N",
+                    "adsorption": 0.040166,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 0.003198,
+            "species_data": [
+                {
+                    "InChIKey": "JVSWJIKNEAIKJW-UHFFFAOYSA-N",
+                    "adsorption": 0.045157,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 473
+}

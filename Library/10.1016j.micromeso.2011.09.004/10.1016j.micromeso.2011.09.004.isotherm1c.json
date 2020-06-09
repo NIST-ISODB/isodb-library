@@ -1,0 +1,71 @@
+{
+    "DOI": "10.1016/j.micromeso.2011.09.004",
+    "adsorbates": [
+        {
+            "InChIKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+            "name": "Hydrogen"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-f4b549a56c1a5caf008c436b7d0aaaea",
+        "name": "Mg2(dobdc)"
+    },
+    "adsorptionUnits": "mmol/kg",
+    "articleSource": "UNKNOWN",
+    "category": "",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "1000-01-01",
+    "digitizer": "UNKNOWN",
+    "filename": "10.1016j.micromeso.2011.09.004.isotherm1c",
+    "isotherm_data": [
+        {
+            "pressure": 9.58263,
+            "species_data": [
+                {
+                    "InChIKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+                    "adsorption": 0.662461,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.662461
+        },
+        {
+            "pressure": 19.2526,
+            "species_data": [
+                {
+                    "InChIKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+                    "adsorption": 1.08833,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.08833
+        },
+        {
+            "pressure": 28.7454,
+            "species_data": [
+                {
+                    "InChIKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+                    "adsorption": 1.56151,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.56151
+        },
+        {
+            "pressure": 38.2368,
+            "species_data": [
+                {
+                    "InChIKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+                    "adsorption": 1.79811,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.79811
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 313
+}

@@ -1,0 +1,145 @@
+{
+    "DOI": "10.1021/je400298r",
+    "adsorbates": [
+        {
+            "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+            "name": "Carbon Dioxide"
+        },
+        {
+            "InChIKey": "RWSOTUBLDIXVET-UHFFFAOYSA-N",
+            "name": "Hydrogen sulfide"
+        },
+        {
+            "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+            "name": "Methane"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-035dc75dddd00241bd76627f78cbef2d",
+        "name": "Zeolite 5A"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "Figure 6",
+    "category": "exp",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "2019-07-31",
+    "digitizer": "Justin Chen",
+    "filename": "10.1021je400298r.Isotherm19",
+    "isotherm_data": [
+        {
+            "pressure": 1.3,
+            "species_data": [
+                {
+                    "InChIKey": "RWSOTUBLDIXVET-UHFFFAOYSA-N",
+                    "adsorption": 0.359,
+                    "composition": 0.000162
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.3,
+            "species_data": [
+                {
+                    "InChIKey": "RWSOTUBLDIXVET-UHFFFAOYSA-N",
+                    "adsorption": 0.732,
+                    "composition": 0.000363
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.3,
+            "species_data": [
+                {
+                    "InChIKey": "RWSOTUBLDIXVET-UHFFFAOYSA-N",
+                    "adsorption": 0.996,
+                    "composition": 0.000598
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.3,
+            "species_data": [
+                {
+                    "InChIKey": "RWSOTUBLDIXVET-UHFFFAOYSA-N",
+                    "adsorption": 1.052,
+                    "composition": 0.000782
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.3,
+            "species_data": [
+                {
+                    "InChIKey": "RWSOTUBLDIXVET-UHFFFAOYSA-N",
+                    "adsorption": 1.255,
+                    "composition": 0.001006
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.3,
+            "species_data": [
+                {
+                    "InChIKey": "RWSOTUBLDIXVET-UHFFFAOYSA-N",
+                    "adsorption": 1.359,
+                    "composition": 0.00122
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.3,
+            "species_data": [
+                {
+                    "InChIKey": "RWSOTUBLDIXVET-UHFFFAOYSA-N",
+                    "adsorption": 1.412,
+                    "composition": 0.001421
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.3,
+            "species_data": [
+                {
+                    "InChIKey": "RWSOTUBLDIXVET-UHFFFAOYSA-N",
+                    "adsorption": 1.459,
+                    "composition": 0.00162
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.3,
+            "species_data": [
+                {
+                    "InChIKey": "RWSOTUBLDIXVET-UHFFFAOYSA-N",
+                    "adsorption": 1.526,
+                    "composition": 0.00181
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.3,
+            "species_data": [
+                {
+                    "InChIKey": "RWSOTUBLDIXVET-UHFFFAOYSA-N",
+                    "adsorption": 1.557,
+                    "composition": 0.00203
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}

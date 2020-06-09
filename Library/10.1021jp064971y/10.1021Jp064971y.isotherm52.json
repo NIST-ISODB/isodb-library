@@ -1,0 +1,104 @@
+{
+    "DOI": "10.1021/Jp064971y",
+    "adsorbates": [
+        {
+            "InChIKey": "VLKZOEOYAKHREP-UHFFFAOYSA-N",
+            "name": "N-Hexane"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-035dc75dddd00241bd76627f78cbef2d",
+        "name": "Zeolite 5A"
+    },
+    "adsorptionUnits": "molecules/cavity",
+    "articleSource": "UNKNOWN",
+    "category": "",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "1000-01-01",
+    "digitizer": "UNKNOWN",
+    "filename": "10.1021Jp064971y.isotherm52",
+    "isotherm_data": [
+        {
+            "pressure": 0.0121837,
+            "species_data": [
+                {
+                    "InChIKey": "VLKZOEOYAKHREP-UHFFFAOYSA-N",
+                    "adsorption": 0.850227,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.850227
+        },
+        {
+            "pressure": 0.0265028,
+            "species_data": [
+                {
+                    "InChIKey": "VLKZOEOYAKHREP-UHFFFAOYSA-N",
+                    "adsorption": 1.07333,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.07333
+        },
+        {
+            "pressure": 0.0466956,
+            "species_data": [
+                {
+                    "InChIKey": "VLKZOEOYAKHREP-UHFFFAOYSA-N",
+                    "adsorption": 1.32503,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.32503
+        },
+        {
+            "pressure": 0.0653357,
+            "species_data": [
+                {
+                    "InChIKey": "VLKZOEOYAKHREP-UHFFFAOYSA-N",
+                    "adsorption": 1.45089,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.45089
+        },
+        {
+            "pressure": 0.0828173,
+            "species_data": [
+                {
+                    "InChIKey": "VLKZOEOYAKHREP-UHFFFAOYSA-N",
+                    "adsorption": 1.54814,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.54814
+        },
+        {
+            "pressure": 0.112123,
+            "species_data": [
+                {
+                    "InChIKey": "VLKZOEOYAKHREP-UHFFFAOYSA-N",
+                    "adsorption": 1.67971,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.67971
+        },
+        {
+            "pressure": 0.14119,
+            "species_data": [
+                {
+                    "InChIKey": "VLKZOEOYAKHREP-UHFFFAOYSA-N",
+                    "adsorption": 1.77124,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.77124
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 523
+}

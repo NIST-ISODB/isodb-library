@@ -1,0 +1,82 @@
+{
+    "DOI": "10.1016/j.ecoenv.2017.06.063",
+    "adsorbates": [
+        {
+            "InChIKey": "LULLIKNODDLMDQ-UHFFFAOYSA-N",
+            "name": "As(III)"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-0fdc9465938c9aef001d57428402bdea",
+        "name": "Fe-Mn binary oxide"
+    },
+    "adsorptionUnits": "mg/g",
+    "articleSource": "Figure 1",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-07-10",
+    "digitizer": "Daniel Coile",
+    "filename": "10.1016j.ecoenv.2017.06.063.Isotherm2",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "LULLIKNODDLMDQ-UHFFFAOYSA-N",
+                    "adsorption": 1.1354,
+                    "composition": 4.2689
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "LULLIKNODDLMDQ-UHFFFAOYSA-N",
+                    "adsorption": 1.956,
+                    "composition": 10.1855
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "LULLIKNODDLMDQ-UHFFFAOYSA-N",
+                    "adsorption": 2.674,
+                    "composition": 16.6279
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "LULLIKNODDLMDQ-UHFFFAOYSA-N",
+                    "adsorption": 3.1063,
+                    "composition": 24.3852
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "LULLIKNODDLMDQ-UHFFFAOYSA-N",
+                    "adsorption": 3.3847,
+                    "composition": 33.1285
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}

@@ -1,0 +1,60 @@
+{
+    "DOI": "10.1016/j.powtec.2014.08.062",
+    "adsorbates": [
+        {
+            "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+            "name": "Carbon Dioxide"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-ebdbe0742a80d1a99b6968fdac9ff877",
+        "name": "AC Norit"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "UNKNOWN",
+    "category": "",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "1000-01-01",
+    "digitizer": "UNKNOWN",
+    "filename": "10.1016j.powtec.2014.08.062.Isotherm1",
+    "isotherm_data": [
+        {
+            "pressure": 0.050849,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 0.267085,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.267085
+        },
+        {
+            "pressure": 0.101747,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 0.369582,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.369582
+        },
+        {
+            "pressure": 0.152299,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 0.445142,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.445142
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 294
+}

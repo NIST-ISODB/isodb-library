@@ -1,0 +1,97 @@
+{
+    "DOI": "10.1016/j.marpolbul.2017.06.068",
+    "adsorbates": [
+        {
+            "InChIKey": "BFPYWIDHMRZLRN-SLHNCBLASA-N",
+            "name": "17alpha-ethynylestradiol"
+        },
+        {
+            "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+            "name": "Water"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-4b1f2ea2aea0dcfaaab6cef755eb5ce3",
+        "name": "marine sediment from Victoria Harbour, Hong Kong (22°14.800/114°16.000)"
+    },
+    "adsorptionUnits": "",
+    "articleSource": "Figure 4",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-07-24",
+    "digitizer": "Noah C. Whelpley",
+    "filename": "10.1016j.marpolbul.2017.06.068.Isotherm6",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "BFPYWIDHMRZLRN-SLHNCBLASA-N",
+                    "adsorption": 8.509,
+                    "composition": 0.2251
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "BFPYWIDHMRZLRN-SLHNCBLASA-N",
+                    "adsorption": 16.708,
+                    "composition": 0.5083
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "BFPYWIDHMRZLRN-SLHNCBLASA-N",
+                    "adsorption": 22.902,
+                    "composition": 0.9617
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "BFPYWIDHMRZLRN-SLHNCBLASA-N",
+                    "adsorption": 37.936,
+                    "composition": 1.7539
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "BFPYWIDHMRZLRN-SLHNCBLASA-N",
+                    "adsorption": 44.461,
+                    "composition": 2.0626
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "BFPYWIDHMRZLRN-SLHNCBLASA-N",
+                    "adsorption": 47.557,
+                    "composition": 2.6445
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}

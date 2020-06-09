@@ -1,0 +1,71 @@
+{
+    "DOI": "10.1021/je000273+",
+    "adsorbates": [
+        {
+            "InChIKey": "QGZKDVFQNNGYKY-UHFFFAOYSA-N",
+            "name": "Ammonia"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-1830ed0ab7d34bd94983f7c5c9e77ec0",
+        "name": "Pentasil DAZ"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "UNKNOWN",
+    "category": "",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "1000-01-01",
+    "digitizer": "UNKNOWN",
+    "filename": "10.1021je000273plus.Isotherm35",
+    "isotherm_data": [
+        {
+            "pressure": 0.0131364,
+            "species_data": [
+                {
+                    "InChIKey": "QGZKDVFQNNGYKY-UHFFFAOYSA-N",
+                    "adsorption": 0.575067,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.575067
+        },
+        {
+            "pressure": 0.0703628,
+            "species_data": [
+                {
+                    "InChIKey": "QGZKDVFQNNGYKY-UHFFFAOYSA-N",
+                    "adsorption": 0.89675,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.89675
+        },
+        {
+            "pressure": 0.275696,
+            "species_data": [
+                {
+                    "InChIKey": "QGZKDVFQNNGYKY-UHFFFAOYSA-N",
+                    "adsorption": 1.42893,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.42893
+        },
+        {
+            "pressure": 0.808411,
+            "species_data": [
+                {
+                    "InChIKey": "QGZKDVFQNNGYKY-UHFFFAOYSA-N",
+                    "adsorption": 2.38099,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 2.38099
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}

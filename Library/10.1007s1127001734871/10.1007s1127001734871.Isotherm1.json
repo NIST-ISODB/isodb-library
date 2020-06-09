@@ -1,0 +1,82 @@
+{
+    "DOI": "10.1007/s11270-017-3487-1",
+    "adsorbates": [
+        {
+            "InChIKey": "BDOSMKKIYDKNTQ-UHFFFAOYSA-N",
+            "name": "Cadmium"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-b67663bc57af477d39979e4dceff394e",
+        "name": "Agricultural Soil"
+    },
+    "adsorptionUnits": "mg/g",
+    "articleSource": "Figure 2a",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-07-08",
+    "digitizer": "Daniel Coile",
+    "filename": "10.1007s1127001734871.Isotherm1",
+    "isotherm_data": [
+        {
+            "pressure": 1,
+            "species_data": [
+                {
+                    "InChIKey": "BDOSMKKIYDKNTQ-UHFFFAOYSA-N",
+                    "adsorption": 0.3197,
+                    "composition": 4.868
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1,
+            "species_data": [
+                {
+                    "InChIKey": "BDOSMKKIYDKNTQ-UHFFFAOYSA-N",
+                    "adsorption": 0.653,
+                    "composition": 10.011
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1,
+            "species_data": [
+                {
+                    "InChIKey": "BDOSMKKIYDKNTQ-UHFFFAOYSA-N",
+                    "adsorption": 1.2894,
+                    "composition": 19.838
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1,
+            "species_data": [
+                {
+                    "InChIKey": "BDOSMKKIYDKNTQ-UHFFFAOYSA-N",
+                    "adsorption": 3.3016,
+                    "composition": 50.238
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1,
+            "species_data": [
+                {
+                    "InChIKey": "BDOSMKKIYDKNTQ-UHFFFAOYSA-N",
+                    "adsorption": 6.6228,
+                    "composition": 100.2
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}

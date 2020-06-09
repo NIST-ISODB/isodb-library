@@ -1,0 +1,60 @@
+{
+    "DOI": "10.1021/ja111411q",
+    "adsorbates": [
+        {
+            "InChIKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+            "name": "Hydrogen"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-bbd809480ca8c8d0e4d066e70a9719d1",
+        "name": "MOF-177"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "Figure 1 (Top Left)",
+    "category": "exp",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "2017-06-29",
+    "digitizer": "Toyosi Afolabi",
+    "filename": "10.1021ja111411q.Isotherm24",
+    "isotherm_data": [
+        {
+            "pressure": 12.5,
+            "species_data": [
+                {
+                    "InChIKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+                    "adsorption": 0.898876,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.898876
+        },
+        {
+            "pressure": 24.8077,
+            "species_data": [
+                {
+                    "InChIKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+                    "adsorption": 2.02247,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 2.02247
+        },
+        {
+            "pressure": 37.3077,
+            "species_data": [
+                {
+                    "InChIKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+                    "adsorption": 2.92135,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 2.92135
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 313
+}

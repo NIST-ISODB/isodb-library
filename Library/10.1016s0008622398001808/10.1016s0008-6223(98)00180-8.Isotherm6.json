@@ -1,0 +1,115 @@
+{
+    "DOI": "10.1016/s0008-6223(98)00180-8",
+    "adsorbates": [
+        {
+            "InChIKey": "VZGDMQKNWNREIO-UHFFFAOYSA-N",
+            "name": "Carbon Tetrachloride"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-6d625122606e170b40880b540fc5700f",
+        "name": "Activated Carbon (H3PO4H-8)"
+    },
+    "adsorptionUnits": "g/g",
+    "articleSource": "Figure 2",
+    "category": "exp",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "2016-06-28",
+    "digitizer": "David A. Anderegg",
+    "filename": "10.1016s0008-6223(98)00180-8.Isotherm6",
+    "isotherm_data": [
+        {
+            "pressure": 0.002341,
+            "species_data": [
+                {
+                    "InChIKey": "VZGDMQKNWNREIO-UHFFFAOYSA-N",
+                    "adsorption": 0.551101,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.551101
+        },
+        {
+            "pressure": 0.00572,
+            "species_data": [
+                {
+                    "InChIKey": "VZGDMQKNWNREIO-UHFFFAOYSA-N",
+                    "adsorption": 0.729515,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.729515
+        },
+        {
+            "pressure": 0.015788,
+            "species_data": [
+                {
+                    "InChIKey": "VZGDMQKNWNREIO-UHFFFAOYSA-N",
+                    "adsorption": 0.939648,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.939648
+        },
+        {
+            "pressure": 0.024345,
+            "species_data": [
+                {
+                    "InChIKey": "VZGDMQKNWNREIO-UHFFFAOYSA-N",
+                    "adsorption": 1.02291,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.02291
+        },
+        {
+            "pressure": 0.038843,
+            "species_data": [
+                {
+                    "InChIKey": "VZGDMQKNWNREIO-UHFFFAOYSA-N",
+                    "adsorption": 1.11013,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.11013
+        },
+        {
+            "pressure": 0.062249,
+            "species_data": [
+                {
+                    "InChIKey": "VZGDMQKNWNREIO-UHFFFAOYSA-N",
+                    "adsorption": 1.1815,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.1815
+        },
+        {
+            "pressure": 0.088622,
+            "species_data": [
+                {
+                    "InChIKey": "VZGDMQKNWNREIO-UHFFFAOYSA-N",
+                    "adsorption": 1.237,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.237
+        },
+        {
+            "pressure": 0.113135,
+            "species_data": [
+                {
+                    "InChIKey": "VZGDMQKNWNREIO-UHFFFAOYSA-N",
+                    "adsorption": 1.28062,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.28062
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}

@@ -1,0 +1,93 @@
+{
+    "DOI": "10.1039/C3tb21328e",
+    "adsorbates": [
+        {
+            "InChIKey": "HEFNNWSXXWATRW-UHFFFAOYSA-N",
+            "name": "Ibuprofen"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-9f02824618e94d86caedc9fb497366ba",
+        "name": "MIL-53"
+    },
+    "adsorptionUnits": "mg/g",
+    "articleSource": "UNKNOWN",
+    "category": "",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "1000-01-01",
+    "digitizer": "UNKNOWN",
+    "filename": "10.1039C3tb21328e.Isotherm2",
+    "isotherm_data": [
+        {
+            "pressure": 8.07235e-10,
+            "species_data": [
+                {
+                    "InChIKey": "HEFNNWSXXWATRW-UHFFFAOYSA-N",
+                    "adsorption": -11.7003,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": -11.7003
+        },
+        {
+            "pressure": 5.21387e-09,
+            "species_data": [
+                {
+                    "InChIKey": "HEFNNWSXXWATRW-UHFFFAOYSA-N",
+                    "adsorption": 58.715,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 58.715
+        },
+        {
+            "pressure": 5.236e-08,
+            "species_data": [
+                {
+                    "InChIKey": "HEFNNWSXXWATRW-UHFFFAOYSA-N",
+                    "adsorption": 237.058,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 237.058
+        },
+        {
+            "pressure": 7.36699e-07,
+            "species_data": [
+                {
+                    "InChIKey": "HEFNNWSXXWATRW-UHFFFAOYSA-N",
+                    "adsorption": 266.555,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 266.555
+        },
+        {
+            "pressure": 5.11117e-06,
+            "species_data": [
+                {
+                    "InChIKey": "HEFNNWSXXWATRW-UHFFFAOYSA-N",
+                    "adsorption": 264.096,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 264.096
+        },
+        {
+            "pressure": 4.29586e-05,
+            "species_data": [
+                {
+                    "InChIKey": "HEFNNWSXXWATRW-UHFFFAOYSA-N",
+                    "adsorption": 280.725,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 280.725
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 310
+}

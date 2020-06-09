@@ -1,0 +1,108 @@
+{
+    "DOI": "10.1016/j.jes.2016.04.005",
+    "adsorbates": [
+        {
+            "InChIKey": "BDOSMKKIYDKNTQ-UHFFFAOYSA-N",
+            "name": "Cadmium"
+        },
+        {
+            "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+            "name": "Water"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-7913266f2265b725bfbe3c0df52d9654",
+        "name": "Small Surface Area Hydroxyapatite (SHAP)"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "Figure 4",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-07-15",
+    "digitizer": "Daniel Coile",
+    "filename": "10.1016j.jes.2016.04.005.Isotherm4",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "BDOSMKKIYDKNTQ-UHFFFAOYSA-N",
+                    "adsorption": 0.00423,
+                    "composition": 0.0099
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "BDOSMKKIYDKNTQ-UHFFFAOYSA-N",
+                    "adsorption": 0.26421,
+                    "composition": 0.2816
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "BDOSMKKIYDKNTQ-UHFFFAOYSA-N",
+                    "adsorption": 0.3617,
+                    "composition": 0.5921
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "BDOSMKKIYDKNTQ-UHFFFAOYSA-N",
+                    "adsorption": 0.48055,
+                    "composition": 1.0951
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "BDOSMKKIYDKNTQ-UHFFFAOYSA-N",
+                    "adsorption": 0.52021,
+                    "composition": 1.4927
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "BDOSMKKIYDKNTQ-UHFFFAOYSA-N",
+                    "adsorption": 0.53552,
+                    "composition": 1.9027
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "BDOSMKKIYDKNTQ-UHFFFAOYSA-N",
+                    "adsorption": 0.52341,
+                    "composition": 2.2755
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}

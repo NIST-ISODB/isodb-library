@@ -1,0 +1,115 @@
+{
+    "DOI": "10.1016/j.apenergy.2015.01.081",
+    "adsorbates": [
+        {
+            "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+            "name": "Methane"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-654dfa2d28611dc9bb819cf78b5ddf4d",
+        "name": "Amine Modified TiO2"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "Figure 9a",
+    "category": "exp",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "2017-06-30",
+    "digitizer": "Julia Chotoo",
+    "filename": "10.1016j.apenergy.2015.01.081.Isotherm25",
+    "isotherm_data": [
+        {
+            "pressure": 1.14,
+            "species_data": [
+                {
+                    "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+                    "adsorption": 0.2253,
+                    "composition": 0.85
+                }
+            ],
+            "total_adsorption": 0.2253
+        },
+        {
+            "pressure": 5.158,
+            "species_data": [
+                {
+                    "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+                    "adsorption": 0.5455,
+                    "composition": 0.85
+                }
+            ],
+            "total_adsorption": 0.5455
+        },
+        {
+            "pressure": 9.979,
+            "species_data": [
+                {
+                    "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+                    "adsorption": 0.9223,
+                    "composition": 0.85
+                }
+            ],
+            "total_adsorption": 0.9223
+        },
+        {
+            "pressure": 15.069,
+            "species_data": [
+                {
+                    "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+                    "adsorption": 1.3928,
+                    "composition": 0.85
+                }
+            ],
+            "total_adsorption": 1.3928
+        },
+        {
+            "pressure": 19.958,
+            "species_data": [
+                {
+                    "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+                    "adsorption": 1.8633,
+                    "composition": 0.85
+                }
+            ],
+            "total_adsorption": 1.8633
+        },
+        {
+            "pressure": 24.982,
+            "species_data": [
+                {
+                    "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+                    "adsorption": 2.4087,
+                    "composition": 0.85
+                }
+            ],
+            "total_adsorption": 2.4087
+        },
+        {
+            "pressure": 29.937,
+            "species_data": [
+                {
+                    "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+                    "adsorption": 2.7949,
+                    "composition": 0.85
+                }
+            ],
+            "total_adsorption": 2.7949
+        },
+        {
+            "pressure": 35.025,
+            "species_data": [
+                {
+                    "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+                    "adsorption": 3.1531,
+                    "composition": 0.85
+                }
+            ],
+            "total_adsorption": 3.1531
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 333
+}

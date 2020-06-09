@@ -1,0 +1,115 @@
+{
+    "DOI": "10.1002/aic.12397",
+    "adsorbates": [
+        {
+            "InChIKey": "DNNSSWSSYDEUBZ-UHFFFAOYSA-N",
+            "name": "Krypton"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-b9bffc1a1dbe706adfe44577120a9311",
+        "name": "UMCM-1"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "Figure 1",
+    "category": "exp",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "2017-07-06",
+    "digitizer": "Julia Chotoo",
+    "filename": "10.1002aic.12397.Isotherm40",
+    "isotherm_data": [
+        {
+            "pressure": 1.902,
+            "species_data": [
+                {
+                    "InChIKey": "DNNSSWSSYDEUBZ-UHFFFAOYSA-N",
+                    "adsorption": 1.52,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.52
+        },
+        {
+            "pressure": 4.022,
+            "species_data": [
+                {
+                    "InChIKey": "DNNSSWSSYDEUBZ-UHFFFAOYSA-N",
+                    "adsorption": 2.641,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 2.641
+        },
+        {
+            "pressure": 5.924,
+            "species_data": [
+                {
+                    "InChIKey": "DNNSSWSSYDEUBZ-UHFFFAOYSA-N",
+                    "adsorption": 3.896,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 3.896
+        },
+        {
+            "pressure": 8.043,
+            "species_data": [
+                {
+                    "InChIKey": "DNNSSWSSYDEUBZ-UHFFFAOYSA-N",
+                    "adsorption": 5.018,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 5.018
+        },
+        {
+            "pressure": 9.946,
+            "species_data": [
+                {
+                    "InChIKey": "DNNSSWSSYDEUBZ-UHFFFAOYSA-N",
+                    "adsorption": 6.339,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 6.339
+        },
+        {
+            "pressure": 15,
+            "species_data": [
+                {
+                    "InChIKey": "DNNSSWSSYDEUBZ-UHFFFAOYSA-N",
+                    "adsorption": 9.044,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 9.044
+        },
+        {
+            "pressure": 20.109,
+            "species_data": [
+                {
+                    "InChIKey": "DNNSSWSSYDEUBZ-UHFFFAOYSA-N",
+                    "adsorption": 11.618,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 11.618
+        },
+        {
+            "pressure": 30,
+            "species_data": [
+                {
+                    "InChIKey": "DNNSSWSSYDEUBZ-UHFFFAOYSA-N",
+                    "adsorption": 15.307,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 15.307
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 273
+}

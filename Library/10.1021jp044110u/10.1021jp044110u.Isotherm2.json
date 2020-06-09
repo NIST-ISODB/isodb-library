@@ -1,0 +1,93 @@
+{
+    "DOI": "10.1021/jp044110u",
+    "adsorbates": [
+        {
+            "InChIKey": "GKAOGPIIYCISHV-UHFFFAOYSA-N",
+            "name": "Neon"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-8faf0127ad4e0ec0a5100d25408fd7ee",
+        "name": "Carbon Molecular Sieve Fibers"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "Figure 4",
+    "category": "exp",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "2016-06-15",
+    "digitizer": "Kailey M. Stracka",
+    "filename": "10.1021jp044110u.Isotherm2",
+    "isotherm_data": [
+        {
+            "pressure": 0.058788,
+            "species_data": [
+                {
+                    "InChIKey": "GKAOGPIIYCISHV-UHFFFAOYSA-N",
+                    "adsorption": 0.001282,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.001282
+        },
+        {
+            "pressure": 0.160953,
+            "species_data": [
+                {
+                    "InChIKey": "GKAOGPIIYCISHV-UHFFFAOYSA-N",
+                    "adsorption": 0.003177,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.003177
+        },
+        {
+            "pressure": 0.331686,
+            "species_data": [
+                {
+                    "InChIKey": "GKAOGPIIYCISHV-UHFFFAOYSA-N",
+                    "adsorption": 0.006131,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.006131
+        },
+        {
+            "pressure": 0.612964,
+            "species_data": [
+                {
+                    "InChIKey": "GKAOGPIIYCISHV-UHFFFAOYSA-N",
+                    "adsorption": 0.010701,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.010701
+        },
+        {
+            "pressure": 0.962759,
+            "species_data": [
+                {
+                    "InChIKey": "GKAOGPIIYCISHV-UHFFFAOYSA-N",
+                    "adsorption": 0.015048,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.015048
+        },
+        {
+            "pressure": 1.11949,
+            "species_data": [
+                {
+                    "InChIKey": "GKAOGPIIYCISHV-UHFFFAOYSA-N",
+                    "adsorption": 0.017556,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.017556
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 218
+}

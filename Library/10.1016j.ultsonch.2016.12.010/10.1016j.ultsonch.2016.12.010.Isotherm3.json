@@ -1,0 +1,75 @@
+{
+    "DOI": "10.1016/j.ultsonch.2016.12.010",
+    "adsorbates": [
+        {
+            "InChIKey": "Reactive Brilliant Red M-GE",
+            "name": "Reactive Red 223"
+        },
+        {
+            "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+            "name": "Water"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-33e24a8e2ebe18313dad47da192472ee",
+        "name": "carbon loaded ɣ-Fe2O3 nanocomposite"
+    },
+    "adsorptionUnits": "mg/g",
+    "articleSource": "Figure 11",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-07-08",
+    "digitizer": "Noah C. Whelpley",
+    "filename": "10.1016j.ultsonch.2016.12.010.Isotherm3",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "Reactive Brilliant Red M-GE",
+                    "adsorption": 2.676,
+                    "composition": 3.729
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "Reactive Brilliant Red M-GE",
+                    "adsorption": 3.84692,
+                    "composition": 13.093
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "Reactive Brilliant Red M-GE",
+                    "adsorption": 3.98227,
+                    "composition": 18.015
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "Reactive Brilliant Red M-GE",
+                    "adsorption": 4.35432,
+                    "composition": 22.841
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 303
+}

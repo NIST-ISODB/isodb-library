@@ -1,0 +1,82 @@
+{
+    "DOI": "10.1016/j.cej.2016.10.058",
+    "adsorbates": [
+        {
+            "InChIKey": "WSALIDVQXCHFEG-UHFFFAOYSA-L",
+            "name": "Acid Blue 45"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-2cb9f0d3672e4499f3e5e851d861c7d6",
+        "name": "CNT-NH2"
+    },
+    "adsorptionUnits": "mg/g",
+    "articleSource": "Figure 11",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-07-25",
+    "digitizer": "Justin Chen",
+    "filename": "10.1016j.cej.2016.10.058.Isotherm2",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "WSALIDVQXCHFEG-UHFFFAOYSA-L",
+                    "adsorption": 1.53,
+                    "composition": 0.082
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "WSALIDVQXCHFEG-UHFFFAOYSA-L",
+                    "adsorption": 247.44,
+                    "composition": 2.35
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "WSALIDVQXCHFEG-UHFFFAOYSA-L",
+                    "adsorption": 503.57,
+                    "composition": 7.307
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "WSALIDVQXCHFEG-UHFFFAOYSA-L",
+                    "adsorption": 602.77,
+                    "composition": 20.777
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "WSALIDVQXCHFEG-UHFFFAOYSA-L",
+                    "adsorption": 660.44,
+                    "composition": 40.008
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}

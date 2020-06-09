@@ -1,0 +1,75 @@
+{
+    "DOI": "10.1166/sam.2017.3214",
+    "adsorbates": [
+        {
+            "InChIKey": " VEQPNABPJHWNSG-UHFFFAOYSA-N",
+            "name": "Ni(II)"
+        },
+        {
+            "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+            "name": "Water"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-ccaa654b0599a2fe2cfc90c584614f33",
+        "name": "M4195"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "Figure 10",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-07-22",
+    "digitizer": "Noah C. Whelpley",
+    "filename": "10.1166sam.2017.3214.Isotherm4",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": " VEQPNABPJHWNSG-UHFFFAOYSA-N",
+                    "adsorption": 9.96348,
+                    "composition": 13.912
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": " VEQPNABPJHWNSG-UHFFFAOYSA-N",
+                    "adsorption": 15.1193,
+                    "composition": 45.574
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": " VEQPNABPJHWNSG-UHFFFAOYSA-N",
+                    "adsorption": 14.113,
+                    "composition": 68.784
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": " VEQPNABPJHWNSG-UHFFFAOYSA-N",
+                    "adsorption": 14.5405,
+                    "composition": 91.787
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}

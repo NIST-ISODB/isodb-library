@@ -1,0 +1,60 @@
+{
+    "DOI": "10.1016/s0008-6223(96)00082-6",
+    "adsorbates": [
+        {
+            "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+            "name": "Nitrogen"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-36ee2f26ae98493ced58ed43520bb902",
+        "name": "Fluka Charcoal"
+    },
+    "adsorptionUnits": "g/g",
+    "articleSource": "Figure 2",
+    "category": "exp",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "2016-06-30",
+    "digitizer": "Kailey M. Stracka",
+    "filename": "10.1016s0008-6223(96)00082-6.Isotherm1",
+    "isotherm_data": [
+        {
+            "pressure": 0,
+            "species_data": [
+                {
+                    "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+                    "adsorption": 0.143418,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.143418
+        },
+        {
+            "pressure": 0.277502,
+            "species_data": [
+                {
+                    "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+                    "adsorption": 0.173281,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.173281
+        },
+        {
+            "pressure": 1.42368,
+            "species_data": [
+                {
+                    "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+                    "adsorption": 0.196857,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.196857
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 150
+}

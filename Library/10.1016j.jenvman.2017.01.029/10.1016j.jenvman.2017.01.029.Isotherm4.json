@@ -1,0 +1,119 @@
+{
+    "DOI": "10.1016/j.jenvman.2017.01.029",
+    "adsorbates": [
+        {
+            "InChIKey": "FFGPTBGBLSHEPO-UHFFFAOYSA-N",
+            "name": "Carbamazepine"
+        },
+        {
+            "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+            "name": "Water"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-0f84b3d984939847601fb88659e7fad2",
+        "name": "PS800-150-HCl"
+    },
+    "adsorptionUnits": "mmol/kg",
+    "articleSource": "Figure 3",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-07-16",
+    "digitizer": "Noah C. Whelpley",
+    "filename": "10.1016j.jenvman.2017.01.029.Isotherm4",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "FFGPTBGBLSHEPO-UHFFFAOYSA-N",
+                    "adsorption": 0.25,
+                    "composition": 0.0384
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "FFGPTBGBLSHEPO-UHFFFAOYSA-N",
+                    "adsorption": 57.132,
+                    "composition": 1.1696
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "FFGPTBGBLSHEPO-UHFFFAOYSA-N",
+                    "adsorption": 65.516,
+                    "composition": 1.9534
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "FFGPTBGBLSHEPO-UHFFFAOYSA-N",
+                    "adsorption": 69.037,
+                    "composition": 4.1612
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "FFGPTBGBLSHEPO-UHFFFAOYSA-N",
+                    "adsorption": 72.325,
+                    "composition": 6.9386
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "FFGPTBGBLSHEPO-UHFFFAOYSA-N",
+                    "adsorption": 74.132,
+                    "composition": 10.1597
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "FFGPTBGBLSHEPO-UHFFFAOYSA-N",
+                    "adsorption": 68.295,
+                    "composition": 13.2928
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "FFGPTBGBLSHEPO-UHFFFAOYSA-N",
+                    "adsorption": 71.723,
+                    "composition": 14.1311
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}

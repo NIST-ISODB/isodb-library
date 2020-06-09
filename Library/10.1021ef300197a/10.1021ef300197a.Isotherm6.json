@@ -1,0 +1,137 @@
+{
+    "DOI": "10.1021/ef300197a",
+    "adsorbates": [
+        {
+            "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+            "name": "Carbon Dioxide"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-784890325e458a7d19187ddf7433a16c",
+        "name": "Illinois No. 6 Coal"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "Table 5",
+    "category": "exp",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "2017-07-06",
+    "digitizer": "John Luo",
+    "filename": "10.1021ef300197a.Isotherm6",
+    "isotherm_data": [
+        {
+            "pressure": 6.7,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 0.32,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.32
+        },
+        {
+            "pressure": 14.6,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 0.434,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.434
+        },
+        {
+            "pressure": 27.5,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 0.63,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.63
+        },
+        {
+            "pressure": 41.7,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 0.741,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.741
+        },
+        {
+            "pressure": 55.4,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 0.746,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.746
+        },
+        {
+            "pressure": 68.6,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 0.802,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.802
+        },
+        {
+            "pressure": 83,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 0.761,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.761
+        },
+        {
+            "pressure": 94.7,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 0.782,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.782
+        },
+        {
+            "pressure": 107.4,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 0.667,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.667
+        },
+        {
+            "pressure": 125.4,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 0.673,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.673
+        }
+    ],
+    "isotherm_type": "excess",
+    "pressureUnits": "bar",
+    "tabular_data": 1,
+    "temperature": 319
+}

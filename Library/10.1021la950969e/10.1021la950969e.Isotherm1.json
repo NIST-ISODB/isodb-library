@@ -1,0 +1,115 @@
+{
+    "DOI": "10.1021/la950969e",
+    "adsorbates": [
+        {
+            "InChIKey": "SWQJXJOGLNCZEY-UHFFFAOYSA-N",
+            "name": "Helium"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-b2cbe7a27aa1570f2ff2c04b82289f25",
+        "name": "Activated Carbon"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "Table 2",
+    "category": "exp",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "2016-06-28",
+    "digitizer": "Kailey M. Stracka",
+    "filename": "10.1021la950969e.Isotherm1",
+    "isotherm_data": [
+        {
+            "pressure": 190,
+            "species_data": [
+                {
+                    "InChIKey": "SWQJXJOGLNCZEY-UHFFFAOYSA-N",
+                    "adsorption": 0.33,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.33
+        },
+        {
+            "pressure": 565,
+            "species_data": [
+                {
+                    "InChIKey": "SWQJXJOGLNCZEY-UHFFFAOYSA-N",
+                    "adsorption": 0.684,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.684
+        },
+        {
+            "pressure": 810,
+            "species_data": [
+                {
+                    "InChIKey": "SWQJXJOGLNCZEY-UHFFFAOYSA-N",
+                    "adsorption": 1.01,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.01
+        },
+        {
+            "pressure": 1091,
+            "species_data": [
+                {
+                    "InChIKey": "SWQJXJOGLNCZEY-UHFFFAOYSA-N",
+                    "adsorption": 1.432,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.432
+        },
+        {
+            "pressure": 2026,
+            "species_data": [
+                {
+                    "InChIKey": "SWQJXJOGLNCZEY-UHFFFAOYSA-N",
+                    "adsorption": 2,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 2
+        },
+        {
+            "pressure": 3141,
+            "species_data": [
+                {
+                    "InChIKey": "SWQJXJOGLNCZEY-UHFFFAOYSA-N",
+                    "adsorption": 2.7,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 2.7
+        },
+        {
+            "pressure": 4011,
+            "species_data": [
+                {
+                    "InChIKey": "SWQJXJOGLNCZEY-UHFFFAOYSA-N",
+                    "adsorption": 3.31,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 3.31
+        },
+        {
+            "pressure": 4945,
+            "species_data": [
+                {
+                    "InChIKey": "SWQJXJOGLNCZEY-UHFFFAOYSA-N",
+                    "adsorption": 3.965,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 3.965
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 1,
+    "temperature": 298
+}

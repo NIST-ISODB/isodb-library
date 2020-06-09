@@ -1,0 +1,71 @@
+{
+    "DOI": "10.1021/acsomega.6b00450",
+    "adsorbates": [
+        {
+            "InChIKey": "RGNVSYKVCGAEHK-GUBZILKMSA-N",
+            "name": "GRGDS"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-7200064870acdc5c9ec1f5dae046cd53",
+        "name": "homo-PAA brushes"
+    },
+    "adsorptionUnits": "mg/m2",
+    "articleSource": "Figure 5",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-07-24",
+    "digitizer": "Justin Chen",
+    "filename": "10.1021acsomega.6b00450.Isotherm1",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "RGNVSYKVCGAEHK-GUBZILKMSA-N",
+                    "adsorption": 9.9273,
+                    "composition": 0.05154
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "RGNVSYKVCGAEHK-GUBZILKMSA-N",
+                    "adsorption": 12.1606,
+                    "composition": 0.10083
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "RGNVSYKVCGAEHK-GUBZILKMSA-N",
+                    "adsorption": 14.0121,
+                    "composition": 0.24839
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "RGNVSYKVCGAEHK-GUBZILKMSA-N",
+                    "adsorption": 14.585,
+                    "composition": 0.50017
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}

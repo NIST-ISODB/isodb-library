@@ -1,0 +1,71 @@
+{
+    "DOI": "10.1061/(asce)0733-9372(2004)130:3(231)",
+    "adsorbates": [
+        {
+            "InChIKey": "CSCPPACGZOOCGX-UHFFFAOYSA-N",
+            "name": "Acetone"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-66da0953adc7f80111c7b71c5a83614c",
+        "name": "Coal-derived Activated Carbon"
+    },
+    "adsorptionUnits": "mg/g",
+    "articleSource": "Figure 5a",
+    "category": "exp",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "2016-07-06",
+    "digitizer": "Kailey M. Stracka",
+    "filename": "10.1061asce0733937220041303231.Isotherm20",
+    "isotherm_data": [
+        {
+            "pressure": 0.000776,
+            "species_data": [
+                {
+                    "InChIKey": "CSCPPACGZOOCGX-UHFFFAOYSA-N",
+                    "adsorption": -0.001816,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": -0.001816
+        },
+        {
+            "pressure": 0.008889,
+            "species_data": [
+                {
+                    "InChIKey": "CSCPPACGZOOCGX-UHFFFAOYSA-N",
+                    "adsorption": 96.5963,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 96.5963
+        },
+        {
+            "pressure": 0.126111,
+            "species_data": [
+                {
+                    "InChIKey": "CSCPPACGZOOCGX-UHFFFAOYSA-N",
+                    "adsorption": 275.348,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 275.348
+        },
+        {
+            "pressure": 0.195897,
+            "species_data": [
+                {
+                    "InChIKey": "CSCPPACGZOOCGX-UHFFFAOYSA-N",
+                    "adsorption": 296.023,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 296.023
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 323
+}

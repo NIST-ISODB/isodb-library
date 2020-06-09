@@ -1,0 +1,82 @@
+{
+    "DOI": "10.1007/Bf02699112",
+    "adsorbates": [
+        {
+            "InChIKey": "HEDRZPFGACZZDS-UHFFFAOYSA-N",
+            "name": "Trichloromethane"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-3281dedf0637463846a53b9f50e7c70a",
+        "name": "PQ-USY Silanol Nest Model"
+    },
+    "adsorptionUnits": "g/g",
+    "articleSource": "UNKNOWN",
+    "category": "",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "1000-01-01",
+    "digitizer": "UNKNOWN",
+    "filename": "10.1007Bf02699112.isotherm8",
+    "isotherm_data": [
+        {
+            "pressure": 1.06e-05,
+            "species_data": [
+                {
+                    "InChIKey": "HEDRZPFGACZZDS-UHFFFAOYSA-N",
+                    "adsorption": 6.66e-05,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 6.66e-05
+        },
+        {
+            "pressure": 0.0001,
+            "species_data": [
+                {
+                    "InChIKey": "HEDRZPFGACZZDS-UHFFFAOYSA-N",
+                    "adsorption": 0.000696,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.000696
+        },
+        {
+            "pressure": 0.000949,
+            "species_data": [
+                {
+                    "InChIKey": "HEDRZPFGACZZDS-UHFFFAOYSA-N",
+                    "adsorption": 0.0070443,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.0070443
+        },
+        {
+            "pressure": 0.00928642,
+            "species_data": [
+                {
+                    "InChIKey": "HEDRZPFGACZZDS-UHFFFAOYSA-N",
+                    "adsorption": 0.0592609,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.0592609
+        },
+        {
+            "pressure": 0.0878534,
+            "species_data": [
+                {
+                    "InChIKey": "HEDRZPFGACZZDS-UHFFFAOYSA-N",
+                    "adsorption": 0.250668,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.250668
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 303
+}

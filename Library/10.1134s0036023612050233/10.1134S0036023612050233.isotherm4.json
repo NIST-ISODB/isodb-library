@@ -1,0 +1,71 @@
+{
+    "DOI": "10.1134/S0036023612050233",
+    "adsorbates": [
+        {
+            "InChIKey": "UHOVQNZJYSORNB-UHFFFAOYSA-N",
+            "name": "Benzene"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-722f4e1d419850412b4ca422dea436d4",
+        "name": "Zn2(bdc)2(dabco)"
+    },
+    "adsorptionUnits": "mol/formula unit",
+    "articleSource": "UNKNOWN",
+    "category": "",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "1000-01-01",
+    "digitizer": "UNKNOWN",
+    "filename": "10.1134S0036023612050233.isotherm4",
+    "isotherm_data": [
+        {
+            "pressure": 0.000229,
+            "species_data": [
+                {
+                    "InChIKey": "UHOVQNZJYSORNB-UHFFFAOYSA-N",
+                    "adsorption": 0.0150234,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.0150234
+        },
+        {
+            "pressure": 0.00380483,
+            "species_data": [
+                {
+                    "InChIKey": "UHOVQNZJYSORNB-UHFFFAOYSA-N",
+                    "adsorption": 2.67509,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 2.67509
+        },
+        {
+            "pressure": 0.035268,
+            "species_data": [
+                {
+                    "InChIKey": "UHOVQNZJYSORNB-UHFFFAOYSA-N",
+                    "adsorption": 2.88103,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 2.88103
+        },
+        {
+            "pressure": 0.0868961,
+            "species_data": [
+                {
+                    "InChIKey": "UHOVQNZJYSORNB-UHFFFAOYSA-N",
+                    "adsorption": 2.94968,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 2.94968
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 363
+}

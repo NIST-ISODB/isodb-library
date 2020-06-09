@@ -1,0 +1,99 @@
+{
+    "DOI": "10.1039/c7ra02786a",
+    "adsorbates": [
+        {
+            "InChIKey": "MUJIDPITZJWBSW-UHFFFAOYSA-N",
+            "name": "Paladium(II) Ion"
+        },
+        {
+            "InChIKey": "NDBYXKQCPYUOMI-UHFFFAOYSA-N",
+            "name": "Pt(IV)"
+        },
+        {
+            "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+            "name": "Water"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-f7ee2db5a01aa37eafc2074b9f2a3208",
+        "name": "P. vermicola"
+    },
+    "adsorptionUnits": "mg/g",
+    "articleSource": "Figure 3",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-07-26",
+    "digitizer": "Gabrielle Magid",
+    "filename": "10.1039c7ra02786a.Isotherm1",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "MUJIDPITZJWBSW-UHFFFAOYSA-N",
+                    "adsorption": 4.19713,
+                    "composition": 3.11114
+                },
+                {
+                    "InChIKey": "NDBYXKQCPYUOMI-UHFFFAOYSA-N",
+                    "adsorption": 5.60332,
+                    "composition": 34.4576
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "MUJIDPITZJWBSW-UHFFFAOYSA-N",
+                    "adsorption": 18.1324,
+                    "composition": 20.0602
+                },
+                {
+                    "InChIKey": "NDBYXKQCPYUOMI-UHFFFAOYSA-N",
+                    "adsorption": 28.7852,
+                    "composition": 84.3386
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "MUJIDPITZJWBSW-UHFFFAOYSA-N",
+                    "adsorption": 104.931,
+                    "composition": 28.1698
+                },
+                {
+                    "InChIKey": "NDBYXKQCPYUOMI-UHFFFAOYSA-N",
+                    "adsorption": 30.338,
+                    "composition": 125.489
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "MUJIDPITZJWBSW-UHFFFAOYSA-N",
+                    "adsorption": 104.313,
+                    "composition": 78.1672
+                },
+                {
+                    "InChIKey": "NDBYXKQCPYUOMI-UHFFFAOYSA-N",
+                    "adsorption": 28.0142,
+                    "composition": 172.426
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 303
+}

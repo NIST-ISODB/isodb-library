@@ -1,0 +1,71 @@
+{
+    "DOI": "10.1016/j.ijhydene.2008.09.053",
+    "adsorbates": [
+        {
+            "InChIKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+            "name": "Hydrogen"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-bbd809480ca8c8d0e4d066e70a9719d1",
+        "name": "MOF-177"
+    },
+    "adsorptionUnits": "wt%",
+    "articleSource": "UNKNOWN",
+    "category": "",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "1000-01-01",
+    "digitizer": "UNKNOWN",
+    "filename": "10.1016j.ijhydene.2008.09.053.Isotherm9",
+    "isotherm_data": [
+        {
+            "pressure": 10,
+            "species_data": [
+                {
+                    "InChIKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+                    "adsorption": 0.138959,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.138959
+        },
+        {
+            "pressure": 20.2439,
+            "species_data": [
+                {
+                    "InChIKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+                    "adsorption": 0.212089,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.212089
+        },
+        {
+            "pressure": 30.122,
+            "species_data": [
+                {
+                    "InChIKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+                    "adsorption": 0.285229,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.285229
+        },
+        {
+            "pressure": 40.122,
+            "species_data": [
+                {
+                    "InChIKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+                    "adsorption": 0.354568,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.354568
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 297
+}

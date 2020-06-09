@@ -1,0 +1,93 @@
+{
+    "DOI": "10.1002/jctb.4977",
+    "adsorbates": [
+        {
+            "InChIKey": "LRHPLDYGYMQRHN-UHFFFAOYSA-N",
+            "name": "1-Butanol"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-f1bb38de7bd3dc71d48620deb4d16334",
+        "name": "activated carbon F-400"
+    },
+    "adsorptionUnits": "mg/g",
+    "articleSource": "Figure 4",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-07-25",
+    "digitizer": "Justin Chen",
+    "filename": "10.1002jctb.4977.Isotherm2",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "LRHPLDYGYMQRHN-UHFFFAOYSA-N",
+                    "adsorption": 1,
+                    "composition": 0.0061
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "LRHPLDYGYMQRHN-UHFFFAOYSA-N",
+                    "adsorption": 236.08,
+                    "composition": 2.6007
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "LRHPLDYGYMQRHN-UHFFFAOYSA-N",
+                    "adsorption": 252.78,
+                    "composition": 4.9019
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "LRHPLDYGYMQRHN-UHFFFAOYSA-N",
+                    "adsorption": 249.46,
+                    "composition": 5.81
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "LRHPLDYGYMQRHN-UHFFFAOYSA-N",
+                    "adsorption": 224.4,
+                    "composition": 7.1138
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "LRHPLDYGYMQRHN-UHFFFAOYSA-N",
+                    "adsorption": 221.33,
+                    "composition": 8.018
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 310
+}

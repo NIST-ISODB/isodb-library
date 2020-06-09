@@ -1,0 +1,93 @@
+{
+    "DOI": "10.3327/jnst.36.818",
+    "adsorbates": [
+        {
+            "InChIKey": "DNNSSWSSYDEUBZ-UHFFFAOYSA-N",
+            "name": "Krypton"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-99b2d1b315d9bd0b70972c5b0da4b675",
+        "name": "Activated Charcoal"
+    },
+    "adsorptionUnits": "mol/g",
+    "articleSource": "Figure 3",
+    "category": "exp",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "2018-07-11",
+    "digitizer": "Soojin Jang",
+    "filename": "10.3327jnst.36.818.Isotherm9",
+    "isotherm_data": [
+        {
+            "pressure": 1e-05,
+            "species_data": [
+                {
+                    "InChIKey": "DNNSSWSSYDEUBZ-UHFFFAOYSA-N",
+                    "adsorption": 5.9e-05,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 9.9e-05,
+            "species_data": [
+                {
+                    "InChIKey": "DNNSSWSSYDEUBZ-UHFFFAOYSA-N",
+                    "adsorption": 0.0004,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 0.000942,
+            "species_data": [
+                {
+                    "InChIKey": "DNNSSWSSYDEUBZ-UHFFFAOYSA-N",
+                    "adsorption": 0.001435,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 0.009687,
+            "species_data": [
+                {
+                    "InChIKey": "DNNSSWSSYDEUBZ-UHFFFAOYSA-N",
+                    "adsorption": 0.003713,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 0.111394,
+            "species_data": [
+                {
+                    "InChIKey": "DNNSSWSSYDEUBZ-UHFFFAOYSA-N",
+                    "adsorption": 0.008192,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 0.959423,
+            "species_data": [
+                {
+                    "InChIKey": "DNNSSWSSYDEUBZ-UHFFFAOYSA-N",
+                    "adsorption": 0.010888,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 159
+}

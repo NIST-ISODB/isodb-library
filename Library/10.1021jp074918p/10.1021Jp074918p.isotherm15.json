@@ -1,0 +1,104 @@
+{
+    "DOI": "10.1021/Jp074918p",
+    "adsorbates": [
+        {
+            "InChIKey": "UHOVQNZJYSORNB-UHFFFAOYSA-N",
+            "name": "Benzene"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-5d0728ebc1e0053aa120288307a704c8",
+        "name": "Silicalite MFI"
+    },
+    "adsorptionUnits": "molecules/unitcell",
+    "articleSource": "UNKNOWN",
+    "category": "",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "1000-01-01",
+    "digitizer": "UNKNOWN",
+    "filename": "10.1021Jp074918p.isotherm15",
+    "isotherm_data": [
+        {
+            "pressure": 0.00434399,
+            "species_data": [
+                {
+                    "InChIKey": "UHOVQNZJYSORNB-UHFFFAOYSA-N",
+                    "adsorption": 0.762518,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.762518
+        },
+        {
+            "pressure": 0.0114126,
+            "species_data": [
+                {
+                    "InChIKey": "UHOVQNZJYSORNB-UHFFFAOYSA-N",
+                    "adsorption": 1.37428,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.37428
+        },
+        {
+            "pressure": 0.0181298,
+            "species_data": [
+                {
+                    "InChIKey": "UHOVQNZJYSORNB-UHFFFAOYSA-N",
+                    "adsorption": 1.8484,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.8484
+        },
+        {
+            "pressure": 0.0288006,
+            "species_data": [
+                {
+                    "InChIKey": "UHOVQNZJYSORNB-UHFFFAOYSA-N",
+                    "adsorption": 2.42958,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 2.42958
+        },
+        {
+            "pressure": 0.0485991,
+            "species_data": [
+                {
+                    "InChIKey": "UHOVQNZJYSORNB-UHFFFAOYSA-N",
+                    "adsorption": 2.85781,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 2.85781
+        },
+        {
+            "pressure": 0.0684226,
+            "species_data": [
+                {
+                    "InChIKey": "UHOVQNZJYSORNB-UHFFFAOYSA-N",
+                    "adsorption": 3.08722,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 3.08722
+        },
+        {
+            "pressure": 0.0871111,
+            "species_data": [
+                {
+                    "InChIKey": "UHOVQNZJYSORNB-UHFFFAOYSA-N",
+                    "adsorption": 3.28605,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 3.28605
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 415
+}

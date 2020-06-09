@@ -1,0 +1,93 @@
+{
+    "DOI": "10.1016/j.jece.2017.11.003",
+    "adsorbates": [
+        {
+            "InChIKey": "IQFVPQOLBLOTPF-HKXUKFGYSA-L",
+            "name": "Congo Red"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-8c236c3ead7b50ad8a435c0c51e380dc",
+        "name": "Agadir natural clay"
+    },
+    "adsorptionUnits": "mg/g",
+    "articleSource": "Figure 9",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-07-10",
+    "digitizer": "Justin Chen",
+    "filename": "10.1016j.jece.2017.11.003.Isotherm7",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "IQFVPQOLBLOTPF-HKXUKFGYSA-L",
+                    "adsorption": 21.795,
+                    "composition": 9.849
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "IQFVPQOLBLOTPF-HKXUKFGYSA-L",
+                    "adsorption": 41.105,
+                    "composition": 34.827
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "IQFVPQOLBLOTPF-HKXUKFGYSA-L",
+                    "adsorption": 50.091,
+                    "composition": 98.745
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "IQFVPQOLBLOTPF-HKXUKFGYSA-L",
+                    "adsorption": 57.548,
+                    "composition": 171.338
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "IQFVPQOLBLOTPF-HKXUKFGYSA-L",
+                    "adsorption": 57.166,
+                    "composition": 272.984
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "IQFVPQOLBLOTPF-HKXUKFGYSA-L",
+                    "adsorption": 58.888,
+                    "composition": 363.737
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 295
+}

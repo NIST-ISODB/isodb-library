@@ -1,0 +1,104 @@
+{
+    "DOI": "10.1007/s10450-008-9140-y",
+    "adsorbates": [
+        {
+            "InChIKey": "ATUOYWHBWRKTHZ-UHFFFAOYSA-N",
+            "name": "N-propane"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-6e5d5df3adf2cbd96f153a0657d6ce44",
+        "name": "Zeolite ITQ-29"
+    },
+    "adsorptionUnits": "molecules/unitcell",
+    "articleSource": "UNKNOWN",
+    "category": "",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "1000-01-01",
+    "digitizer": "UNKNOWN",
+    "filename": "10.1007s10450-008-9140-y.isotherm1",
+    "isotherm_data": [
+        {
+            "pressure": 0.0523498,
+            "species_data": [
+                {
+                    "InChIKey": "ATUOYWHBWRKTHZ-UHFFFAOYSA-N",
+                    "adsorption": 7.70674,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 7.70674
+        },
+        {
+            "pressure": 0.0938239,
+            "species_data": [
+                {
+                    "InChIKey": "ATUOYWHBWRKTHZ-UHFFFAOYSA-N",
+                    "adsorption": 11.611,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 11.611
+        },
+        {
+            "pressure": 0.182493,
+            "species_data": [
+                {
+                    "InChIKey": "ATUOYWHBWRKTHZ-UHFFFAOYSA-N",
+                    "adsorption": 15.7298,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 15.7298
+        },
+        {
+            "pressure": 0.361261,
+            "species_data": [
+                {
+                    "InChIKey": "ATUOYWHBWRKTHZ-UHFFFAOYSA-N",
+                    "adsorption": 20.6209,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 20.6209
+        },
+        {
+            "pressure": 0.505705,
+            "species_data": [
+                {
+                    "InChIKey": "ATUOYWHBWRKTHZ-UHFFFAOYSA-N",
+                    "adsorption": 22.8949,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 22.8949
+        },
+        {
+            "pressure": 0.714506,
+            "species_data": [
+                {
+                    "InChIKey": "ATUOYWHBWRKTHZ-UHFFFAOYSA-N",
+                    "adsorption": 23.281,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 23.281
+        },
+        {
+            "pressure": 1.01055,
+            "species_data": [
+                {
+                    "InChIKey": "ATUOYWHBWRKTHZ-UHFFFAOYSA-N",
+                    "adsorption": 24.6968,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 24.6968
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 301
+}

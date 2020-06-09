@@ -1,0 +1,60 @@
+{
+    "DOI": "10.1021/Jp306828x",
+    "adsorbates": [
+        {
+            "InChIKey": "URLKBWYHVLBVBO-UHFFFAOYSA-N",
+            "name": "P-Xylene"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-c422d2007633d4bce61c708dc86bfc2d",
+        "name": "Zeolite Na-Y"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "UNKNOWN",
+    "category": "",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "1000-01-01",
+    "digitizer": "UNKNOWN",
+    "filename": "10.1021Jp306828x.Isotherm11",
+    "isotherm_data": [
+        {
+            "pressure": 0.00119236,
+            "species_data": [
+                {
+                    "InChIKey": "URLKBWYHVLBVBO-UHFFFAOYSA-N",
+                    "adsorption": 1.79664,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.79664
+        },
+        {
+            "pressure": 0.00237379,
+            "species_data": [
+                {
+                    "InChIKey": "URLKBWYHVLBVBO-UHFFFAOYSA-N",
+                    "adsorption": 1.87215,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.87215
+        },
+        {
+            "pressure": 0.00591705,
+            "species_data": [
+                {
+                    "InChIKey": "URLKBWYHVLBVBO-UHFFFAOYSA-N",
+                    "adsorption": 1.9352,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.9352
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 398
+}

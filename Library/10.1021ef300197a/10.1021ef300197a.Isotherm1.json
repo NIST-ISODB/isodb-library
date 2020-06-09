@@ -1,0 +1,126 @@
+{
+    "DOI": "10.1021/ef300197a",
+    "adsorbates": [
+        {
+            "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+            "name": "Methane"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-7049d5f224aa727b1a6c07f3edfe3d97",
+        "name": "Wet Lower Basin Fruitland Coal"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "Table 4",
+    "category": "exp",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "2017-07-06",
+    "digitizer": "John Luo",
+    "filename": "10.1021ef300197a.Isotherm1",
+    "isotherm_data": [
+        {
+            "pressure": 15.4,
+            "species_data": [
+                {
+                    "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+                    "adsorption": 0.125,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.125
+        },
+        {
+            "pressure": 38,
+            "species_data": [
+                {
+                    "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+                    "adsorption": 0.197,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.197
+        },
+        {
+            "pressure": 49.5,
+            "species_data": [
+                {
+                    "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+                    "adsorption": 0.22,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.22
+        },
+        {
+            "pressure": 64.1,
+            "species_data": [
+                {
+                    "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+                    "adsorption": 0.246,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.246
+        },
+        {
+            "pressure": 77.7,
+            "species_data": [
+                {
+                    "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+                    "adsorption": 0.262,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.262
+        },
+        {
+            "pressure": 93.7,
+            "species_data": [
+                {
+                    "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+                    "adsorption": 0.278,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.278
+        },
+        {
+            "pressure": 112.5,
+            "species_data": [
+                {
+                    "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+                    "adsorption": 0.296,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.296
+        },
+        {
+            "pressure": 126.4,
+            "species_data": [
+                {
+                    "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+                    "adsorption": 0.3,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.3
+        },
+        {
+            "pressure": 136.9,
+            "species_data": [
+                {
+                    "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+                    "adsorption": 0.311,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.311
+        }
+    ],
+    "isotherm_type": "excess",
+    "pressureUnits": "bar",
+    "tabular_data": 1,
+    "temperature": 319
+}

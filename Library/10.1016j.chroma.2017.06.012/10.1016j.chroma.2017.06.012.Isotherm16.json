@@ -1,0 +1,134 @@
+{
+    "DOI": "10.1016/j.chroma.2017.06.012",
+    "adsorbates": [
+        {
+            "InChIKey": "FAPWRFPIFSIZLT-UHFFFAOYSA-M",
+            "name": "Sodium Chloride"
+        },
+        {
+            "InChIKey": "NIST-ISODB-031D601DDF8DC2C648F0",
+            "name": "Chicken Egg White Ovalbumin"
+        },
+        {
+            "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+            "name": "Water"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-f06d2bdfbbde2fea334dc087c7da354a",
+        "name": "Capto Q resin"
+    },
+    "adsorptionUnits": "",
+    "articleSource": "Figure 6",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-07-23",
+    "digitizer": "Daniel Coile",
+    "filename": "10.1016j.chroma.2017.06.012.Isotherm16",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "NIST-ISODB-031D601DDF8DC2C648F0",
+                    "adsorption": 14.72,
+                    "composition": 0.396
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "NIST-ISODB-031D601DDF8DC2C648F0",
+                    "adsorption": 31.9,
+                    "composition": 1.4111
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "NIST-ISODB-031D601DDF8DC2C648F0",
+                    "adsorption": 41.26,
+                    "composition": 2.5561
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "NIST-ISODB-031D601DDF8DC2C648F0",
+                    "adsorption": 49.57,
+                    "composition": 3.7011
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "NIST-ISODB-031D601DDF8DC2C648F0",
+                    "adsorption": 54.22,
+                    "composition": 5.1056
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "NIST-ISODB-031D601DDF8DC2C648F0",
+                    "adsorption": 54.69,
+                    "composition": 6.7263
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "NIST-ISODB-031D601DDF8DC2C648F0",
+                    "adsorption": 61.95,
+                    "composition": 8.0658
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "NIST-ISODB-031D601DDF8DC2C648F0",
+                    "adsorption": 65.56,
+                    "composition": 9.5784
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "NIST-ISODB-031D601DDF8DC2C648F0",
+                    "adsorption": 69.17,
+                    "composition": 11.0261
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}

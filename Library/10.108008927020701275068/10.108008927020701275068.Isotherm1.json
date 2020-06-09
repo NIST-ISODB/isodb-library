@@ -1,0 +1,93 @@
+{
+    "DOI": "10.1080/08927020701275068",
+    "adsorbates": [
+        {
+            "InChIKey": "ZWEHNKRNPOVVGH-UHFFFAOYSA-N",
+            "name": "Methyl ethyl ketone"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-41ede36fa7795c589a6a3d1eae23d252",
+        "name": "Zeolite Beta"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "UNKNOWN",
+    "category": "",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "1000-01-01",
+    "digitizer": "UNKNOWN",
+    "filename": "10.108008927020701275068.Isotherm1",
+    "isotherm_data": [
+        {
+            "pressure": 0.00172438,
+            "species_data": [
+                {
+                    "InChIKey": "ZWEHNKRNPOVVGH-UHFFFAOYSA-N",
+                    "adsorption": 2.15851,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 2.15851
+        },
+        {
+            "pressure": 0.00388479,
+            "species_data": [
+                {
+                    "InChIKey": "ZWEHNKRNPOVVGH-UHFFFAOYSA-N",
+                    "adsorption": 2.39181,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 2.39181
+        },
+        {
+            "pressure": 0.00680197,
+            "species_data": [
+                {
+                    "InChIKey": "ZWEHNKRNPOVVGH-UHFFFAOYSA-N",
+                    "adsorption": 2.55023,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 2.55023
+        },
+        {
+            "pressure": 0.00996958,
+            "species_data": [
+                {
+                    "InChIKey": "ZWEHNKRNPOVVGH-UHFFFAOYSA-N",
+                    "adsorption": 2.63384,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 2.63384
+        },
+        {
+            "pressure": 0.0299691,
+            "species_data": [
+                {
+                    "InChIKey": "ZWEHNKRNPOVVGH-UHFFFAOYSA-N",
+                    "adsorption": 2.62138,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 2.62138
+        },
+        {
+            "pressure": 0.049969,
+            "species_data": [
+                {
+                    "InChIKey": "ZWEHNKRNPOVVGH-UHFFFAOYSA-N",
+                    "adsorption": 2.61827,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 2.61827
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}

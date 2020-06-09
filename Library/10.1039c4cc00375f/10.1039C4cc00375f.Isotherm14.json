@@ -1,0 +1,71 @@
+{
+    "DOI": "10.1039/C4cc00375f",
+    "adsorbates": [
+        {
+            "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+            "name": "Methane"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-ad8443a58b6d0f9c90e2c966b478e551",
+        "name": "[Cu3(TDPAH)(H2O)3] 13H2O 8DMA"
+    },
+    "adsorptionUnits": "cm3(STP)/g",
+    "articleSource": "UNKNOWN",
+    "category": "",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "1000-01-01",
+    "digitizer": "UNKNOWN",
+    "filename": "10.1039C4cc00375f.Isotherm14",
+    "isotherm_data": [
+        {
+            "pressure": 0.195541,
+            "species_data": [
+                {
+                    "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+                    "adsorption": 3.98949,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 3.98949
+        },
+        {
+            "pressure": 0.777786,
+            "species_data": [
+                {
+                    "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+                    "adsorption": 16.8738,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 16.8738
+        },
+        {
+            "pressure": 0.849741,
+            "species_data": [
+                {
+                    "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+                    "adsorption": 17.5826,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 17.5826
+        },
+        {
+            "pressure": 0.977581,
+            "species_data": [
+                {
+                    "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+                    "adsorption": 19.4958,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 19.4958
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}

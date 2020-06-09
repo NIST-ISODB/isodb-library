@@ -1,0 +1,115 @@
+{
+    "DOI": "10.3327/jnst.36.818",
+    "adsorbates": [
+        {
+            "InChIKey": "FHNFHKCVQCLJFQ-UHFFFAOYSA-N",
+            "name": "Xenon"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-07922026e71b5d1fe8b82349755ede50",
+        "name": "MS5A"
+    },
+    "adsorptionUnits": "mol/g",
+    "articleSource": "Figure 2",
+    "category": "exp",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "2018-07-11",
+    "digitizer": "Soojin Jang",
+    "filename": "10.3327jnst.36.818.Isotherm7",
+    "isotherm_data": [
+        {
+            "pressure": 1.5e-05,
+            "species_data": [
+                {
+                    "InChIKey": "FHNFHKCVQCLJFQ-UHFFFAOYSA-N",
+                    "adsorption": 0,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 0.000103,
+            "species_data": [
+                {
+                    "InChIKey": "FHNFHKCVQCLJFQ-UHFFFAOYSA-N",
+                    "adsorption": 1e-06,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 0.000364,
+            "species_data": [
+                {
+                    "InChIKey": "FHNFHKCVQCLJFQ-UHFFFAOYSA-N",
+                    "adsorption": 2e-06,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 0.001225,
+            "species_data": [
+                {
+                    "InChIKey": "FHNFHKCVQCLJFQ-UHFFFAOYSA-N",
+                    "adsorption": 8e-06,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 0.002604,
+            "species_data": [
+                {
+                    "InChIKey": "FHNFHKCVQCLJFQ-UHFFFAOYSA-N",
+                    "adsorption": 1.6e-05,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 0.008171,
+            "species_data": [
+                {
+                    "InChIKey": "FHNFHKCVQCLJFQ-UHFFFAOYSA-N",
+                    "adsorption": 5.4e-05,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 0.102636,
+            "species_data": [
+                {
+                    "InChIKey": "FHNFHKCVQCLJFQ-UHFFFAOYSA-N",
+                    "adsorption": 0.000662,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 0.943844,
+            "species_data": [
+                {
+                    "InChIKey": "FHNFHKCVQCLJFQ-UHFFFAOYSA-N",
+                    "adsorption": 0.002155,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 273
+}

@@ -1,0 +1,93 @@
+{
+    "DOI": "10.1016/j.jclepro.2017.06.083",
+    "adsorbates": [
+        {
+            "InChIKey": " VEQPNABPJHWNSG-UHFFFAOYSA-N",
+            "name": "Ni(II)"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-04b2fd4334d1a8c0c3e617fc07fcb55e",
+        "name": "Activated Carbon (PPhA)"
+    },
+    "adsorptionUnits": "mg/g",
+    "articleSource": "Figure 11",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-07-08",
+    "digitizer": "Daniel Coile",
+    "filename": "10.1016j.jclepro.2017.06.083.Isotherm2",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": " VEQPNABPJHWNSG-UHFFFAOYSA-N",
+                    "adsorption": 6.96613,
+                    "composition": 0.473
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": " VEQPNABPJHWNSG-UHFFFAOYSA-N",
+                    "adsorption": 15.9796,
+                    "composition": 14.599
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": " VEQPNABPJHWNSG-UHFFFAOYSA-N",
+                    "adsorption": 22.6774,
+                    "composition": 53.995
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": " VEQPNABPJHWNSG-UHFFFAOYSA-N",
+                    "adsorption": 36.7008,
+                    "composition": 126.269
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": " VEQPNABPJHWNSG-UHFFFAOYSA-N",
+                    "adsorption": 54.8177,
+                    "composition": 191.599
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": " VEQPNABPJHWNSG-UHFFFAOYSA-N",
+                    "adsorption": 61.992,
+                    "composition": 375.659
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 295
+}

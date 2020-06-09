@@ -1,0 +1,93 @@
+{
+    "DOI": "10.1007/s11356-017-9606-0",
+    "adsorbates": [
+        {
+            "InChIKey": "LSASILAMYYWGBH-UHFFFAOYSA-L",
+            "name": "Direct Blue 86"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-9af809ce1dfd4bfcb2d8ab9481dbf709",
+        "name": "ground Crataegus azarolus stones (particle size < 135 micrometer)"
+    },
+    "adsorptionUnits": "mg/g",
+    "articleSource": "Figure 7",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-07-30",
+    "digitizer": "Noah C. Whelpley",
+    "filename": "10.1007s1135601796060.Isotherm1",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "LSASILAMYYWGBH-UHFFFAOYSA-L",
+                    "adsorption": 8.5049,
+                    "composition": 0.347
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "LSASILAMYYWGBH-UHFFFAOYSA-L",
+                    "adsorption": 12.9913,
+                    "composition": 1.342
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "LSASILAMYYWGBH-UHFFFAOYSA-L",
+                    "adsorption": 20.5156,
+                    "composition": 5.968
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "LSASILAMYYWGBH-UHFFFAOYSA-L",
+                    "adsorption": 22.7312,
+                    "composition": 17.844
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "LSASILAMYYWGBH-UHFFFAOYSA-L",
+                    "adsorption": 23.1473,
+                    "composition": 40.075
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "LSASILAMYYWGBH-UHFFFAOYSA-L",
+                    "adsorption": 23.8497,
+                    "composition": 57.237
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 293
+}

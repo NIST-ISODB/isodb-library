@@ -1,0 +1,93 @@
+{
+    "DOI": "10.1007/s11164-017-2874-y",
+    "adsorbates": [
+        {
+            "InChIKey": "ISWSIDIOOBJBQZ-UHFFFAOYSA-N",
+            "name": "Phenol"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-a1b924ed56c669fbe3bda0dcf03b030d",
+        "name": "Ag-CB"
+    },
+    "adsorptionUnits": "mg/g",
+    "articleSource": "Figure 6",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-07-25",
+    "digitizer": "Justin Chen",
+    "filename": "10.1007s111640172874y.Isotherm1",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "ISWSIDIOOBJBQZ-UHFFFAOYSA-N",
+                    "adsorption": 0.0306,
+                    "composition": 0.024
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "ISWSIDIOOBJBQZ-UHFFFAOYSA-N",
+                    "adsorption": 0.9697,
+                    "composition": 2.1979
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "ISWSIDIOOBJBQZ-UHFFFAOYSA-N",
+                    "adsorption": 1.9721,
+                    "composition": 3.2822
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "ISWSIDIOOBJBQZ-UHFFFAOYSA-N",
+                    "adsorption": 3.39,
+                    "composition": 4.8861
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "ISWSIDIOOBJBQZ-UHFFFAOYSA-N",
+                    "adsorption": 4.6246,
+                    "composition": 6.2783
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "ISWSIDIOOBJBQZ-UHFFFAOYSA-N",
+                    "adsorption": 5.9088,
+                    "composition": 7.3565
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}

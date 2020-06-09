@@ -1,0 +1,71 @@
+{
+    "DOI": "10.1016/S0169-4332(02)00052-1",
+    "adsorbates": [
+        {
+            "InChIKey": "MYMOFIZGZYHOMD-UHFFFAOYSA-N",
+            "name": "Oxygen"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-616b0a7cef013735e93a3a5a1857186e",
+        "name": "Zeolite FAU-I"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "UNKNOWN",
+    "category": "",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "1000-01-01",
+    "digitizer": "UNKNOWN",
+    "filename": "10.1016S0169-4332(02)00052-1.isotherm4",
+    "isotherm_data": [
+        {
+            "pressure": 0.422456,
+            "species_data": [
+                {
+                    "InChIKey": "MYMOFIZGZYHOMD-UHFFFAOYSA-N",
+                    "adsorption": 0.0243436,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.0243436
+        },
+        {
+            "pressure": 1.53147,
+            "species_data": [
+                {
+                    "InChIKey": "MYMOFIZGZYHOMD-UHFFFAOYSA-N",
+                    "adsorption": 0.142327,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.142327
+        },
+        {
+            "pressure": 3.16032,
+            "species_data": [
+                {
+                    "InChIKey": "MYMOFIZGZYHOMD-UHFFFAOYSA-N",
+                    "adsorption": 0.26031,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.26031
+        },
+        {
+            "pressure": 6.65415,
+            "species_data": [
+                {
+                    "InChIKey": "MYMOFIZGZYHOMD-UHFFFAOYSA-N",
+                    "adsorption": 0.627369,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.627369
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}

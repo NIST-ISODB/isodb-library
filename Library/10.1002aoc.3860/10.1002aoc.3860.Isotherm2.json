@@ -1,0 +1,104 @@
+{
+    "DOI": "10.1002/aoc.3860",
+    "adsorbates": [
+        {
+            "InChIKey": "STZCRXQWRGQSJD-GEEYTBSJSA-M",
+            "name": "Methyl Orange"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-e17bd93ce2f4d22ff6b459a003c090bc",
+        "name": "Sn6O4 (OH)4 –NPs‐AC"
+    },
+    "adsorptionUnits": "mg/g",
+    "articleSource": "Figure 7",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-07-25",
+    "digitizer": "Justin Chen",
+    "filename": "10.1002aoc.3860.Isotherm2",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "STZCRXQWRGQSJD-GEEYTBSJSA-M",
+                    "adsorption": 4.82603,
+                    "composition": 0.176332
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "STZCRXQWRGQSJD-GEEYTBSJSA-M",
+                    "adsorption": 9.38923,
+                    "composition": 0.552357
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "STZCRXQWRGQSJD-GEEYTBSJSA-M",
+                    "adsorption": 14.0217,
+                    "composition": 1.02565
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "STZCRXQWRGQSJD-GEEYTBSJSA-M",
+                    "adsorption": 18.2684,
+                    "composition": 1.6384
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "STZCRXQWRGQSJD-GEEYTBSJSA-M",
+                    "adsorption": 22.4171,
+                    "composition": 2.2013
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "STZCRXQWRGQSJD-GEEYTBSJSA-M",
+                    "adsorption": 26.3688,
+                    "composition": 3.15849
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "STZCRXQWRGQSJD-GEEYTBSJSA-M",
+                    "adsorption": 26.421,
+                    "composition": 7.05359
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}

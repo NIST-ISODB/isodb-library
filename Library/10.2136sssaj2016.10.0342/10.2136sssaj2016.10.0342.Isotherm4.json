@@ -1,0 +1,71 @@
+{
+    "DOI": "10.2136/sssaj2016.10.0342",
+    "adsorbates": [
+        {
+            "InChIKey": "NBIIXXVUZAFLBC-UHFFFAOYSA-K",
+            "name": "Phosphate Ion"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-1ae1a61f611171d25dd98d09813da166",
+        "name": "ferrihydrite (9.5 pH)"
+    },
+    "adsorptionUnits": "mmol/kg",
+    "articleSource": "Figure 1a",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-07-19",
+    "digitizer": "Justin Chen",
+    "filename": "10.2136sssaj2016.10.0342.Isotherm4",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "NBIIXXVUZAFLBC-UHFFFAOYSA-K",
+                    "adsorption": 367.84,
+                    "composition": 31.39
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "NBIIXXVUZAFLBC-UHFFFAOYSA-K",
+                    "adsorption": 864.48,
+                    "composition": 1244.04
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "NBIIXXVUZAFLBC-UHFFFAOYSA-K",
+                    "adsorption": 719.69,
+                    "composition": 1422.93
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "NBIIXXVUZAFLBC-UHFFFAOYSA-K",
+                    "adsorption": 952.65,
+                    "composition": 2300.55
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}

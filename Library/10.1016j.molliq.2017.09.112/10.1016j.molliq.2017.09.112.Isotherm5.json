@@ -1,0 +1,108 @@
+{
+    "DOI": "10.1016/j.molliq.2017.09.112",
+    "adsorbates": [
+        {
+            "InChIKey": "IQFVPQOLBLOTPF-HKXUKFGYSA-L",
+            "name": "Congo Red"
+        },
+        {
+            "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+            "name": "Water"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-670dee158c2cfe3969b91fb161c2d02c",
+        "name": "reduced graphene oxide decorated NH2-MIL-68(Al) (RGO/NMA)"
+    },
+    "adsorptionUnits": "mg/g",
+    "articleSource": "Figure 6",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-07-16",
+    "digitizer": "Gabrielle Magid",
+    "filename": "10.1016j.molliq.2017.09.112.Isotherm5",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "IQFVPQOLBLOTPF-HKXUKFGYSA-L",
+                    "adsorption": 121.61,
+                    "composition": 0.0358
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "IQFVPQOLBLOTPF-HKXUKFGYSA-L",
+                    "adsorption": 202.38,
+                    "composition": 0.4024
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "IQFVPQOLBLOTPF-HKXUKFGYSA-L",
+                    "adsorption": 273.03,
+                    "composition": 1.1062
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "IQFVPQOLBLOTPF-HKXUKFGYSA-L",
+                    "adsorption": 337.27,
+                    "composition": 2.3847
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "IQFVPQOLBLOTPF-HKXUKFGYSA-L",
+                    "adsorption": 393.64,
+                    "composition": 5.2234
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "IQFVPQOLBLOTPF-HKXUKFGYSA-L",
+                    "adsorption": 433.35,
+                    "composition": 10.8047
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "IQFVPQOLBLOTPF-HKXUKFGYSA-L",
+                    "adsorption": 461.49,
+                    "composition": 19.8593
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 308
+}

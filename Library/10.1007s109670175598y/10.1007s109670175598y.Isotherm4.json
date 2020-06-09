@@ -1,0 +1,90 @@
+{
+    "DOI": "10.1007/s10967-017-5598-y",
+    "adsorbates": [
+        {
+            "InChIKey": "NCMHKCKGHRPLCM-UHFFFAOYSA-N",
+            "name": "Cs(I)"
+        },
+        {
+            "InChIKey": "PWYYWQHXAPXYMF-UHFFFAOYSA-N",
+            "name": "Sr2+"
+        },
+        {
+            "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+            "name": "Water"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-7e3a50b26d2de900c767be57f45102dd",
+        "name": "irradiated Saccharomyces cerevisia"
+    },
+    "adsorptionUnits": "mg/g",
+    "articleSource": "Figure 7",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-07-15",
+    "digitizer": "Noah C. Whelpley",
+    "filename": "10.1007s109670175598y.Isotherm4",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "NCMHKCKGHRPLCM-UHFFFAOYSA-N",
+                    "adsorption": 1.791,
+                    "composition": 10.63
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "NCMHKCKGHRPLCM-UHFFFAOYSA-N",
+                    "adsorption": 5.129,
+                    "composition": 24.69
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "NCMHKCKGHRPLCM-UHFFFAOYSA-N",
+                    "adsorption": 10.68,
+                    "composition": 93.94
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "NCMHKCKGHRPLCM-UHFFFAOYSA-N",
+                    "adsorption": 12.473,
+                    "composition": 275.73
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "NCMHKCKGHRPLCM-UHFFFAOYSA-N",
+                    "adsorption": 14.231,
+                    "composition": 458.17
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 305
+}

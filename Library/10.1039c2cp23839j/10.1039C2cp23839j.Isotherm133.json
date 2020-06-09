@@ -1,0 +1,71 @@
+{
+    "DOI": "10.1039/C2cp23839j",
+    "adsorbates": [
+        {
+            "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+            "name": "Carbon Dioxide"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-b425ac967ceb23a458c5e6f13f9dee6b",
+        "name": "UiO-66-NH2"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "UNKNOWN",
+    "category": "",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "1000-01-01",
+    "digitizer": "UNKNOWN",
+    "filename": "10.1039C2cp23839j.Isotherm133",
+    "isotherm_data": [
+        {
+            "pressure": 1.06744,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 1.51524,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.51524
+        },
+        {
+            "pressure": 9.93961,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 3.45029,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 3.45029
+        },
+        {
+            "pressure": 19.8382,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 3.54248,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 3.54248
+        },
+        {
+            "pressure": 29.7431,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 3.45215,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 3.45215
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 473
+}

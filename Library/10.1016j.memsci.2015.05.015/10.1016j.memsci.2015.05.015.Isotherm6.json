@@ -1,0 +1,71 @@
+{
+    "DOI": "10.1016/j.memsci.2015.05.015",
+    "adsorbates": [
+        {
+            "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+            "name": "Methane"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-d1f7fe9f21fb79a6232c1c02aa614dc4",
+        "name": "Matrimid"
+    },
+    "adsorptionUnits": "cm3(STP)/cm3",
+    "articleSource": "Figure S12",
+    "category": "exp",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "2016-07-21",
+    "digitizer": "David A. Anderegg",
+    "filename": "10.1016j.memsci.2015.05.015.Isotherm6",
+    "isotherm_data": [
+        {
+            "pressure": 0.992191,
+            "species_data": [
+                {
+                    "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+                    "adsorption": 5.60748,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 5.60748
+        },
+        {
+            "pressure": 2.01895,
+            "species_data": [
+                {
+                    "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+                    "adsorption": 9.34579,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 9.34579
+        },
+        {
+            "pressure": 4.99701,
+            "species_data": [
+                {
+                    "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+                    "adsorption": 17.4455,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 17.4455
+        },
+        {
+            "pressure": 10.0297,
+            "species_data": [
+                {
+                    "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+                    "adsorption": 26.7913,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 26.7913
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 308
+}

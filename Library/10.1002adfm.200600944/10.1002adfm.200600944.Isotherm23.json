@@ -1,0 +1,93 @@
+{
+    "DOI": "10.1002/adfm.200600944",
+    "adsorbates": [
+        {
+            "InChIKey": "LCGLNKUTAGEVQW-UHFFFAOYSA-N",
+            "name": "Dimethyl ether"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-7fdf5997d47b59af2318c9cf774e49ca",
+        "name": "[Zn(bdc)(ted)0.5]*2DMF*0.2H2O"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "UNKNOWN",
+    "category": "",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "1000-01-01",
+    "digitizer": "UNKNOWN",
+    "filename": "10.1002adfm.200600944.Isotherm23",
+    "isotherm_data": [
+        {
+            "pressure": 0.0922835,
+            "species_data": [
+                {
+                    "InChIKey": "LCGLNKUTAGEVQW-UHFFFAOYSA-N",
+                    "adsorption": 1.36908,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.36908
+        },
+        {
+            "pressure": 0.152275,
+            "species_data": [
+                {
+                    "InChIKey": "LCGLNKUTAGEVQW-UHFFFAOYSA-N",
+                    "adsorption": 2.20586,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 2.20586
+        },
+        {
+            "pressure": 0.206088,
+            "species_data": [
+                {
+                    "InChIKey": "LCGLNKUTAGEVQW-UHFFFAOYSA-N",
+                    "adsorption": 3.14364,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 3.14364
+        },
+        {
+            "pressure": 0.263011,
+            "species_data": [
+                {
+                    "InChIKey": "LCGLNKUTAGEVQW-UHFFFAOYSA-N",
+                    "adsorption": 3.87912,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 3.87912
+        },
+        {
+            "pressure": 0.31843,
+            "species_data": [
+                {
+                    "InChIKey": "LCGLNKUTAGEVQW-UHFFFAOYSA-N",
+                    "adsorption": 4.36156,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 4.36156
+        },
+        {
+            "pressure": 0.37693,
+            "species_data": [
+                {
+                    "InChIKey": "LCGLNKUTAGEVQW-UHFFFAOYSA-N",
+                    "adsorption": 4.8441,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 4.8441
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 353
+}

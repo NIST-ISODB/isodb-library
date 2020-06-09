@@ -1,0 +1,131 @@
+{
+    "DOI": "10.5277/ppmp170107",
+    "adsorbates": [
+        {
+            "InChIKey": "BCKXLBQYZLBQEK-KVVVOXFISA-M",
+            "name": "Sodium Oleate"
+        },
+        {
+            "InChIKey": "VDEUYMSGMPQMIK-UHFFFAOYSA-N",
+            "name": "Benzohydroxamic Acid"
+        },
+        {
+            "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+            "name": "Water"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-48ef4afc26b13bf7c4e5ec25197ef5a2",
+        "name": "wolframite"
+    },
+    "adsorptionUnits": "mg/g",
+    "articleSource": "Figure 5",
+    "category": "sim",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-07-30",
+    "digitizer": "Noah C. Whelpley",
+    "filename": "10.5277ppmp170107.Isotherm1",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "BCKXLBQYZLBQEK-KVVVOXFISA-M",
+                    "adsorption": 0.51953,
+                    "composition": 45
+                },
+                {
+                    "InChIKey": "VDEUYMSGMPQMIK-UHFFFAOYSA-N",
+                    "adsorption": 0,
+                    "composition": 0
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "BCKXLBQYZLBQEK-KVVVOXFISA-M",
+                    "adsorption": 0.60007,
+                    "composition": 40.5
+                },
+                {
+                    "InChIKey": "VDEUYMSGMPQMIK-UHFFFAOYSA-N",
+                    "adsorption": 0.02751,
+                    "composition": 4.5
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "BCKXLBQYZLBQEK-KVVVOXFISA-M",
+                    "adsorption": 0.5293,
+                    "composition": 36
+                },
+                {
+                    "InChIKey": "VDEUYMSGMPQMIK-UHFFFAOYSA-N",
+                    "adsorption": 0.05916,
+                    "composition": 9
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "BCKXLBQYZLBQEK-KVVVOXFISA-M",
+                    "adsorption": 0.43848,
+                    "composition": 31.5
+                },
+                {
+                    "InChIKey": "VDEUYMSGMPQMIK-UHFFFAOYSA-N",
+                    "adsorption": 0.07887,
+                    "composition": 13.5
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "BCKXLBQYZLBQEK-KVVVOXFISA-M",
+                    "adsorption": 0.3698,
+                    "composition": 27
+                },
+                {
+                    "InChIKey": "VDEUYMSGMPQMIK-UHFFFAOYSA-N",
+                    "adsorption": 0.09847,
+                    "composition": 18
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "BCKXLBQYZLBQEK-KVVVOXFISA-M",
+                    "adsorption": 0.28931,
+                    "composition": 22.5
+                },
+                {
+                    "InChIKey": "VDEUYMSGMPQMIK-UHFFFAOYSA-N",
+                    "adsorption": 0.10847,
+                    "composition": 22.5
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}

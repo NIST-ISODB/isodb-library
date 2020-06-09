@@ -1,0 +1,93 @@
+{
+    "DOI": "10.1021/jp809539w",
+    "adsorbates": [
+        {
+            "InChIKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+            "name": "Hydrogen"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-ddd6f2d174f6d5cc75ee1fda94840dd8",
+        "name": "MOF-14"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "Figure 3d",
+    "category": "sim",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "2017-08-04",
+    "digitizer": "Toyosi Afolabi",
+    "filename": "10.1021jp809539w.Isotherm74",
+    "isotherm_data": [
+        {
+            "pressure": 0.972748,
+            "species_data": [
+                {
+                    "InChIKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+                    "adsorption": 0.078882,
+                    "composition": 0.5
+                }
+            ],
+            "total_adsorption": 0.078882
+        },
+        {
+            "pressure": 10.0158,
+            "species_data": [
+                {
+                    "InChIKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+                    "adsorption": 0.09839,
+                    "composition": 0.5
+                }
+            ],
+            "total_adsorption": 0.09839
+        },
+        {
+            "pressure": 20.1663,
+            "species_data": [
+                {
+                    "InChIKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+                    "adsorption": 0.03309,
+                    "composition": 0.5
+                }
+            ],
+            "total_adsorption": 0.03309
+        },
+        {
+            "pressure": 40.0276,
+            "species_data": [
+                {
+                    "InChIKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+                    "adsorption": -0.125026,
+                    "composition": 0.5
+                }
+            ],
+            "total_adsorption": -0.125026
+        },
+        {
+            "pressure": 79.7574,
+            "species_data": [
+                {
+                    "InChIKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+                    "adsorption": -0.580891,
+                    "composition": 0.5
+                }
+            ],
+            "total_adsorption": -0.580891
+        },
+        {
+            "pressure": 99.8407,
+            "species_data": [
+                {
+                    "InChIKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+                    "adsorption": -0.767139,
+                    "composition": 0.5
+                }
+            ],
+            "total_adsorption": -0.767139
+        }
+    ],
+    "isotherm_type": "excess",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}

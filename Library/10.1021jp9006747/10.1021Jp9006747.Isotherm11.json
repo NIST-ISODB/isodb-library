@@ -1,0 +1,93 @@
+{
+    "DOI": "10.1021/Jp9006747",
+    "adsorbates": [
+        {
+            "InChIKey": "URLKBWYHVLBVBO-UHFFFAOYSA-N",
+            "name": "P-Xylene"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-a802c8f06888bfc869dfc25af5ada337",
+        "name": "Zn(BDC)(DABCO)0.5"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "UNKNOWN",
+    "category": "",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "1000-01-01",
+    "digitizer": "UNKNOWN",
+    "filename": "10.1021Jp9006747.Isotherm11",
+    "isotherm_data": [
+        {
+            "pressure": 0.003,
+            "species_data": [
+                {
+                    "InChIKey": "URLKBWYHVLBVBO-UHFFFAOYSA-N",
+                    "adsorption": 1.13032,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.13032
+        },
+        {
+            "pressure": 0.006,
+            "species_data": [
+                {
+                    "InChIKey": "URLKBWYHVLBVBO-UHFFFAOYSA-N",
+                    "adsorption": 1.73315,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.73315
+        },
+        {
+            "pressure": 0.016,
+            "species_data": [
+                {
+                    "InChIKey": "URLKBWYHVLBVBO-UHFFFAOYSA-N",
+                    "adsorption": 2.10992,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 2.10992
+        },
+        {
+            "pressure": 0.037,
+            "species_data": [
+                {
+                    "InChIKey": "URLKBWYHVLBVBO-UHFFFAOYSA-N",
+                    "adsorption": 2.44902,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 2.44902
+        },
+        {
+            "pressure": 0.08,
+            "species_data": [
+                {
+                    "InChIKey": "URLKBWYHVLBVBO-UHFFFAOYSA-N",
+                    "adsorption": 2.66566,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 2.66566
+        },
+        {
+            "pressure": 0.102,
+            "species_data": [
+                {
+                    "InChIKey": "URLKBWYHVLBVBO-UHFFFAOYSA-N",
+                    "adsorption": 2.7316,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 2.7316
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 423
+}

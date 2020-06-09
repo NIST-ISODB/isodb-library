@@ -1,0 +1,71 @@
+{
+    "DOI": "10.1002/cjoc.200591593",
+    "adsorbates": [
+        {
+            "InChIKey": "VQTUBCCKSQIDNK-UHFFFAOYSA-N",
+            "name": "Isobutene"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-bb6e5e1a6a0aa4c762c2927f54961365",
+        "name": "Na8ZSM-5"
+    },
+    "adsorptionUnits": "molecules*box^-1",
+    "articleSource": "UNKNOWN",
+    "category": "",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "1000-01-01",
+    "digitizer": "UNKNOWN",
+    "filename": "10.1002cjoc.200591593.isotherm1",
+    "isotherm_data": [
+        {
+            "pressure": 0.508582,
+            "species_data": [
+                {
+                    "InChIKey": "VQTUBCCKSQIDNK-UHFFFAOYSA-N",
+                    "adsorption": 6.60443,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 6.60443
+        },
+        {
+            "pressure": 1.02415,
+            "species_data": [
+                {
+                    "InChIKey": "VQTUBCCKSQIDNK-UHFFFAOYSA-N",
+                    "adsorption": 9.46471,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 9.46471
+        },
+        {
+            "pressure": 1.99522,
+            "species_data": [
+                {
+                    "InChIKey": "VQTUBCCKSQIDNK-UHFFFAOYSA-N",
+                    "adsorption": 13.5835,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 13.5835
+        },
+        {
+            "pressure": 3.01634,
+            "species_data": [
+                {
+                    "InChIKey": "VQTUBCCKSQIDNK-UHFFFAOYSA-N",
+                    "adsorption": 16.8328,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 16.8328
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 800
+}

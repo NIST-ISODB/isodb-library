@@ -1,0 +1,71 @@
+{
+    "DOI": "10.1021/Jp064971y",
+    "adsorbates": [
+        {
+            "InChIKey": "DIOQZVSQGTUSAI-UHFFFAOYSA-N",
+            "name": "N-decane"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-035dc75dddd00241bd76627f78cbef2d",
+        "name": "Zeolite 5A"
+    },
+    "adsorptionUnits": "molecules/cavity",
+    "articleSource": "UNKNOWN",
+    "category": "",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "1000-01-01",
+    "digitizer": "UNKNOWN",
+    "filename": "10.1021Jp064971y.isotherm71",
+    "isotherm_data": [
+        {
+            "pressure": 0.0176373,
+            "species_data": [
+                {
+                    "InChIKey": "DIOQZVSQGTUSAI-UHFFFAOYSA-N",
+                    "adsorption": 0.915523,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.915523
+        },
+        {
+            "pressure": 0.0751641,
+            "species_data": [
+                {
+                    "InChIKey": "DIOQZVSQGTUSAI-UHFFFAOYSA-N",
+                    "adsorption": 1.05919,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.05919
+        },
+        {
+            "pressure": 0.210813,
+            "species_data": [
+                {
+                    "InChIKey": "DIOQZVSQGTUSAI-UHFFFAOYSA-N",
+                    "adsorption": 1.15778,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.15778
+        },
+        {
+            "pressure": 0.47734,
+            "species_data": [
+                {
+                    "InChIKey": "DIOQZVSQGTUSAI-UHFFFAOYSA-N",
+                    "adsorption": 1.38031,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.38031
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 589
+}

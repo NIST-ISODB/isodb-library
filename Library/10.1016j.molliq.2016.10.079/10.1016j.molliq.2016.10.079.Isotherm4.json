@@ -1,0 +1,97 @@
+{
+    "DOI": "10.1016/j.molliq.2016.10.079",
+    "adsorbates": [
+        {
+            "InChIKey": "XLJKHNWPARRRJB-UHFFFAOYSA-N",
+            "name": "Co(II)"
+        },
+        {
+            "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+            "name": "Water"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-2c825ab57b8a9d4f35333b88494ef644",
+        "name": "modified chitin"
+    },
+    "adsorptionUnits": "mg/g",
+    "articleSource": "Figure 1",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-07-09",
+    "digitizer": "Noah C. Whelpley",
+    "filename": "10.1016j.molliq.2016.10.079.Isotherm4",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "XLJKHNWPARRRJB-UHFFFAOYSA-N",
+                    "adsorption": 0.305,
+                    "composition": 0.133
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "XLJKHNWPARRRJB-UHFFFAOYSA-N",
+                    "adsorption": 14.929,
+                    "composition": 1.497
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "XLJKHNWPARRRJB-UHFFFAOYSA-N",
+                    "adsorption": 18.304,
+                    "composition": 2.662
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "XLJKHNWPARRRJB-UHFFFAOYSA-N",
+                    "adsorption": 21.578,
+                    "composition": 3.628
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "XLJKHNWPARRRJB-UHFFFAOYSA-N",
+                    "adsorption": 32.415,
+                    "composition": 7.871
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "XLJKHNWPARRRJB-UHFFFAOYSA-N",
+                    "adsorption": 52.478,
+                    "composition": 20.185
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 328
+}

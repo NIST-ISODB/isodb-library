@@ -1,0 +1,71 @@
+{
+    "DOI": "10.1002/aic.690370514",
+    "adsorbates": [
+        {
+            "InChIKey": "XKRFYHLGVUSROY-UHFFFAOYSA-N",
+            "name": "Argon"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-035dc75dddd00241bd76627f78cbef2d",
+        "name": "Zeolite 5A"
+    },
+    "adsorptionUnits": "molecules/cavity",
+    "articleSource": "UNKNOWN",
+    "category": "",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "1000-01-01",
+    "digitizer": "UNKNOWN",
+    "filename": "10.1002aic.690370514.Isotherm3",
+    "isotherm_data": [
+        {
+            "pressure": 1.01502,
+            "species_data": [
+                {
+                    "InChIKey": "XKRFYHLGVUSROY-UHFFFAOYSA-N",
+                    "adsorption": 0.392125,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.392125
+        },
+        {
+            "pressure": 2.00454,
+            "species_data": [
+                {
+                    "InChIKey": "XKRFYHLGVUSROY-UHFFFAOYSA-N",
+                    "adsorption": 0.675675,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.675675
+        },
+        {
+            "pressure": 2.99409,
+            "species_data": [
+                {
+                    "InChIKey": "XKRFYHLGVUSROY-UHFFFAOYSA-N",
+                    "adsorption": 0.931977,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.931977
+        },
+        {
+            "pressure": 3.96652,
+            "species_data": [
+                {
+                    "InChIKey": "XKRFYHLGVUSROY-UHFFFAOYSA-N",
+                    "adsorption": 1.24305,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.24305
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 297
+}
