@@ -1,12 +1,27 @@
 {
     "DOI": "10.1007/s11356-017-9465-8",
     "adsorbateGas": [
-        "Nitrogen"
+        "Nitrogen",
+        "Ag(III)",
+        "Water",
+        "Ag(V)"
     ],
     "adsorbates": [
         {
             "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
             "name": "Nitrogen"
+        },
+        {
+            "InChIKey": "QWWUPSPHPYNVRP-UHFFFAOYSA-N",
+            "name": "Ag(III)"
+        },
+        {
+            "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+            "name": "Water"
+        },
+        {
+            "InChIKey": "XQDXERXVPWZIDR-UHFFFAOYSA-N",
+            "name": "Ag(V)"
         }
     ],
     "adsorbentMaterial": [

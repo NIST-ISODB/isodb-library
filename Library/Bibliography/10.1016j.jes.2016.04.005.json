@@ -1,12 +1,27 @@
 {
     "DOI": "10.1016/j.jes.2016.04.005",
     "adsorbateGas": [
-        "Nitrogen"
+        "Cadmium",
+        "Nitrogen",
+        "Lead",
+        "Water"
     ],
     "adsorbates": [
         {
+            "InChIKey": "BDOSMKKIYDKNTQ-UHFFFAOYSA-N",
+            "name": "Cadmium"
+        },
+        {
             "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
             "name": "Nitrogen"
+        },
+        {
+            "InChIKey": "WABPQHHGFIMREM-UHFFFAOYSA-N",
+            "name": "Lead"
+        },
+        {
+            "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+            "name": "Water"
         }
     ],
     "adsorbentMaterial": [

@@ -1,21 +1,41 @@
 {
     "DOI": "10.2174/1573413713666170706112204",
     "adsorbateGas": [
-        "Nitrogen"
+        "Methylene blue",
+        "Nitrogen",
+        "Rhodamine B",
+        "Water"
     ],
     "adsorbates": [
         {
+            "InChIKey": "CXKWCBBOMKCUKX-UHFFFAOYSA-M",
+            "name": "Methylene blue"
+        },
+        {
             "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
             "name": "Nitrogen"
+        },
+        {
+            "InChIKey": "PYWVYCXTNDRMGF-UHFFFAOYSA-N",
+            "name": "Rhodamine B"
+        },
+        {
+            "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+            "name": "Water"
         }
     ],
     "adsorbentMaterial": [
-        "Fe3O4/C/MnO2"
+        "Fe3O4/C/MnO2",
+        "Fe3O4/MnO2"
     ],
     "adsorbents": [
         {
             "hashkey": "NIST-MATDB-5cbcaccaf5de8eadc0553ca28360103c",
             "name": "Fe3O4/C/MnO2"
+        },
+        {
+            "hashkey": "NIST-MATDB-df072b6c40de230c6a52f62402dfb867",
+            "name": "Fe3O4/MnO2"
         }
     ],
     "authors": [

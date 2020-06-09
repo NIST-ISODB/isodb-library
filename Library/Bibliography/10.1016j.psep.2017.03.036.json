@@ -1,12 +1,32 @@
 {
     "DOI": "10.1016/j.psep.2017.03.036",
     "adsorbateGas": [
-        "Nitrogen"
+        "O-Xylene",
+        "Nitrogen",
+        "Benzene",
+        "P-Xylene",
+        "Toluene"
     ],
     "adsorbates": [
         {
+            "InChIKey": "CTQNGGLPUBDAKN-UHFFFAOYSA-N",
+            "name": "O-Xylene"
+        },
+        {
             "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
             "name": "Nitrogen"
+        },
+        {
+            "InChIKey": "UHOVQNZJYSORNB-UHFFFAOYSA-N",
+            "name": "Benzene"
+        },
+        {
+            "InChIKey": "URLKBWYHVLBVBO-UHFFFAOYSA-N",
+            "name": "P-Xylene"
+        },
+        {
+            "InChIKey": "YXFVVABEGXRONW-UHFFFAOYSA-N",
+            "name": "Toluene"
         }
     ],
     "adsorbentMaterial": [

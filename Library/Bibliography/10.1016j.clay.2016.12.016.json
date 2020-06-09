@@ -1,12 +1,27 @@
 {
     "DOI": "10.1016/j.clay.2016.12.016",
     "adsorbateGas": [
-        "Nitrogen"
+        "Silver",
+        "Nitrogen",
+        "Copper",
+        "Water"
     ],
     "adsorbates": [
         {
+            "InChIKey": "BQCADISMDOOEFD-UHFFFAOYSA-N",
+            "name": "Silver"
+        },
+        {
             "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
             "name": "Nitrogen"
+        },
+        {
+            "InChIKey": "RYGMFSIKBFXOCR-UHFFFAOYSA-N",
+            "name": "Copper"
+        },
+        {
+            "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+            "name": "Water"
         }
     ],
     "adsorbentMaterial": [

@@ -1,12 +1,27 @@
 {
     "DOI": "10.1016/j.cej.2016.11.112",
     "adsorbateGas": [
-        "Nitrogen"
+        " Arsenate",
+        "Nitrogen",
+        "As(III)",
+        "Water"
     ],
     "adsorbates": [
         {
+            "InChIKey": "HAYXDMNJJFVXCI-UHFFFAOYSA-N",
+            "name": " Arsenate"
+        },
+        {
             "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
             "name": "Nitrogen"
+        },
+        {
+            "InChIKey": "LULLIKNODDLMDQ-UHFFFAOYSA-N",
+            "name": "As(III)"
+        },
+        {
+            "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+            "name": "Water"
         }
     ],
     "adsorbentMaterial": [
@@ -103,7 +118,8 @@
         1.01
     ],
     "temperatures": [
-        77
+        77,
+        298
     ],
     "title": "Redox transformation of arsenic by magnetic thin-film MnO2 nanosheet-coated flowerlike Fe3O4 nanocomposites",
     "year": 2017

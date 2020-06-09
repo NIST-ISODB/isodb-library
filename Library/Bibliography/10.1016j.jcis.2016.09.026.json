@@ -1,12 +1,27 @@
 {
     "DOI": "10.1016/j.jcis.2016.09.026",
     "adsorbateGas": [
-        "Nitrogen"
+        " Arsenate",
+        "Nitrogen",
+        "Cr(VI)",
+        "Water"
     ],
     "adsorbates": [
         {
+            "InChIKey": "HAYXDMNJJFVXCI-UHFFFAOYSA-N",
+            "name": " Arsenate"
+        },
+        {
             "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
             "name": "Nitrogen"
+        },
+        {
+            "InChIKey": "JOPOVCBBYLSVDA-UHFFFAOYSA-N",
+            "name": "Cr(VI)"
+        },
+        {
+            "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+            "name": "Water"
         }
     ],
     "adsorbentMaterial": [

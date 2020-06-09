@@ -1,21 +1,36 @@
 {
     "DOI": "10.1680/jsuin.16.00020",
     "adsorbateGas": [
-        "Nitrogen"
+        "Nitrogen",
+        "Metronidazole",
+        "Water"
     ],
     "adsorbates": [
         {
             "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
             "name": "Nitrogen"
+        },
+        {
+            "InChIKey": "VAOCPAMSLUNLGC-UHFFFAOYSA-N",
+            "name": "Metronidazole"
+        },
+        {
+            "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+            "name": "Water"
         }
     ],
     "adsorbentMaterial": [
+        "Si-100",
         "LiChrosorb RP-18 particle",
         "LiChrosorb RP-18 particles prepared with Ctab and Teos",
         "calcined LiChrosorb RP-18 particles prepared with Ctab and Teos",
         "calcined LiChrosorb RP-18 particles"
     ],
     "adsorbents": [
+        {
+            "hashkey": "NIST-MATDB-07b6c8de6c930bec7d8c04a2c38d8c2b",
+            "name": "Si-100"
+        },
         {
             "hashkey": "NIST-MATDB-2d0138c77895c8f32b05afcd9ef73b97",
             "name": "LiChrosorb RP-18 particle"
