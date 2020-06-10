@@ -1,12 +1,17 @@
 {
     "DOI": "10.1016/j.jcis.2017.01.104",
     "adsorbateGas": [
-        "Nitrogen"
+        "Nitrogen",
+        "Arsenic"
     ],
     "adsorbates": [
         {
             "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
             "name": "Nitrogen"
+        },
+        {
+            "InChIKey": "RQNWIZPPADIBDY-UHFFFAOYSA-N",
+            "name": "Arsenic"
         }
     ],
     "adsorbentMaterial": [
@@ -43,7 +48,10 @@
         1.01
     ],
     "temperatures": [
-        77
+        77,
+        298,
+        308,
+        318
     ],
     "title": "Efficient As(III) removal by magnetic CuO-Fe 3 O 4  nanoparticles through photo-oxidation and adsorption under light irradiation",
     "year": 2017
