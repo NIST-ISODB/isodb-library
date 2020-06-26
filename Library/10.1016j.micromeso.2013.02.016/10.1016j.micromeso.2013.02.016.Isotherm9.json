@@ -1,0 +1,71 @@
+{
+    "DOI": "10.1016/j.micromeso.2013.02.016",
+    "adsorbates": [
+        {
+            "InChIKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+            "name": "Hydrogen"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-d7f409d1f82b2695b1be856e4561ef07",
+        "name": "RH-SNP"
+    },
+    "adsorptionUnits": "wt%",
+    "articleSource": "UNKNOWN",
+    "category": "",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "1000-01-01",
+    "digitizer": "UNKNOWN",
+    "filename": "10.1016j.micromeso.2013.02.016.Isotherm9",
+    "isotherm_data": [
+        {
+            "pressure": 0.950226,
+            "species_data": [
+                {
+                    "InChIKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+                    "adsorption": 0.0957983,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.0957983
+        },
+        {
+            "pressure": 1.67421,
+            "species_data": [
+                {
+                    "InChIKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+                    "adsorption": 0.131092,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.131092
+        },
+        {
+            "pressure": 11.5837,
+            "species_data": [
+                {
+                    "InChIKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+                    "adsorption": 0.277311,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.277311
+        },
+        {
+            "pressure": 19.2308,
+            "species_data": [
+                {
+                    "InChIKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+                    "adsorption": 0.347899,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.347899
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 77
+}

@@ -1,0 +1,60 @@
+{
+    "DOI": "10.1016/j.micromeso.2012.01.033",
+    "adsorbates": [
+        {
+            "InChIKey": "URLKBWYHVLBVBO-UHFFFAOYSA-N",
+            "name": "P-Xylene"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-a802c8f06888bfc869dfc25af5ada337",
+        "name": "Zn(BDC)(DABCO)0.5"
+    },
+    "adsorptionUnits": "",
+    "articleSource": "Figure 6c",
+    "category": "exp",
+    "compositionType": "moleratio",
+    "concentrationUnits": "",
+    "date": "2017-06-28",
+    "digitizer": "Julia Chotoo",
+    "filename": "10.1016j.micromeso.2012.01.033.Isotherm94",
+    "isotherm_data": [
+        {
+            "pressure": 0.000336,
+            "species_data": [
+                {
+                    "InChIKey": "URLKBWYHVLBVBO-UHFFFAOYSA-N",
+                    "adsorption": 0.1759,
+                    "composition": 0.25
+                }
+            ],
+            "total_adsorption": 0.1759
+        },
+        {
+            "pressure": 0.003948,
+            "species_data": [
+                {
+                    "InChIKey": "URLKBWYHVLBVBO-UHFFFAOYSA-N",
+                    "adsorption": 2.8125,
+                    "composition": 0.25
+                }
+            ],
+            "total_adsorption": 2.8125
+        },
+        {
+            "pressure": 0.026064,
+            "species_data": [
+                {
+                    "InChIKey": "URLKBWYHVLBVBO-UHFFFAOYSA-N",
+                    "adsorption": 4.9706,
+                    "composition": 0.25
+                }
+            ],
+            "total_adsorption": 4.9706
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 448
+}

@@ -1,0 +1,71 @@
+{
+    "DOI": "10.1021/acsomega.6b00450",
+    "adsorbates": [
+        {
+            "InChIKey": "RGNVSYKVCGAEHK-GUBZILKMSA-N",
+            "name": "GRGDS"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-7200064870acdc5c9ec1f5dae046cd53",
+        "name": "homo-PAA brushes"
+    },
+    "adsorptionUnits": "mg/m2",
+    "articleSource": "Figure 5",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-07-24",
+    "digitizer": "Justin Chen",
+    "filename": "10.1021acsomega.6b00450.Isotherm2",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "RGNVSYKVCGAEHK-GUBZILKMSA-N",
+                    "adsorption": 3.8404,
+                    "composition": 0.05118
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "RGNVSYKVCGAEHK-GUBZILKMSA-N",
+                    "adsorption": 3.9395,
+                    "composition": 0.09914
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "RGNVSYKVCGAEHK-GUBZILKMSA-N",
+                    "adsorption": 4.7363,
+                    "composition": 0.25143
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "RGNVSYKVCGAEHK-GUBZILKMSA-N",
+                    "adsorption": 4.9933,
+                    "composition": 0.5008
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 277
+}

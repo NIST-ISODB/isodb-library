@@ -1,0 +1,104 @@
+{
+    "DOI": "10.1002/Aic.13970",
+    "adsorbates": [
+        {
+            "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+            "name": "Nitrogen"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-b699807b06891c7f1f32b0be7c081517",
+        "name": "ED-ZIF-8"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "UNKNOWN",
+    "category": "",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "1000-01-01",
+    "digitizer": "UNKNOWN",
+    "filename": "10.1002Aic.13970.isotherm25",
+    "isotherm_data": [
+        {
+            "pressure": 1.02038,
+            "species_data": [
+                {
+                    "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+                    "adsorption": 0.125044,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.125044
+        },
+        {
+            "pressure": 3.02038,
+            "species_data": [
+                {
+                    "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+                    "adsorption": 0.49384,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.49384
+        },
+        {
+            "pressure": 5.14538,
+            "species_data": [
+                {
+                    "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+                    "adsorption": 0.838844,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.838844
+        },
+        {
+            "pressure": 10.187,
+            "species_data": [
+                {
+                    "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+                    "adsorption": 1.89765,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.89765
+        },
+        {
+            "pressure": 15.1454,
+            "species_data": [
+                {
+                    "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+                    "adsorption": 2.92076,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 2.92076
+        },
+        {
+            "pressure": 20.062,
+            "species_data": [
+                {
+                    "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+                    "adsorption": 4.18181,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 4.18181
+        },
+        {
+            "pressure": 24.9787,
+            "species_data": [
+                {
+                    "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+                    "adsorption": 5.43096,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 5.43096
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 318
+}

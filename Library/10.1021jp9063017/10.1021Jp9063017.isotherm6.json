@@ -1,0 +1,82 @@
+{
+    "DOI": "10.1021/Jp9063017",
+    "adsorbates": [
+        {
+            "InChIKey": "YNQLUTRBYVCPMQ-UHFFFAOYSA-N",
+            "name": "Ethylbenzene"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-86dc41dcd5e3b0333da9a0f1d7ebf6b8",
+        "name": "MOF-monoclinic"
+    },
+    "adsorptionUnits": "mg/g",
+    "articleSource": "UNKNOWN",
+    "category": "",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "1000-01-01",
+    "digitizer": "UNKNOWN",
+    "filename": "10.1021Jp9063017.isotherm6",
+    "isotherm_data": [
+        {
+            "pressure": 0.00268714,
+            "species_data": [
+                {
+                    "InChIKey": "YNQLUTRBYVCPMQ-UHFFFAOYSA-N",
+                    "adsorption": 2.6819,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 2.6819
+        },
+        {
+            "pressure": 0.00552658,
+            "species_data": [
+                {
+                    "InChIKey": "YNQLUTRBYVCPMQ-UHFFFAOYSA-N",
+                    "adsorption": 3.25373,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 3.25373
+        },
+        {
+            "pressure": 0.00836601,
+            "species_data": [
+                {
+                    "InChIKey": "YNQLUTRBYVCPMQ-UHFFFAOYSA-N",
+                    "adsorption": 3.35233,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 3.35233
+        },
+        {
+            "pressure": 0.0112562,
+            "species_data": [
+                {
+                    "InChIKey": "YNQLUTRBYVCPMQ-UHFFFAOYSA-N",
+                    "adsorption": 3.35233,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 3.35233
+        },
+        {
+            "pressure": 0.014028,
+            "species_data": [
+                {
+                    "InChIKey": "YNQLUTRBYVCPMQ-UHFFFAOYSA-N",
+                    "adsorption": 4.45655,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 4.45655
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 423
+}

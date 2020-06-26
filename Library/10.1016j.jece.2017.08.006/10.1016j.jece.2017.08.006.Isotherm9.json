@@ -1,0 +1,86 @@
+{
+    "DOI": "10.1016/j.jece.2017.08.006",
+    "adsorbates": [
+        {
+            "InChIKey": "VYXSBFYARXAAKO-UHFFFAOYSA-N",
+            "name": "Rhodamine 6G"
+        },
+        {
+            "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+            "name": "Water"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-808e5b19f40cff9d2209d24215f5f831",
+        "name": "activated carbon from fuel oil"
+    },
+    "adsorptionUnits": "mg/g",
+    "articleSource": "Figure 5",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-07-16",
+    "digitizer": "Daniel Coile",
+    "filename": "10.1016j.jece.2017.08.006.Isotherm9",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "VYXSBFYARXAAKO-UHFFFAOYSA-N",
+                    "adsorption": 19.929,
+                    "composition": 0.1815
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "VYXSBFYARXAAKO-UHFFFAOYSA-N",
+                    "adsorption": 38.809,
+                    "composition": 1.4161
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "VYXSBFYARXAAKO-UHFFFAOYSA-N",
+                    "adsorption": 53.557,
+                    "composition": 6.6395
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "VYXSBFYARXAAKO-UHFFFAOYSA-N",
+                    "adsorption": 62.401,
+                    "composition": 17.8836
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "VYXSBFYARXAAKO-UHFFFAOYSA-N",
+                    "adsorption": 70.066,
+                    "composition": 30.0685
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 318
+}

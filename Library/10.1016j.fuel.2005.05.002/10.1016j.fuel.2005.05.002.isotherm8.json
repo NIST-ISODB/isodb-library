@@ -1,0 +1,71 @@
+{
+    "DOI": "10.1016/j.fuel.2005.05.002",
+    "adsorbates": [
+        {
+            "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+            "name": "Methane"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-453276ee992ed07dc207ed08b2b221ce",
+        "name": "Carbon"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "UNKNOWN",
+    "category": "",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "1000-01-01",
+    "digitizer": "UNKNOWN",
+    "filename": "10.1016j.fuel.2005.05.002.isotherm8",
+    "isotherm_data": [
+        {
+            "pressure": 17.3217,
+            "species_data": [
+                {
+                    "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+                    "adsorption": 0.154945,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.154945
+        },
+        {
+            "pressure": 56.6174,
+            "species_data": [
+                {
+                    "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+                    "adsorption": 0.321142,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.321142
+        },
+        {
+            "pressure": 83.2372,
+            "species_data": [
+                {
+                    "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+                    "adsorption": 0.376072,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.376072
+        },
+        {
+            "pressure": 124.012,
+            "species_data": [
+                {
+                    "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+                    "adsorption": 0.416917,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.416917
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 328
+}

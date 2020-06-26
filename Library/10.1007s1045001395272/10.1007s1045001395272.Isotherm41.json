@@ -1,0 +1,82 @@
+{
+    "DOI": "10.1007/s10450-013-9527-2",
+    "adsorbates": [
+        {
+            "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+            "name": "Methane"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-0430f3ede7fd0f8d58eb6cf454011ef2",
+        "name": "Norit R1 Extra"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "Table 2",
+    "category": "exp",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "2017-07-10",
+    "digitizer": "Julia Chotoo",
+    "filename": "10.1007s1045001395272.Isotherm41",
+    "isotherm_data": [
+        {
+            "pressure": 0.11,
+            "species_data": [
+                {
+                    "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+                    "adsorption": 0.002,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.002
+        },
+        {
+            "pressure": 4.97,
+            "species_data": [
+                {
+                    "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+                    "adsorption": 3.006,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 3.006
+        },
+        {
+            "pressure": 9.97,
+            "species_data": [
+                {
+                    "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+                    "adsorption": 4.187,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 4.187
+        },
+        {
+            "pressure": 14.97,
+            "species_data": [
+                {
+                    "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+                    "adsorption": 4.914,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 4.914
+        },
+        {
+            "pressure": 19.97,
+            "species_data": [
+                {
+                    "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+                    "adsorption": 5.413,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 5.413
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 1,
+    "temperature": 298
+}

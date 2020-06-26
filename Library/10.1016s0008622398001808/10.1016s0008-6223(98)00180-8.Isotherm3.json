@@ -1,0 +1,93 @@
+{
+    "DOI": "10.1016/s0008-6223(98)00180-8",
+    "adsorbates": [
+        {
+            "InChIKey": "VZGDMQKNWNREIO-UHFFFAOYSA-N",
+            "name": "Carbon Tetrachloride"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-a51e31fd1675f01c5964a5c7d1b761b3",
+        "name": "Activated Carbon (KOH-3)"
+    },
+    "adsorptionUnits": "g/g",
+    "articleSource": "Figure 1",
+    "category": "exp",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "2016-06-28",
+    "digitizer": "David A. Anderegg",
+    "filename": "10.1016s0008-6223(98)00180-8.Isotherm3",
+    "isotherm_data": [
+        {
+            "pressure": 0.002233,
+            "species_data": [
+                {
+                    "InChIKey": "VZGDMQKNWNREIO-UHFFFAOYSA-N",
+                    "adsorption": 0.529801,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.529801
+        },
+        {
+            "pressure": 0.007072,
+            "species_data": [
+                {
+                    "InChIKey": "VZGDMQKNWNREIO-UHFFFAOYSA-N",
+                    "adsorption": 0.622517,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.622517
+        },
+        {
+            "pressure": 0.017122,
+            "species_data": [
+                {
+                    "InChIKey": "VZGDMQKNWNREIO-UHFFFAOYSA-N",
+                    "adsorption": 0.643709,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.643709
+        },
+        {
+            "pressure": 0.036104,
+            "species_data": [
+                {
+                    "InChIKey": "VZGDMQKNWNREIO-UHFFFAOYSA-N",
+                    "adsorption": 0.662252,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.662252
+        },
+        {
+            "pressure": 0.065136,
+            "species_data": [
+                {
+                    "InChIKey": "VZGDMQKNWNREIO-UHFFFAOYSA-N",
+                    "adsorption": 0.675497,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.675497
+        },
+        {
+            "pressure": 0.087097,
+            "species_data": [
+                {
+                    "InChIKey": "VZGDMQKNWNREIO-UHFFFAOYSA-N",
+                    "adsorption": 0.683444,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.683444
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}

@@ -1,0 +1,97 @@
+{
+    "DOI": "10.1016/j.biortech.2017.05.162",
+    "adsorbates": [
+        {
+            "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+            "name": "Water"
+        },
+        {
+            "InChIKey": "XTVVROIMIGLXTD-UHFFFAOYSA-N",
+            "name": "Cupric nitrate"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-47efcc764427477e0cbc83fed345df30",
+        "name": "6:4 Cellulose/CMC bioadsorbent"
+    },
+    "adsorptionUnits": "mg/g",
+    "articleSource": "Figure 3",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-07-11",
+    "digitizer": "Gabrielle Magid",
+    "filename": "10.1016j.biortech.2017.05.162.Isotherm1",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "XTVVROIMIGLXTD-UHFFFAOYSA-N",
+                    "adsorption": 61.69,
+                    "composition": 36.96
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "XTVVROIMIGLXTD-UHFFFAOYSA-N",
+                    "adsorption": 153.92,
+                    "composition": 132.61
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "XTVVROIMIGLXTD-UHFFFAOYSA-N",
+                    "adsorption": 206.66,
+                    "composition": 264.97
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "XTVVROIMIGLXTD-UHFFFAOYSA-N",
+                    "adsorption": 251.22,
+                    "composition": 397.33
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "XTVVROIMIGLXTD-UHFFFAOYSA-N",
+                    "adsorption": 295.78,
+                    "composition": 532.57
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "XTVVROIMIGLXTD-UHFFFAOYSA-N",
+                    "adsorption": 325.44,
+                    "composition": 683.29
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 303
+}

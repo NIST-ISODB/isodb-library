@@ -1,0 +1,71 @@
+{
+    "DOI": "10.1002/Aic.14467",
+    "adsorbates": [
+        {
+            "InChIKey": "RAHZWNYVWXNFOC-UHFFFAOYSA-N",
+            "name": "Sulfur dioxide"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-f455e6339397d022a9bf1134cca8376d",
+        "name": "DDR"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "UNKNOWN",
+    "category": "",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "1000-01-01",
+    "digitizer": "UNKNOWN",
+    "filename": "10.1002Aic.14467.Isotherm56",
+    "isotherm_data": [
+        {
+            "pressure": 0.247967,
+            "species_data": [
+                {
+                    "InChIKey": "RAHZWNYVWXNFOC-UHFFFAOYSA-N",
+                    "adsorption": 1.1413,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.1413
+        },
+        {
+            "pressure": 0.495935,
+            "species_data": [
+                {
+                    "InChIKey": "RAHZWNYVWXNFOC-UHFFFAOYSA-N",
+                    "adsorption": 1.79348,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.79348
+        },
+        {
+            "pressure": 0.747967,
+            "species_data": [
+                {
+                    "InChIKey": "RAHZWNYVWXNFOC-UHFFFAOYSA-N",
+                    "adsorption": 1.79348,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.79348
+        },
+        {
+            "pressure": 1.00407,
+            "species_data": [
+                {
+                    "InChIKey": "RAHZWNYVWXNFOC-UHFFFAOYSA-N",
+                    "adsorption": 1.79348,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.79348
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 313
+}

@@ -1,0 +1,90 @@
+{
+    "DOI": "10.1016/j.chemosphere.2017.03.005",
+    "adsorbates": [
+        {
+            "InChIKey": "JPVYNHNXODAKFH-UHFFFAOYSA-N",
+            "name": "Copper(II) Ion"
+        },
+        {
+            "InChIKey": "METKIMKYRPQLGS-UHFFFAOYSA-N",
+            "name": "Atenolol"
+        },
+        {
+            "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+            "name": "Water"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-1094d4898cf9bedd08449521dd8f374f",
+        "name": "Magnetic Cation Exchange Resin"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "Figure 3",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-07-12",
+    "digitizer": "Daniel Coile",
+    "filename": "10.1016j.chemosphere.2017.03.005.Isotherm3",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "METKIMKYRPQLGS-UHFFFAOYSA-N",
+                    "adsorption": 0.19876,
+                    "composition": 0.04927
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "METKIMKYRPQLGS-UHFFFAOYSA-N",
+                    "adsorption": 0.46284,
+                    "composition": 0.2999
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "METKIMKYRPQLGS-UHFFFAOYSA-N",
+                    "adsorption": 0.76677,
+                    "composition": 0.66111
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "METKIMKYRPQLGS-UHFFFAOYSA-N",
+                    "adsorption": 1.26242,
+                    "composition": 1.77665
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "METKIMKYRPQLGS-UHFFFAOYSA-N",
+                    "adsorption": 1.38439,
+                    "composition": 2.40267
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 293
+}

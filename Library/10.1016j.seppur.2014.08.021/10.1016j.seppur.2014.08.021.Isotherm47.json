@@ -1,0 +1,71 @@
+{
+    "DOI": "10.1016/j.seppur.2014.08.021",
+    "adsorbates": [
+        {
+            "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+            "name": "Nitrogen"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-eb8a03810908350733a3ad317d9a5927",
+        "name": "MOF-508b"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "Figure 7c",
+    "category": "exp",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "2017-06-29",
+    "digitizer": "Julia Chotoo",
+    "filename": "10.1016j.seppur.2014.08.021.Isotherm47",
+    "isotherm_data": [
+        {
+            "pressure": 1.029,
+            "species_data": [
+                {
+                    "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+                    "adsorption": 0.5715,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.5715
+        },
+        {
+            "pressure": 2.0584,
+            "species_data": [
+                {
+                    "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+                    "adsorption": 0.986,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.986
+        },
+        {
+            "pressure": 3.0307,
+            "species_data": [
+                {
+                    "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+                    "adsorption": 1.3374,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.3374
+        },
+        {
+            "pressure": 4.4984,
+            "species_data": [
+                {
+                    "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+                    "adsorption": 1.9744,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.9744
+        }
+    ],
+    "isotherm_type": "excess",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 343
+}

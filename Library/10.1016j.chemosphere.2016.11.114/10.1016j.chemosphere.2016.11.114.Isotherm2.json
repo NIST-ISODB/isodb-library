@@ -1,0 +1,93 @@
+{
+    "DOI": "10.1016/j.chemosphere.2016.11.114",
+    "adsorbates": [
+        {
+            "InChIKey": "YFSUTJLHUFNCNZ-UHFFFAOYSA-N",
+            "name": "Perfluorooctanesulfonic acid"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-d601b69ab9feef8f2450e400cf44eb1c",
+        "name": "soil without organic matter"
+    },
+    "adsorptionUnits": "",
+    "articleSource": "Figure 1",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-07-18",
+    "digitizer": "Justin Chen",
+    "filename": "10.1016j.chemosphere.2016.11.114.Isotherm2",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "YFSUTJLHUFNCNZ-UHFFFAOYSA-N",
+                    "adsorption": 5.98,
+                    "composition": 0.7807
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "YFSUTJLHUFNCNZ-UHFFFAOYSA-N",
+                    "adsorption": 19.707,
+                    "composition": 1.8188
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "YFSUTJLHUFNCNZ-UHFFFAOYSA-N",
+                    "adsorption": 33.831,
+                    "composition": 3.9043
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "YFSUTJLHUFNCNZ-UHFFFAOYSA-N",
+                    "adsorption": 47.879,
+                    "composition": 8.4183
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "YFSUTJLHUFNCNZ-UHFFFAOYSA-N",
+                    "adsorption": 55.141,
+                    "composition": 13.1799
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "YFSUTJLHUFNCNZ-UHFFFAOYSA-N",
+                    "adsorption": 61.187,
+                    "composition": 17.9902
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}

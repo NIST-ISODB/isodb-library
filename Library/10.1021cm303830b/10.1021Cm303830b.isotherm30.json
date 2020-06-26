@@ -1,0 +1,104 @@
+{
+    "DOI": "10.1021/Cm303830b",
+    "adsorbates": [
+        {
+            "InChIKey": "VLKZOEOYAKHREP-UHFFFAOYSA-N",
+            "name": "N-Hexane"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-b4e3deb814ce75802e634bdf5fe06439",
+        "name": "MIL-88A"
+    },
+    "adsorptionUnits": "mg/g",
+    "articleSource": "UNKNOWN",
+    "category": "",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "1000-01-01",
+    "digitizer": "UNKNOWN",
+    "filename": "10.1021Cm303830b.isotherm30",
+    "isotherm_data": [
+        {
+            "pressure": 0.000679,
+            "species_data": [
+                {
+                    "InChIKey": "VLKZOEOYAKHREP-UHFFFAOYSA-N",
+                    "adsorption": 1.01432,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.01432
+        },
+        {
+            "pressure": 0.00474025,
+            "species_data": [
+                {
+                    "InChIKey": "VLKZOEOYAKHREP-UHFFFAOYSA-N",
+                    "adsorption": 15.7622,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 15.7622
+        },
+        {
+            "pressure": 0.0112389,
+            "species_data": [
+                {
+                    "InChIKey": "VLKZOEOYAKHREP-UHFFFAOYSA-N",
+                    "adsorption": 23.9555,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 23.9555
+        },
+        {
+            "pressure": 0.0648531,
+            "species_data": [
+                {
+                    "InChIKey": "VLKZOEOYAKHREP-UHFFFAOYSA-N",
+                    "adsorption": 37.611,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 37.611
+        },
+        {
+            "pressure": 0.11603,
+            "species_data": [
+                {
+                    "InChIKey": "VLKZOEOYAKHREP-UHFFFAOYSA-N",
+                    "adsorption": 43.6194,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 43.6194
+        },
+        {
+            "pressure": 0.205387,
+            "species_data": [
+                {
+                    "InChIKey": "VLKZOEOYAKHREP-UHFFFAOYSA-N",
+                    "adsorption": 50.174,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 50.174
+        },
+        {
+            "pressure": 0.295557,
+            "species_data": [
+                {
+                    "InChIKey": "VLKZOEOYAKHREP-UHFFFAOYSA-N",
+                    "adsorption": 60.0059,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 60.0059
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 313
+}

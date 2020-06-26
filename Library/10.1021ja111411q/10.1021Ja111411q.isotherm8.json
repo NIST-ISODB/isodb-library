@@ -1,0 +1,71 @@
+{
+    "DOI": "10.1021/Ja111411q",
+    "adsorbates": [
+        {
+            "InChIKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+            "name": "Hydrogen"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-f4b549a56c1a5caf008c436b7d0aaaea",
+        "name": "Mg2(dobdc)"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "UNKNOWN",
+    "category": "",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "1000-01-01",
+    "digitizer": "UNKNOWN",
+    "filename": "10.1021Ja111411q.isotherm8",
+    "isotherm_data": [
+        {
+            "pressure": 9.46418,
+            "species_data": [
+                {
+                    "InChIKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+                    "adsorption": 0.591854,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.591854
+        },
+        {
+            "pressure": 19.0416,
+            "species_data": [
+                {
+                    "InChIKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+                    "adsorption": 1.04256,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.04256
+        },
+        {
+            "pressure": 28.4501,
+            "species_data": [
+                {
+                    "InChIKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+                    "adsorption": 1.5496,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.5496
+        },
+        {
+            "pressure": 37.8022,
+            "species_data": [
+                {
+                    "InChIKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+                    "adsorption": 1.83129,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.83129
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 313
+}

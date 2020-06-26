@@ -1,0 +1,60 @@
+{
+    "DOI": "10.1021/Ja509960n",
+    "adsorbates": [
+        {
+            "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+            "name": "Nitrogen"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-33f35f0671baca7fffbda5567ea669bd",
+        "name": "moisture treated ZnBT 1d"
+    },
+    "adsorptionUnits": "cm3(STP)/g",
+    "articleSource": "UNKNOWN",
+    "category": "",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "1000-01-01",
+    "digitizer": "UNKNOWN",
+    "filename": "10.1021Ja509960n.Isotherm19",
+    "isotherm_data": [
+        {
+            "pressure": 0.304078,
+            "species_data": [
+                {
+                    "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+                    "adsorption": 3.81684,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 3.81684
+        },
+        {
+            "pressure": 0.430149,
+            "species_data": [
+                {
+                    "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+                    "adsorption": 2.74058,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 2.74058
+        },
+        {
+            "pressure": 0.90665,
+            "species_data": [
+                {
+                    "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+                    "adsorption": 5.61985,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 5.61985
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 77
+}

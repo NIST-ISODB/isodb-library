@@ -1,0 +1,71 @@
+{
+    "DOI": "10.1002/cjoc.200591593",
+    "adsorbates": [
+        {
+            "InChIKey": "VQTUBCCKSQIDNK-UHFFFAOYSA-N",
+            "name": "Isobutene"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-5d0728ebc1e0053aa120288307a704c8",
+        "name": "Silicalite MFI"
+    },
+    "adsorptionUnits": "molecules*box^-1",
+    "articleSource": "UNKNOWN",
+    "category": "",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "1000-01-01",
+    "digitizer": "UNKNOWN",
+    "filename": "10.1002cjoc.200591593.isotherm5",
+    "isotherm_data": [
+        {
+            "pressure": 0.503576,
+            "species_data": [
+                {
+                    "InChIKey": "VQTUBCCKSQIDNK-UHFFFAOYSA-N",
+                    "adsorption": 3.21785,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 3.21785
+        },
+        {
+            "pressure": 1.02415,
+            "species_data": [
+                {
+                    "InChIKey": "VQTUBCCKSQIDNK-UHFFFAOYSA-N",
+                    "adsorption": 6.21543,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 6.21543
+        },
+        {
+            "pressure": 2.00523,
+            "species_data": [
+                {
+                    "InChIKey": "VQTUBCCKSQIDNK-UHFFFAOYSA-N",
+                    "adsorption": 10.5859,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 10.5859
+        },
+        {
+            "pressure": 3.00633,
+            "species_data": [
+                {
+                    "InChIKey": "VQTUBCCKSQIDNK-UHFFFAOYSA-N",
+                    "adsorption": 13.5149,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 13.5149
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 800
+}

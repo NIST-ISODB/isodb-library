@@ -1,0 +1,104 @@
+{
+    "DOI": "10.1021/La400352r",
+    "adsorbates": [
+        {
+            "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+            "name": "Carbon Dioxide"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-17abf7bbea04f2e8fee3f9203193d266",
+        "name": "Zeolite LS-K-KFI"
+    },
+    "adsorptionUnits": "molecules/unitcell",
+    "articleSource": "UNKNOWN",
+    "category": "",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "1000-01-01",
+    "digitizer": "UNKNOWN",
+    "filename": "10.1021La400352r.isotherm26",
+    "isotherm_data": [
+        {
+            "pressure": 0.0107185,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 0.187264,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.187264
+        },
+        {
+            "pressure": 0.0358512,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 0.908273,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.908273
+        },
+        {
+            "pressure": 0.116936,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 2.54693,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 2.54693
+        },
+        {
+            "pressure": 0.443548,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 5.56205,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 5.56205
+        },
+        {
+            "pressure": 0.943347,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 9.1671,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 9.1671
+        },
+        {
+            "pressure": 2.51607,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 13.8209,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 13.8209
+        },
+        {
+            "pressure": 8.84995,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 20.31,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 20.31
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 303
+}

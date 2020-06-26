@@ -1,0 +1,93 @@
+{
+    "DOI": "10.1039/c6nj02755e",
+    "adsorbates": [
+        {
+            "InChIKey": "NIST-ISODB-A8509374E494721B4FDB",
+            "name": "Lysozyme L8120"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-5065bc796ee973f1f74f3efeb111ecf0",
+        "name": "Fe3O4@SiO2@AT"
+    },
+    "adsorptionUnits": "",
+    "articleSource": "Figure 6",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-07-16",
+    "digitizer": "Gabrielle Magid",
+    "filename": "10.1039c6nj02755e.Isotherm2",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "NIST-ISODB-A8509374E494721B4FDB",
+                    "adsorption": 4.1e-05,
+                    "composition": 0.0074
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "NIST-ISODB-A8509374E494721B4FDB",
+                    "adsorption": 0.007523,
+                    "composition": 0.1031
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "NIST-ISODB-A8509374E494721B4FDB",
+                    "adsorption": 0.015043,
+                    "composition": 0.4972
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "NIST-ISODB-A8509374E494721B4FDB",
+                    "adsorption": 0.020052,
+                    "composition": 0.9998
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "NIST-ISODB-A8509374E494721B4FDB",
+                    "adsorption": 0.022575,
+                    "composition": 2.9816
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "NIST-ISODB-A8509374E494721B4FDB",
+                    "adsorption": 0.023054,
+                    "composition": 4.9984
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}

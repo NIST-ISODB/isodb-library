@@ -1,0 +1,93 @@
+{
+    "DOI": "10.1021/jp036105g",
+    "adsorbates": [
+        {
+            "InChIKey": "GRYLNZFGIOXLOG-UHFFFAOYSA-N",
+            "name": "Nitric acid"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-00889e17b7eb62ce1d67477ca568ca07",
+        "name": "Soot"
+    },
+    "adsorptionUnits": "molecules/cm2",
+    "articleSource": "UNKNOWN",
+    "category": "",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "1000-01-01",
+    "digitizer": "UNKNOWN",
+    "filename": "10.1021jp036105g.Isotherm13",
+    "isotherm_data": [
+        {
+            "pressure": 3.85e-09,
+            "species_data": [
+                {
+                    "InChIKey": "GRYLNZFGIOXLOG-UHFFFAOYSA-N",
+                    "adsorption": 9480000000000,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 9480000000000
+        },
+        {
+            "pressure": 5.84e-09,
+            "species_data": [
+                {
+                    "InChIKey": "GRYLNZFGIOXLOG-UHFFFAOYSA-N",
+                    "adsorption": 14200000000000,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 14200000000000
+        },
+        {
+            "pressure": 8.27e-09,
+            "species_data": [
+                {
+                    "InChIKey": "GRYLNZFGIOXLOG-UHFFFAOYSA-N",
+                    "adsorption": 20300000000000,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 20300000000000
+        },
+        {
+            "pressure": 1.1e-08,
+            "species_data": [
+                {
+                    "InChIKey": "GRYLNZFGIOXLOG-UHFFFAOYSA-N",
+                    "adsorption": 21200000000000,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 21200000000000
+        },
+        {
+            "pressure": 2.02e-08,
+            "species_data": [
+                {
+                    "InChIKey": "GRYLNZFGIOXLOG-UHFFFAOYSA-N",
+                    "adsorption": 29700000000000,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 29700000000000
+        },
+        {
+            "pressure": 2.36e-08,
+            "species_data": [
+                {
+                    "InChIKey": "GRYLNZFGIOXLOG-UHFFFAOYSA-N",
+                    "adsorption": 34900000000000,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 34900000000000
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 253
+}

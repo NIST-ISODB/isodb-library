@@ -1,0 +1,71 @@
+{
+    "DOI": "10.1061/(asce)0733-9372(2004)130:3(231)",
+    "adsorbates": [
+        {
+            "InChIKey": "ZWEHNKRNPOVVGH-UHFFFAOYSA-N",
+            "name": "Methyl ethyl ketone"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-53256c6245916687da75e9161379dc5f",
+        "name": "Activated Carbon Fiber Cloth"
+    },
+    "adsorptionUnits": "mg/g",
+    "articleSource": "Figure 7a",
+    "category": "mod",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "2016-07-14",
+    "digitizer": "Kailey M. Stracka",
+    "filename": "10.1061asce0733937220041303231.Isotherm53",
+    "isotherm_data": [
+        {
+            "pressure": 0.079918,
+            "species_data": [
+                {
+                    "InChIKey": "ZWEHNKRNPOVVGH-UHFFFAOYSA-N",
+                    "adsorption": 600.384,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 600.384
+        },
+        {
+            "pressure": 0.081332,
+            "species_data": [
+                {
+                    "InChIKey": "ZWEHNKRNPOVVGH-UHFFFAOYSA-N",
+                    "adsorption": 600.358,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 600.358
+        },
+        {
+            "pressure": 0.082413,
+            "species_data": [
+                {
+                    "InChIKey": "ZWEHNKRNPOVVGH-UHFFFAOYSA-N",
+                    "adsorption": 600.338,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 600.338
+        },
+        {
+            "pressure": 0.083827,
+            "species_data": [
+                {
+                    "InChIKey": "ZWEHNKRNPOVVGH-UHFFFAOYSA-N",
+                    "adsorption": 600.312,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 600.312
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 293
+}

@@ -1,0 +1,93 @@
+{
+    "DOI": "10.1021/Jp064971y",
+    "adsorbates": [
+        {
+            "InChIKey": "TVMXDCGIABBOFY-UHFFFAOYSA-N",
+            "name": "N-Octane"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-035dc75dddd00241bd76627f78cbef2d",
+        "name": "Zeolite 5A"
+    },
+    "adsorptionUnits": "molecules/cavity",
+    "articleSource": "UNKNOWN",
+    "category": "",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "1000-01-01",
+    "digitizer": "UNKNOWN",
+    "filename": "10.1021Jp064971y.isotherm64",
+    "isotherm_data": [
+        {
+            "pressure": 0.00131522,
+            "species_data": [
+                {
+                    "InChIKey": "TVMXDCGIABBOFY-UHFFFAOYSA-N",
+                    "adsorption": 0.178053,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.178053
+        },
+        {
+            "pressure": 0.00249961,
+            "species_data": [
+                {
+                    "InChIKey": "TVMXDCGIABBOFY-UHFFFAOYSA-N",
+                    "adsorption": 0.301996,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.301996
+        },
+        {
+            "pressure": 0.00515177,
+            "species_data": [
+                {
+                    "InChIKey": "TVMXDCGIABBOFY-UHFFFAOYSA-N",
+                    "adsorption": 0.439461,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.439461
+        },
+        {
+            "pressure": 0.0089122,
+            "species_data": [
+                {
+                    "InChIKey": "TVMXDCGIABBOFY-UHFFFAOYSA-N",
+                    "adsorption": 0.612982,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.612982
+        },
+        {
+            "pressure": 0.0127739,
+            "species_data": [
+                {
+                    "InChIKey": "TVMXDCGIABBOFY-UHFFFAOYSA-N",
+                    "adsorption": 0.712137,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.712137
+        },
+        {
+            "pressure": 0.0181905,
+            "species_data": [
+                {
+                    "InChIKey": "TVMXDCGIABBOFY-UHFFFAOYSA-N",
+                    "adsorption": 0.79101,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.79101
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 568
+}

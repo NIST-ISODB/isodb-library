@@ -1,0 +1,126 @@
+{
+    "DOI": "10.1016/0009-2509(92)85005-v",
+    "adsorbates": [
+        {
+            "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+            "name": "Methane"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-9e23f5f57a219d77d81a9193c8cc2e2c",
+        "name": "Graphite"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "Figure 9",
+    "category": "sim",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "2016-06-09",
+    "digitizer": "Kailey M. Stracka",
+    "filename": "10.10160009-2509(92)85005-v.Isotherm3",
+    "isotherm_data": [
+        {
+            "pressure": 0.656573,
+            "species_data": [
+                {
+                    "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+                    "adsorption": 0.131868,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.131868
+        },
+        {
+            "pressure": 1.31303,
+            "species_data": [
+                {
+                    "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+                    "adsorption": 0.307692,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.307692
+        },
+        {
+            "pressure": 2.02434,
+            "species_data": [
+                {
+                    "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+                    "adsorption": 0.43956,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.43956
+        },
+        {
+            "pressure": 3.44686,
+            "species_data": [
+                {
+                    "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+                    "adsorption": 0.747253,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.747253
+        },
+        {
+            "pressure": 4.75989,
+            "species_data": [
+                {
+                    "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+                    "adsorption": 1.05495,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.05495
+        },
+        {
+            "pressure": 6.8391,
+            "species_data": [
+                {
+                    "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+                    "adsorption": 1.45055,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.45055
+        },
+        {
+            "pressure": 13.7328,
+            "species_data": [
+                {
+                    "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+                    "adsorption": 2.94505,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 2.94505
+        },
+        {
+            "pressure": 20.4629,
+            "species_data": [
+                {
+                    "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+                    "adsorption": 4.21978,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 4.21978
+        },
+        {
+            "pressure": 34.4714,
+            "species_data": [
+                {
+                    "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+                    "adsorption": 6.46154,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 6.46154
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 373
+}

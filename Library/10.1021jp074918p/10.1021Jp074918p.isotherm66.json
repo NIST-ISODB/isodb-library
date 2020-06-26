@@ -1,0 +1,71 @@
+{
+    "DOI": "10.1021/Jp074918p",
+    "adsorbates": [
+        {
+            "InChIKey": "QQONPFPTGQHPMA-UHFFFAOYSA-N",
+            "name": "Propene"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-367c1fc33062b7f842fdf3a5071148d9",
+        "name": "Zeolite FAU"
+    },
+    "adsorptionUnits": "molecules/unitcell",
+    "articleSource": "UNKNOWN",
+    "category": "",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "1000-01-01",
+    "digitizer": "UNKNOWN",
+    "filename": "10.1021Jp074918p.isotherm66",
+    "isotherm_data": [
+        {
+            "pressure": 0.0967378,
+            "species_data": [
+                {
+                    "InChIKey": "QQONPFPTGQHPMA-UHFFFAOYSA-N",
+                    "adsorption": 0.421351,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.421351
+        },
+        {
+            "pressure": 0.18605,
+            "species_data": [
+                {
+                    "InChIKey": "QQONPFPTGQHPMA-UHFFFAOYSA-N",
+                    "adsorption": 0.858325,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.858325
+        },
+        {
+            "pressure": 0.4839,
+            "species_data": [
+                {
+                    "InChIKey": "QQONPFPTGQHPMA-UHFFFAOYSA-N",
+                    "adsorption": 1.62303,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.62303
+        },
+        {
+            "pressure": 0.978674,
+            "species_data": [
+                {
+                    "InChIKey": "QQONPFPTGQHPMA-UHFFFAOYSA-N",
+                    "adsorption": 3.15244,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 3.15244
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 423
+}

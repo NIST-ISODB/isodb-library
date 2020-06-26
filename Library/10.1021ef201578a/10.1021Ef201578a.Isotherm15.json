@@ -1,0 +1,71 @@
+{
+    "DOI": "10.1021/Ef201578a",
+    "adsorbates": [
+        {
+            "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+            "name": "Carbon Dioxide"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-2b4e5ee5581fc4f6e633d576c1cd6fc2",
+        "name": "PEI-25-APTES-25-PQCS2129"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "UNKNOWN",
+    "category": "",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "1000-01-01",
+    "digitizer": "UNKNOWN",
+    "filename": "10.1021Ef201578a.Isotherm15",
+    "isotherm_data": [
+        {
+            "pressure": 0.0388769,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 0.211446,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.211446
+        },
+        {
+            "pressure": 0.0842333,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 0.654113,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.654113
+        },
+        {
+            "pressure": 0.50108,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 1.91458,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.91458
+        },
+        {
+            "pressure": 0.831533,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 2.25961,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 2.25961
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 383
+}

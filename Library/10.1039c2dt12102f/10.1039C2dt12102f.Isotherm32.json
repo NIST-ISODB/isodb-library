@@ -1,0 +1,60 @@
+{
+    "DOI": "10.1039/C2dt12102f",
+    "adsorbates": [
+        {
+            "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+            "name": "Carbon Dioxide"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-48f4023d446be2a618f2ac6acc88fee2",
+        "name": "MIL-100(Cr)"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "UNKNOWN",
+    "category": "",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "1000-01-01",
+    "digitizer": "UNKNOWN",
+    "filename": "10.1039C2dt12102f.Isotherm32",
+    "isotherm_data": [
+        {
+            "pressure": 0.974729,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 1.26918,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.26918
+        },
+        {
+            "pressure": 4.98195,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 2.74552,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 2.74552
+        },
+        {
+            "pressure": 10,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 3.81818,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 3.81818
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 303
+}

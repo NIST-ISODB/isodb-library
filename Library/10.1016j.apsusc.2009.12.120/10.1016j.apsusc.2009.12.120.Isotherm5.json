@@ -1,0 +1,71 @@
+{
+    "DOI": "10.1016/j.apsusc.2009.12.120",
+    "adsorbates": [
+        {
+            "InChIKey": "QQONPFPTGQHPMA-UHFFFAOYSA-N",
+            "name": "Propene"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-522d29cb5d21925b793001fffba6304c",
+        "name": "Mordenite"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "UNKNOWN",
+    "category": "",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "1000-01-01",
+    "digitizer": "UNKNOWN",
+    "filename": "10.1016j.apsusc.2009.12.120.Isotherm5",
+    "isotherm_data": [
+        {
+            "pressure": 5.09e-05,
+            "species_data": [
+                {
+                    "InChIKey": "QQONPFPTGQHPMA-UHFFFAOYSA-N",
+                    "adsorption": 0.221808,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.221808
+        },
+        {
+            "pressure": 0.000102,
+            "species_data": [
+                {
+                    "InChIKey": "QQONPFPTGQHPMA-UHFFFAOYSA-N",
+                    "adsorption": 0.331716,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.331716
+        },
+        {
+            "pressure": 0.000254,
+            "species_data": [
+                {
+                    "InChIKey": "QQONPFPTGQHPMA-UHFFFAOYSA-N",
+                    "adsorption": 0.467023,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.467023
+        },
+        {
+            "pressure": 0.000501,
+            "species_data": [
+                {
+                    "InChIKey": "QQONPFPTGQHPMA-UHFFFAOYSA-N",
+                    "adsorption": 0.571128,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.571128
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 303
+}

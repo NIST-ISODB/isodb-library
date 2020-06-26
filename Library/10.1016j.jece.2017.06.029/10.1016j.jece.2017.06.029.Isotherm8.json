@@ -1,0 +1,108 @@
+{
+    "DOI": "10.1016/j.jece.2017.06.029",
+    "adsorbates": [
+        {
+            "InChIKey": "HCHKCACWOHOZIP-UHFFFAOYSA-N",
+            "name": "Zinc"
+        },
+        {
+            "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+            "name": "Water"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-64e64627f356693b5d321463926d160b",
+        "name": "Treated Laterite"
+    },
+    "adsorptionUnits": "mg/g",
+    "articleSource": "Figure 4",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-07-24",
+    "digitizer": "Daniel Coile",
+    "filename": "10.1016j.jece.2017.06.029.Isotherm8",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "HCHKCACWOHOZIP-UHFFFAOYSA-N",
+                    "adsorption": 1.35025,
+                    "composition": 1.5
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "HCHKCACWOHOZIP-UHFFFAOYSA-N",
+                    "adsorption": 1.85103,
+                    "composition": 8.346
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "HCHKCACWOHOZIP-UHFFFAOYSA-N",
+                    "adsorption": 2.15225,
+                    "composition": 17.577
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "HCHKCACWOHOZIP-UHFFFAOYSA-N",
+                    "adsorption": 2.43766,
+                    "composition": 25.049
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "HCHKCACWOHOZIP-UHFFFAOYSA-N",
+                    "adsorption": 2.55049,
+                    "composition": 42.564
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "HCHKCACWOHOZIP-UHFFFAOYSA-N",
+                    "adsorption": 2.82431,
+                    "composition": 58.576
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "HCHKCACWOHOZIP-UHFFFAOYSA-N",
+                    "adsorption": 2.9167,
+                    "composition": 77.677
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 308
+}

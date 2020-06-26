@@ -1,0 +1,93 @@
+{
+    "DOI": "10.1039/C2dt12102f",
+    "adsorbates": [
+        {
+            "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+            "name": "Carbon Dioxide"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-48f4023d446be2a618f2ac6acc88fee2",
+        "name": "MIL-100(Cr)"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "UNKNOWN",
+    "category": "",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "1000-01-01",
+    "digitizer": "UNKNOWN",
+    "filename": "10.1039C2dt12102f.Isotherm23",
+    "isotherm_data": [
+        {
+            "pressure": 0.0359712,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 0,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0
+        },
+        {
+            "pressure": 0.107914,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 0.363636,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.363636
+        },
+        {
+            "pressure": 1.97842,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 1.41818,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.41818
+        },
+        {
+            "pressure": 3.99281,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 2.83636,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 2.83636
+        },
+        {
+            "pressure": 7.98561,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 3.92727,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 3.92727
+        },
+        {
+            "pressure": 10,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 5.23636,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 5.23636
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 303
+}

@@ -1,0 +1,119 @@
+{
+    "DOI": "10.1021/acs.jced.5b00844",
+    "adsorbates": [
+        {
+            "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+            "name": "Nitrogen"
+        },
+        {
+            "InChIKey": "PIWKPBJCKXDKJR-UHFFFAOYSA-N",
+            "name": "Isoflurane"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-1d931837c183dc044b4011fd1c646c49",
+        "name": "HCZP200E Zeolite"
+    },
+    "adsorptionUnits": "micromoles/m2",
+    "articleSource": "Figure 8/Table S2",
+    "category": "exp",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "2019-07-31",
+    "digitizer": "Justin Chen",
+    "filename": "10.1021acs.jced.5b00844.Isotherm9",
+    "isotherm_data": [
+        {
+            "pressure": 1,
+            "species_data": [
+                {
+                    "InChIKey": "PIWKPBJCKXDKJR-UHFFFAOYSA-N",
+                    "adsorption": 1.42,
+                    "composition": 8.6e-05
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1,
+            "species_data": [
+                {
+                    "InChIKey": "PIWKPBJCKXDKJR-UHFFFAOYSA-N",
+                    "adsorption": 1.47,
+                    "composition": 0.000193
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1,
+            "species_data": [
+                {
+                    "InChIKey": "PIWKPBJCKXDKJR-UHFFFAOYSA-N",
+                    "adsorption": 1.5,
+                    "composition": 0.00029
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1,
+            "species_data": [
+                {
+                    "InChIKey": "PIWKPBJCKXDKJR-UHFFFAOYSA-N",
+                    "adsorption": 1.53,
+                    "composition": 0.000348
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1,
+            "species_data": [
+                {
+                    "InChIKey": "PIWKPBJCKXDKJR-UHFFFAOYSA-N",
+                    "adsorption": 1.57,
+                    "composition": 0.00058
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1,
+            "species_data": [
+                {
+                    "InChIKey": "PIWKPBJCKXDKJR-UHFFFAOYSA-N",
+                    "adsorption": 1.58,
+                    "composition": 0.000695
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1,
+            "species_data": [
+                {
+                    "InChIKey": "PIWKPBJCKXDKJR-UHFFFAOYSA-N",
+                    "adsorption": 1.62,
+                    "composition": 0.000869
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1,
+            "species_data": [
+                {
+                    "InChIKey": "PIWKPBJCKXDKJR-UHFFFAOYSA-N",
+                    "adsorption": 1.65,
+                    "composition": 0.001159
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 1,
+    "temperature": 298
+}

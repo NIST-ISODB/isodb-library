@@ -1,0 +1,71 @@
+{
+    "DOI": "10.1021/je000273+",
+    "adsorbates": [
+        {
+            "InChIKey": "QGZKDVFQNNGYKY-UHFFFAOYSA-N",
+            "name": "Ammonia"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-d1f2e00ceb9a4e96ee194af06e4aad91",
+        "name": "Zeolite 5A KE154"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "UNKNOWN",
+    "category": "",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "1000-01-01",
+    "digitizer": "UNKNOWN",
+    "filename": "10.1021je000273plus.Isotherm33",
+    "isotherm_data": [
+        {
+            "pressure": 0.110837,
+            "species_data": [
+                {
+                    "InChIKey": "QGZKDVFQNNGYKY-UHFFFAOYSA-N",
+                    "adsorption": 6.72263,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 6.72263
+        },
+        {
+            "pressure": 0.456429,
+            "species_data": [
+                {
+                    "InChIKey": "QGZKDVFQNNGYKY-UHFFFAOYSA-N",
+                    "adsorption": 7.24977,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 7.24977
+        },
+        {
+            "pressure": 0.729209,
+            "species_data": [
+                {
+                    "InChIKey": "QGZKDVFQNNGYKY-UHFFFAOYSA-N",
+                    "adsorption": 7.45578,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 7.45578
+        },
+        {
+            "pressure": 0.976016,
+            "species_data": [
+                {
+                    "InChIKey": "QGZKDVFQNNGYKY-UHFFFAOYSA-N",
+                    "adsorption": 7.66273,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 7.66273
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}

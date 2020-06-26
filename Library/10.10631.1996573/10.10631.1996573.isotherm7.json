@@ -1,0 +1,60 @@
+{
+    "DOI": "10.1063/1.1996573",
+    "adsorbates": [
+        {
+            "InChIKey": "XKRFYHLGVUSROY-UHFFFAOYSA-N",
+            "name": "Argon"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-453276ee992ed07dc207ed08b2b221ce",
+        "name": "Carbon"
+    },
+    "adsorptionUnits": "kmol/m3",
+    "articleSource": "UNKNOWN",
+    "category": "",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "1000-01-01",
+    "digitizer": "UNKNOWN",
+    "filename": "10.10631.1996573.isotherm7",
+    "isotherm_data": [
+        {
+            "pressure": 4.18986,
+            "species_data": [
+                {
+                    "InChIKey": "XKRFYHLGVUSROY-UHFFFAOYSA-N",
+                    "adsorption": 0.447887,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.447887
+        },
+        {
+            "pressure": 20.5764,
+            "species_data": [
+                {
+                    "InChIKey": "XKRFYHLGVUSROY-UHFFFAOYSA-N",
+                    "adsorption": 2.28318,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 2.28318
+        },
+        {
+            "pressure": 39.1478,
+            "species_data": [
+                {
+                    "InChIKey": "XKRFYHLGVUSROY-UHFFFAOYSA-N",
+                    "adsorption": 5.18906,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 5.18906
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 150
+}

@@ -1,0 +1,71 @@
+{
+    "DOI": "10.1002/slct.201701072",
+    "adsorbates": [
+        {
+            "InChIKey": "OWTFKEBRIAXSMO-UHFFFAOYSA-N",
+            "name": "Arsenite      "
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-c6abc18f0adf2e2d974ff56af2ebcf40",
+        "name": "CS@Zr0.52Al0.48OOH"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "Figure 8b",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-07-23",
+    "digitizer": "Justin Chen",
+    "filename": "10.1002slct.201701072.Isotherm2",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "OWTFKEBRIAXSMO-UHFFFAOYSA-N",
+                    "adsorption": 0.00172,
+                    "composition": 0.0025
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "OWTFKEBRIAXSMO-UHFFFAOYSA-N",
+                    "adsorption": 0.5791,
+                    "composition": 0.11948
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "OWTFKEBRIAXSMO-UHFFFAOYSA-N",
+                    "adsorption": 0.64448,
+                    "composition": 0.55903
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "OWTFKEBRIAXSMO-UHFFFAOYSA-N",
+                    "adsorption": 0.65265,
+                    "composition": 1.24264
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}

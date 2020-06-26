@@ -1,0 +1,60 @@
+{
+    "DOI": "10.1039/C4cc00375f",
+    "adsorbates": [
+        {
+            "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+            "name": "Methane"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-ad8443a58b6d0f9c90e2c966b478e551",
+        "name": "[Cu3(TDPAH)(H2O)3] 13H2O 8DMA"
+    },
+    "adsorptionUnits": "cm3(STP)/g",
+    "articleSource": "UNKNOWN",
+    "category": "",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "1000-01-01",
+    "digitizer": "UNKNOWN",
+    "filename": "10.1039C4cc00375f.Isotherm4",
+    "isotherm_data": [
+        {
+            "pressure": 0.773118,
+            "species_data": [
+                {
+                    "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+                    "adsorption": 17.6707,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 17.6707
+        },
+        {
+            "pressure": 0.842105,
+            "species_data": [
+                {
+                    "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+                    "adsorption": 18.9474,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 18.9474
+        },
+        {
+            "pressure": 0.969932,
+            "species_data": [
+                {
+                    "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+                    "adsorption": 21.1769,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 21.1769
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}

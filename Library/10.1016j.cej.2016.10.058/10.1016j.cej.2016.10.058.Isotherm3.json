@@ -1,0 +1,111 @@
+{
+    "DOI": "10.1016/j.cej.2016.10.058",
+    "adsorbates": [
+        {
+            "InChIKey": "InChI=1S/C22H16N6O9S2.2Na/c23-19-18-12(11-17(39(35",
+            "name": "Naphthol Blue Black"
+        },
+        {
+            "InChIKey": "WSALIDVQXCHFEG-UHFFFAOYSA-L",
+            "name": "Acid Blue 45"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-2cb9f0d3672e4499f3e5e851d861c7d6",
+        "name": "CNT-NH2"
+    },
+    "adsorptionUnits": "mg/g",
+    "articleSource": "Figure 11",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-07-25",
+    "digitizer": "Justin Chen",
+    "filename": "10.1016j.cej.2016.10.058.Isotherm3",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "InChI=1S/C22H16N6O9S2.2Na/c23-19-18-12(11-17(39(35",
+                    "adsorption": 1.53,
+                    "composition": 0.082
+                },
+                {
+                    "InChIKey": "WSALIDVQXCHFEG-UHFFFAOYSA-L",
+                    "adsorption": 0,
+                    "composition": 0
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "InChI=1S/C22H16N6O9S2.2Na/c23-19-18-12(11-17(39(35",
+                    "adsorption": 204.57,
+                    "composition": 2.751
+                },
+                {
+                    "InChIKey": "WSALIDVQXCHFEG-UHFFFAOYSA-L",
+                    "adsorption": 1.53,
+                    "composition": 0.082
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "InChI=1S/C22H16N6O9S2.2Na/c23-19-18-12(11-17(39(35",
+                    "adsorption": 394.71,
+                    "composition": 7.481
+                },
+                {
+                    "InChIKey": "WSALIDVQXCHFEG-UHFFFAOYSA-L",
+                    "adsorption": 480.69,
+                    "composition": 7.592
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "InChI=1S/C22H16N6O9S2.2Na/c23-19-18-12(11-17(39(35",
+                    "adsorption": 546.85,
+                    "composition": 20.953
+                },
+                {
+                    "InChIKey": "WSALIDVQXCHFEG-UHFFFAOYSA-L",
+                    "adsorption": 578.78,
+                    "composition": 20.944
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "InChI=1S/C22H16N6O9S2.2Na/c23-19-18-12(11-17(39(35",
+                    "adsorption": 544.43,
+                    "composition": 40.153
+                },
+                {
+                    "InChIKey": "WSALIDVQXCHFEG-UHFFFAOYSA-L",
+                    "adsorption": 636.1,
+                    "composition": 39.846
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}

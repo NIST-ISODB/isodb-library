@@ -1,0 +1,71 @@
+{
+    "DOI": "10.1080/08927020902865923",
+    "adsorbates": [
+        {
+            "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+            "name": "Water"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-aab7f4d547e6752b772d6f12520fde3b",
+        "name": "Zeolite MFI"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "UNKNOWN",
+    "category": "",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "1000-01-01",
+    "digitizer": "UNKNOWN",
+    "filename": "10.108008927020902865923.isotherm15",
+    "isotherm_data": [
+        {
+            "pressure": 0.00987042,
+            "species_data": [
+                {
+                    "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+                    "adsorption": 0.140998,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.140998
+        },
+        {
+            "pressure": 0.0198866,
+            "species_data": [
+                {
+                    "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+                    "adsorption": 0.295927,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.295927
+        },
+        {
+            "pressure": 0.050278,
+            "species_data": [
+                {
+                    "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+                    "adsorption": 7.19734,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 7.19734
+        },
+        {
+            "pressure": 0.0817797,
+            "species_data": [
+                {
+                    "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+                    "adsorption": 7.50719,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 7.50719
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 300
+}

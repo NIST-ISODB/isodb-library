@@ -1,0 +1,71 @@
+{
+    "DOI": "10.1021/La061149c",
+    "adsorbates": [
+        {
+            "InChIKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+            "name": "Hydrogen"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-2c27c4ce469260615b3e5f08b2e84b9f",
+        "name": "Cr(OH)BDC"
+    },
+    "adsorptionUnits": "wt%",
+    "articleSource": "UNKNOWN",
+    "category": "",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "1000-01-01",
+    "digitizer": "UNKNOWN",
+    "filename": "10.1021La061149c.Isotherm5",
+    "isotherm_data": [
+        {
+            "pressure": 0.37403,
+            "species_data": [
+                {
+                    "InChIKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+                    "adsorption": 0.00332564,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.00332564
+        },
+        {
+            "pressure": 35.0393,
+            "species_data": [
+                {
+                    "InChIKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+                    "adsorption": 0.130946,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.130946
+        },
+        {
+            "pressure": 58.4681,
+            "species_data": [
+                {
+                    "InChIKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+                    "adsorption": 0.200465,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.200465
+        },
+        {
+            "pressure": 70.2788,
+            "species_data": [
+                {
+                    "InChIKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+                    "adsorption": 0.228555,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.228555
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 295
+}

@@ -1,0 +1,86 @@
+{
+    "DOI": "10.1016/j.psep.2017.02.008",
+    "adsorbates": [
+        {
+            "InChIKey": " VEQPNABPJHWNSG-UHFFFAOYSA-N",
+            "name": "Ni(II)"
+        },
+        {
+            "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+            "name": "Water"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-b7f431ea7be397f34345e5b020cb0362",
+        "name": "Cucurbita moschata"
+    },
+    "adsorptionUnits": "mg/g",
+    "articleSource": "Figure 9",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-07-29",
+    "digitizer": "Daniel Coile",
+    "filename": "10.1016j.psep.2017.02.008.Isotherm10",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": " VEQPNABPJHWNSG-UHFFFAOYSA-N",
+                    "adsorption": 8.03019,
+                    "composition": 20.1532
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": " VEQPNABPJHWNSG-UHFFFAOYSA-N",
+                    "adsorption": 6.15688,
+                    "composition": 8.49834
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": " VEQPNABPJHWNSG-UHFFFAOYSA-N",
+                    "adsorption": 4.50349,
+                    "composition": 4.87163
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": " VEQPNABPJHWNSG-UHFFFAOYSA-N",
+                    "adsorption": 2.63713,
+                    "composition": 3.71457
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": " VEQPNABPJHWNSG-UHFFFAOYSA-N",
+                    "adsorption": 1.75645,
+                    "composition": 2.31353
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 303
+}

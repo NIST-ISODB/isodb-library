@@ -1,0 +1,60 @@
+{
+    "DOI": "10.1002/Aic.14467",
+    "adsorbates": [
+        {
+            "InChIKey": "MWUXSHHQAYIFBG-UHFFFAOYSA-N",
+            "name": "Nitric oxide"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-2c9380bddc59f547484ff729eab7d7cb",
+        "name": "IRMOF-1"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "UNKNOWN",
+    "category": "",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "1000-01-01",
+    "digitizer": "UNKNOWN",
+    "filename": "10.1002Aic.14467.Isotherm70",
+    "isotherm_data": [
+        {
+            "pressure": 0.497959,
+            "species_data": [
+                {
+                    "InChIKey": "MWUXSHHQAYIFBG-UHFFFAOYSA-N",
+                    "adsorption": 0.195652,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.195652
+        },
+        {
+            "pressure": 0.75102,
+            "species_data": [
+                {
+                    "InChIKey": "MWUXSHHQAYIFBG-UHFFFAOYSA-N",
+                    "adsorption": 0.285326,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.285326
+        },
+        {
+            "pressure": 1,
+            "species_data": [
+                {
+                    "InChIKey": "MWUXSHHQAYIFBG-UHFFFAOYSA-N",
+                    "adsorption": 0.391304,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.391304
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 313
+}

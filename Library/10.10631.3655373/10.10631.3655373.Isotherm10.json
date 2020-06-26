@@ -1,0 +1,82 @@
+{
+    "DOI": "10.1063/1.3655373",
+    "adsorbates": [
+        {
+            "InChIKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+            "name": "Hydrogen"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-4ce697c4ebf979e8b1ecb0baab1f8de7",
+        "name": "MPF-1"
+    },
+    "adsorptionUnits": "wt%",
+    "articleSource": "UNKNOWN",
+    "category": "",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "1000-01-01",
+    "digitizer": "UNKNOWN",
+    "filename": "10.10631.3655373.Isotherm10",
+    "isotherm_data": [
+        {
+            "pressure": 2.94574,
+            "species_data": [
+                {
+                    "InChIKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+                    "adsorption": 0.0221814,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.0221814
+        },
+        {
+            "pressure": 4.96124,
+            "species_data": [
+                {
+                    "InChIKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+                    "adsorption": 0.0369713,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.0369713
+        },
+        {
+            "pressure": 7.0155,
+            "species_data": [
+                {
+                    "InChIKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+                    "adsorption": 0.050898,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.050898
+        },
+        {
+            "pressure": 8.99225,
+            "species_data": [
+                {
+                    "InChIKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+                    "adsorption": 0.0648213,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.0648213
+        },
+        {
+            "pressure": 9.96124,
+            "species_data": [
+                {
+                    "InChIKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+                    "adsorption": 0.0713497,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.0713497
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 300
+}

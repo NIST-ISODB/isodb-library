@@ -1,0 +1,71 @@
+{
+    "DOI": "10.1021/La203374a",
+    "adsorbates": [
+        {
+            "InChIKey": "URLKBWYHVLBVBO-UHFFFAOYSA-N",
+            "name": "P-Xylene"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-b848f05ba9fb26cdd50755863b377c56",
+        "name": "MIL-47"
+    },
+    "adsorptionUnits": "molecules/unitcell",
+    "articleSource": "UNKNOWN",
+    "category": "",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "1000-01-01",
+    "digitizer": "UNKNOWN",
+    "filename": "10.1021La203374a.Isotherm5",
+    "isotherm_data": [
+        {
+            "pressure": 0.000484195,
+            "species_data": [
+                {
+                    "InChIKey": "URLKBWYHVLBVBO-UHFFFAOYSA-N",
+                    "adsorption": 1.45136,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.45136
+        },
+        {
+            "pressure": 0.0049916,
+            "species_data": [
+                {
+                    "InChIKey": "URLKBWYHVLBVBO-UHFFFAOYSA-N",
+                    "adsorption": 1.98792,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.98792
+        },
+        {
+            "pressure": 0.0272973,
+            "species_data": [
+                {
+                    "InChIKey": "URLKBWYHVLBVBO-UHFFFAOYSA-N",
+                    "adsorption": 2.14448,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 2.14448
+        },
+        {
+            "pressure": 0.0501695,
+            "species_data": [
+                {
+                    "InChIKey": "URLKBWYHVLBVBO-UHFFFAOYSA-N",
+                    "adsorption": 2.34186,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 2.34186
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 343
+}

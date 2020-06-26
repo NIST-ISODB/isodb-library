@@ -1,0 +1,60 @@
+{
+    "DOI": "10.1039/C4cc00375f",
+    "adsorbates": [
+        {
+            "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+            "name": "Nitrogen"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-ad8443a58b6d0f9c90e2c966b478e551",
+        "name": "[Cu3(TDPAH)(H2O)3] 13H2O 8DMA"
+    },
+    "adsorptionUnits": "cm3(STP)/g",
+    "articleSource": "UNKNOWN",
+    "category": "",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "1000-01-01",
+    "digitizer": "UNKNOWN",
+    "filename": "10.1039C4cc00375f.Isotherm6",
+    "isotherm_data": [
+        {
+            "pressure": 0.837819,
+            "species_data": [
+                {
+                    "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+                    "adsorption": 5.39648,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 5.39648
+        },
+        {
+            "pressure": 0.904756,
+            "species_data": [
+                {
+                    "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+                    "adsorption": 5.35223,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 5.35223
+        },
+        {
+            "pressure": 0.967647,
+            "species_data": [
+                {
+                    "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+                    "adsorption": 5.9718,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 5.9718
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}

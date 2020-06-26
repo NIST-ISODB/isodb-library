@@ -1,0 +1,93 @@
+{
+    "DOI": "10.1016/j.carbon.2009.08.040",
+    "adsorbates": [
+        {
+            "InChIKey": "SWQJXJOGLNCZEY-UHFFFAOYSA-N",
+            "name": "Helium"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-047b9531d8eb858dfd668a7063b74245",
+        "name": "Activated Carbon Monolith"
+    },
+    "adsorptionUnits": "mg/g",
+    "articleSource": "Figure 6",
+    "category": "exp",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "2016-06-27",
+    "digitizer": "Kailey M. Stracka",
+    "filename": "10.1016j.carbon.2009.08.040.Isotherm28",
+    "isotherm_data": [
+        {
+            "pressure": 2.21232,
+            "species_data": [
+                {
+                    "InChIKey": "SWQJXJOGLNCZEY-UHFFFAOYSA-N",
+                    "adsorption": 0.757477,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.757477
+        },
+        {
+            "pressure": 4.3517,
+            "species_data": [
+                {
+                    "InChIKey": "SWQJXJOGLNCZEY-UHFFFAOYSA-N",
+                    "adsorption": 1.51542,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.51542
+        },
+        {
+            "pressure": 8.82496,
+            "species_data": [
+                {
+                    "InChIKey": "SWQJXJOGLNCZEY-UHFFFAOYSA-N",
+                    "adsorption": 2.45129,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 2.45129
+        },
+        {
+            "pressure": 13.4441,
+            "species_data": [
+                {
+                    "InChIKey": "SWQJXJOGLNCZEY-UHFFFAOYSA-N",
+                    "adsorption": 3.77206,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 3.77206
+        },
+        {
+            "pressure": 18.2334,
+            "species_data": [
+                {
+                    "InChIKey": "SWQJXJOGLNCZEY-UHFFFAOYSA-N",
+                    "adsorption": 4.70589,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 4.70589
+        },
+        {
+            "pressure": 21.7585,
+            "species_data": [
+                {
+                    "InChIKey": "SWQJXJOGLNCZEY-UHFFFAOYSA-N",
+                    "adsorption": 5.262,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 5.262
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 105
+}

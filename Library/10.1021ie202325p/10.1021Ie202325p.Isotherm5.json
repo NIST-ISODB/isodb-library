@@ -1,0 +1,115 @@
+{
+    "DOI": "10.1021/ie202325p",
+    "adsorbates": [
+        {
+            "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+            "name": "Water"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-bb2eb3bdcf42c2df897332bd449f4b88",
+        "name": "DMOF-1"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "Figure 2",
+    "category": "exp",
+    "compositionType": "relhumidity",
+    "concentrationUnits": "",
+    "date": "2020-01-03",
+    "digitizer": "Daniel Siderius",
+    "filename": "10.1021Ie202325p.Isotherm5",
+    "isotherm_data": [
+        {
+            "pressure": 1,
+            "species_data": [
+                {
+                    "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+                    "adsorption": 0,
+                    "composition": 0
+                }
+            ],
+            "total_adsorption": 0
+        },
+        {
+            "pressure": 1,
+            "species_data": [
+                {
+                    "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+                    "adsorption": 0.1103,
+                    "composition": 10.576
+                }
+            ],
+            "total_adsorption": 0.1103
+        },
+        {
+            "pressure": 1,
+            "species_data": [
+                {
+                    "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+                    "adsorption": 0.193,
+                    "composition": 20.36
+                }
+            ],
+            "total_adsorption": 0.193
+        },
+        {
+            "pressure": 1,
+            "species_data": [
+                {
+                    "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+                    "adsorption": 3.4191,
+                    "composition": 30.152
+                }
+            ],
+            "total_adsorption": 3.4191
+        },
+        {
+            "pressure": 1,
+            "species_data": [
+                {
+                    "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+                    "adsorption": 4.7426,
+                    "composition": 40.083
+                }
+            ],
+            "total_adsorption": 4.7426
+        },
+        {
+            "pressure": 1,
+            "species_data": [
+                {
+                    "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+                    "adsorption": 2.4265,
+                    "composition": 59.718
+                }
+            ],
+            "total_adsorption": 2.4265
+        },
+        {
+            "pressure": 1,
+            "species_data": [
+                {
+                    "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+                    "adsorption": 2.4816,
+                    "composition": 79.574
+                }
+            ],
+            "total_adsorption": 2.4816
+        },
+        {
+            "pressure": 1,
+            "species_data": [
+                {
+                    "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+                    "adsorption": 2.5643,
+                    "composition": 89.287
+                }
+            ],
+            "total_adsorption": 2.5643
+        }
+    ],
+    "isotherm_type": "excess",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}

@@ -1,0 +1,60 @@
+{
+    "DOI": "10.1021/ie049489l",
+    "adsorbates": [
+        {
+            "InChIKey": "ATUOYWHBWRKTHZ-UHFFFAOYSA-N",
+            "name": "N-propane"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-081a0818678716f502aee0b58ac1b30a",
+        "name": "Zeolite 4A"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "UNKNOWN",
+    "category": "",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "1000-01-01",
+    "digitizer": "UNKNOWN",
+    "filename": "10.1021ie049489l.isotherm17",
+    "isotherm_data": [
+        {
+            "pressure": 0.00561856,
+            "species_data": [
+                {
+                    "InChIKey": "ATUOYWHBWRKTHZ-UHFFFAOYSA-N",
+                    "adsorption": 0.00284739,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.00284739
+        },
+        {
+            "pressure": 0.184492,
+            "species_data": [
+                {
+                    "InChIKey": "ATUOYWHBWRKTHZ-UHFFFAOYSA-N",
+                    "adsorption": 0.177495,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.177495
+        },
+        {
+            "pressure": 0.201393,
+            "species_data": [
+                {
+                    "InChIKey": "ATUOYWHBWRKTHZ-UHFFFAOYSA-N",
+                    "adsorption": 0.126791,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.126791
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 423
+}

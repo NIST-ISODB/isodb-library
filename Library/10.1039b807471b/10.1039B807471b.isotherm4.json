@@ -1,0 +1,60 @@
+{
+    "DOI": "10.1039/B807471b",
+    "adsorbates": [
+        {
+            "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+            "name": "Water"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-5d0728ebc1e0053aa120288307a704c8",
+        "name": "Silicalite MFI"
+    },
+    "adsorptionUnits": "molecules/unitcell",
+    "articleSource": "UNKNOWN",
+    "category": "",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "1000-01-01",
+    "digitizer": "UNKNOWN",
+    "filename": "10.1039B807471b.isotherm4",
+    "isotherm_data": [
+        {
+            "pressure": 1150.75,
+            "species_data": [
+                {
+                    "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+                    "adsorption": 1.24028,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.24028
+        },
+        {
+            "pressure": 1197.36,
+            "species_data": [
+                {
+                    "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+                    "adsorption": 34.3775,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 34.3775
+        },
+        {
+            "pressure": 1261.45,
+            "species_data": [
+                {
+                    "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+                    "adsorption": 35.9798,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 35.9798
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 300
+}

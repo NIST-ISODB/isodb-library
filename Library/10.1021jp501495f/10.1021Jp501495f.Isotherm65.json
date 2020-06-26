@@ -1,0 +1,93 @@
+{
+    "DOI": "10.1021/Jp501495f",
+    "adsorbates": [
+        {
+            "InChIKey": "DNNSSWSSYDEUBZ-UHFFFAOYSA-N",
+            "name": "Krypton"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-d1d522d8a0cefc38d63fd947fdaa51ac",
+        "name": "NOTT-100"
+    },
+    "adsorptionUnits": "cm3(STP)/g",
+    "articleSource": "UNKNOWN",
+    "category": "",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "1000-01-01",
+    "digitizer": "UNKNOWN",
+    "filename": "10.1021Jp501495f.Isotherm65",
+    "isotherm_data": [
+        {
+            "pressure": 0.175479,
+            "species_data": [
+                {
+                    "InChIKey": "DNNSSWSSYDEUBZ-UHFFFAOYSA-N",
+                    "adsorption": 8.72194,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 8.72194
+        },
+        {
+            "pressure": 0.354732,
+            "species_data": [
+                {
+                    "InChIKey": "DNNSSWSSYDEUBZ-UHFFFAOYSA-N",
+                    "adsorption": 18.2535,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 18.2535
+        },
+        {
+            "pressure": 0.533985,
+            "species_data": [
+                {
+                    "InChIKey": "DNNSSWSSYDEUBZ-UHFFFAOYSA-N",
+                    "adsorption": 27.2989,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 27.2989
+        },
+        {
+            "pressure": 0.754749,
+            "species_data": [
+                {
+                    "InChIKey": "DNNSSWSSYDEUBZ-UHFFFAOYSA-N",
+                    "adsorption": 37.958,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 37.958
+        },
+        {
+            "pressure": 0.873621,
+            "species_data": [
+                {
+                    "InChIKey": "DNNSSWSSYDEUBZ-UHFFFAOYSA-N",
+                    "adsorption": 43.4483,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 43.4483
+        },
+        {
+            "pressure": 1.00004,
+            "species_data": [
+                {
+                    "InChIKey": "DNNSSWSSYDEUBZ-UHFFFAOYSA-N",
+                    "adsorption": 49.4234,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 49.4234
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 292
+}

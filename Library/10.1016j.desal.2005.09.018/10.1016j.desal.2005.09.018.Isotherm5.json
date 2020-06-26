@@ -1,0 +1,71 @@
+{
+    "DOI": "10.1016/j.desal.2005.09.018",
+    "adsorbates": [
+        {
+            "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+            "name": "Methane"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-790c78d2d87e5f282d66364434e93cf7",
+        "name": "Zeolite MFI Membrane"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "UNKNOWN",
+    "category": "",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "1000-01-01",
+    "digitizer": "UNKNOWN",
+    "filename": "10.1016j.desal.2005.09.018.Isotherm5",
+    "isotherm_data": [
+        {
+            "pressure": 1.49519,
+            "species_data": [
+                {
+                    "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+                    "adsorption": 0.710083,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.710083
+        },
+        {
+            "pressure": 2.14786,
+            "species_data": [
+                {
+                    "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+                    "adsorption": 0.824789,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.824789
+        },
+        {
+            "pressure": 51.6234,
+            "species_data": [
+                {
+                    "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+                    "adsorption": 2.49185,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 2.49185
+        },
+        {
+            "pressure": 102.327,
+            "species_data": [
+                {
+                    "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+                    "adsorption": 2.64479,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 2.64479
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 301
+}

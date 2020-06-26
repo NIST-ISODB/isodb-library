@@ -1,0 +1,82 @@
+{
+    "DOI": "10.1002/Aic.14467",
+    "adsorbates": [
+        {
+            "InChIKey": "MWUXSHHQAYIFBG-UHFFFAOYSA-N",
+            "name": "Nitric oxide"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-b848f05ba9fb26cdd50755863b377c56",
+        "name": "MIL-47"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "UNKNOWN",
+    "category": "",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "1000-01-01",
+    "digitizer": "UNKNOWN",
+    "filename": "10.1002Aic.14467.Isotherm75",
+    "isotherm_data": [
+        {
+            "pressure": 0.102041,
+            "species_data": [
+                {
+                    "InChIKey": "MWUXSHHQAYIFBG-UHFFFAOYSA-N",
+                    "adsorption": 0.0746069,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.0746069
+        },
+        {
+            "pressure": 0.24898,
+            "species_data": [
+                {
+                    "InChIKey": "MWUXSHHQAYIFBG-UHFFFAOYSA-N",
+                    "adsorption": 0.206959,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.206959
+        },
+        {
+            "pressure": 0.493878,
+            "species_data": [
+                {
+                    "InChIKey": "MWUXSHHQAYIFBG-UHFFFAOYSA-N",
+                    "adsorption": 0.422081,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.422081
+        },
+        {
+            "pressure": 0.742857,
+            "species_data": [
+                {
+                    "InChIKey": "MWUXSHHQAYIFBG-UHFFFAOYSA-N",
+                    "adsorption": 0.661827,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.661827
+        },
+        {
+            "pressure": 1,
+            "species_data": [
+                {
+                    "InChIKey": "MWUXSHHQAYIFBG-UHFFFAOYSA-N",
+                    "adsorption": 0.885246,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.885246
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 313
+}

@@ -1,0 +1,104 @@
+{
+    "DOI": "10.1021/jp048323v",
+    "adsorbates": [
+        {
+            "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+            "name": "Water"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-25d9ffbcdc05cf79aadb45c2dced7313",
+        "name": "Graphite Slit Pore"
+    },
+    "adsorptionUnits": "Fractional Loading",
+    "articleSource": "Figure 6",
+    "category": "sim",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "2016-07-07",
+    "digitizer": "Kailey M. Stracka",
+    "filename": "10.1021jp048323v.Isotherm4",
+    "isotherm_data": [
+        {
+            "pressure": 0.004793,
+            "species_data": [
+                {
+                    "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+                    "adsorption": 0.010204,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.010204
+        },
+        {
+            "pressure": 0.013287,
+            "species_data": [
+                {
+                    "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+                    "adsorption": 0.014577,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.014577
+        },
+        {
+            "pressure": 0.015592,
+            "species_data": [
+                {
+                    "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+                    "adsorption": 0.014577,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.014577
+        },
+        {
+            "pressure": 0.018383,
+            "species_data": [
+                {
+                    "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+                    "adsorption": 0.01895,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.01895
+        },
+        {
+            "pressure": 0.021659,
+            "species_data": [
+                {
+                    "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+                    "adsorption": 0.78863,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.78863
+        },
+        {
+            "pressure": 0.025663,
+            "species_data": [
+                {
+                    "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+                    "adsorption": 0.900875,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.900875
+        },
+        {
+            "pressure": 0.041984,
+            "species_data": [
+                {
+                    "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+                    "adsorption": 1,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 303
+}

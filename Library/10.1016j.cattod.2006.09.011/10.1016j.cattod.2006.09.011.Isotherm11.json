@@ -1,0 +1,71 @@
+{
+    "DOI": "10.1016/j.cattod.2006.09.011",
+    "adsorbates": [
+        {
+            "InChIKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+            "name": "Hydrogen"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-7d6ff8be79f27ea69a66eb481b75627b",
+        "name": "Mn48X-C6H6(l)"
+    },
+    "adsorptionUnits": "wt%",
+    "articleSource": "UNKNOWN",
+    "category": "",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "1000-01-01",
+    "digitizer": "UNKNOWN",
+    "filename": "10.1016j.cattod.2006.09.011.Isotherm11",
+    "isotherm_data": [
+        {
+            "pressure": 1.03478,
+            "species_data": [
+                {
+                    "InChIKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+                    "adsorption": 0.00620155,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.00620155
+        },
+        {
+            "pressure": 20.3685,
+            "species_data": [
+                {
+                    "InChIKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+                    "adsorption": 0.0806202,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.0806202
+        },
+        {
+            "pressure": 50.7778,
+            "species_data": [
+                {
+                    "InChIKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+                    "adsorption": 0.133333,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.133333
+        },
+        {
+            "pressure": 101.246,
+            "species_data": [
+                {
+                    "InChIKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+                    "adsorption": 0.182946,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.182946
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}

@@ -1,0 +1,119 @@
+{
+    "DOI": "10.1016/j.jenvman.2017.01.029",
+    "adsorbates": [
+        {
+            "InChIKey": "ADIMAYPTOBDMTL-UHFFFAOYSA-N",
+            "name": "Oxazepam"
+        },
+        {
+            "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+            "name": "Water"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-0f84b3d984939847601fb88659e7fad2",
+        "name": "PS800-150-HCl"
+    },
+    "adsorptionUnits": "mmol/kg",
+    "articleSource": "Figure 3",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-07-16",
+    "digitizer": "Noah C. Whelpley",
+    "filename": "10.1016j.jenvman.2017.01.029.Isotherm8",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "ADIMAYPTOBDMTL-UHFFFAOYSA-N",
+                    "adsorption": 0.096,
+                    "composition": 0.0175
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "ADIMAYPTOBDMTL-UHFFFAOYSA-N",
+                    "adsorption": 59.978,
+                    "composition": 0.8647
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "ADIMAYPTOBDMTL-UHFFFAOYSA-N",
+                    "adsorption": 65.383,
+                    "composition": 1.424
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "ADIMAYPTOBDMTL-UHFFFAOYSA-N",
+                    "adsorption": 67.72,
+                    "composition": 2.092
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "ADIMAYPTOBDMTL-UHFFFAOYSA-N",
+                    "adsorption": 68.279,
+                    "composition": 4.0742
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "ADIMAYPTOBDMTL-UHFFFAOYSA-N",
+                    "adsorption": 71.406,
+                    "composition": 7.1697
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "ADIMAYPTOBDMTL-UHFFFAOYSA-N",
+                    "adsorption": 69.401,
+                    "composition": 9.3148
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "ADIMAYPTOBDMTL-UHFFFAOYSA-N",
+                    "adsorption": 66.8,
+                    "composition": 11.0798
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}

@@ -1,0 +1,71 @@
+{
+    "DOI": "10.1016/j.micromeso.2012.12.035",
+    "adsorbates": [
+        {
+            "InChIKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+            "name": "Hydrogen"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-e890d014f4effc590f3862a71e28d60b",
+        "name": "OCH3-MOF-5"
+    },
+    "adsorptionUnits": "wt%",
+    "articleSource": "UNKNOWN",
+    "category": "",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "1000-01-01",
+    "digitizer": "UNKNOWN",
+    "filename": "10.1016j.micromeso.2012.12.035.Isotherm5",
+    "isotherm_data": [
+        {
+            "pressure": 0.319757,
+            "species_data": [
+                {
+                    "InChIKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+                    "adsorption": 0.152892,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.152892
+        },
+        {
+            "pressure": 0.670166,
+            "species_data": [
+                {
+                    "InChIKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+                    "adsorption": 0.181186,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.181186
+        },
+        {
+            "pressure": 0.911517,
+            "species_data": [
+                {
+                    "InChIKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+                    "adsorption": 0.189625,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.189625
+        },
+        {
+            "pressure": 1.33202,
+            "species_data": [
+                {
+                    "InChIKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+                    "adsorption": 0.227724,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.227724
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 77
+}

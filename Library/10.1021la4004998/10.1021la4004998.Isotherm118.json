@@ -1,0 +1,82 @@
+{
+    "DOI": "10.1021/la4004998",
+    "adsorbates": [
+        {
+            "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+            "name": "Carbon Dioxide"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-75d324fa468d5bc9ddef4ffd7f5a09a0",
+        "name": "Phenol-Formaldehyde Resin-based Activated Carbon"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "Figure 6a",
+    "category": "exp",
+    "compositionType": "volumefraction",
+    "concentrationUnits": "",
+    "date": "2017-06-29",
+    "digitizer": "Julia Chotoo",
+    "filename": "10.1021la4004998.Isotherm118",
+    "isotherm_data": [
+        {
+            "pressure": 3.0236,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 0.9029,
+                    "composition": 0.25
+                }
+            ],
+            "total_adsorption": 0.9029
+        },
+        {
+            "pressure": 5.0551,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 1.6885,
+                    "composition": 0.25
+                }
+            ],
+            "total_adsorption": 1.6885
+        },
+        {
+            "pressure": 9.9685,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 2.4722,
+                    "composition": 0.25
+                }
+            ],
+            "total_adsorption": 2.4722
+        },
+        {
+            "pressure": 15.0709,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 2.9016,
+                    "composition": 0.25
+                }
+            ],
+            "total_adsorption": 2.9016
+        },
+        {
+            "pressure": 20.0315,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 3.4688,
+                    "composition": 0.25
+                }
+            ],
+            "total_adsorption": 3.4688
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 318
+}

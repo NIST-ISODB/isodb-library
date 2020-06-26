@@ -1,0 +1,111 @@
+{
+    "DOI": "10.1016/j.ecoenv.2017.04.011",
+    "adsorbates": [
+        {
+            "InChIKey": "CXKWCBBOMKCUKX-UHFFFAOYSA-M",
+            "name": "Methylene blue"
+        },
+        {
+            "InChIKey": "KSCQDDRPFHTIRL-UHFFFAOYSA-N",
+            "name": "Auramine-O"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-e639584cf84c4c02dc37ea07191947dc",
+        "name": "ZnO: Au-NRs-AC"
+    },
+    "adsorptionUnits": "mg/g",
+    "articleSource": "Figure 3",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-07-24",
+    "digitizer": "Justin Chen",
+    "filename": "10.1016j.ecoenv.2017.04.011.Isotherm1",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "CXKWCBBOMKCUKX-UHFFFAOYSA-M",
+                    "adsorption": 30.676,
+                    "composition": 0.053354
+                },
+                {
+                    "InChIKey": "KSCQDDRPFHTIRL-UHFFFAOYSA-N",
+                    "adsorption": 62.054,
+                    "composition": 0.11195
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "CXKWCBBOMKCUKX-UHFFFAOYSA-M",
+                    "adsorption": 61.329,
+                    "composition": 0.130615
+                },
+                {
+                    "InChIKey": "KSCQDDRPFHTIRL-UHFFFAOYSA-N",
+                    "adsorption": 91.265,
+                    "composition": 0.335713
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "CXKWCBBOMKCUKX-UHFFFAOYSA-M",
+                    "adsorption": 87.865,
+                    "composition": 0.889407
+                },
+                {
+                    "InChIKey": "KSCQDDRPFHTIRL-UHFFFAOYSA-N",
+                    "adsorption": 112.812,
+                    "composition": 1.94274
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "CXKWCBBOMKCUKX-UHFFFAOYSA-M",
+                    "adsorption": 101.817,
+                    "composition": 3.6277
+                },
+                {
+                    "InChIKey": "KSCQDDRPFHTIRL-UHFFFAOYSA-N",
+                    "adsorption": 118.212,
+                    "composition": 5.96018
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "CXKWCBBOMKCUKX-UHFFFAOYSA-M",
+                    "adsorption": 105.811,
+                    "composition": 8.04218
+                },
+                {
+                    "InChIKey": "KSCQDDRPFHTIRL-UHFFFAOYSA-N",
+                    "adsorption": 91.984,
+                    "composition": 10.3346
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}

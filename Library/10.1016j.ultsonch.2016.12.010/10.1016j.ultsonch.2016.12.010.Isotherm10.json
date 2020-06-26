@@ -1,0 +1,115 @@
+{
+    "DOI": "10.1016/j.ultsonch.2016.12.010",
+    "adsorbates": [
+        {
+            "InChIKey": "GCFAQSYBSUQUPL-UHFFFAOYSA-I",
+            "name": "Reactive Red 195"
+        },
+        {
+            "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+            "name": "Water"
+        },
+        {
+            "InChIKey": "ZXJXZNDDNMQXFV-UHFFFAOYSA-M",
+            "name": "Gentian violet"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-4b284793a1ce519d8b976f5ab1f4e1f1",
+        "name": "Ag-Cr-AC nanocomposite"
+    },
+    "adsorptionUnits": "mg/g",
+    "articleSource": "Figure 8",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-07-08",
+    "digitizer": "Noah C. Whelpley",
+    "filename": "10.1016j.ultsonch.2016.12.010.Isotherm10",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "GCFAQSYBSUQUPL-UHFFFAOYSA-I",
+                    "adsorption": 35.8935,
+                    "composition": 1.416
+                },
+                {
+                    "InChIKey": "ZXJXZNDDNMQXFV-UHFFFAOYSA-M",
+                    "adsorption": 29.1881,
+                    "composition": 2.1211
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "GCFAQSYBSUQUPL-UHFFFAOYSA-I",
+                    "adsorption": 53.8435,
+                    "composition": 4.693
+                },
+                {
+                    "InChIKey": "ZXJXZNDDNMQXFV-UHFFFAOYSA-M",
+                    "adsorption": 42.3311,
+                    "composition": 5.8637
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "GCFAQSYBSUQUPL-UHFFFAOYSA-I",
+                    "adsorption": 68.6029,
+                    "composition": 8.22
+                },
+                {
+                    "InChIKey": "ZXJXZNDDNMQXFV-UHFFFAOYSA-M",
+                    "adsorption": 61.9231,
+                    "composition": 8.8742
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "GCFAQSYBSUQUPL-UHFFFAOYSA-I",
+                    "adsorption": 81.7814,
+                    "composition": 11.936
+                },
+                {
+                    "InChIKey": "ZXJXZNDDNMQXFV-UHFFFAOYSA-M",
+                    "adsorption": 84.6233,
+                    "composition": 11.6357
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "GCFAQSYBSUQUPL-UHFFFAOYSA-I",
+                    "adsorption": 109.977,
+                    "composition": 14.154
+                },
+                {
+                    "InChIKey": "ZXJXZNDDNMQXFV-UHFFFAOYSA-M",
+                    "adsorption": 102.368,
+                    "composition": 14.8639
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 313
+}

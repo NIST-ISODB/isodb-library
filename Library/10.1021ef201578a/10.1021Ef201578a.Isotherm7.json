@@ -1,0 +1,71 @@
+{
+    "DOI": "10.1021/Ef201578a",
+    "adsorbates": [
+        {
+            "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+            "name": "Carbon Dioxide"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-2b4e5ee5581fc4f6e633d576c1cd6fc2",
+        "name": "PEI-25-APTES-25-PQCS2129"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "UNKNOWN",
+    "category": "",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "1000-01-01",
+    "digitizer": "UNKNOWN",
+    "filename": "10.1021Ef201578a.Isotherm7",
+    "isotherm_data": [
+        {
+            "pressure": 0.0410367,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 1.92001,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.92001
+        },
+        {
+            "pressure": 0.0820734,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 2.19178,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 2.19178
+        },
+        {
+            "pressure": 0.50108,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 2.91961,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 2.91961
+        },
+        {
+            "pressure": 0.831533,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 3.01338,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 3.01338
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 343
+}

@@ -1,0 +1,71 @@
+{
+    "DOI": "10.1039/C0cc01031f",
+    "adsorbates": [
+        {
+            "InChIKey": "CTQNGGLPUBDAKN-UHFFFAOYSA-N",
+            "name": "O-Xylene"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-b31563b735632ba993c20807f96963db",
+        "name": "JUC-77"
+    },
+    "adsorptionUnits": "cm3(STP)/g",
+    "articleSource": "UNKNOWN",
+    "category": "",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "1000-01-01",
+    "digitizer": "UNKNOWN",
+    "filename": "10.1039C0cc01031f.isotherm6",
+    "isotherm_data": [
+        {
+            "pressure": 0.307707,
+            "species_data": [
+                {
+                    "InChIKey": "CTQNGGLPUBDAKN-UHFFFAOYSA-N",
+                    "adsorption": 0.405726,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.405726
+        },
+        {
+            "pressure": 0.659472,
+            "species_data": [
+                {
+                    "InChIKey": "CTQNGGLPUBDAKN-UHFFFAOYSA-N",
+                    "adsorption": 0.624214,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.624214
+        },
+        {
+            "pressure": 0.86485,
+            "species_data": [
+                {
+                    "InChIKey": "CTQNGGLPUBDAKN-UHFFFAOYSA-N",
+                    "adsorption": 0.624214,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.624214
+        },
+        {
+            "pressure": 0.991573,
+            "species_data": [
+                {
+                    "InChIKey": "CTQNGGLPUBDAKN-UHFFFAOYSA-N",
+                    "adsorption": 0.405726,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.405726
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}

@@ -1,0 +1,60 @@
+{
+    "DOI": "10.1016/j.colsurfa.2015.09.020",
+    "adsorbates": [
+        {
+            "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+            "name": "Carbon Dioxide"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-614cc68478ea2eef4db62481be5f1259",
+        "name": "AlK-10"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "Figure 9",
+    "category": "exp",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "2016-06-13",
+    "digitizer": "David Anderegg",
+    "filename": "10.1016j.colsurfa.2015.09.020.Isotherm3",
+    "isotherm_data": [
+        {
+            "pressure": 0.000323,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 0.497778,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.497778
+        },
+        {
+            "pressure": 0.010323,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 0.802667,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.802667
+        },
+        {
+            "pressure": 0.100323,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 1.30044,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.30044
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 318
+}

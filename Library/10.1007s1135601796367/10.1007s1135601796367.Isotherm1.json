@@ -1,0 +1,119 @@
+{
+    "DOI": "10.1007/s11356-017-9636-7",
+    "adsorbates": [
+        {
+            "InChIKey": "WXNZTHHGJRFXKQ-UHFFFAOYSA-N",
+            "name": "4-Chlorophenol"
+        },
+        {
+            "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+            "name": "Water"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-129dcbd246c17a62512de56476f23466",
+        "name": "Granular Activated Carbon"
+    },
+    "adsorptionUnits": "mg/g",
+    "articleSource": "Figure 1",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-07-15",
+    "digitizer": "Daniel Coile",
+    "filename": "10.1007s1135601796367.Isotherm1",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "WXNZTHHGJRFXKQ-UHFFFAOYSA-N",
+                    "adsorption": 0.49,
+                    "composition": 0.472
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "WXNZTHHGJRFXKQ-UHFFFAOYSA-N",
+                    "adsorption": 96.712,
+                    "composition": 0.911
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "WXNZTHHGJRFXKQ-UHFFFAOYSA-N",
+                    "adsorption": 47.638,
+                    "composition": 1.145
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "WXNZTHHGJRFXKQ-UHFFFAOYSA-N",
+                    "adsorption": 182.524,
+                    "composition": 15.077
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "WXNZTHHGJRFXKQ-UHFFFAOYSA-N",
+                    "adsorption": 222.167,
+                    "composition": 74.531
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "WXNZTHHGJRFXKQ-UHFFFAOYSA-N",
+                    "adsorption": 256.68,
+                    "composition": 141.424
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "WXNZTHHGJRFXKQ-UHFFFAOYSA-N",
+                    "adsorption": 280.201,
+                    "composition": 218.345
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "WXNZTHHGJRFXKQ-UHFFFAOYSA-N",
+                    "adsorption": 270.744,
+                    "composition": 328.262
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}

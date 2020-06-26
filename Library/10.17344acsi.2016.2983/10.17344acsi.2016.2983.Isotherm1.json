@@ -1,0 +1,115 @@
+{
+    "DOI": "10.17344/acsi.2016.2983",
+    "adsorbates": [
+        {
+            "InChIKey": "FDZZZRQASAIRJF-UHFFFAOYSA-M",
+            "name": "Malachite green"
+        },
+        {
+            "InChIKey": "FTZLWXQKVFFWLY-UHFFFAOYSA-L",
+            "name": "Acid Yellow 17"
+        },
+        {
+            "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+            "name": "Water"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-825c87cde819775445cf2645b4b04767",
+        "name": "Corn Cob/Chitosan Film"
+    },
+    "adsorptionUnits": "mg/g",
+    "articleSource": "Figures 11 and 12",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-08-05",
+    "digitizer": "Noah C. Whelpley",
+    "filename": "10.17344acsi.2016.2983.Isotherm1",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "FDZZZRQASAIRJF-UHFFFAOYSA-M",
+                    "adsorption": 7.35407,
+                    "composition": 0.30943
+                },
+                {
+                    "InChIKey": "FTZLWXQKVFFWLY-UHFFFAOYSA-L",
+                    "adsorption": 1.68118,
+                    "composition": 26.26
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "FDZZZRQASAIRJF-UHFFFAOYSA-M",
+                    "adsorption": 10.2073,
+                    "composition": 0.4844
+                },
+                {
+                    "InChIKey": "FTZLWXQKVFFWLY-UHFFFAOYSA-L",
+                    "adsorption": 1.36862,
+                    "composition": 36.282
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "FDZZZRQASAIRJF-UHFFFAOYSA-M",
+                    "adsorption": 12.9935,
+                    "composition": 0.61345
+                },
+                {
+                    "InChIKey": "FTZLWXQKVFFWLY-UHFFFAOYSA-L",
+                    "adsorption": 0.584189,
+                    "composition": 44.264
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "FDZZZRQASAIRJF-UHFFFAOYSA-M",
+                    "adsorption": 14.4287,
+                    "composition": 0.70571
+                },
+                {
+                    "InChIKey": "FTZLWXQKVFFWLY-UHFFFAOYSA-L",
+                    "adsorption": 0.516264,
+                    "composition": 52.504
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "FDZZZRQASAIRJF-UHFFFAOYSA-M",
+                    "adsorption": 17.5433,
+                    "composition": 1.16726
+                },
+                {
+                    "InChIKey": "FTZLWXQKVFFWLY-UHFFFAOYSA-L",
+                    "adsorption": 0.366254,
+                    "composition": 70.46
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}

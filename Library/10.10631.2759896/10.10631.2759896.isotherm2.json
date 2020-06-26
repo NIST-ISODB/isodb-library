@@ -1,0 +1,93 @@
+{
+    "DOI": "10.1063/1.2759896",
+    "adsorbates": [
+        {
+            "InChIKey": "XSTXAVWGXDQKEL-UHFFFAOYSA-N",
+            "name": "1,1,2-Trichloroethene"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-0d52b4312e8dd98a53fcfaba14cd0e82",
+        "name": "ZSM-5"
+    },
+    "adsorptionUnits": "molecules/unitcell",
+    "articleSource": "UNKNOWN",
+    "category": "",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "1000-01-01",
+    "digitizer": "UNKNOWN",
+    "filename": "10.10631.2759896.isotherm2",
+    "isotherm_data": [
+        {
+            "pressure": 0.0540556,
+            "species_data": [
+                {
+                    "InChIKey": "XSTXAVWGXDQKEL-UHFFFAOYSA-N",
+                    "adsorption": 4.16998,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 4.16998
+        },
+        {
+            "pressure": 0.0684415,
+            "species_data": [
+                {
+                    "InChIKey": "XSTXAVWGXDQKEL-UHFFFAOYSA-N",
+                    "adsorption": 5.30612,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 5.30612
+        },
+        {
+            "pressure": 0.0844136,
+            "species_data": [
+                {
+                    "InChIKey": "XSTXAVWGXDQKEL-UHFFFAOYSA-N",
+                    "adsorption": 6.04898,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 6.04898
+        },
+        {
+            "pressure": 0.18056,
+            "species_data": [
+                {
+                    "InChIKey": "XSTXAVWGXDQKEL-UHFFFAOYSA-N",
+                    "adsorption": 8.23385,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 8.23385
+        },
+        {
+            "pressure": 0.249492,
+            "species_data": [
+                {
+                    "InChIKey": "XSTXAVWGXDQKEL-UHFFFAOYSA-N",
+                    "adsorption": 8.58343,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 8.58343
+        },
+        {
+            "pressure": 0.338765,
+            "species_data": [
+                {
+                    "InChIKey": "XSTXAVWGXDQKEL-UHFFFAOYSA-N",
+                    "adsorption": 8.95486,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 8.95486
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}

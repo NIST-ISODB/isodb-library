@@ -1,0 +1,71 @@
+{
+    "DOI": "10.1039/C3cc37695h",
+    "adsorbates": [
+        {
+            "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+            "name": "Nitrogen"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-bdb797f19c024205bbb7dbee45ecabab",
+        "name": "SNIFSIX-1-Cu"
+    },
+    "adsorptionUnits": "cm3(STP)/g",
+    "articleSource": "UNKNOWN",
+    "category": "",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "1000-01-01",
+    "digitizer": "UNKNOWN",
+    "filename": "10.1039C3cc37695h.isotherm6",
+    "isotherm_data": [
+        {
+            "pressure": 0.0342561,
+            "species_data": [
+                {
+                    "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+                    "adsorption": 0.30008,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.30008
+        },
+        {
+            "pressure": 0.39575,
+            "species_data": [
+                {
+                    "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+                    "adsorption": 2.22277,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 2.22277
+        },
+        {
+            "pressure": 0.742388,
+            "species_data": [
+                {
+                    "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+                    "adsorption": 3.90512,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 3.90512
+        },
+        {
+            "pressure": 1.08903,
+            "species_data": [
+                {
+                    "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+                    "adsorption": 5.82781,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 5.82781
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}

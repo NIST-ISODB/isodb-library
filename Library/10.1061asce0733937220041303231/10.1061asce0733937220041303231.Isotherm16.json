@@ -1,0 +1,93 @@
+{
+    "DOI": "10.1061/(asce)0733-9372(2004)130:3(231)",
+    "adsorbates": [
+        {
+            "InChIKey": "CSCPPACGZOOCGX-UHFFFAOYSA-N",
+            "name": "Acetone"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-8e358d0abd7beabbade6c019d3f9be95",
+        "name": "Tire-derived Activated Carbon"
+    },
+    "adsorptionUnits": "mg/g",
+    "articleSource": "Figure 4e",
+    "category": "mod",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "2016-07-06",
+    "digitizer": "Kailey M. Stracka",
+    "filename": "10.1061asce0733937220041303231.Isotherm16",
+    "isotherm_data": [
+        {
+            "pressure": 0.021781,
+            "species_data": [
+                {
+                    "InChIKey": "CSCPPACGZOOCGX-UHFFFAOYSA-N",
+                    "adsorption": 161.458,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 161.458
+        },
+        {
+            "pressure": 0.031894,
+            "species_data": [
+                {
+                    "InChIKey": "CSCPPACGZOOCGX-UHFFFAOYSA-N",
+                    "adsorption": 180.512,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 180.512
+        },
+        {
+            "pressure": 0.066122,
+            "species_data": [
+                {
+                    "InChIKey": "CSCPPACGZOOCGX-UHFFFAOYSA-N",
+                    "adsorption": 219.477,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 219.477
+        },
+        {
+            "pressure": 0.108129,
+            "species_data": [
+                {
+                    "InChIKey": "CSCPPACGZOOCGX-UHFFFAOYSA-N",
+                    "adsorption": 241.174,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 241.174
+        },
+        {
+            "pressure": 0.16025,
+            "species_data": [
+                {
+                    "InChIKey": "CSCPPACGZOOCGX-UHFFFAOYSA-N",
+                    "adsorption": 258.974,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 258.974
+        },
+        {
+            "pressure": 0.198367,
+            "species_data": [
+                {
+                    "InChIKey": "CSCPPACGZOOCGX-UHFFFAOYSA-N",
+                    "adsorption": 267.31,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 267.31
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 323
+}

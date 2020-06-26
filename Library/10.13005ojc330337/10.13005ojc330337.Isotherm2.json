@@ -1,0 +1,82 @@
+{
+    "DOI": "10.13005/ojc/330337",
+    "adsorbates": [
+        {
+            "InChIKey": "GKAOGPIIYCISHV-UHFFFAOYSA-N",
+            "name": "Neon"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-d16f3e65cb7e06d8c835af11640b9929",
+        "name": "(5,5) Silicon nanotubes"
+    },
+    "adsorptionUnits": "wt%",
+    "articleSource": "Figure 1",
+    "category": "sim",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "2019-07-22",
+    "digitizer": "Noah C. Whelpley",
+    "filename": "10.13005ojc330337.Isotherm2",
+    "isotherm_data": [
+        {
+            "pressure": 9.561,
+            "species_data": [
+                {
+                    "InChIKey": "GKAOGPIIYCISHV-UHFFFAOYSA-N",
+                    "adsorption": 2.6359,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 50.287,
+            "species_data": [
+                {
+                    "InChIKey": "GKAOGPIIYCISHV-UHFFFAOYSA-N",
+                    "adsorption": 4.6616,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 69.608,
+            "species_data": [
+                {
+                    "InChIKey": "GKAOGPIIYCISHV-UHFFFAOYSA-N",
+                    "adsorption": 5.8916,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 99.923,
+            "species_data": [
+                {
+                    "InChIKey": "GKAOGPIIYCISHV-UHFFFAOYSA-N",
+                    "adsorption": 6.5994,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 149.7,
+            "species_data": [
+                {
+                    "InChIKey": "GKAOGPIIYCISHV-UHFFFAOYSA-N",
+                    "adsorption": 6.8796,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 50
+}

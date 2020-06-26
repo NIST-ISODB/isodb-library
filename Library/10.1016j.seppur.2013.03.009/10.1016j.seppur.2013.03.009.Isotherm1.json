@@ -1,0 +1,60 @@
+{
+    "DOI": "10.1016/j.seppur.2013.03.009",
+    "adsorbates": [
+        {
+            "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+            "name": "Nitrogen"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-e8a1a82c4fe2ad952d1c107156f780f2",
+        "name": "MIL-100(Fe)"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "UNKNOWN",
+    "category": "",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "1000-01-01",
+    "digitizer": "UNKNOWN",
+    "filename": "10.1016j.seppur.2013.03.009.Isotherm1",
+    "isotherm_data": [
+        {
+            "pressure": 2.56439,
+            "species_data": [
+                {
+                    "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+                    "adsorption": 0.213513,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.213513
+        },
+        {
+            "pressure": 3.74587,
+            "species_data": [
+                {
+                    "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+                    "adsorption": 0.311129,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.311129
+        },
+        {
+            "pressure": 4.99425,
+            "species_data": [
+                {
+                    "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+                    "adsorption": 0.406802,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.406802
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 323
+}

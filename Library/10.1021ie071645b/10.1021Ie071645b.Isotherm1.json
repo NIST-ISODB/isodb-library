@@ -1,0 +1,71 @@
+{
+    "DOI": "10.1021/Ie071645b",
+    "adsorbates": [
+        {
+            "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+            "name": "Water"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-01bba51169970cd72bc6c07d6733b4a8",
+        "name": "Zeolite A"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "UNKNOWN",
+    "category": "",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "1000-01-01",
+    "digitizer": "UNKNOWN",
+    "filename": "10.1021Ie071645b.Isotherm1",
+    "isotherm_data": [
+        {
+            "pressure": 0.00047836,
+            "species_data": [
+                {
+                    "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+                    "adsorption": 2.48953,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 2.48953
+        },
+        {
+            "pressure": 0.00464692,
+            "species_data": [
+                {
+                    "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+                    "adsorption": 10.6315,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 10.6315
+        },
+        {
+            "pressure": 0.0143508,
+            "species_data": [
+                {
+                    "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+                    "adsorption": 11.3545,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 11.3545
+        },
+        {
+            "pressure": 0.0231663,
+            "species_data": [
+                {
+                    "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+                    "adsorption": 11.2061,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 11.2061
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 305
+}

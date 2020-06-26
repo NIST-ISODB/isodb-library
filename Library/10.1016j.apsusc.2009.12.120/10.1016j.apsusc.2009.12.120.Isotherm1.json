@@ -1,0 +1,71 @@
+{
+    "DOI": "10.1016/j.apsusc.2009.12.120",
+    "adsorbates": [
+        {
+            "InChIKey": "QQONPFPTGQHPMA-UHFFFAOYSA-N",
+            "name": "Propene"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-0d52b4312e8dd98a53fcfaba14cd0e82",
+        "name": "ZSM-5"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "UNKNOWN",
+    "category": "",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "1000-01-01",
+    "digitizer": "UNKNOWN",
+    "filename": "10.1016j.apsusc.2009.12.120.Isotherm1",
+    "isotherm_data": [
+        {
+            "pressure": 4.98e-05,
+            "species_data": [
+                {
+                    "InChIKey": "QQONPFPTGQHPMA-UHFFFAOYSA-N",
+                    "adsorption": 0.392522,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.392522
+        },
+        {
+            "pressure": 9.85e-05,
+            "species_data": [
+                {
+                    "InChIKey": "QQONPFPTGQHPMA-UHFFFAOYSA-N",
+                    "adsorption": 0.648585,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.648585
+        },
+        {
+            "pressure": 0.000251,
+            "species_data": [
+                {
+                    "InChIKey": "QQONPFPTGQHPMA-UHFFFAOYSA-N",
+                    "adsorption": 0.978171,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.978171
+        },
+        {
+            "pressure": 0.000499,
+            "species_data": [
+                {
+                    "InChIKey": "QQONPFPTGQHPMA-UHFFFAOYSA-N",
+                    "adsorption": 1.14765,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.14765
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 303
+}

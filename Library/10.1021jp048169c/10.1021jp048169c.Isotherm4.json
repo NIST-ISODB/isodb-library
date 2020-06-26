@@ -1,0 +1,71 @@
+{
+    "DOI": "10.1021/jp048169c",
+    "adsorbates": [
+        {
+            "InChIKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+            "name": "Hydrogen"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-3cf0b5c01f919f9570bf9bb10d4951d6",
+        "name": "raw SWNT"
+    },
+    "adsorptionUnits": "wt%",
+    "articleSource": "Figure 3",
+    "category": "exp",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "2016-06-20",
+    "digitizer": "David A. Anderegg",
+    "filename": "10.1021jp048169c.Isotherm4",
+    "isotherm_data": [
+        {
+            "pressure": 0,
+            "species_data": [
+                {
+                    "InChIKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+                    "adsorption": 0,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0
+        },
+        {
+            "pressure": 6.68317,
+            "species_data": [
+                {
+                    "InChIKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+                    "adsorption": 0.025583,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.025583
+        },
+        {
+            "pressure": 27.8465,
+            "species_data": [
+                {
+                    "InChIKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+                    "adsorption": 0.105537,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.105537
+        },
+        {
+            "pressure": 64.2327,
+            "species_data": [
+                {
+                    "InChIKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+                    "adsorption": 0.27804,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.27804
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 293
+}

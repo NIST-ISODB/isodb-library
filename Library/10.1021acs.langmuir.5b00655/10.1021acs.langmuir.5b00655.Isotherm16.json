@@ -1,0 +1,71 @@
+{
+    "DOI": "10.1021/acs.langmuir.5b00655",
+    "adsorbates": [
+        {
+            "InChIKey": "ATUOYWHBWRKTHZ-UHFFFAOYSA-N",
+            "name": "N-propane"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-a6f101f386dee100047fcaf572ce237c",
+        "name": "COMOC-2"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "Figure 8",
+    "category": "exp",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "2017-07-05",
+    "digitizer": "Toyosi Afolabi",
+    "filename": "10.1021acs.langmuir.5b00655.Isotherm16",
+    "isotherm_data": [
+        {
+            "pressure": 2.38983,
+            "species_data": [
+                {
+                    "InChIKey": "ATUOYWHBWRKTHZ-UHFFFAOYSA-N",
+                    "adsorption": 0.977273,
+                    "composition": 0.25
+                }
+            ],
+            "total_adsorption": 0.977273
+        },
+        {
+            "pressure": 4.42373,
+            "species_data": [
+                {
+                    "InChIKey": "ATUOYWHBWRKTHZ-UHFFFAOYSA-N",
+                    "adsorption": 1.70455,
+                    "composition": 0.25
+                }
+            ],
+            "total_adsorption": 1.70455
+        },
+        {
+            "pressure": 6.38983,
+            "species_data": [
+                {
+                    "InChIKey": "ATUOYWHBWRKTHZ-UHFFFAOYSA-N",
+                    "adsorption": 2.22727,
+                    "composition": 0.25
+                }
+            ],
+            "total_adsorption": 2.22727
+        },
+        {
+            "pressure": 8.49153,
+            "species_data": [
+                {
+                    "InChIKey": "ATUOYWHBWRKTHZ-UHFFFAOYSA-N",
+                    "adsorption": 3.47727,
+                    "composition": 0.25
+                }
+            ],
+            "total_adsorption": 3.47727
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 303
+}

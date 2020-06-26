@@ -1,0 +1,112 @@
+{
+    "DOI": "10.1039/c7nj01489a",
+    "adsorbates": [
+        {
+            "InChIKey": "LFQSCWFLJHTTHZ-UHFFFAOYSA-N",
+            "name": "Ethanol"
+        },
+        {
+            "InChIKey": "REFJWTPEDVJJIY-UHFFFAOYSA-N",
+            "name": "Quercetin"
+        },
+        {
+            "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+            "name": "Water"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-969333630e4228a413b2a07c7611da45",
+        "name": "NH2-functionalized silica nanoparticles"
+    },
+    "adsorptionUnits": "mg/g",
+    "articleSource": "Figure 7",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2019-07-31",
+    "digitizer": "Gabrielle Magid",
+    "filename": "10.1039c7nj01489a.Isotherm1",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "REFJWTPEDVJJIY-UHFFFAOYSA-N",
+                    "adsorption": 0.118517,
+                    "composition": 7.22969
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "REFJWTPEDVJJIY-UHFFFAOYSA-N",
+                    "adsorption": 0.163882,
+                    "composition": 8.91025
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "REFJWTPEDVJJIY-UHFFFAOYSA-N",
+                    "adsorption": 0.217365,
+                    "composition": 10.6055
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "REFJWTPEDVJJIY-UHFFFAOYSA-N",
+                    "adsorption": 0.222987,
+                    "composition": 12.5956
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "REFJWTPEDVJJIY-UHFFFAOYSA-N",
+                    "adsorption": 0.272107,
+                    "composition": 14.0773
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "REFJWTPEDVJJIY-UHFFFAOYSA-N",
+                    "adsorption": 0.27212,
+                    "composition": 16.1102
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "REFJWTPEDVJJIY-UHFFFAOYSA-N",
+                    "adsorption": 0.602823,
+                    "composition": 35.9509
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}

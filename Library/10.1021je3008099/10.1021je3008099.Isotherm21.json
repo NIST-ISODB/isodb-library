@@ -1,0 +1,126 @@
+{
+    "DOI": "10.1021/je3008099",
+    "adsorbates": [
+        {
+            "InChIKey": "NIST-ISODB-CC1685D28E6FD63A280C",
+            "name": "R-410A"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-06a6c834832845e6617053b376fcd706",
+        "name": "Maxsorb III"
+    },
+    "adsorptionUnits": "g/g",
+    "articleSource": "Figure 12",
+    "category": "exp",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "2016-06-21",
+    "digitizer": "Kailey M. Stracka",
+    "filename": "10.1021je3008099.Isotherm21",
+    "isotherm_data": [
+        {
+            "pressure": 0.248092,
+            "species_data": [
+                {
+                    "InChIKey": "NIST-ISODB-CC1685D28E6FD63A280C",
+                    "adsorption": 0.229443,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.229443
+        },
+        {
+            "pressure": 0.801527,
+            "species_data": [
+                {
+                    "InChIKey": "NIST-ISODB-CC1685D28E6FD63A280C",
+                    "adsorption": 0.511281,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.511281
+        },
+        {
+            "pressure": 1.39313,
+            "species_data": [
+                {
+                    "InChIKey": "NIST-ISODB-CC1685D28E6FD63A280C",
+                    "adsorption": 0.764961,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.764961
+        },
+        {
+            "pressure": 2.29008,
+            "species_data": [
+                {
+                    "InChIKey": "NIST-ISODB-CC1685D28E6FD63A280C",
+                    "adsorption": 1.02677,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.02677
+        },
+        {
+            "pressure": 3.47328,
+            "species_data": [
+                {
+                    "InChIKey": "NIST-ISODB-CC1685D28E6FD63A280C",
+                    "adsorption": 1.27256,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.27256
+        },
+        {
+            "pressure": 4.61832,
+            "species_data": [
+                {
+                    "InChIKey": "NIST-ISODB-CC1685D28E6FD63A280C",
+                    "adsorption": 1.4781,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.4781
+        },
+        {
+            "pressure": 6.0687,
+            "species_data": [
+                {
+                    "InChIKey": "NIST-ISODB-CC1685D28E6FD63A280C",
+                    "adsorption": 1.69982,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.69982
+        },
+        {
+            "pressure": 8.18702,
+            "species_data": [
+                {
+                    "InChIKey": "NIST-ISODB-CC1685D28E6FD63A280C",
+                    "adsorption": 1.90159,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.90159
+        },
+        {
+            "pressure": 11.4122,
+            "species_data": [
+                {
+                    "InChIKey": "NIST-ISODB-CC1685D28E6FD63A280C",
+                    "adsorption": 2.01513,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 2.01513
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 288
+}
