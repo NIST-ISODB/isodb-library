@@ -1,0 +1,40 @@
+repos:
+- repo: https://github.com/pre-commit/pre-commit-hooks
+  rev: v2.5.0
+  hooks:
+  - id: end-of-file-fixer
+  - id: mixed-line-ending
+  - id: trailing-whitespace
+  - id: check-json
+  - id: pretty-format-json
+    args: ['--autofix', '--indent=4', '--no-ensure-ascii']
+
+- repo: https://github.com/ambv/black
+  rev: 19.10b0
+  hooks:
+  - id: black
+    language_version: python3.7
+
+- repo: local
+  hooks:
+  - id: unique-dois
+    name: Check that DOIs are unique
+    entry: python ./.github/validate.py doi-uniqueness
+    language: system
+    pass_filenames: false
+    files: DOI_mapping.csv
+  - id: doi-mapping
+    name: Check that DOI mapping is consistent
+    entry: python ./.github/validate.py doi-mapping
+    language: system
+    pass_filenames: false
+    files: DOI_mapping.csv
+  - id: pressures
+    name: Check consistency of pressures
+    entry: python ./.github/validate.py pressures
+    language: system
+    pass_filenames: true
+    files: >-
+        (?x)^(
+            Library/.*/.*isotherm.*json
+        )$
