@@ -13,6 +13,8 @@ import git
 # Global Variables
 API_HOST = "https://adsorption.nist.gov"
 HEADERS = {'Accept': 'application/citeproc+json'} # JSON Headers
+TEXTENCODE = 'utf-8'
+CANONICALIZE = 'NFKC'
 
 SCRIPT_PATH = os.path.split(os.path.realpath(__file__))[0]
 ROOT_DIR = os.getcwd()
@@ -182,9 +184,7 @@ def fix_gas_ID(input):
 def fix_material_ID(input):
     output = copy.deepcopy(input)
     material_name = input["name"].lower().replace('%','%25').replace(' ','%20')
-    print(material_name)
     url = API_HOST+"/matdb/api/material/"+material_name+".json&k=dontrackmeplease"
-    print(url)
     #Attempt to resolve the name using the MATDB API
     try:
         material_info = json.loads(requests.get(url, headers=HEADERS).content)
@@ -195,6 +195,17 @@ def fix_material_ID(input):
         check = False
     return output, check
         
+
+def default_adsorption_units(input):
+    # Generate units lookup tables from API
+    url = API_HOST+"/isodb/api/default-adsorption-unit-lookup.json"
+    default_units = json.loads(requests.get(url, headers=HEADERS).content)
+    url = API_HOST+"/isodb/api/adsorption-unit-lookup.json"
+    all_units = json.loads(requests.get(url, headers=HEADERS).content)
+    # input -> ID -> output mapping
+    ID = next(item for item in all_units if item["name"].lower() == input.lower())["id"]
+    output = next(item for item in default_units if item["id"] == ID)["name"]
+    return output
 
 @cli.command("post_process")
 @click.argument("filename", type=click.Path(exists=True), nargs=1)
@@ -208,12 +219,23 @@ def post_process(filename):
     adsorbates = isotherm["adsorbates"]
     for (i,adsorbate) in enumerate(adsorbates):
         if "InChIKey" not in adsorbate:
-            #Correct the gas ID
+            #Correct the gas ID using the ISODB API
             adsorbate, check = fix_gas_ID(adsorbate)
             if not check:
                 raise Exception('UNKNOWN ADSORBATE: ', adsorbate, filename)
             else:
                 adsorbates[i] = adsorbate
+        else:
+            #Confirm that the InChIKey is in the ISODB
+            url = API_HOST+"/isodb/api/gases.json"
+            adsorbates_list = json.loads(requests.get(url, headers=HEADERS).content)
+            adsorbate_inchikeys = [ x["InChIKey"] for x in adsorbates_list ]
+            if adsorbate["InChIKey"] not in adsorbate_inchikeys:
+                print('new inchikey, create upload file')
+                #needs to include inchikey, name  <- double check this!!!!
+                #Extract adsorbate dictionary as a new file
+                filename = adsorbate["InChIKey"]+'.json'
+                json_writer(filename, adsorbate)
     #  b. isotherm data points
     for point in isotherm["isotherm_data"]:
         for species in point["species_data"]:
@@ -262,7 +284,9 @@ def post_process(filename):
         else:
             # Otherwise, just convert bar pressure
             point["pressure"] = point["pressure"]*p_conversion
-    isotherm["pressureUnits"] = 'bar'
+    isotherm["pressureUnits"] = "bar"
+    # Map the adsorptionUnits to the default value
+    isotherm["adsorptionUnits"] = default_adsorption_units(isotherm["adsorptionUnits"])
     # Trim out points with invalid pressure or adsorption
     new_points = []
     for point in isotherm["isotherm_data"]:
@@ -279,15 +303,174 @@ def post_process(filename):
     print('after')
     pprint.pprint(isotherm)
     
-
 #To Do:
 # Post-Process Script:
 #   Do we want to deal with partial-pressure in the isotherm_data block ?  (appears in composition area)
-#     DWS: inclined to not error check this block as it requires expert knowledge to compose
+#     DWS: not inclined to error check this block as it requires expert knowledge to compose
 #   Handling of new adsorbent materials
 #     Digitizer should include option to specify new adsorbent metadata
 #   Handling of new adsorbates
 #     Digitizer should include option to specify new adsorbate metadata
+# Bibliographic entry generator
+#   collate data from isotherms
+#   if DOI exists, compare expected data to existing DB entry
+#     if missing in existing, provide instructions for adding
+#     if missing in expected, DO NOT add  [old data in DB is structured this way]
+#   copy code from existing notebook for processing student data
+
+
+def extract_names(string):
+    if string.count('.') > 1:
+        split_string = string.split('.',1)
+        given = split_string[0]+'.'
+        middle = split_string[1].lstrip()
+    elif ' ' in string:
+        #print 'spaces', string
+        split_string = string.split(' ',1)
+        given = split_string[0]
+        middle = split_string[1]
+    else:
+        given = string
+        middle = None
+    #Remove preceding dash from middle
+    if middle != None and len(middle) > 0 and middle[0] == '-':
+        middle = middle.split('-',1)[1]
+    return { "given":given, "middle": middle }
+
+def fix_journal(journal_in):
+    #Point Corrections for journals with inconsistent naming",
+    if journal_in == "angewandte chemie international edition":
+        output = "angewandte chemie-international edition"
+    elif journal_in == "zeitschrift für anorganische und allgemeine chemie":
+        output = "zeitschrift fur anorganische und allgemeine chemie"
+    elif journal_in == "the canadian journal of chemical engineering":
+        output = "canadian journal of chemical engineering"
+    elif journal_in == "applied catalysis a: general":
+        output = "applied catalysis a-general"
+    elif journal_in == "applied catalysis b: environmental":
+        output = "applied catalysis b-environmental"
+    elif journal_in == "journal of molecular catalysis a: chemical":
+        output = "journal of molecular catalysis a-chemical"
+    elif journal_in == "energy environ sci":
+        output = "energy and environmental science"
+    elif journal_in == "fullerenes, nanotubes and carbon nanostructures":
+        output = "fullerenes nanotubes and carbon nanostructures"
+    elif journal_in == "environmental science: nano":
+        output = "environmental science-nano"
+    elif journal_in == "chimia international journal for chemistry":
+        output = "chimia"
+    elif journal_in == "journal of chemical technology & biotechnology":
+        output = "Journal of Chemical Technology and Biotechnology"
+    elif journal_in == "colloids and surfaces a: physicochemical and engineering aspects":
+        output = "Colloids and Surfaces A-Physicochemical and Engineering Aspects"
+    elif journal_in == "journal of environmental sciences":
+        output = "Journal of Environmental Sciences-China"
+    else:
+        output = journal_in
+    return output
+
+@cli.command("generate_bibliography")
+@click.argument("doi", nargs=1)
+def generate_bibliography(doi):
+
+    #Pull bibliographic metadata from the dx.doi.org API
+    try:
+        url = 'https://doi.org/'+doi
+        bib_info = json.loads(requests.get(url, headers=HEADERS).content)
+    except:
+        raise RuntimeError("ERROR: DOI problem for:"+doi)
+    title = bib_info["title"].encode(TEXTENCODE).decode()
+    journal = bib_info["container-title"].replace('.','').encode(TEXTENCODE).lower().decode()
+    journal = fix_journal(journal)
+    year = int(bib_info["issued"]["date-parts"][0][0])
+    #-----------------------------
+    #Match Journal Name/Abbreviation to existing lookup
+    url = API_HOST+"/isodb/api/journals-lookup.json"
+    journals = json.loads(requests.get(url, headers=HEADERS).content)
+    if journal in [x["name"].lower() for x in journals]:
+        # Attempt to match journal by name (lower case)
+        index = [x["name"].lower() for x in journals].index(journal)
+        journal = {"journal_id": journals[index]["id"]}
+        journal["name"] = journals[index]["name"]
+    elif journal in [x["abbreviation"].lower().replace('.','') for x in journals]:
+        # attempt to match journal by abbreviation (lower case, strip out periods)
+        index = [x["abbreviation"].lower().replace('.','') for x in journals].index(journal.replace('.',''))
+        journal = {"journal_id": journals[index]["id"]}
+        journal["abbreviation"] = journals[index]["abbreviation"]
+    else:
+        raise Exception("Unknown Journal: ", journal)
+    #------------------------------
+    # Parse the author list
+    authors = []
+    for (i,author) in enumerate(bib_info["author"]):
+        block = {}
+        block["order_id"] = i+1
+        block["family_name"] = unicodedata.normalize('NFKC',author["family"])
+        try:
+            given_names = extract_names(author["given"])
+            block["given_name"] = unicodedata.normalize('NFKC',given_names["given"])
+        except:
+            raise Exception('Error parsing author block: '+author+'\n for DOI: '+doi)
+        if given_names["middle"] != None:
+            block["middle_name"] = unicodedata.normalize('NFKC',given_names["middle"])
+        if "ORCID" in author:
+            block["orc_id"] = author["ORCID"].replace('http://orcid.org/','')
+        authors.append(block)
+
+    # adsorbates = []
+    # adsorbents = []
+    # temperatures = []
+    # categories = []
+    # min_pressure = 1.0e10 #initialize this absurdly
+    # max_pressure = -1.0e10 #initialize this absurdly
+
+    # #Extract metadata from each Isotherm JSON file for the DOI
+    # files = glob.glob(PROC_directory+'/'+DOI[1]+'*.json')
+    # for file in files:
+    #     isotherm = json.loads(open(file,mode='r').read())
+    #     #pprint.pprint(isotherm)
+
+    #     adsorbents.append(str(isotherm["adsorbent"]["hashkey"]))
+    #     categories.append(str(isotherm["category"]))
+    #     temperatures.append(int(isotherm["temperature"]))
+    #     for adsorbate in isotherm["adsorbates"]:
+    #         adsorbates.append(adsorbate["InChIKey"])
+    #     for point in isotherm["isotherm_data"]:
+    #         min_pressure = min( min_pressure, point["pressure"] )
+    #         max_pressure = max( max_pressure, point["pressure"] )
+
+    # #Correction to pressure range
+    # if min_pressure < 0.0:
+    #     min_pressure = 0.00
+    # if max_pressure > 1000.0:
+    #     max_pressure = 1000.00
         
+    # #Reduce redundant lists to unique lists and convert to dictionaries
+    # adsorbents = [{"hashkey": x} for x in list(set(adsorbents))]
+    # categories = [{"name": x} for x in list(set(categories))]
+    # temperatures = list(set(temperatures))
+    # adsorbates = [{"InChIKey": x} for x in list(set(adsorbates))]
+
+    #Build the JSON Structure
+    biblio = {}
+    biblio["DOI"] = doi
+    # biblio["categories"] = categories
+    # biblio["adsorbates"] = adsorbates
+    # biblio["adsorbents"] = adsorbents
+    # biblio["temperature"] = temperatures
+    # biblio["pressure_min"] = float("{0:.2f}".format(min_pressure))
+    # biblio["pressure_max"] = float("{0:.2f}".format(max_pressure))
+    biblio["title"] = title
+    biblio["year"] = year
+    biblio["journal"] = journal
+    biblio["authors"] = authors
+
+    pprint.pprint(biblio)
+
+# To-Do for Bibliography Generator
+#   New journals - how to handle
+
+
+
 if __name__ == "__main__":
     cli()  # pylint: disable=no-value-for-parameter
