@@ -131,7 +131,7 @@ def regenerate_library():
 
     # Create a CSV file with the DOI -> folder mapping
     DOI_mapping = open(DOI_MAPPING_PATH, mode="w")
-    DOI_mapping.write('DOI,  "DOI Stub"\n')
+    DOI_mapping.write('DOI,  "DOI_Stub"\n')
 
     # Download and Organize the Isotherms
     article_count = 0
