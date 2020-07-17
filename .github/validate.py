@@ -83,5 +83,35 @@ def validate_pressures(filenames):
         sys.exit(1)
 
 
+@cli.command("adsorption_values")
+@click.argument("filenames", type=click.Path(exists=True), nargs=-1)
+def validate_adsorption_values(filenames):
+    """Check that adsorption values aren't negative."""
+
+    issue_found = False
+
+    for filename in filenames:
+        with open(filename, "r") as handle:
+            data = json.load(handle)
+
+        adsorptions = [x["species_data"] for x in data["isotherm_data"]]
+        adsorptions = [[x["adsorption"] for x in a] for a in adsorptions]
+        adsorptions = [
+            item for x in adsorptions for item in x
+        ]  # collapse into a single list
+
+        negative_adsorptions = [a for a in adsorptions if a < 0]
+        if negative_adsorptions:
+            print(
+                "Warning: Negative adsorptions {} found in {}".format(
+                    negative_adsorptions, filename
+                )
+            )
+            issue_found = True
+
+    if issue_found:
+        sys.exit(1)
+
+
 if __name__ == "__main__":
     cli()  # pylint: disable=no-value-for-parameter
