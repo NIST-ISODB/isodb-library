@@ -38,7 +38,7 @@ def validate_doi_uniqueness():
 def validate_doi_mapping():
     """Check consistency of DOI_mapping.csv with Library/ folder."""
     doi_mapping = pd.read_csv(DOI_MAPPING_PATH, sep=",  ")
-    doi_stubs = doi_mapping['"DOI Stub"'].str.lower()
+    doi_stubs = doi_mapping["DOI_Stub"].str.lower()
     doi_folders = [f.name.lower() for f in os.scandir(JSON_FOLDER) if f.is_dir()]
     doi_folders.remove("adsorbents")
     doi_folders.remove("adsorbates")
