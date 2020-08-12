@@ -106,7 +106,7 @@ def download_isotherm(isotherm):
 
 
 @cli.command("regenerate_library")
-def regenerate_library():
+def regenerate_isotherm_library():
     """Generate the entire ISODB library from the API"""
     # Create the JSON Library folder if necessary
     if not os.path.exists(JSON_FOLDER):
@@ -261,18 +261,22 @@ def regenerate_bibliography():
     # Extract each paper in full form
     for (biblio_count, biblio) in enumerate(bibliography):
         doi = biblio["DOI"]
+        doi_stub = biblio["DOI"]
+        for rule in doi_stub_rules:
+            doi_stub = doi_stub.replace(rule["old"], rule["new"])
         url = API_HOST + "/isodb/api/biblio/" + doi + ".json"
         print(url)
         try:
             biblio_data = json.loads(requests.get(url, headers=HEADERS).content)[
                 0
             ]  # look at the API call here
-            pprint.pprint(biblio_data)
+            # pprint.pprint(biblio_data)
             # Write to JSON
-            # json_writer(Adsorbate_folder+'/'+filename,adsorbate_data)
+            filename = doi_stub + ".json"
+            json_writer(Biblio_folder + "/" + filename, biblio)
+
         except:
             print("ERROR: ", doi)
-        break
         # if biblio_count > 5: break
         if biblio_count % 100 == 0:
             time.sleep(5)  # slow down API calls to not overwhelm the server
