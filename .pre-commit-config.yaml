@@ -38,6 +38,7 @@ repos:
         (?x)^(
             Library/.*/.*sotherm.*json
         )$
+    verbose: true
   - id: adsorption_values
     name: Check consistency of adsorption values (y-axis)
     entry: python ./.github/validate.py adsorption_values
@@ -47,3 +48,4 @@ repos:
         (?x)^(
             Library/.*/.*sotherm.*json
         )$
+    verbose: true
