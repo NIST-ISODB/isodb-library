@@ -1,0 +1,66 @@
+{
+    "DOI": "10.1007/s10450-008-9140-y",
+    "adsorbateGas": [
+        "N-propane",
+        "Ethane",
+        "N-Hexane"
+    ],
+    "adsorbates": [
+        {
+            "InChIKey": "ATUOYWHBWRKTHZ-UHFFFAOYSA-N",
+            "name": "N-propane"
+        },
+        {
+            "InChIKey": "OTMSDBZUPAUEDD-UHFFFAOYSA-N",
+            "name": "Ethane"
+        },
+        {
+            "InChIKey": "VLKZOEOYAKHREP-UHFFFAOYSA-N",
+            "name": "N-Hexane"
+        }
+    ],
+    "adsorbentMaterial": [
+        "Zeolite ITQ-29"
+    ],
+    "adsorbents": [
+        {
+            "hashkey": "NIST-MATDB-6e5d5df3adf2cbd96f153a0657d6ce44",
+            "name": "Zeolite ITQ-29"
+        }
+    ],
+    "authors": [
+        "Miguel A. Granato",
+        "Thijs J. H. Vlugt",
+        "Alírio E. Rodrigues"
+    ],
+    "categories": [
+        "sim"
+    ],
+    "isotherms": [
+        {
+            "filename": "10.1007s10450-008-9140-y.isotherm1"
+        },
+        {
+            "filename": "10.1007s10450-008-9140-y.isotherm2"
+        },
+        {
+            "filename": "10.1007s10450-008-9140-y.isotherm3"
+        },
+        {
+            "filename": "10.1007s10450-008-9140-y.isotherm4"
+        }
+    ],
+    "journal": "Adsorption",
+    "pressures": [
+        0,
+        1
+    ],
+    "temperatures": [
+        301,
+        374,
+        415,
+        453
+    ],
+    "title": "Study on hexane adsorption in zeolite ITQ-29 by molecular simulation",
+    "year": 2008
+}

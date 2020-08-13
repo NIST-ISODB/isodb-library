@@ -1,0 +1,88 @@
+{
+    "DOI": "10.1021/ie300121p",
+    "adsorbateGas": [
+        "Benzene",
+        "P-Xylene",
+        "Toluene"
+    ],
+    "adsorbates": [
+        {
+            "InChIKey": "UHOVQNZJYSORNB-UHFFFAOYSA-N",
+            "name": "Benzene"
+        },
+        {
+            "InChIKey": "URLKBWYHVLBVBO-UHFFFAOYSA-N",
+            "name": "P-Xylene"
+        },
+        {
+            "InChIKey": "YXFVVABEGXRONW-UHFFFAOYSA-N",
+            "name": "Toluene"
+        }
+    ],
+    "adsorbentMaterial": [
+        "Graphitised Thermal Carbon Black (TraPPE-UA k=-0.06)",
+        "Graphitised Thermal Carbon Black (TraPPE-UA k=-0.12)",
+        "Graphitised Thermal Carbon Black (TraPPE-UA)",
+        "Graphitised Thermal Carbon Black (OPLS-AA k=-0.06)"
+    ],
+    "adsorbents": [
+        {
+            "hashkey": "NIST-MATDB-2763183361c7563049925b6f6132dd4f",
+            "name": "Graphitised Thermal Carbon Black (TraPPE-UA k=-0.06)"
+        },
+        {
+            "hashkey": "NIST-MATDB-65486219317c33965b27253abd7bd22a",
+            "name": "Graphitised Thermal Carbon Black (TraPPE-UA k=-0.12)"
+        },
+        {
+            "hashkey": "NIST-MATDB-6e4623a272a873009b768b52ece935c8",
+            "name": "Graphitised Thermal Carbon Black (TraPPE-UA)"
+        },
+        {
+            "hashkey": "NIST-MATDB-75de0b4a5a3f7ad61c735a60aa4406e4",
+            "name": "Graphitised Thermal Carbon Black (OPLS-AA k=-0.06)"
+        }
+    ],
+    "authors": [
+        "Nikom Klomkliang",
+        "Duong D. Do",
+        "Donald M. Nicholson"
+    ],
+    "categories": [
+        "sim"
+    ],
+    "isotherms": [
+        {
+            "filename": "10.1021ie300121p.Isotherm1"
+        },
+        {
+            "filename": "10.1021ie300121p.Isotherm2"
+        },
+        {
+            "filename": "10.1021ie300121p.Isotherm3"
+        },
+        {
+            "filename": "10.1021ie300121p.Isotherm4"
+        },
+        {
+            "filename": "10.1021ie300121p.Isotherm5"
+        },
+        {
+            "filename": "10.1021ie300121p.Isotherm6"
+        },
+        {
+            "filename": "10.1021ie300121p.Isotherm7"
+        }
+    ],
+    "journal": "Industrial & Engineering Chemistry Research",
+    "pressures": [
+        0,
+        207.73
+    ],
+    "temperatures": [
+        293,
+        298
+    ],
+    "title": "Affinity and Packing of Benzene, Toluene, andp-Xylene Adsorption on a Graphitic Surface and in Pores",
+    "year": 2012
+}

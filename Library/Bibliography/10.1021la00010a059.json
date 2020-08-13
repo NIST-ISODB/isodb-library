@@ -1,0 +1,82 @@
+{
+    "DOI": "10.1021/la00010a059",
+    "adsorbateGas": [
+        "Nitrogen",
+        "Argon"
+    ],
+    "adsorbates": [
+        {
+            "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+            "name": "Nitrogen"
+        },
+        {
+            "InChIKey": "XKRFYHLGVUSROY-UHFFFAOYSA-N",
+            "name": "Argon"
+        }
+    ],
+    "adsorbentMaterial": [
+        "Buckytube single 1.02nm",
+        "Buckytube double 4.78 nm",
+        "Open Double Buckytube 4.78 nm",
+        "Infinite Double Buckytube 4.78 nm"
+    ],
+    "adsorbents": [
+        {
+            "hashkey": "NIST-MATDB-2b0d05410b8d2985766f74a727c9afeb",
+            "name": "Buckytube single 1.02nm"
+        },
+        {
+            "hashkey": "NIST-MATDB-37ddd19e1548cd5862e06eeec1e61db5",
+            "name": "Buckytube double 4.78 nm"
+        },
+        {
+            "hashkey": "NIST-MATDB-933e5c606ff9ae75e9d809ecb8877214",
+            "name": "Open Double Buckytube 4.78 nm"
+        },
+        {
+            "hashkey": "NIST-MATDB-a19d91092f7f316e681e7875ad25ec82",
+            "name": "Infinite Double Buckytube 4.78 nm"
+        }
+    ],
+    "authors": [
+        "M. W. Maddox",
+        "Keith E. Gubbins"
+    ],
+    "categories": [
+        "sim"
+    ],
+    "isotherms": [
+        {
+            "filename": "10.1021la00010a059.Isotherm1"
+        },
+        {
+            "filename": "10.1021la00010a059.Isotherm2"
+        },
+        {
+            "filename": "10.1021la00010a059.Isotherm3"
+        },
+        {
+            "filename": "10.1021la00010a059.Isotherm4"
+        },
+        {
+            "filename": "10.1021la00010a059.Isotherm5"
+        },
+        {
+            "filename": "10.1021la00010a059.Isotherm6"
+        },
+        {
+            "filename": "10.1021la00010a059.Isotherm7"
+        }
+    ],
+    "journal": "Langmuir",
+    "pressures": [
+        0,
+        0.55
+    ],
+    "temperatures": [
+        55,
+        77
+    ],
+    "title": "Molecular Simulation of Fluid Adsorption in Buckytubes",
+    "year": 1995
+}

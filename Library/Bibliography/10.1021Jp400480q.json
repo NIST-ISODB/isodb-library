@@ -1,0 +1,81 @@
+{
+    "DOI": "10.1021/Jp400480q",
+    "adsorbateGas": [
+        "Carbon Dioxide",
+        "Argon"
+    ],
+    "adsorbates": [
+        {
+            "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+            "name": "Carbon Dioxide"
+        },
+        {
+            "InChIKey": "XKRFYHLGVUSROY-UHFFFAOYSA-N",
+            "name": "Argon"
+        }
+    ],
+    "adsorbentMaterial": [
+        "MWCNT",
+        "ZIF-8",
+        "Solid CO2"
+    ],
+    "adsorbents": [
+        {
+            "hashkey": "NIST-MATDB-47dadc99a0da13b9e9bb3032468ecbdf",
+            "name": "MWCNT"
+        },
+        {
+            "hashkey": "NIST-MATDB-b2dc02871a66ac38e4b195796cf3e00b",
+            "name": "ZIF-8"
+        },
+        {
+            "hashkey": "NIST-MATDB-bacc6813c3ba57be113baedb7483f6ba",
+            "name": "Solid CO2"
+        }
+    ],
+    "authors": [
+        "Daniel W. Siderius",
+        "Vincent K. Shen"
+    ],
+    "categories": [
+        "sim"
+    ],
+    "isotherms": [
+        {
+            "filename": "10.1021Jp400480q.Isotherm1"
+        },
+        {
+            "filename": "10.1021Jp400480q.Isotherm2"
+        },
+        {
+            "filename": "10.1021Jp400480q.Isotherm3"
+        },
+        {
+            "filename": "10.1021Jp400480q.Isotherm4"
+        },
+        {
+            "filename": "10.1021Jp400480q.Isotherm5"
+        },
+        {
+            "filename": "10.1021Jp400480q.Isotherm6"
+        },
+        {
+            "filename": "10.1021Jp400480q.Isotherm7"
+        },
+        {
+            "filename": "10.1021Jp400480q.Isotherm8"
+        }
+    ],
+    "journal": "The Journal of Physical Chemistry C",
+    "pressures": [
+        0,
+        20
+    ],
+    "temperatures": [
+        87,
+        96,
+        303
+    ],
+    "title": "Use of the Grand Canonical Transition-Matrix Monte Carlo Method to Model Gas Adsorption in Porous Materials",
+    "year": 2013
+}

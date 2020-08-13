@@ -1,0 +1,72 @@
+{
+    "DOI": "10.1016/S0009-2614(00)00910-6",
+    "adsorbateGas": [
+        "Nitrogen",
+        "Methane"
+    ],
+    "adsorbates": [
+        {
+            "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+            "name": "Nitrogen"
+        },
+        {
+            "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+            "name": "Methane"
+        }
+    ],
+    "adsorbentMaterial": [
+        "ASX Xerogel",
+        "SX6 Xerogel",
+        "SX4 Xerogel"
+    ],
+    "adsorbents": [
+        {
+            "hashkey": "NIST-MATDB-5f195b936aef51b3b4d9b5c2335f2b86",
+            "name": "ASX Xerogel"
+        },
+        {
+            "hashkey": "NIST-MATDB-b9822b0b90fbe35eb665b7b155795b1d",
+            "name": "SX6 Xerogel"
+        },
+        {
+            "hashkey": "NIST-MATDB-be2bf2559e38c53ef793c4efbf1a5f31",
+            "name": "SX4 Xerogel"
+        }
+    ],
+    "authors": [
+        "Patrick Lloyd",
+        "Otto Berg",
+        "P Thiyagarajan",
+        "Frans R Trouw",
+        "Eric L Chronister"
+    ],
+    "categories": [
+        "mod",
+        "exp"
+    ],
+    "isotherms": [
+        {
+            "filename": "10.1016S0009-2614(00)00910-6.Isotherm1"
+        },
+        {
+            "filename": "10.1016S0009-2614(00)00910-6.Isotherm2"
+        },
+        {
+            "filename": "10.1016S0009-2614(00)00910-6.Isotherm3"
+        }
+    ],
+    "journal": "Chemical Physics Letters",
+    "pressures": [
+        0,
+        1
+    ],
+    "temperatures": [
+        20,
+        55,
+        65,
+        77,
+        115
+    ],
+    "title": "Methane dynamics in porous xerogels characterized by small-angle and quasielastic neutron scattering",
+    "year": 2000
+}

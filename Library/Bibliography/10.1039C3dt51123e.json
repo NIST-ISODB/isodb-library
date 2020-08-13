@@ -1,0 +1,88 @@
+{
+    "DOI": "10.1039/C3dt51123e",
+    "adsorbateGas": [
+        "Carbon Dioxide",
+        "Nitrogen",
+        "Ethanol",
+        "Methanol",
+        "Water"
+    ],
+    "adsorbates": [
+        {
+            "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+            "name": "Carbon Dioxide"
+        },
+        {
+            "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+            "name": "Nitrogen"
+        },
+        {
+            "InChIKey": "LFQSCWFLJHTTHZ-UHFFFAOYSA-N",
+            "name": "Ethanol"
+        },
+        {
+            "InChIKey": "OKKJLVBELUTLKV-UHFFFAOYSA-N",
+            "name": "Methanol"
+        },
+        {
+            "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+            "name": "Water"
+        }
+    ],
+    "adsorbentMaterial": [
+        "{[ZnL(HCO2)(H2O)]*DMF}",
+        "[P(NH4Py)4]Cl",
+        "[PO(NH4Py)3]"
+    ],
+    "adsorbents": [
+        {
+            "hashkey": "NIST-MATDB-5ac4b4c4a8c7d9aac288b2fe0c8698bb",
+            "name": "{[ZnL(HCO2)(H2O)]*DMF}"
+        },
+        {
+            "hashkey": "NIST-MATDB-5c749467e34551ec8dc7773ac7d2ca8f",
+            "name": "[P(NH4Py)4]Cl"
+        },
+        {
+            "hashkey": "NIST-MATDB-bd1e95b8d24e1627d3582fab795522c8",
+            "name": "[PO(NH4Py)3]"
+        }
+    ],
+    "authors": [
+        "Arvind K. Gupta",
+        "Sanjog S. Nagarkar",
+        "Ramamoorthy Boomishankar"
+    ],
+    "categories": [
+        "exp"
+    ],
+    "isotherms": [
+        {
+            "filename": "10.1039C3dt51123e.isotherm1"
+        },
+        {
+            "filename": "10.1039C3dt51123e.isotherm2"
+        },
+        {
+            "filename": "10.1039C3dt51123e.isotherm3"
+        },
+        {
+            "filename": "10.1039C3dt51123e.isotherm4"
+        },
+        {
+            "filename": "10.1039C3dt51123e.isotherm5"
+        }
+    ],
+    "journal": "Dalton Transactions",
+    "pressures": [
+        0,
+        1
+    ],
+    "temperatures": [
+        77,
+        195,
+        298
+    ],
+    "title": "Zn(ii) coordination polymer of an in situ generated 4-pyridyl (4Py) attached bis(amido)phosphate ligand, [PO2(NH4Py)2]− showing preferential water uptake over aliphatic alcohols",
+    "year": 2013
+}

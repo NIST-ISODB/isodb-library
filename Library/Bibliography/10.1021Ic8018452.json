@@ -1,0 +1,61 @@
+{
+    "DOI": "10.1021/Ic8018452",
+    "adsorbateGas": [
+        "Carbon Dioxide",
+        "Hydrogen"
+    ],
+    "adsorbates": [
+        {
+            "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+            "name": "Carbon Dioxide"
+        },
+        {
+            "InChIKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+            "name": "Hydrogen"
+        }
+    ],
+    "adsorbentMaterial": [
+        "C20H16NO5Zn",
+        "[Zn2(2)(py-R)2]n"
+    ],
+    "adsorbents": [
+        {
+            "hashkey": "NIST-MATDB-01264edd155f54bcb4397757d3f78ba6",
+            "name": "C20H16NO5Zn"
+        },
+        {
+            "hashkey": "NIST-MATDB-8c00e0b089127c1db3950dd36e8a66a7",
+            "name": "[Zn2(2)(py-R)2]n"
+        }
+    ],
+    "authors": [
+        "Omar K. Farha",
+        "Karen L. Mulfort",
+        "Joseph T. Hupp"
+    ],
+    "categories": [
+        "exp"
+    ],
+    "isotherms": [
+        {
+            "filename": "10.1021Ic8018452.isotherm1"
+        },
+        {
+            "filename": "10.1021Ic8018452.isotherm2"
+        },
+        {
+            "filename": "10.1021Ic8018452.isotherm3"
+        }
+    ],
+    "journal": "Inorganic Chemistry",
+    "pressures": [
+        0,
+        1
+    ],
+    "temperatures": [
+        77,
+        273
+    ],
+    "title": "An Example of Node-Based Postassembly Elaboration of a Hydrogen-Sorbing, Metal−Organic Framework Material",
+    "year": 2008
+}

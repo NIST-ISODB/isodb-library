@@ -1,0 +1,70 @@
+{
+    "DOI": "10.1021/Ja4051668",
+    "adsorbateGas": [
+        "Carbon Dioxide",
+        "Methanol",
+        "Carbon monoxide",
+        "Water"
+    ],
+    "adsorbates": [
+        {
+            "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+            "name": "Carbon Dioxide"
+        },
+        {
+            "InChIKey": "OKKJLVBELUTLKV-UHFFFAOYSA-N",
+            "name": "Methanol"
+        },
+        {
+            "InChIKey": "UGFAIRIUMAVXCW-UHFFFAOYSA-N",
+            "name": "Carbon monoxide"
+        },
+        {
+            "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+            "name": "Water"
+        }
+    ],
+    "adsorbentMaterial": [
+        "[Zn3(HPO4)6](Hbim)",
+        "[Zn3(H2PO4)6(H2O)3](Hbim)"
+    ],
+    "adsorbents": [
+        {
+            "hashkey": "NIST-MATDB-a7de00c92504e84e54ca354914b105e6",
+            "name": "[Zn3(HPO4)6](Hbim)"
+        },
+        {
+            "hashkey": "NIST-MATDB-b56ba0a2bd1edd7649e520a26285184a",
+            "name": "[Zn3(H2PO4)6(H2O)3](Hbim)"
+        }
+    ],
+    "authors": [
+        "Daiki Umeyama",
+        "Satoshi Horike",
+        "Munehiro Inukai",
+        "Susumu Kitagawa"
+    ],
+    "categories": [
+        "exp"
+    ],
+    "isotherms": [
+        {
+            "filename": "10.1021Ja4051668.Isotherm1"
+        },
+        {
+            "filename": "10.1021Ja4051668.Isotherm2"
+        }
+    ],
+    "journal": "Journal of the American Chemical Society",
+    "pressures": [
+        0,
+        0.13
+    ],
+    "temperatures": [
+        77,
+        195,
+        298
+    ],
+    "title": "Integration of Intrinsic Proton Conduction and Guest-Accessible Nanospace into a Coordination Polymer",
+    "year": 2013
+}

@@ -1,0 +1,76 @@
+{
+    "DOI": "10.1016/j.fuproc.2012.03.006",
+    "adsorbateGas": [
+        "1-benzothiophene",
+        "Nitrogen"
+    ],
+    "adsorbates": [
+        {
+            "InChIKey": "FCEHBMOGCRZNNI-UHFFFAOYSA-N",
+            "name": "1-benzothiophene"
+        },
+        {
+            "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+            "name": "Nitrogen"
+        }
+    ],
+    "adsorbentMaterial": [
+        "PWA(1.0)/CuBTC",
+        "PWA(0.5)/CuBTC",
+        "PWA(2.0)/CuBTC",
+        "CuBTC"
+    ],
+    "adsorbents": [
+        {
+            "hashkey": "NIST-MATDB-08740059615809125abd178bc95e3d45",
+            "name": "PWA(1.0)/CuBTC"
+        },
+        {
+            "hashkey": "NIST-MATDB-8761691fbc18cd2b0cc3acf18bf254b8",
+            "name": "PWA(0.5)/CuBTC"
+        },
+        {
+            "hashkey": "NIST-MATDB-8b32146894e681760f5133dba0757f3f",
+            "name": "PWA(2.0)/CuBTC"
+        },
+        {
+            "hashkey": "NIST-MATDB-991daf7313251e7e607e2bab2da57e33",
+            "name": "CuBTC"
+        }
+    ],
+    "authors": [
+        "Nazmul Abedin Khan",
+        "Sung Hwa Jhung"
+    ],
+    "categories": [
+        "mod",
+        "exp"
+    ],
+    "isotherms": [
+        {
+            "filename": "10.1016j.fuproc.2012.03.006.Isotherm1"
+        },
+        {
+            "filename": "10.1016j.fuproc.2012.03.006.Isotherm2"
+        },
+        {
+            "filename": "10.1016j.fuproc.2012.03.006.Isotherm3"
+        },
+        {
+            "filename": "10.1016j.fuproc.2012.03.006.Isotherm4"
+        }
+    ],
+    "journal": "Fuel Processing Technology",
+    "pressures": [
+        0,
+        1
+    ],
+    "temperatures": [
+        77,
+        298,
+        303,
+        308
+    ],
+    "title": "Adsorptive removal of benzothiophene using porous copper-benzenetricarboxylate loaded with phosphotungstic acid",
+    "year": 2012
+}

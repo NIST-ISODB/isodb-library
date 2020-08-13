@@ -1,0 +1,84 @@
+{
+    "DOI": "10.1016/j.fluid.2013.09.047",
+    "adsorbateGas": [
+        "Carbon Dioxide",
+        "Methane"
+    ],
+    "adsorbates": [
+        {
+            "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+            "name": "Carbon Dioxide"
+        },
+        {
+            "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+            "name": "Methane"
+        }
+    ],
+    "adsorbentMaterial": [
+        "Clay nanopores (width=4nm) with cation exchange",
+        "Clay nanopores (width=1nm) with cation exchange",
+        "Clay nanopores (width=1nm)",
+        "Clay nanopores (width=4nm)"
+    ],
+    "adsorbents": [
+        {
+            "hashkey": "NIST-MATDB-291226e6902f3c8d166dfc37d5c6183c",
+            "name": "Clay nanopores (width=4nm) with cation exchange"
+        },
+        {
+            "hashkey": "NIST-MATDB-53dd9b48c0f1bfdd6791b2c7895ad91c",
+            "name": "Clay nanopores (width=1nm) with cation exchange"
+        },
+        {
+            "hashkey": "NIST-MATDB-ba569101834214f2d6c3ea16a5e79aee",
+            "name": "Clay nanopores (width=1nm)"
+        },
+        {
+            "hashkey": "NIST-MATDB-e5fd450009cb70e613de3cde1ef15ff2",
+            "name": "Clay nanopores (width=4nm)"
+        }
+    ],
+    "authors": [
+        "Zhehui Jin",
+        "Abbas Firoozabadi"
+    ],
+    "categories": [
+        "sim"
+    ],
+    "isotherms": [
+        {
+            "filename": "10.1016j.fluid.2013.09.047.Isotherm1"
+        },
+        {
+            "filename": "10.1016j.fluid.2013.09.047.Isotherm2"
+        },
+        {
+            "filename": "10.1016j.fluid.2013.09.047.Isotherm3"
+        },
+        {
+            "filename": "10.1016j.fluid.2013.09.047.Isotherm4"
+        },
+        {
+            "filename": "10.1016j.fluid.2013.09.047.Isotherm5"
+        },
+        {
+            "filename": "10.1016j.fluid.2013.09.047.Isotherm6"
+        },
+        {
+            "filename": "10.1016j.fluid.2013.09.047.Isotherm7"
+        },
+        {
+            "filename": "10.1016j.fluid.2013.09.047.Isotherm8"
+        }
+    ],
+    "journal": "Fluid Phase Equilibria",
+    "pressures": [
+        0.96,
+        50.13
+    ],
+    "temperatures": [
+        298
+    ],
+    "title": "Methane and carbon dioxide adsorption in clay-like slit pores by Monte Carlo simulations",
+    "year": 2013
+}

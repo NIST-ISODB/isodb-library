@@ -1,0 +1,79 @@
+{
+    "DOI": "10.1016/j.fluid.2010.01.016",
+    "adsorbateGas": [
+        "N-propane",
+        "Carbon Dioxide",
+        "Ethane",
+        "Hydrogen sulfide",
+        "Methane"
+    ],
+    "adsorbates": [
+        {
+            "InChIKey": "ATUOYWHBWRKTHZ-UHFFFAOYSA-N",
+            "name": "N-propane"
+        },
+        {
+            "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+            "name": "Carbon Dioxide"
+        },
+        {
+            "InChIKey": "OTMSDBZUPAUEDD-UHFFFAOYSA-N",
+            "name": "Ethane"
+        },
+        {
+            "InChIKey": "RWSOTUBLDIXVET-UHFFFAOYSA-N",
+            "name": "Hydrogen sulfide"
+        },
+        {
+            "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+            "name": "Methane"
+        }
+    ],
+    "adsorbentMaterial": [
+        "Carbon",
+        "Mordenite"
+    ],
+    "adsorbents": [
+        {
+            "hashkey": "NIST-MATDB-453276ee992ed07dc207ed08b2b221ce",
+            "name": "Carbon"
+        },
+        {
+            "hashkey": "NIST-MATDB-522d29cb5d21925b793001fffba6304c",
+            "name": "Mordenite"
+        }
+    ],
+    "authors": [
+        "Ali Haghtalab",
+        "Somayeh Farzad"
+    ],
+    "categories": [
+        "mod"
+    ],
+    "isotherms": [
+        {
+            "filename": "10.1016j.fluid.2010.01.016.isotherm1"
+        },
+        {
+            "filename": "10.1016j.fluid.2010.01.016.isotherm2"
+        },
+        {
+            "filename": "10.1016j.fluid.2010.01.016.isotherm3"
+        }
+    ],
+    "journal": "Fluid Phase Equilibria",
+    "pressures": [
+        0,
+        1.2
+    ],
+    "temperatures": [
+        273,
+        283,
+        303,
+        313,
+        333,
+        338
+    ],
+    "title": "A new gas adsorption isotherm using the vacancy solution theory and NRTL activity coefficient model",
+    "year": 2010
+}

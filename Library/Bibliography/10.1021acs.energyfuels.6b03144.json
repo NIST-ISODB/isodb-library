@@ -1,0 +1,484 @@
+{
+    "DOI": "10.1021/acs.energyfuels.6b03144",
+    "adsorbateGas": [
+        "Carbon Dioxide",
+        "Nitrogen",
+        "Methane"
+    ],
+    "adsorbates": [
+        {
+            "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+            "name": "Carbon Dioxide"
+        },
+        {
+            "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+            "name": "Nitrogen"
+        },
+        {
+            "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+            "name": "Methane"
+        }
+    ],
+    "adsorbentMaterial": [
+        "graphite, 0.25 O/C atomic ratio, 1nm",
+        "graphite, 0.25 O/C atomic ratio, 4nm",
+        "graphite, 0.25 O/C atomic ratio, 2nm",
+        "Graphite, 0.0625 O/C atomic ratio, 3nm",
+        "Graphite, 0.0625 O/C atomic ratio, 8nm",
+        "Graphite, 0.0625 O/C atomic ratio, 6nm",
+        "Graphite, 0.0625 O/C atomic ratio, 2nm",
+        "Graphite, C16",
+        "graphite, 0.25 O/C atomic ratio, 1.5nm",
+        "Graphite, C8",
+        "Kerogen",
+        "Graphite, 0.125 O/C atomic ratio",
+        "graphite, 0.25 O/C atomic ratio, 6nm",
+        "Graphite, C4",
+        "Graphite, 0.125 O/C atomic ratio, 4nm",
+        "Graphite, 0.0625 O/C atomic ratio, 1nm",
+        "Graphite, 0.0625 O/C atomic ratio, 10nm",
+        "Graphite, 0.125 O/C atomic ratio, 2nm",
+        "Graphite, 0.125 O/C atomic ratio, 1.5nm",
+        "graphite, 0.25 O/C atomic ratio, 10nm",
+        "graphite, 0.25 O/C atomic ratio, 8nm",
+        "Graphite, 0.125 O/C atomic ratio, 3nm",
+        "Graphite, 0.125 O/C atomic ratio, 8nm",
+        "Graphite, 0.0625 O/C atomic ratio, 4nm",
+        "Graphite, 0.25 O/C atomic ratio",
+        "Graphite, 0.125 O/C atomic ratio, 10nm",
+        "Graphite, 0.0625 O/C atomic ratio",
+        "graphite, 0.25 O/C atomic ratio, 3nm",
+        "Graphite, 0.125 O/C atomic ratio, 1nm",
+        "Graphite, 0.0625 O/C atomic ratio, 1.5nm",
+        "Graphite, 0.125 O/C atomic ratio, 6nm"
+    ],
+    "adsorbents": [
+        {
+            "hashkey": "NIST-MATDB-00abb274d718c0503999f6b133d98376",
+            "name": "graphite, 0.25 O/C atomic ratio, 1nm"
+        },
+        {
+            "hashkey": "NIST-MATDB-1fcba1de88f390ecd37dc959fbbb7fd8",
+            "name": "graphite, 0.25 O/C atomic ratio, 4nm"
+        },
+        {
+            "hashkey": "NIST-MATDB-24f68dabad5c91204a454b738d97cb5a",
+            "name": "graphite, 0.25 O/C atomic ratio, 2nm"
+        },
+        {
+            "hashkey": "NIST-MATDB-2fcaf5fe35e0d35262235dc9b71c88ba",
+            "name": "Graphite, 0.0625 O/C atomic ratio, 3nm"
+        },
+        {
+            "hashkey": "NIST-MATDB-3e738bd8747a3bf32188fbf971f4ef89",
+            "name": "Graphite, 0.0625 O/C atomic ratio, 8nm"
+        },
+        {
+            "hashkey": "NIST-MATDB-3f076af6c27282efb20c332570287876",
+            "name": "Graphite, 0.0625 O/C atomic ratio, 6nm"
+        },
+        {
+            "hashkey": "NIST-MATDB-489d8d8aa3516313f38559688560e0d4",
+            "name": "Graphite, 0.0625 O/C atomic ratio, 2nm"
+        },
+        {
+            "hashkey": "NIST-MATDB-4f9204b0213346c4d8799b5e8b1ccac0",
+            "name": "Graphite, C16"
+        },
+        {
+            "hashkey": "NIST-MATDB-59602572ffc2749c516c24f8da48469f",
+            "name": "graphite, 0.25 O/C atomic ratio, 1.5nm"
+        },
+        {
+            "hashkey": "NIST-MATDB-634deaf83d2888574518766776c8d44e",
+            "name": "Graphite, C8"
+        },
+        {
+            "hashkey": "NIST-MATDB-683cb3d845053b0435c64141d3403885",
+            "name": "Kerogen"
+        },
+        {
+            "hashkey": "NIST-MATDB-69bde23b4794f5ec84579563f9ec4830",
+            "name": "Graphite, 0.125 O/C atomic ratio"
+        },
+        {
+            "hashkey": "NIST-MATDB-7c225acd58d5836963681db7484c9cd9",
+            "name": "graphite, 0.25 O/C atomic ratio, 6nm"
+        },
+        {
+            "hashkey": "NIST-MATDB-8c36c3cf63ac33932a642bdfdb9b6766",
+            "name": "Graphite, C4"
+        },
+        {
+            "hashkey": "NIST-MATDB-8f24fa8765238f2d0509fedc6160a4ee",
+            "name": "Graphite, 0.125 O/C atomic ratio, 4nm"
+        },
+        {
+            "hashkey": "NIST-MATDB-93ef41f36346f2fafb7c66e5ffe6e596",
+            "name": "Graphite, 0.0625 O/C atomic ratio, 1nm"
+        },
+        {
+            "hashkey": "NIST-MATDB-a203df5f5b7827fe29384ee0e6eff7f2",
+            "name": "Graphite, 0.0625 O/C atomic ratio, 10nm"
+        },
+        {
+            "hashkey": "NIST-MATDB-ab8e7883b749f865247c84cdd03a6531",
+            "name": "Graphite, 0.125 O/C atomic ratio, 2nm"
+        },
+        {
+            "hashkey": "NIST-MATDB-abbd45516183546777b5854cf5d11afd",
+            "name": "Graphite, 0.125 O/C atomic ratio, 1.5nm"
+        },
+        {
+            "hashkey": "NIST-MATDB-afe01aef405437fe4421907e3e1480cc",
+            "name": "graphite, 0.25 O/C atomic ratio, 10nm"
+        },
+        {
+            "hashkey": "NIST-MATDB-b25bf55d3581e5045ca2dd4133dba3c1",
+            "name": "graphite, 0.25 O/C atomic ratio, 8nm"
+        },
+        {
+            "hashkey": "NIST-MATDB-c8872e0998fc1a4bd4b4f7fd73a837b4",
+            "name": "Graphite, 0.125 O/C atomic ratio, 3nm"
+        },
+        {
+            "hashkey": "NIST-MATDB-cee88b8b0f257da362472cfb19d7d86a",
+            "name": "Graphite, 0.125 O/C atomic ratio, 8nm"
+        },
+        {
+            "hashkey": "NIST-MATDB-d0d98b81b3565a8b4eb7465d9e6e24fc",
+            "name": "Graphite, 0.0625 O/C atomic ratio, 4nm"
+        },
+        {
+            "hashkey": "NIST-MATDB-d13b0982794b57beeee0d972f46a8399",
+            "name": "Graphite, 0.25 O/C atomic ratio"
+        },
+        {
+            "hashkey": "NIST-MATDB-dfa95e43a520e89e9cec644d3eece4d1",
+            "name": "Graphite, 0.125 O/C atomic ratio, 10nm"
+        },
+        {
+            "hashkey": "NIST-MATDB-e5061e4e7c0f67b3af25f9a3618fda8d",
+            "name": "Graphite, 0.0625 O/C atomic ratio"
+        },
+        {
+            "hashkey": "NIST-MATDB-ed9c04d886d3162a80c3794bc5cbd1e0",
+            "name": "graphite, 0.25 O/C atomic ratio, 3nm"
+        },
+        {
+            "hashkey": "NIST-MATDB-edbca2282ff5f44b759317a778185d53",
+            "name": "Graphite, 0.125 O/C atomic ratio, 1nm"
+        },
+        {
+            "hashkey": "NIST-MATDB-f0837ae622b3632a6c5aa288de07626c",
+            "name": "Graphite, 0.0625 O/C atomic ratio, 1.5nm"
+        },
+        {
+            "hashkey": "NIST-MATDB-ff18c1b3b522183e3047d748429bab02",
+            "name": "Graphite, 0.125 O/C atomic ratio, 6nm"
+        }
+    ],
+    "authors": [
+        "Jian Xiong",
+        "Xiangjun Liu",
+        "Lixi Liang",
+        "Qun Zeng"
+    ],
+    "categories": [
+        "mod",
+        "exp",
+        "sim"
+    ],
+    "isotherms": [
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm1"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm10"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm11"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm12"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm13"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm14"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm15"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm16"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm17"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm18"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm19"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm2"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm20"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm21"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm22"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm23"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm24"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm25"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm26"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm27"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm28"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm29"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm3"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm30"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm31"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm32"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm33"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm34"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm35"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm36"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm37"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm38"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm39"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm4"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm40"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm41"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm42"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm43"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm44"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm45"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm46"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm47"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm48"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm49"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm5"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm50"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm51"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm52"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm53"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm54"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm55"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm56"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm57"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm58"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm59"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm6"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm60"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm61"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm62"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm63"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm64"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm65"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm66"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm67"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm68"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm69"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm7"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm70"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm71"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm72"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm73"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm74"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm75"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm76"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm77"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm78"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm79"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm8"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm80"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm81"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm82"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm83"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm84"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm85"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm86"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm87"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm88"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm89"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm9"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm90"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm91"
+        },
+        {
+            "filename": "10.1021acs.energyfuels.6b03144.Isotherm92"
+        }
+    ],
+    "journal": "Energy & Fuels",
+    "pressures": [
+        0.01,
+        401.84
+    ],
+    "temperatures": [
+        77,
+        313,
+        333,
+        353,
+        373
+    ],
+    "title": "Methane Adsorption on Carbon Models of the Organic Matter of Organic-Rich Shales",
+    "year": 2017
+}

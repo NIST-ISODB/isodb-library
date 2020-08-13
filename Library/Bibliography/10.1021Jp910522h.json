@@ -1,0 +1,663 @@
+{
+    "DOI": "10.1021/Jp910522h",
+    "adsorbateGas": [
+        "Carbon Dioxide",
+        "Nitrogen",
+        "Carbon monoxide"
+    ],
+    "adsorbates": [
+        {
+            "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+            "name": "Carbon Dioxide"
+        },
+        {
+            "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+            "name": "Nitrogen"
+        },
+        {
+            "InChIKey": "UGFAIRIUMAVXCW-UHFFFAOYSA-N",
+            "name": "Carbon monoxide"
+        }
+    ],
+    "adsorbentMaterial": [
+        "ZIF-74",
+        "ZIF-77",
+        "ZIF-10",
+        "IRMOF-18",
+        "MOF-2",
+        "IRMOF-1",
+        "PCN-11",
+        "PCN-14",
+        "IRMOF-16",
+        "ZIF-65",
+        "IRMOF-6",
+        "IRMOF-13",
+        "MIL-53(Cr)",
+        "MIL-47(V)",
+        "IRMOF-12",
+        "PCN-9",
+        "IRMOF-3",
+        "CuBTC",
+        "IRMOF-8",
+        "ZIF-68",
+        "IRMOF-14",
+        "MOP-23",
+        "PCN-6",
+        "MOF-505",
+        "PCN-6'",
+        "ZIF-3",
+        "ZIF-8",
+        "ZIF-71",
+        "MOF-177",
+        "MOF-602",
+        "IRMOF-9",
+        "PCN-13",
+        "IRMOF-15",
+        "IRMOF-11",
+        "ZIF-11",
+        "ZIF-78",
+        "IRMOF-10",
+        "ZIF-67",
+        "ZIF-1",
+        "MOF-14",
+        "ZIF-75",
+        "ZIF-69",
+        "ZIF-12",
+        "PCN-10"
+    ],
+    "adsorbents": [
+        {
+            "hashkey": "NIST-MATDB-053314c159c8bb03805f42c9d40937e9",
+            "name": "ZIF-74"
+        },
+        {
+            "hashkey": "NIST-MATDB-17bd755e3c81228cf0bd5ac96ae0d32d",
+            "name": "ZIF-77"
+        },
+        {
+            "hashkey": "NIST-MATDB-18e376e92b271f0e1a62a2a81dcd0a63",
+            "name": "ZIF-10"
+        },
+        {
+            "hashkey": "NIST-MATDB-1be827042e334336eacf251992ef3dc8",
+            "name": "IRMOF-18"
+        },
+        {
+            "hashkey": "NIST-MATDB-2a55d7fddaa59cb289e94c60012b7c80",
+            "name": "MOF-2"
+        },
+        {
+            "hashkey": "NIST-MATDB-2c9380bddc59f547484ff729eab7d7cb",
+            "name": "IRMOF-1"
+        },
+        {
+            "hashkey": "NIST-MATDB-331e2254f69e47084c4861433d493ebe",
+            "name": "PCN-11"
+        },
+        {
+            "hashkey": "NIST-MATDB-491f2d4553a5f70eb3e8a54f967be37f",
+            "name": "PCN-14"
+        },
+        {
+            "hashkey": "NIST-MATDB-612dffd0588cbe4108374b80475f83a1",
+            "name": "IRMOF-16"
+        },
+        {
+            "hashkey": "NIST-MATDB-6b5ae777fd0c832389470f8fca621e1e",
+            "name": "ZIF-65"
+        },
+        {
+            "hashkey": "NIST-MATDB-7960377b00805e517b0a1208187d4b37",
+            "name": "IRMOF-6"
+        },
+        {
+            "hashkey": "NIST-MATDB-79f768d13ca51b521f4573d4bac81acd",
+            "name": "IRMOF-13"
+        },
+        {
+            "hashkey": "NIST-MATDB-7cb7f2ebc677a987561f61f34f01f965",
+            "name": "MIL-53(Cr)"
+        },
+        {
+            "hashkey": "NIST-MATDB-88982b60a6735e027ce761e7a7181713",
+            "name": "MIL-47(V)"
+        },
+        {
+            "hashkey": "NIST-MATDB-8bb240a723bdfc7ad1f11a2b0f337085",
+            "name": "IRMOF-12"
+        },
+        {
+            "hashkey": "NIST-MATDB-9404edb2d4d4bfaf2d22a0a00efb2875",
+            "name": "PCN-9"
+        },
+        {
+            "hashkey": "NIST-MATDB-96713fc6845e0ffe5a35364c2d59e6dc",
+            "name": "IRMOF-3"
+        },
+        {
+            "hashkey": "NIST-MATDB-991daf7313251e7e607e2bab2da57e33",
+            "name": "CuBTC"
+        },
+        {
+            "hashkey": "NIST-MATDB-9d023a670a2aedb5225d9cd365e24210",
+            "name": "IRMOF-8"
+        },
+        {
+            "hashkey": "NIST-MATDB-9e5edba55f0f609476161019d58113ed",
+            "name": "ZIF-68"
+        },
+        {
+            "hashkey": "NIST-MATDB-a378219a763aefdf46b08bb3faff567f",
+            "name": "IRMOF-14"
+        },
+        {
+            "hashkey": "NIST-MATDB-a3f67f9c159e9415337f29f5bcfd772e",
+            "name": "MOP-23"
+        },
+        {
+            "hashkey": "NIST-MATDB-a63d9788aad9ae8f613375330d0bde8f",
+            "name": "PCN-6"
+        },
+        {
+            "hashkey": "NIST-MATDB-acbbe796d49416e999dc819f2ae65fe9",
+            "name": "MOF-505"
+        },
+        {
+            "hashkey": "NIST-MATDB-ae46e894385f3cb16cc718540a182839",
+            "name": "PCN-6'"
+        },
+        {
+            "hashkey": "NIST-MATDB-b25df43663e8230b191fd77c25a53cee",
+            "name": "ZIF-3"
+        },
+        {
+            "hashkey": "NIST-MATDB-b2dc02871a66ac38e4b195796cf3e00b",
+            "name": "ZIF-8"
+        },
+        {
+            "hashkey": "NIST-MATDB-ba925980550f907f14b9e2aa08b07d60",
+            "name": "ZIF-71"
+        },
+        {
+            "hashkey": "NIST-MATDB-bbd809480ca8c8d0e4d066e70a9719d1",
+            "name": "MOF-177"
+        },
+        {
+            "hashkey": "NIST-MATDB-bf4ded7bae883404cf55a6c98862e1e3",
+            "name": "MOF-602"
+        },
+        {
+            "hashkey": "NIST-MATDB-c15a6d8cfac2bc027ac6de0232c7fb8c",
+            "name": "IRMOF-9"
+        },
+        {
+            "hashkey": "NIST-MATDB-c1c79bad91a3cd5a11c5b1e546f11a1d",
+            "name": "PCN-13"
+        },
+        {
+            "hashkey": "NIST-MATDB-c21cf44d3eb0668891de03f34201cd18",
+            "name": "IRMOF-15"
+        },
+        {
+            "hashkey": "NIST-MATDB-d5ea47f8b857165c0c3b6471ad2fbaf1",
+            "name": "IRMOF-11"
+        },
+        {
+            "hashkey": "NIST-MATDB-d80120861cca89709057aa848f34313f",
+            "name": "ZIF-11"
+        },
+        {
+            "hashkey": "NIST-MATDB-d8cf38b309ee3a17162e8cfe4c836f7e",
+            "name": "ZIF-78"
+        },
+        {
+            "hashkey": "NIST-MATDB-da5220e5839a57a58fc9a754a694c09d",
+            "name": "IRMOF-10"
+        },
+        {
+            "hashkey": "NIST-MATDB-dcb3a7624de3e6c829a848ecc5006230",
+            "name": "ZIF-67"
+        },
+        {
+            "hashkey": "NIST-MATDB-dceb83a609a6f5f4a9545280446db477",
+            "name": "ZIF-1"
+        },
+        {
+            "hashkey": "NIST-MATDB-ddd6f2d174f6d5cc75ee1fda94840dd8",
+            "name": "MOF-14"
+        },
+        {
+            "hashkey": "NIST-MATDB-dfd75ab3a7b0c76872dac7dc19c11d0a",
+            "name": "ZIF-75"
+        },
+        {
+            "hashkey": "NIST-MATDB-e09d347dd969d6bd83df1d148fc34ecc",
+            "name": "ZIF-69"
+        },
+        {
+            "hashkey": "NIST-MATDB-ef26117c33f8e3e6001314f6f78f52a2",
+            "name": "ZIF-12"
+        },
+        {
+            "hashkey": "NIST-MATDB-fcd2e74296c03b5d3557ce6fdbe8b54d",
+            "name": "PCN-10"
+        }
+    ],
+    "authors": [
+        "Qing Xu",
+        "Chongli Zhong"
+    ],
+    "categories": [
+        "qua",
+        "sim"
+    ],
+    "isotherms": [
+        {
+            "filename": "10.1021Jp910522h.Isotherm1"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm10"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm10-1"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm10-2"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm100"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm101"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm102"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm103"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm104"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm105"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm106"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm107"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm107-1"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm108"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm108-1"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm109"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm109-1"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm11"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm110"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm110-1"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm111"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm111-1"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm112"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm112-1"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm113"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm113-1"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm12"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm12-1"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm12-2"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm13"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm14"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm15"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm16"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm17"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm18"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm19"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm2"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm20"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm21"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm22"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm23"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm24"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm25"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm26"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm27"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm28"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm29"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm3"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm30"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm31"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm32"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm33"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm34"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm35"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm36"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm37"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm38"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm39"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm4"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm40"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm41"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm42"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm43"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm44"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm45"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm46"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm47"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm48"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm48-1"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm48-2"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm49"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm5"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm50"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm51"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm52"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm53"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm54"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm55"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm56"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm57"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm58"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm58-1"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm59"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm6"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm60"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm61"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm62"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm63"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm64"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm65"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm66"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm67"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm68"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm69"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm7"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm70"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm71"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm72"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm73"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm74"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm75"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm76"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm77"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm78"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm79"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm8"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm80"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm81"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm82"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm83"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm84"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm84-1"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm84-2"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm85"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm86"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm87"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm88"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm89"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm9"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm90"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm90-1"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm90-2"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm91"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm92"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm93"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm94"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm95"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm96"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm97"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm98"
+        },
+        {
+            "filename": "10.1021Jp910522h.Isotherm99"
+        }
+    ],
+    "journal": "The Journal of Physical Chemistry C",
+    "pressures": [
+        0,
+        45
+    ],
+    "temperatures": [
+        77,
+        78,
+        295,
+        298,
+        304
+    ],
+    "title": "A General Approach for Estimating Framework Charges in Metal−Organic Frameworks",
+    "year": 2010
+}

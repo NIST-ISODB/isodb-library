@@ -1,0 +1,108 @@
+{
+    "DOI": "10.1080/08927020902865923",
+    "adsorbateGas": [
+        "N-propane",
+        "Carbon Dioxide",
+        "N-Heptane",
+        "Water"
+    ],
+    "adsorbates": [
+        {
+            "InChIKey": "ATUOYWHBWRKTHZ-UHFFFAOYSA-N",
+            "name": "N-propane"
+        },
+        {
+            "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+            "name": "Carbon Dioxide"
+        },
+        {
+            "InChIKey": "IMNFDUFMRHMDMM-UHFFFAOYSA-N",
+            "name": "N-Heptane"
+        },
+        {
+            "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+            "name": "Water"
+        }
+    ],
+    "adsorbentMaterial": [
+        "Zeolite MFI"
+    ],
+    "adsorbents": [
+        {
+            "hashkey": "NIST-MATDB-aab7f4d547e6752b772d6f12520fde3b",
+            "name": "Zeolite MFI"
+        }
+    ],
+    "authors": [
+        "Juan Manuel Castillo",
+        "David Dubbeldam",
+        "Thijs J. H. Vlugt",
+        "Berend Smit",
+        "Sofía Calero"
+    ],
+    "categories": [
+        "exp",
+        "sim"
+    ],
+    "isotherms": [
+        {
+            "filename": "10.108008927020902865923.isotherm1"
+        },
+        {
+            "filename": "10.108008927020902865923.isotherm10"
+        },
+        {
+            "filename": "10.108008927020902865923.isotherm11"
+        },
+        {
+            "filename": "10.108008927020902865923.isotherm12"
+        },
+        {
+            "filename": "10.108008927020902865923.isotherm13"
+        },
+        {
+            "filename": "10.108008927020902865923.isotherm14"
+        },
+        {
+            "filename": "10.108008927020902865923.isotherm15"
+        },
+        {
+            "filename": "10.108008927020902865923.isotherm2"
+        },
+        {
+            "filename": "10.108008927020902865923.isotherm3"
+        },
+        {
+            "filename": "10.108008927020902865923.isotherm4"
+        },
+        {
+            "filename": "10.108008927020902865923.isotherm5"
+        },
+        {
+            "filename": "10.108008927020902865923.isotherm6"
+        },
+        {
+            "filename": "10.108008927020902865923.isotherm7"
+        },
+        {
+            "filename": "10.108008927020902865923.isotherm8"
+        },
+        {
+            "filename": "10.108008927020902865923.isotherm9"
+        }
+    ],
+    "journal": "Molecular Simulation",
+    "pressures": [
+        0,
+        1
+    ],
+    "temperatures": [
+        273,
+        298,
+        300,
+        303,
+        347
+    ],
+    "title": "Evaluation of various water models for simulation of adsorption in hydrophobic zeolites",
+    "year": 2009
+}

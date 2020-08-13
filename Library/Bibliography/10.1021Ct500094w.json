@@ -1,0 +1,76 @@
+{
+    "DOI": "10.1021/Ct500094w",
+    "adsorbateGas": [
+        "Carbon Dioxide",
+        "Water"
+    ],
+    "adsorbates": [
+        {
+            "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+            "name": "Carbon Dioxide"
+        },
+        {
+            "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+            "name": "Water"
+        }
+    ],
+    "adsorbentMaterial": [
+        "Zn-MOF-74",
+        "Mg-MOF-74"
+    ],
+    "adsorbents": [
+        {
+            "hashkey": "NIST-MATDB-71d6fc9e1d75f65e8a04544608290958",
+            "name": "Zn-MOF-74"
+        },
+        {
+            "hashkey": "NIST-MATDB-f5e80ffaaaf05f4ed655664fd22defb9",
+            "name": "Mg-MOF-74"
+        }
+    ],
+    "authors": [
+        "Li-Chiang Lin",
+        "Kyuho Lee",
+        "Laura Gagliardi",
+        "Jeffrey B. Neaton",
+        "Berend Smit"
+    ],
+    "categories": [
+        "exp",
+        "sim"
+    ],
+    "isotherms": [
+        {
+            "filename": "10.1021Ct500094w.Isotherm1"
+        },
+        {
+            "filename": "10.1021Ct500094w.Isotherm2"
+        },
+        {
+            "filename": "10.1021Ct500094w.Isotherm3"
+        },
+        {
+            "filename": "10.1021Ct500094w.Isotherm4"
+        },
+        {
+            "filename": "10.1021Ct500094w.Isotherm5"
+        },
+        {
+            "filename": "10.1021Ct500094w.Isotherm6"
+        },
+        {
+            "filename": "10.1021Ct500094w.Isotherm7"
+        }
+    ],
+    "journal": "Journal of Chemical Theory and Computation",
+    "pressures": [
+        0,
+        1.01
+    ],
+    "temperatures": [
+        298,
+        313
+    ],
+    "title": "Force-Field Development from Electronic Structure Calculations with Periodic Boundary Conditions: Applications to Gaseous Adsorption and Transport in Metal–Organic Frameworks",
+    "year": 2014
+}
