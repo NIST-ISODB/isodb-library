@@ -265,7 +265,8 @@ def regenerate_bibliography():
         for rule in doi_stub_rules:
             doi_stub = doi_stub.replace(rule["old"], rule["new"])
         url = API_HOST + "/isodb/api/biblio/" + doi + ".json"
-        print(url)
+        url = url.replace("%", "%25")  # make this substitution first
+        url = url.replace("+", "%252B")
         try:
             biblio_data = json.loads(requests.get(url, headers=HEADERS).content)[
                 0
@@ -274,9 +275,9 @@ def regenerate_bibliography():
             # Write to JSON
             filename = doi_stub + ".json"
             json_writer(Biblio_folder + "/" + filename, biblio)
-
         except:
             print("ERROR: ", doi)
+            print(url)
         # if biblio_count > 5: break
         if biblio_count % 100 == 0:
             time.sleep(5)  # slow down API calls to not overwhelm the server
