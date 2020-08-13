@@ -43,6 +43,7 @@ def validate_doi_mapping():
     doi_folders = [f.name.lower() for f in os.scandir(JSON_FOLDER) if f.is_dir()]
     doi_folders.remove("adsorbents")
     doi_folders.remove("adsorbates")
+    doi_folders.remove("bibliography")
 
     dois_without_folder = set(doi_stubs) - set(doi_folders)
     if dois_without_folder:
