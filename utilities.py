@@ -8,6 +8,7 @@ import unicodedata
 import time
 import copy
 import click
+import glob
 import git
 
 # Global Variables
@@ -509,108 +510,198 @@ def fix_journal(journal_in):
 
 
 @cli.command("generate_bibliography")
-@click.argument("doi", nargs=1)
-def generate_bibliography(doi):
+@click.argument("folder", type=click.Path(exists=True), nargs=1)
+def generate_bibliography(folder):
 
-    # Pull bibliographic metadata from the dx.doi.org API
-    try:
-        url = "https://doi.org/" + doi
-        bib_info = json.loads(requests.get(url, headers=HEADERS).content)
-    except:
-        raise RuntimeError("ERROR: DOI problem for:" + doi)
-    title = bib_info["title"].encode(TEXTENCODE).decode()
-    journal = (
-        bib_info["container-title"].replace(".", "").encode(TEXTENCODE).lower().decode()
-    )
-    journal = fix_journal(journal)
-    year = int(bib_info["issued"]["date-parts"][0][0])
-    # -----------------------------
-    # Match Journal Name/Abbreviation to existing lookup
-    url = API_HOST + "/isodb/api/journals-lookup.json"
-    journals = json.loads(requests.get(url, headers=HEADERS).content)
-    if journal in [x["name"].lower() for x in journals]:
-        # Attempt to match journal by name (lower case)
-        index = [x["name"].lower() for x in journals].index(journal)
-        journal = {"journal_id": journals[index]["id"]}
-        journal["name"] = journals[index]["name"]
-    elif journal in [x["abbreviation"].lower().replace(".", "") for x in journals]:
-        # attempt to match journal by abbreviation (lower case, strip out periods)
-        index = [x["abbreviation"].lower().replace(".", "") for x in journals].index(
-            journal.replace(".", "")
-        )
-        journal = {"journal_id": journals[index]["id"]}
-        journal["abbreviation"] = journals[index]["abbreviation"]
-    else:
-        raise Exception("Unknown Journal: ", journal)
-    # ------------------------------
-    # Parse the author list
-    authors = []
-    for (i, author) in enumerate(bib_info["author"]):
-        block = {}
-        block["order_id"] = i + 1
-        block["family_name"] = unicodedata.normalize("NFKC", author["family"])
+    # Generate a list of isotherms to process
+    if folder[-1] != "/":
+        folder += "/"
+    filenames = glob.glob(folder + "*")
+    filenamess = [x for x in filenames if "isotherm" in x or "Isotherm" in x]
+    # Extract the unique DOIs
+    DOIs = []
+    for filename in filenames:
+        with open(filename, mode="r") as handle:
+            isotherm = json.load(handle)
+        if isotherm["DOI"].lower() not in [x.lower() for x in DOIs]:
+            DOIs.append(isotherm["DOI"])
+    # print(DOIs)
+
+    for doi in DOIs:
+        # Pull bibliographic metadata from the dx.doi.org API
         try:
-            given_names = extract_names(author["given"])
-            block["given_name"] = unicodedata.normalize("NFKC", given_names["given"])
+            url = "https://doi.org/" + doi
+            bib_info = json.loads(requests.get(url, headers=HEADERS).content)
         except:
-            raise Exception(
-                "Error parsing author block: " + author + "\n for DOI: " + doi
+            raise RuntimeError("ERROR: DOI problem for:" + doi)
+        title = bib_info["title"].encode(TEXTENCODE).decode()
+        journal = (
+            bib_info["container-title"]
+            .replace(".", "")
+            .encode(TEXTENCODE)
+            .lower()
+            .decode()
+        )
+        journal = fix_journal(journal)
+        year = int(bib_info["issued"]["date-parts"][0][0])
+        # -----------------------------
+        # Match Journal Name/Abbreviation to existing lookup
+        url = API_HOST + "/isodb/api/journals-lookup.json"
+        journals = json.loads(requests.get(url, headers=HEADERS).content)
+        if journal in [x["name"].lower() for x in journals]:
+            # Attempt to match journal by name (lower case)
+            index = [x["name"].lower() for x in journals].index(journal)
+            journal = {"journal_id": journals[index]["id"]}
+            journal["name"] = journals[index]["name"]
+        elif journal in [x["abbreviation"].lower().replace(".", "") for x in journals]:
+            # attempt to match journal by abbreviation (lower case, strip out periods)
+            index = [
+                x["abbreviation"].lower().replace(".", "") for x in journals
+            ].index(journal.replace(".", ""))
+            journal = {"journal_id": journals[index]["id"]}
+            journal["abbreviation"] = journals[index]["abbreviation"]
+        else:
+            raise Exception("Unknown Journal: ", journal)
+        # ------------------------------
+        # Parse the author list
+        authors = []
+        for (i, author) in enumerate(bib_info["author"]):
+            block = {}
+            block["order_id"] = i + 1
+            block["family_name"] = unicodedata.normalize("NFKC", author["family"])
+            try:
+                given_names = extract_names(author["given"])
+                block["given_name"] = unicodedata.normalize(
+                    "NFKC", given_names["given"]
+                )
+            except:
+                raise Exception(
+                    "Error parsing author block: " + author + "\n for DOI: " + doi
+                )
+            if given_names["middle"] != None:
+                block["middle_name"] = unicodedata.normalize(
+                    "NFKC", given_names["middle"]
+                )
+                if "ORCID" in author:
+                    block["orc_id"] = author["ORCID"].replace("http://orcid.org/", "")
+            authors.append(block)
+
+        # Collect metadata from the isotherms
+        adsorbates = []
+        adsorbents = []
+        temperatures = []
+        categories = []
+        min_pressure = 1.0e10  # initialize this absurdly
+        max_pressure = -1.0e10  # initialize this absurdly
+        isotherms = []
+
+        for filename in filenames:
+            with open(filename, mode="r") as handle:
+                isotherm = json.load(handle)
+            if isotherm["DOI"].lower() == doi.lower():
+
+                adsorbents.append(str(isotherm["adsorbent"]["hashkey"]))
+                if str(isotherm["category"]) != "":
+                    categories.append(str(isotherm["category"]))
+                temperatures.append(int(isotherm["temperature"]))
+                for adsorbate in isotherm["adsorbates"]:
+                    adsorbates.append(adsorbate["InChIKey"])
+                for point in isotherm["isotherm_data"]:
+                    min_pressure = min(min_pressure, point["pressure"])
+                    max_pressure = max(max_pressure, point["pressure"])
+
+                # Correction to pressure range
+                if min_pressure < 0.0:
+                    min_pressure = 0.00
+                if max_pressure > 1000.0:
+                    max_pressure = 1000.00
+
+                isotherms.append(filename.split("/")[-1])
+
+        # Reduce redundant lists to unique lists and convert to dictionaries
+        adsorbents = [{"hashkey": x} for x in sorted(list(set(adsorbents)))]
+        categories = [{"name": x} for x in sorted(list(set(categories)))]
+        temperatures = list(set(temperatures))
+        adsorbates = [{"InChIKey": x} for x in sorted(list(set(adsorbates)))]
+        # This is an odd sorting algorithm, but is necessary to immitate the API
+        #  Sort is case insensitive, but preserves filename case
+        isotherms = sorted(
+            [x.replace(".json", "") for x in isotherms], key=str.casefold
+        )
+        isotherms = [{"filename": x} for x in isotherms]
+
+        # Build the JSON Structure
+        biblio = {}
+        biblio["DOI"] = doi
+        biblio["categories"] = categories
+        biblio["adsorbates"] = adsorbates
+        biblio["adsorbents"] = adsorbents
+        biblio["temperature"] = temperatures
+        biblio["pressure_min"] = float("{0:.2f}".format(min_pressure))
+        biblio["pressure_max"] = float("{0:.2f}".format(max_pressure))
+        biblio["title"] = title
+        biblio["year"] = year
+        biblio["journal"] = journal
+        biblio["authors"] = authors
+        biblio["isotherms"] = isotherms
+
+        # Write to disk
+        doi_stub = doi
+        for rule in doi_stub_rules:
+            doi_stub = doi_stub.replace(rule["old"], rule["new"])
+
+        json_writer(
+            doi_stub + ".json", biblio
+        )  # this creates the upload file for ISODB
+        # pprint.pprint(biblio)
+
+        # Simulate the ISODB API
+        biblio_API = copy.deepcopy(biblio)
+        biblio_API["journal"] = biblio_API["journal"]["name"]
+        biblio_API["categories"] = [x["name"] for x in biblio_API["categories"]]
+        biblio_API["pressures"] = [min_pressure, max_pressure]
+        del biblio_API["pressure_min"]
+        del biblio_API["pressure_max"]
+        biblio_API["temperatures"] = biblio_API.pop("temperature")
+        # Simplify Authors
+        authors = []
+        for author in biblio_API["authors"]:
+            name = []
+            for key in ["given_name", "middle_name", "family_name"]:
+                if key in author:
+                    name.append(author[key])
+            name = " ".join(name)
+            authors.append(name)
+        biblio_API["authors"] = authors
+        # Adsorbates List
+        biblio_API["adsorbateGas"] = []
+        for adsorbate in biblio_API["adsorbates"]:
+            # Look up name associated with InChIKey
+            url = (
+                API_HOST
+                + "/isodb/api/gas/"
+                + adsorbate["InChIKey"]
+                + ".json&k=dontrackmeplease"
             )
-        if given_names["middle"] != None:
-            block["middle_name"] = unicodedata.normalize("NFKC", given_names["middle"])
-        if "ORCID" in author:
-            block["orc_id"] = author["ORCID"].replace("http://orcid.org/", "")
-        authors.append(block)
-
-    # adsorbates = []
-    # adsorbents = []
-    # temperatures = []
-    # categories = []
-    # min_pressure = 1.0e10 #initialize this absurdly
-    # max_pressure = -1.0e10 #initialize this absurdly
-
-    # #Extract metadata from each Isotherm JSON file for the DOI
-    # files = glob.glob(PROC_directory+'/'+DOI[1]+'*.json')
-    # for file in files:
-    #     isotherm = json.loads(open(file,mode='r').read())
-    #     #pprint.pprint(isotherm)
-
-    #     adsorbents.append(str(isotherm["adsorbent"]["hashkey"]))
-    #     categories.append(str(isotherm["category"]))
-    #     temperatures.append(int(isotherm["temperature"]))
-    #     for adsorbate in isotherm["adsorbates"]:
-    #         adsorbates.append(adsorbate["InChIKey"])
-    #     for point in isotherm["isotherm_data"]:
-    #         min_pressure = min( min_pressure, point["pressure"] )
-    #         max_pressure = max( max_pressure, point["pressure"] )
-
-    # #Correction to pressure range
-    # if min_pressure < 0.0:
-    #     min_pressure = 0.00
-    # if max_pressure > 1000.0:
-    #     max_pressure = 1000.00
-
-    # #Reduce redundant lists to unique lists and convert to dictionaries
-    # adsorbents = [{"hashkey": x} for x in list(set(adsorbents))]
-    # categories = [{"name": x} for x in list(set(categories))]
-    # temperatures = list(set(temperatures))
-    # adsorbates = [{"InChIKey": x} for x in list(set(adsorbates))]
-
-    # Build the JSON Structure
-    biblio = {}
-    biblio["DOI"] = doi
-    # biblio["categories"] = categories
-    # biblio["adsorbates"] = adsorbates
-    # biblio["adsorbents"] = adsorbents
-    # biblio["temperature"] = temperatures
-    # biblio["pressure_min"] = float("{0:.2f}".format(min_pressure))
-    # biblio["pressure_max"] = float("{0:.2f}".format(max_pressure))
-    biblio["title"] = title
-    biblio["year"] = year
-    biblio["journal"] = journal
-    biblio["authors"] = authors
-
-    pprint.pprint(biblio)
+            info = json.loads(requests.get(url, headers=HEADERS).content)
+            adsorbate["name"] = info["name"]
+            biblio_API["adsorbateGas"].append(info["name"])
+        # Adsorbents List
+        biblio_API["adsorbentMaterial"] = []
+        for adsorbent in biblio_API["adsorbents"]:
+            # Look up name associated with hashkey
+            url = (
+                API_HOST
+                + "/matdb/api/material/"
+                + adsorbent["hashkey"]
+                + ".json&k=dontrackmeplease"
+            )
+            info = json.loads(requests.get(url, headers=HEADERS).content)
+            adsorbent["name"] = info["name"]
+            biblio_API["adsorbentMaterial"].append(info["name"])
+        json_writer(
+            doi_stub + ".json.API", biblio_API
+        )  # this creates the upload file for ISODB
 
 
 # To-Do for Bibliography Generator
