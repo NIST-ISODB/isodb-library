@@ -106,8 +106,7 @@ def extract_names(string):
     return {"given": given, "middle": middle}
 
 
-def generate_bibliography(folder):
-
+def generate_bibliography(folder, simulate_API=False):
     # Generate a list of isotherms to process
     if folder[-1] != "/":
         folder += "/"
@@ -245,58 +244,58 @@ def generate_bibliography(folder):
         for rule in doi_stub_rules:
             doi_stub = doi_stub.replace(rule["old"], rule["new"])
 
-        json_writer(
-            doi_stub + ".json", biblio
-        )  # this creates the upload file for ISODB
-        # pprint.pprint(biblio)
-
-        # Simulate the ISODB API
-        biblio_API = copy.deepcopy(biblio)
-        biblio_API["journal"] = biblio_API["journal"]["name"]
-        biblio_API["categories"] = [x["name"] for x in biblio_API["categories"]]
-        biblio_API["pressures"] = [min_pressure, max_pressure]
-        del biblio_API["pressure_min"]
-        del biblio_API["pressure_max"]
-        biblio_API["temperatures"] = biblio_API.pop("temperature")
-        # Simplify Authors
-        authors = []
-        for author in biblio_API["authors"]:
-            name = []
-            for key in ["given_name", "middle_name", "family_name"]:
-                if key in author:
-                    name.append(author[key])
-            name = " ".join(name)
-            authors.append(name)
-        biblio_API["authors"] = authors
-        # Adsorbates List
-        biblio_API["adsorbateGas"] = []
-        for adsorbate in biblio_API["adsorbates"]:
-            # Look up name associated with InChIKey
-            url = (
-                API_HOST
-                + "/isodb/api/gas/"
-                + adsorbate["InChIKey"]
-                + ".json&k=dontrackmeplease"
-            )
-            info = json.loads(requests.get(url, headers=HEADERS).content)
-            adsorbate["name"] = info["name"]
-            biblio_API["adsorbateGas"].append(info["name"])
-        # Adsorbents List
-        biblio_API["adsorbentMaterial"] = []
-        for adsorbent in biblio_API["adsorbents"]:
-            # Look up name associated with hashkey
-            url = (
-                API_HOST
-                + "/matdb/api/material/"
-                + adsorbent["hashkey"]
-                + ".json&k=dontrackmeplease"
-            )
-            info = json.loads(requests.get(url, headers=HEADERS).content)
-            adsorbent["name"] = info["name"]
-            biblio_API["adsorbentMaterial"].append(info["name"])
-        json_writer(
-            doi_stub + ".json.API", biblio_API
-        )  # this creates the ISODB Library file
+        if not simulate_API:
+            # Write the bibliography file for database admin
+            json_writer(doi_stub + ".json", biblio)  # simulate_API=False
+            # pprint.pprint(biblio)
+        else:
+            # Write the bibliography file to simulate the ISODB API
+            biblio_API = copy.deepcopy(biblio)
+            biblio_API["journal"] = biblio_API["journal"]["name"]
+            biblio_API["categories"] = [x["name"] for x in biblio_API["categories"]]
+            biblio_API["pressures"] = [min_pressure, max_pressure]
+            del biblio_API["pressure_min"]
+            del biblio_API["pressure_max"]
+            biblio_API["temperatures"] = biblio_API.pop("temperature")
+            # Simplify Authors
+            authors = []
+            for author in biblio_API["authors"]:
+                name = []
+                for key in ["given_name", "middle_name", "family_name"]:
+                    if key in author:
+                        name.append(author[key])
+                name = " ".join(name)
+                authors.append(name)
+            biblio_API["authors"] = authors
+            # Adsorbates List
+            biblio_API["adsorbateGas"] = []
+            for adsorbate in biblio_API["adsorbates"]:
+                # Look up name associated with InChIKey
+                url = (
+                    API_HOST
+                    + "/isodb/api/gas/"
+                    + adsorbate["InChIKey"]
+                    + ".json&k=dontrackmeplease"
+                )
+                info = json.loads(requests.get(url, headers=HEADERS).content)
+                adsorbate["name"] = info["name"]
+                biblio_API["adsorbateGas"].append(info["name"])
+            # Adsorbents List
+            biblio_API["adsorbentMaterial"] = []
+            for adsorbent in biblio_API["adsorbents"]:
+                # Look up name associated with hashkey
+                url = (
+                    API_HOST
+                    + "/matdb/api/material/"
+                    + adsorbent["hashkey"]
+                    + ".json&k=dontrackmeplease"
+                )
+                info = json.loads(requests.get(url, headers=HEADERS).content)
+                adsorbent["name"] = info["name"]
+                biblio_API["adsorbentMaterial"].append(info["name"])
+            # to disk
+            json_writer(doi_stub + ".json.API", biblio_API)  # simulate_API=True
+            # pprint.pprint(biblio_API)
 
 
 # To-Do for Bibliography Generator
