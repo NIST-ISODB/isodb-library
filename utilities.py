@@ -11,75 +11,20 @@ import click
 import glob
 import git
 
-# Global Variables
-API_HOST = "https://adsorption.nist.gov"
-HEADERS = {"Accept": "application/citeproc+json"}  # JSON Headers
-TEXTENCODE = "utf-8"
-CANONICALIZE = "NFKC"
-
-SCRIPT_PATH = os.path.split(os.path.realpath(__file__))[0]
-ROOT_DIR = os.getcwd()
-DOI_MAPPING_PATH = os.path.join(ROOT_DIR, "DOI_mapping.csv")
-JSON_FOLDER = os.path.join(ROOT_DIR, "Library")
-
-# Character Substitution Rules for Converting the DOI to a stub
-doi_stub_rules = [
-    {"old": "/", "new": "-"},
-    {"old": "(", "new": ""},
-    {"old": ")", "new": ""},
-    {"old": ":", "new": ""},
-    {"old": ":", "new": ""},
-    {"old": " ", "new": ""},
-    {"old": "+", "new": "plus"},
-    {"old": "-", "new": ""},
-]
-
-# Pressure Conversions (to bar units)
-pressure_units = {
-    "bar": 1.0,
-    "Pa": 1.0e-05,
-    "kPa": 1.0e-02,
-    "MPa": 10.0,
-    "atm": 1.01325e0,
-    "mmHg": 1.333223684e-03,
-    "Torr": 1.333223684e-03,
-    "psi": 6.8947572932e-02,
-    "mbar": 1.0e-03,
-}
-
-# Canonical Keys for Isotherm JSON (required keys for ISODB)
-canonical_keys = [
-    "DOI",
-    "adsorbates",
-    "adsorbent",
-    "adsorptionUnits",
-    "articleSource",
-    "category",
-    "compositionType",
-    "concentrationUnits",
-    "date",
-    "digitizer",
-    "filename",
-    "isotherm_data",
-    "isotherm_type",
-    "pressureUnits",
-    "tabular_data",
-    "temperature",
-]
-
-# Wrapper function for JSON writes to ensure consistency in formatting
-def json_writer(filename, data):
-    """Format JSON according to ISODB specs"""
-    with open(filename, mode="w") as output:
-        json.dump(
-            data, output, ensure_ascii=False, sort_keys=True, indent=4
-        )  # formatting rules
-        output.write("\n")  # new line at EOF
+from config import *
 
 
 @click.group()
 def cli():
     pass
+
+
+@cli.command("tester")
+def tester_fcn():
+    """Test Platform for code reorganization"""
+    print("in tester function")
+    print(API_HOST)
+    print(canonical_keys)
 
 
 @cli.command("clean_json")
@@ -420,6 +365,16 @@ def post_process(filename):
     isotherm["pressureUnits"] = "bar"
     # Map the adsorptionUnits to the default value
     isotherm["adsorptionUnits"] = default_adsorption_units(isotherm["adsorptionUnits"])
+    # Convert the tabular_data boolean variable to integer (SQL does not support boolean)
+    if isotherm["tabular_data"] == True:
+        isotherm["tabular_data"] = 1
+    elif isotherm["tabular_data"] == False:
+        isotherm["tabular_data"] = 0
+    elif isotherm["tabular_data"] != 0 and isotherm["tabular_data"] != 1:
+        raise ValidationError(
+            "ERROR: 'tabular_data' field does not conform to either (0,1) or (False,True)"
+        )
+
     # Trim out points with invalid pressure or adsorption
     new_points = []
     for point in isotherm["isotherm_data"]:
@@ -701,7 +656,7 @@ def generate_bibliography(folder):
             biblio_API["adsorbentMaterial"].append(info["name"])
         json_writer(
             doi_stub + ".json.API", biblio_API
-        )  # this creates the upload file for ISODB
+        )  # this creates the ISODB Library file
 
 
 # To-Do for Bibliography Generator
