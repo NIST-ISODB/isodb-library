@@ -151,7 +151,7 @@ def git_log():
         print(commit.message)
 
 
-def fix_gas_ID(input):
+def fix_adsorbate_ID(input):
     output = copy.deepcopy(input)
     gas_name = input["name"].lower().replace(" ", "%20")
     url = API_HOST + "/isodb/api/gas/" + gas_name + ".json&k=dontrackmeplease"
@@ -166,7 +166,7 @@ def fix_gas_ID(input):
     return output, check
 
 
-def fix_material_ID(input):
+def fix_adsorbent_ID(input):
     output = copy.deepcopy(input)
     material_name = input["name"].lower().replace("%", "%25").replace(" ", "%20")
     url = API_HOST + "/matdb/api/material/" + material_name + ".json&k=dontrackmeplease"
@@ -206,7 +206,7 @@ def post_process(filename):
     for (i, adsorbate) in enumerate(adsorbates):
         if "InChIKey" not in adsorbate:
             # Correct the gas ID using the ISODB API
-            adsorbate, check = fix_gas_ID(adsorbate)
+            adsorbate, check = fix_adsorbate_ID(adsorbate)
             if not check:
                 raise Exception("UNKNOWN ADSORBATE: ", adsorbate, filename)
             else:
@@ -227,7 +227,7 @@ def post_process(filename):
         for species in point["species_data"]:
             if "InChIKey" not in species:
                 # Correct the gas ID
-                adsorbate, check = fix_gas_ID({"name": species["name"]})
+                adsorbate, check = fix_adsorbate_ID({"name": species["name"]})
                 if not check:
                     raise Exception("UNKNOWN ADSORBATE: ", adsorbate, filename)
                 else:
@@ -237,7 +237,7 @@ def post_process(filename):
     adsorbent = isotherm["adsorbent"]
     if "hashkey" not in adsorbent:
         # Correct the material ID
-        material, check = fix_material_ID(adsorbent)
+        material, check = fix_adsorbent_ID(adsorbent)
         if not check:
             raise Exception("UNKNOWN ADSORBENT: ", adsorbent, filename)
         else:
