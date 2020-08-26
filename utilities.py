@@ -13,6 +13,8 @@ import git
 
 from config import *
 from bibliography_operations import *
+from adsorbents_operations import *
+from adsorbates_operations import *
 
 
 @click.group()
@@ -125,67 +127,13 @@ def regenerate_isotherm_library():
 
 
 @cli.command("regenerate_adsorbents")
-def regenerate_adsorbents():
-    """Generate the entire ISODB library from the API"""
-    # Create the JSON Library folder if necessary
-    if not os.path.exists(JSON_FOLDER):
-        os.mkdir(JSON_FOLDER)
-
-    # Create subfolder for Adsorbents if necessary
-    Adsorbent_folder = JSON_FOLDER + "/Adsorbents"
-    if not os.path.exists(Adsorbent_folder):
-        os.mkdir(Adsorbent_folder)
-
-    # Generate a list of adsorbents from the MATDB API
-    url = API_HOST + "/matdb/api/materials.json"
-    adsorbents = json.loads(requests.get(url, headers=HEADERS).content)
-    print(len(adsorbents), "Adsorbent Material Entries")
-
-    # Extract each adsorbent in full form
-    for (material_count, adsorbent) in enumerate(adsorbents):
-        filename = adsorbent["hashkey"] + ".json"
-        url = API_HOST + "/matdb/api/material/" + filename
-        print(url)
-        adsorbent_data = json.loads(requests.get(url, headers=HEADERS).content)
-        # pprint.pprint(adsorbent_data)
-        # Write to JSON
-        json_writer(Adsorbent_folder + "/" + filename, adsorbent_data)
-        if material_count % 100 == 0:
-            time.sleep(5)  # slow down API calls to not overwhelm the server
+def regenerate_adsorbents_runner():
+    regenerate_adsorbents()
 
 
 @cli.command("regenerate_adsorbates")
-def regenerate_adsorbates():
-    """Generate the entire ISODB library from the API"""
-    # Create the JSON Library folder if necessary
-    if not os.path.exists(JSON_FOLDER):
-        os.mkdir(JSON_FOLDER)
-
-    # Create subfolder for Adsorbates if necessary
-    Adsorbate_folder = JSON_FOLDER + "/Adsorbates"
-    if not os.path.exists(Adsorbate_folder):
-        os.mkdir(Adsorbate_folder)
-
-    # Generate a list of adsorbents from the MATDB API
-    url = API_HOST + "/isodb/api/gases.json"
-    adsorbates = json.loads(requests.get(url, headers=HEADERS).content)
-    print(len(adsorbates), "Adsorbate Species Entries")
-
-    # Extract each adsorbate in full form
-    for (adsorbate_count, adsorbate) in enumerate(adsorbates):
-        filename = adsorbate["InChIKey"] + ".json"
-        url = API_HOST + "/isodb/api/gas/" + filename
-        print(url)
-        try:
-            adsorbate_data = json.loads(requests.get(url, headers=HEADERS).content)
-            # pprint.pprint(adsorbate_data)
-            # Write to JSON
-            json_writer(Adsorbate_folder + "/" + filename, adsorbate_data)
-        except:
-            print("ERROR: ", adsorbate)
-        # if adsorbate_count > 5: break
-        if adsorbate_count % 100 == 0:
-            time.sleep(5)  # slow down API calls to not overwhelm the server
+def regenerate_adsorbates_runner():
+    regenerate_adsorbates()
 
 
 @cli.command("regenerate_bibliography")
