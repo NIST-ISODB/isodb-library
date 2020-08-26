@@ -46,8 +46,8 @@ def regenerate_bibliography():
         except:
             print("ERROR: ", doi)
             print(url)
-        if biblio_count > 5:
-            break
+        # if biblio_count > 5:
+        #     break
         if biblio_count % 100 == 0:
             time.sleep(5)  # slow down API calls to not overwhelm the server
 
