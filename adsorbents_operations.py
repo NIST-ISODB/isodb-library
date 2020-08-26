@@ -10,6 +10,21 @@ import glob
 from config import *
 
 
+def fix_adsorbent_ID(input):
+    output = copy.deepcopy(input)
+    material_name = input["name"].lower().replace("%", "%25").replace(" ", "%20")
+    url = API_HOST + "/matdb/api/material/" + material_name + ".json&k=dontrackmeplease"
+    # Attempt to resolve the name using the MATDB API
+    try:
+        material_info = json.loads(requests.get(url, headers=HEADERS).content)
+        output["hashkey"] = material_info["hashkey"]
+        output["name"] = material_info["name"]
+        check = True
+    except:
+        check = False
+    return output, check
+
+
 def regenerate_adsorbents():
     """Generate the entire ISODB library from the API"""
     # Create the JSON Library folder if necessary

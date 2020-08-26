@@ -151,36 +151,6 @@ def git_log():
         print(commit.message)
 
 
-def fix_adsorbate_ID(input):
-    output = copy.deepcopy(input)
-    gas_name = input["name"].lower().replace(" ", "%20")
-    url = API_HOST + "/isodb/api/gas/" + gas_name + ".json&k=dontrackmeplease"
-    # Attempt to resolve the name using the ISODB API
-    try:
-        gas_info = json.loads(requests.get(url, headers=HEADERS).content)
-        output["InChIKey"] = gas_info["InChIKey"]
-        output["name"] = gas_info["name"]
-        check = True
-    except:
-        check = False
-    return output, check
-
-
-def fix_adsorbent_ID(input):
-    output = copy.deepcopy(input)
-    material_name = input["name"].lower().replace("%", "%25").replace(" ", "%20")
-    url = API_HOST + "/matdb/api/material/" + material_name + ".json&k=dontrackmeplease"
-    # Attempt to resolve the name using the MATDB API
-    try:
-        material_info = json.loads(requests.get(url, headers=HEADERS).content)
-        output["hashkey"] = material_info["hashkey"]
-        output["name"] = material_info["name"]
-        check = True
-    except:
-        check = False
-    return output, check
-
-
 def default_adsorption_units(input):
     # Generate units lookup tables from API
     url = API_HOST + "/isodb/api/default-adsorption-unit-lookup.json"

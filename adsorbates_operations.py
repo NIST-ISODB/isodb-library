@@ -10,6 +10,21 @@ import glob
 from config import *
 
 
+def fix_adsorbate_ID(input):
+    output = copy.deepcopy(input)
+    gas_name = input["name"].lower().replace(" ", "%20")
+    url = API_HOST + "/isodb/api/gas/" + gas_name + ".json&k=dontrackmeplease"
+    # Attempt to resolve the name using the ISODB API
+    try:
+        gas_info = json.loads(requests.get(url, headers=HEADERS).content)
+        output["InChIKey"] = gas_info["InChIKey"]
+        output["name"] = gas_info["name"]
+        check = True
+    except:
+        check = False
+    return output, check
+
+
 def regenerate_adsorbates():
     """Generate the entire ISODB library from the API"""
     # Create the JSON Library folder if necessary
