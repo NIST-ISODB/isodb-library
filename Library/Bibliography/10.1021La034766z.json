@@ -1,182 +1,132 @@
-{
-    "DOI": "10.1021/La034766z",
-    "adsorbateGas": [
-        "N-propane",
-        "N-Butane",
-        "Ethane",
-        "Methane"
-    ],
-    "adsorbates": [
-        {
-            "InChIKey": "ATUOYWHBWRKTHZ-UHFFFAOYSA-N",
-            "name": "N-propane"
-        },
-        {
-            "InChIKey": "IJDNQMDRQITEOD-UHFFFAOYSA-N",
-            "name": "N-Butane"
-        },
-        {
-            "InChIKey": "OTMSDBZUPAUEDD-UHFFFAOYSA-N",
-            "name": "Ethane"
-        },
-        {
-            "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
-            "name": "Methane"
-        }
-    ],
-    "adsorbentMaterial": [
-        "Silicalite MFI"
-    ],
-    "adsorbents": [
-        {
-            "hashkey": "NIST-MATDB-5d0728ebc1e0053aa120288307a704c8",
-            "name": "Silicalite MFI"
-        }
-    ],
-    "authors": [
-        "Linghong Lu",
-        "Qi Wang",
-        "Yingchun Liu"
-    ],
-    "categories": [
-        "sim"
-    ],
-    "isotherms": [
-        {
-            "filename": "10.1021La034766z.Isotherm1"
-        },
-        {
-            "filename": "10.1021La034766z.Isotherm1-1"
-        },
-        {
-            "filename": "10.1021La034766z.Isotherm10"
-        },
-        {
-            "filename": "10.1021La034766z.Isotherm11"
-        },
-        {
-            "filename": "10.1021La034766z.Isotherm12"
-        },
-        {
-            "filename": "10.1021La034766z.Isotherm13"
-        },
-        {
-            "filename": "10.1021La034766z.Isotherm14"
-        },
-        {
-            "filename": "10.1021La034766z.Isotherm15"
-        },
-        {
-            "filename": "10.1021La034766z.Isotherm16"
-        },
-        {
-            "filename": "10.1021La034766z.Isotherm17"
-        },
-        {
-            "filename": "10.1021La034766z.Isotherm2"
-        },
-        {
-            "filename": "10.1021La034766z.Isotherm2-1"
-        },
-        {
-            "filename": "10.1021La034766z.Isotherm3"
-        },
-        {
-            "filename": "10.1021La034766z.Isotherm3-1"
-        },
-        {
-            "filename": "10.1021La034766z.Isotherm4"
-        },
-        {
-            "filename": "10.1021La034766z.Isotherm4-1"
-        },
-        {
-            "filename": "10.1021la034766z.Isotherm43"
-        },
-        {
-            "filename": "10.1021la034766z.Isotherm44"
-        },
-        {
-            "filename": "10.1021la034766z.Isotherm45"
-        },
-        {
-            "filename": "10.1021la034766z.Isotherm46"
-        },
-        {
-            "filename": "10.1021la034766z.Isotherm47"
-        },
-        {
-            "filename": "10.1021la034766z.Isotherm48"
-        },
-        {
-            "filename": "10.1021la034766z.Isotherm49"
-        },
-        {
-            "filename": "10.1021La034766z.Isotherm5"
-        },
-        {
-            "filename": "10.1021la034766z.Isotherm50"
-        },
-        {
-            "filename": "10.1021la034766z.Isotherm51"
-        },
-        {
-            "filename": "10.1021la034766z.Isotherm52"
-        },
-        {
-            "filename": "10.1021la034766z.Isotherm53"
-        },
-        {
-            "filename": "10.1021la034766z.Isotherm54"
-        },
-        {
-            "filename": "10.1021la034766z.Isotherm55"
-        },
-        {
-            "filename": "10.1021la034766z.Isotherm56"
-        },
-        {
-            "filename": "10.1021la034766z.Isotherm57"
-        },
-        {
-            "filename": "10.1021la034766z.Isotherm58"
-        },
-        {
-            "filename": "10.1021la034766z.Isotherm59"
-        },
-        {
-            "filename": "10.1021La034766z.Isotherm6"
-        },
-        {
-            "filename": "10.1021la034766z.Isotherm60"
-        },
-        {
-            "filename": "10.1021la034766z.Isotherm61"
-        },
-        {
-            "filename": "10.1021la034766z.Isotherm62"
-        },
-        {
-            "filename": "10.1021la034766z.Isotherm63"
-        },
-        {
-            "filename": "10.1021La034766z.Isotherm7"
-        },
-        {
-            "filename": "10.1021La034766z.Isotherm8"
-        },
-        {
-            "filename": "10.1021La034766z.Isotherm9"
-        }
-    ],
-    "journal": "Langmuir",
-    "pressures": [
-        0,
-        1
-    ],
-    "temperatures": [
-        300
-    ],
-    "title": "Adsorption and Separation of Ternary and Quaternary Mixtures of Short Linear Alkanes in Zeolites by Molecular Simulation",
-    "year": 2003
-}
+[
+    {
+        "DOI": "10.1021/La034766z",
+        "adsorbateGas": [
+            "N-propane",
+            "N-Butane",
+            "Ethane",
+            "Methane"
+        ],
+        "adsorbates": [
+            {
+                "InChIKey": "ATUOYWHBWRKTHZ-UHFFFAOYSA-N",
+                "name": "N-propane"
+            },
+            {
+                "InChIKey": "IJDNQMDRQITEOD-UHFFFAOYSA-N",
+                "name": "N-Butane"
+            },
+            {
+                "InChIKey": "OTMSDBZUPAUEDD-UHFFFAOYSA-N",
+                "name": "Ethane"
+            },
+            {
+                "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+                "name": "Methane"
+            }
+        ],
+        "adsorbentMaterial": [
+            "Silica MOR",
+            "Silicalite MFI",
+            "Silicalite ISV"
+        ],
+        "adsorbents": [
+            {
+                "hashkey": "NIST-MATDB-55da0059938e35d89cae814b59e3e200",
+                "name": "Silica MOR"
+            },
+            {
+                "hashkey": "NIST-MATDB-5d0728ebc1e0053aa120288307a704c8",
+                "name": "Silicalite MFI"
+            },
+            {
+                "hashkey": "NIST-MATDB-b2476664ad65cd2d2dbd01ea30f8138f",
+                "name": "Silicalite ISV"
+            }
+        ],
+        "authors": [
+            "Linghong Lu",
+            "Qi Wang",
+            "Yingchun Liu"
+        ],
+        "categories": [
+            "exp",
+            "sim"
+        ],
+        "isotherms": [
+            {
+                "filename": "10.1021la034766z.Isotherm1"
+            },
+            {
+                "filename": "10.1021La034766z.Isotherm10"
+            },
+            {
+                "filename": "10.1021La034766z.Isotherm11"
+            },
+            {
+                "filename": "10.1021La034766z.Isotherm12"
+            },
+            {
+                "filename": "10.1021la034766z.Isotherm13"
+            },
+            {
+                "filename": "10.1021la034766z.Isotherm14"
+            },
+            {
+                "filename": "10.1021la034766z.Isotherm15"
+            },
+            {
+                "filename": "10.1021la034766z.Isotherm16"
+            },
+            {
+                "filename": "10.1021la034766z.Isotherm17"
+            },
+            {
+                "filename": "10.1021la034766z.Isotherm18"
+            },
+            {
+                "filename": "10.1021la034766z.Isotherm19"
+            },
+            {
+                "filename": "10.1021La034766z.Isotherm2"
+            },
+            {
+                "filename": "10.1021la034766z.Isotherm20"
+            },
+            {
+                "filename": "10.1021la034766z.Isotherm21"
+            },
+            {
+                "filename": "10.1021La034766z.Isotherm3"
+            },
+            {
+                "filename": "10.1021La034766z.Isotherm4"
+            },
+            {
+                "filename": "10.1021La034766z.Isotherm5"
+            },
+            {
+                "filename": "10.1021La034766z.Isotherm6"
+            },
+            {
+                "filename": "10.1021La034766z.Isotherm7"
+            },
+            {
+                "filename": "10.1021La034766z.Isotherm8"
+            },
+            {
+                "filename": "10.1021La034766z.Isotherm9"
+            }
+        ],
+        "journal": "Langmuir",
+        "pressures": [
+            0,
+            1
+        ],
+        "temperatures": [
+            300
+        ],
+        "title": "Adsorption and Separation of Ternary and Quaternary Mixtures of Short Linear Alkanes in Zeolites by Molecular Simulation",
+        "year": 2003
+    }
+]
