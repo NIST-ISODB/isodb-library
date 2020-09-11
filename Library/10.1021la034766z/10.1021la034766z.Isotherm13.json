@@ -1,0 +1,138 @@
+{
+    "DOI": "10.1021/la034766z",
+    "adsorbates": [
+        {
+            "InChIKey": "ATUOYWHBWRKTHZ-UHFFFAOYSA-N",
+            "name": "N-propane"
+        },
+        {
+            "InChIKey": "IJDNQMDRQITEOD-UHFFFAOYSA-N",
+            "name": "N-Butane"
+        },
+        {
+            "InChIKey": "OTMSDBZUPAUEDD-UHFFFAOYSA-N",
+            "name": "Ethane"
+        },
+        {
+            "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+            "name": "Methane"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-55da0059938e35d89cae814b59e3e200",
+        "name": "Silica MOR"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "Figure 11",
+    "category": "sim",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "2017-06-30",
+    "digitizer": "John Luo",
+    "filename": "10.1021la034766z.Isotherm13",
+    "isotherm_data": [
+        {
+            "pressure": 3.45,
+            "species_data": [
+                {
+                    "InChIKey": "IJDNQMDRQITEOD-UHFFFAOYSA-N",
+                    "adsorption": 0.36571,
+                    "composition": 0.04984
+                }
+            ],
+            "total_adsorption": 0.36571
+        },
+        {
+            "pressure": 3.45,
+            "species_data": [
+                {
+                    "InChIKey": "IJDNQMDRQITEOD-UHFFFAOYSA-N",
+                    "adsorption": 0.49143,
+                    "composition": 0.09873
+                }
+            ],
+            "total_adsorption": 0.49143
+        },
+        {
+            "pressure": 3.45,
+            "species_data": [
+                {
+                    "InChIKey": "IJDNQMDRQITEOD-UHFFFAOYSA-N",
+                    "adsorption": 0.56381,
+                    "composition": 0.14939
+                }
+            ],
+            "total_adsorption": 0.56381
+        },
+        {
+            "pressure": 3.45,
+            "species_data": [
+                {
+                    "InChIKey": "IJDNQMDRQITEOD-UHFFFAOYSA-N",
+                    "adsorption": 0.60952,
+                    "composition": 0.19919
+                }
+            ],
+            "total_adsorption": 0.60952
+        },
+        {
+            "pressure": 3.45,
+            "species_data": [
+                {
+                    "InChIKey": "IJDNQMDRQITEOD-UHFFFAOYSA-N",
+                    "adsorption": 0.65524,
+                    "composition": 0.24986
+                }
+            ],
+            "total_adsorption": 0.65524
+        },
+        {
+            "pressure": 3.45,
+            "species_data": [
+                {
+                    "InChIKey": "IJDNQMDRQITEOD-UHFFFAOYSA-N",
+                    "adsorption": 0.6781,
+                    "composition": 0.29967
+                }
+            ],
+            "total_adsorption": 0.6781
+        },
+        {
+            "pressure": 3.45,
+            "species_data": [
+                {
+                    "InChIKey": "IJDNQMDRQITEOD-UHFFFAOYSA-N",
+                    "adsorption": 0.70095,
+                    "composition": 0.34949
+                }
+            ],
+            "total_adsorption": 0.70095
+        },
+        {
+            "pressure": 3.45,
+            "species_data": [
+                {
+                    "InChIKey": "IJDNQMDRQITEOD-UHFFFAOYSA-N",
+                    "adsorption": 0.71619,
+                    "composition": 0.3993
+                }
+            ],
+            "total_adsorption": 0.71619
+        },
+        {
+            "pressure": 3.45,
+            "species_data": [
+                {
+                    "InChIKey": "IJDNQMDRQITEOD-UHFFFAOYSA-N",
+                    "adsorption": 0.72762,
+                    "composition": 0.45
+                }
+            ],
+            "total_adsorption": 0.72762
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 300
+}
