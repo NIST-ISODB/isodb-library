@@ -5,6 +5,14 @@ The database also contains adsorption isotherms digitized from the cataloged art
 
 This is the official Github mirror of the database, providing a new way of submitting new isotherms, corrections, and updates.
 
+## Requirements
+
+Repo relies on isodbtools, a toolset developed by NIST for management of adsorption data.
+
+Install via:
+
+pip install git+https://github.com/dwsideriusNIST/isodbtools.git#egg=isodbtools
+
 ## Contributing
 
 Contributions of new isotherms, corrections and updates are highly welcome!
