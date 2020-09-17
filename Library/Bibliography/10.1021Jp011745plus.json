@@ -1,8 +1,8 @@
 {
-    "DOI": "10.1002/adem.200500223",
+    "DOI": "10.1021/Jp011745+",
     "adsorbateGas": [
         "Nitrogen",
-        "Hydrogen"
+        "Argon"
     ],
     "adsorbates": [
         {
@@ -10,42 +10,79 @@
             "name": "Nitrogen"
         },
         {
-            "InChIKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
-            "name": "Hydrogen"
+            "InChIKey": "XKRFYHLGVUSROY-UHFFFAOYSA-N",
+            "name": "Argon"
         }
     ],
     "adsorbentMaterial": [
-        "CuBTC"
+        "Carbopack F",
+        "Activated Carbon",
+        "Cabot BP",
+        "BP-280"
     ],
     "adsorbents": [
         {
-            "hashkey": "NIST-MATDB-991daf7313251e7e607e2bab2da57e33",
-            "name": "CuBTC"
+            "hashkey": "NIST-MATDB-31723c37c1f173398b283574ebf1690b",
+            "name": "Carbopack F"
+        },
+        {
+            "hashkey": "NIST-MATDB-b2cbe7a27aa1570f2ff2c04b82289f25",
+            "name": "Activated Carbon"
+        },
+        {
+            "hashkey": "NIST-MATDB-ed4a9c0d0b1f6d6de5ea47a70581d933",
+            "name": "Cabot BP"
+        },
+        {
+            "hashkey": "NIST-MATDB-f44b26add1021538f09079a651f73cc5",
+            "name": "BP-280"
         }
     ],
     "authors": [
-        "Piotr Krawiec",
-        "Markus Kramer",
-        "Michal Sabo",
-        "R. Kunschke",
-        "Heidrun Fröde",
-        "Stefan Kaskel"
+        "Leon Gardner",
+        "Michal Kruk",
+        "Mietek Jaroniec"
     ],
     "categories": [
+        "qua",
         "exp"
     ],
     "isotherms": [
         {
-            "filename": "10.1002adem.200500223.isotherm1"
+            "filename": "10.1021Jp011745plus.isotherm1"
         },
         {
-            "filename": "10.1002adem.200500223.isotherm2"
+            "filename": "10.1021Jp011745plus.isotherm1b"
         },
         {
-            "filename": "10.1002adem.200500223.isotherm3"
+            "filename": "10.1021Jp011745plus.isotherm2"
+        },
+        {
+            "filename": "10.1021Jp011745plus.isotherm2b"
+        },
+        {
+            "filename": "10.1021Jp011745plus.isotherm3"
+        },
+        {
+            "filename": "10.1021Jp011745plus.isotherm3b"
+        },
+        {
+            "filename": "10.1021Jp011745plus.isotherm4"
+        },
+        {
+            "filename": "10.1021Jp011745plus.isotherm4b"
+        },
+        {
+            "filename": "10.1021Jp011745plus.isotherm5"
+        },
+        {
+            "filename": "10.1021Jp011745plus.isotherm5b"
+        },
+        {
+            "filename": "10.1021Jp011745plus.isotherm6"
         }
     ],
-    "journal": "Advanced Engineering Materials",
+    "journal": "The Journal of Physical Chemistry B",
     "pressures": [
         0,
         1
@@ -54,6 +91,6 @@
         77,
         87
     ],
-    "title": "Improved Hydrogen Storage in the Metal-Organic Framework Cu3(BTC)2",
-    "year": 2006
+    "title": "Reference Data for Argon Adsorption on Graphitized and Nongraphitized Carbon Blacks",
+    "year": 2001
 }

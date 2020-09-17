@@ -1,59 +1,369 @@
 {
-    "DOI": "10.1002/adem.200500223",
+    "DOI": "10.1021/je000273+",
     "adsorbateGas": [
-        "Nitrogen",
-        "Hydrogen"
+        "Ammonia"
     ],
     "adsorbates": [
         {
-            "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
-            "name": "Nitrogen"
-        },
-        {
-            "InChIKey": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
-            "name": "Hydrogen"
+            "InChIKey": "QGZKDVFQNNGYKY-UHFFFAOYSA-N",
+            "name": "Ammonia"
         }
     ],
     "adsorbentMaterial": [
-        "CuBTC"
+        "Zeolite 5A",
+        "Pentasil DAZ",
+        "Faujasite DAY",
+        "Zeolite 4A TG242",
+        "Silica Gel 100",
+        "Alumina VPO2",
+        "Amberlyst 15",
+        "Alumina 1597",
+        "Alumina 1593",
+        "Zeolite 13X WE894",
+        "Silica Gel 60",
+        "Clinoptilolite",
+        "Purolite MN200",
+        "Zeolite 13X",
+        "Zeolite 5A KE154",
+        "Silica Gel 40"
     ],
     "adsorbents": [
         {
-            "hashkey": "NIST-MATDB-991daf7313251e7e607e2bab2da57e33",
-            "name": "CuBTC"
+            "hashkey": "NIST-MATDB-035dc75dddd00241bd76627f78cbef2d",
+            "name": "Zeolite 5A"
+        },
+        {
+            "hashkey": "NIST-MATDB-1830ed0ab7d34bd94983f7c5c9e77ec0",
+            "name": "Pentasil DAZ"
+        },
+        {
+            "hashkey": "NIST-MATDB-211e61139241b0ad23a5f0696cc33acf",
+            "name": "Faujasite DAY"
+        },
+        {
+            "hashkey": "NIST-MATDB-2f8e4d6eabff4483bae71358b48e8359",
+            "name": "Zeolite 4A TG242"
+        },
+        {
+            "hashkey": "NIST-MATDB-4707a67abb38db4e415724ecaae39cd6",
+            "name": "Silica Gel 100"
+        },
+        {
+            "hashkey": "NIST-MATDB-58b55d7fa3cd3dd7312abeb5701ddb34",
+            "name": "Alumina VPO2"
+        },
+        {
+            "hashkey": "NIST-MATDB-7b1b938d9df3bd59986a0c083554add1",
+            "name": "Amberlyst 15"
+        },
+        {
+            "hashkey": "NIST-MATDB-7de58e05fbe339910eb4b42c2db3e2c7",
+            "name": "Alumina 1597"
+        },
+        {
+            "hashkey": "NIST-MATDB-884ae0fc807733d5ff43753e289ac83b",
+            "name": "Alumina 1593"
+        },
+        {
+            "hashkey": "NIST-MATDB-8a754e22d4fb54d9f39fd54710aacd46",
+            "name": "Zeolite 13X WE894"
+        },
+        {
+            "hashkey": "NIST-MATDB-a695b072417b82521e95744fb6c8e8e5",
+            "name": "Silica Gel 60"
+        },
+        {
+            "hashkey": "NIST-MATDB-ae6259bb1e493730cebe104ab746bb64",
+            "name": "Clinoptilolite"
+        },
+        {
+            "hashkey": "NIST-MATDB-b429f2f97df7c3da4fd83b79e75ee96d",
+            "name": "Purolite MN200"
+        },
+        {
+            "hashkey": "NIST-MATDB-b76bbf3e404395a8b5d1b9ec08bf2d8f",
+            "name": "Zeolite 13X"
+        },
+        {
+            "hashkey": "NIST-MATDB-d1f2e00ceb9a4e96ee194af06e4aad91",
+            "name": "Zeolite 5A KE154"
+        },
+        {
+            "hashkey": "NIST-MATDB-fbef165b83999715a0a5a1353ec8e7dc",
+            "name": "Silica Gel 40"
         }
     ],
     "authors": [
-        "Piotr Krawiec",
-        "Markus Kramer",
-        "Michal Sabo",
-        "R. Kunschke",
-        "Heidrun Fröde",
-        "Stefan Kaskel"
+        "Helminen Jarkko",
+        "Helenius Joni",
+        "Erkki Paatero",
+        "Ilkka Turunen"
     ],
     "categories": [
         "exp"
     ],
     "isotherms": [
         {
-            "filename": "10.1002adem.200500223.isotherm1"
+            "filename": "10.1021je000273plus.Isotherm1"
         },
         {
-            "filename": "10.1002adem.200500223.isotherm2"
+            "filename": "10.1021je000273plus.Isotherm10"
         },
         {
-            "filename": "10.1002adem.200500223.isotherm3"
+            "filename": "10.1021je000273plus.Isotherm11"
+        },
+        {
+            "filename": "10.1021je000273plus.Isotherm12"
+        },
+        {
+            "filename": "10.1021je000273plus.Isotherm13"
+        },
+        {
+            "filename": "10.1021je000273plus.Isotherm14"
+        },
+        {
+            "filename": "10.1021je000273plus.Isotherm15"
+        },
+        {
+            "filename": "10.1021je000273plus.Isotherm16"
+        },
+        {
+            "filename": "10.1021je000273plus.Isotherm17"
+        },
+        {
+            "filename": "10.1021je000273plus.Isotherm18"
+        },
+        {
+            "filename": "10.1021je000273plus.Isotherm19"
+        },
+        {
+            "filename": "10.1021je000273plus.Isotherm2"
+        },
+        {
+            "filename": "10.1021je000273plus.Isotherm20"
+        },
+        {
+            "filename": "10.1021je000273plus.Isotherm21"
+        },
+        {
+            "filename": "10.1021je000273plus.Isotherm22"
+        },
+        {
+            "filename": "10.1021je000273plus.Isotherm23"
+        },
+        {
+            "filename": "10.1021je000273plus.Isotherm24"
+        },
+        {
+            "filename": "10.1021je000273plus.Isotherm25"
+        },
+        {
+            "filename": "10.1021je000273plus.Isotherm26"
+        },
+        {
+            "filename": "10.1021je000273plus.Isotherm27"
+        },
+        {
+            "filename": "10.1021je000273plus.Isotherm28"
+        },
+        {
+            "filename": "10.1021je000273plus.Isotherm29"
+        },
+        {
+            "filename": "10.1021je000273plus.Isotherm3"
+        },
+        {
+            "filename": "10.1021je000273plus.Isotherm30"
+        },
+        {
+            "filename": "10.1021je000273plus.Isotherm31"
+        },
+        {
+            "filename": "10.1021je000273plus.Isotherm32"
+        },
+        {
+            "filename": "10.1021je000273plus.Isotherm33"
+        },
+        {
+            "filename": "10.1021je000273plus.Isotherm34"
+        },
+        {
+            "filename": "10.1021je000273plus.Isotherm35"
+        },
+        {
+            "filename": "10.1021je000273plus.Isotherm36"
+        },
+        {
+            "filename": "10.1021je000273plus.Isotherm37"
+        },
+        {
+            "filename": "10.1021je000273plus.Isotherm38"
+        },
+        {
+            "filename": "10.1021je000273plus.Isotherm39"
+        },
+        {
+            "filename": "10.1021je000273plus.Isotherm4"
+        },
+        {
+            "filename": "10.1021je000273plus.Isotherm40"
+        },
+        {
+            "filename": "10.1021je000273plus.Isotherm41"
+        },
+        {
+            "filename": "10.1021je000273plus.Isotherm42"
+        },
+        {
+            "filename": "10.1021je000273plus.Isotherm43"
+        },
+        {
+            "filename": "10.1021je000273plus.Isotherm44"
+        },
+        {
+            "filename": "10.1021je000273plus.Isotherm45"
+        },
+        {
+            "filename": "10.1021je000273plus.Isotherm46"
+        },
+        {
+            "filename": "10.1021je000273plus.Isotherm47"
+        },
+        {
+            "filename": "10.1021je000273plus.Isotherm48"
+        },
+        {
+            "filename": "10.1021je000273plus.Isotherm49"
+        },
+        {
+            "filename": "10.1021je000273plus.Isotherm5"
+        },
+        {
+            "filename": "10.1021je000273plus.Isotherm50"
+        },
+        {
+            "filename": "10.1021je000273plus.Isotherm51"
+        },
+        {
+            "filename": "10.1021je000273plus.Isotherm52"
+        },
+        {
+            "filename": "10.1021je000273plus.Isotherm53"
+        },
+        {
+            "filename": "10.1021je000273plus.Isotherm54"
+        },
+        {
+            "filename": "10.1021je000273plus.isotherm55"
+        },
+        {
+            "filename": "10.1021je000273plus.isotherm56"
+        },
+        {
+            "filename": "10.1021je000273plus.isotherm57"
+        },
+        {
+            "filename": "10.1021je000273plus.isotherm58"
+        },
+        {
+            "filename": "10.1021je000273plus.isotherm59"
+        },
+        {
+            "filename": "10.1021je000273plus.Isotherm6"
+        },
+        {
+            "filename": "10.1021je000273plus.isotherm60"
+        },
+        {
+            "filename": "10.1021je000273plus.isotherm61"
+        },
+        {
+            "filename": "10.1021je000273plus.isotherm62"
+        },
+        {
+            "filename": "10.1021je000273plus.isotherm63"
+        },
+        {
+            "filename": "10.1021je000273plus.isotherm64"
+        },
+        {
+            "filename": "10.1021je000273plus.isotherm65"
+        },
+        {
+            "filename": "10.1021je000273plus.isotherm66"
+        },
+        {
+            "filename": "10.1021je000273plus.isotherm67"
+        },
+        {
+            "filename": "10.1021je000273plus.isotherm68"
+        },
+        {
+            "filename": "10.1021je000273plus.isotherm69"
+        },
+        {
+            "filename": "10.1021je000273plus.Isotherm7"
+        },
+        {
+            "filename": "10.1021je000273plus.isotherm70"
+        },
+        {
+            "filename": "10.1021je000273plus.isotherm71"
+        },
+        {
+            "filename": "10.1021je000273plus.isotherm72"
+        },
+        {
+            "filename": "10.1021je000273plus.isotherm73"
+        },
+        {
+            "filename": "10.1021je000273plus.isotherm74"
+        },
+        {
+            "filename": "10.1021je000273plus.isotherm75"
+        },
+        {
+            "filename": "10.1021je000273plus.isotherm76"
+        },
+        {
+            "filename": "10.1021je000273plus.isotherm77"
+        },
+        {
+            "filename": "10.1021je000273plus.isotherm78"
+        },
+        {
+            "filename": "10.1021je000273plus.isotherm79"
+        },
+        {
+            "filename": "10.1021je000273plus.Isotherm8"
+        },
+        {
+            "filename": "10.1021je000273plus.isotherm80"
+        },
+        {
+            "filename": "10.1021je000273plus.isotherm81"
+        },
+        {
+            "filename": "10.1021je000273plus.isotherm82"
+        },
+        {
+            "filename": "10.1021je000273plus.isotherm83"
+        },
+        {
+            "filename": "10.1021je000273plus.isotherm84"
+        },
+        {
+            "filename": "10.1021je000273plus.Isotherm9"
         }
     ],
-    "journal": "Advanced Engineering Materials",
+    "journal": "Journal of Chemical & Engineering Data",
     "pressures": [
         0,
         1
     ],
     "temperatures": [
-        77,
-        87
+        298
     ],
-    "title": "Improved Hydrogen Storage in the Metal-Organic Framework Cu3(BTC)2",
-    "year": 2006
+    "title": "Adsorption Equilibria of Ammonia Gas on Inorganic and Organic Sorbents at 298.15 K",
+    "year": 2001
 }
