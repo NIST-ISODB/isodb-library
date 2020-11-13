@@ -10,7 +10,7 @@
         "hashkey": "NIST-MATDB-c0ec8ebafdf4254963c1b7e5d5d4c3e1",
         "name": "Bituminous Coal"
     },
-    "adsorptionUnits": "",
+    "adsorptionUnits": "kg/ton",
     "articleSource": "Table 3",
     "category": "exp",
     "compositionType": "molefraction",
@@ -208,6 +208,7 @@
         }
     ],
     "isotherm_type": "excess",
+    "new_key": "something",
     "pressureUnits": "bar",
     "tabular_data": 1,
     "temperature": 326
