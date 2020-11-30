@@ -11,7 +11,7 @@ Repo relies on isodbtools, a toolset developed by NIST for management of adsorpt
 
 Install via:
 
-pip install git+https://github.com/dwsideriusNIST/isodbtools.git#egg=isodbtools
+pip install git+https://github.com/NIST-ISODB/isodbtools.git#egg=isodbtools
 
 ## Contributing
 
