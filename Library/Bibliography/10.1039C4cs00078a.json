@@ -21,16 +21,15 @@
         "SIM-1",
         "Bu-FeCr",
         "UiO-66",
-        "CPO-27-Ni",
         "CID-5/6 (X = .82)",
         "MIL-125-NH2",
         "CID-6",
+        "MOF-74-Ni",
         "CAU-10-OCH3",
         "Zn(NDI-SO2Et)",
         "Et-MnCr",
         "Zn(NDI-SOEt)",
         "CID-5/6 (X = .22)",
-        "Mg-CPO-27",
         "Cr-MIL-101-NH2",
         "CID-5/6 (X = .06)",
         "Me-FeCr",
@@ -42,6 +41,7 @@
         "CID-5/6 (X = .43)",
         "Cr-MIL(101)",
         "Zn(NDI-SEt)",
+        "Mg-MOF-74",
         "CAU-10-NH2"
     ],
     "adsorbents": [
@@ -90,10 +90,6 @@
             "name": "UiO-66"
         },
         {
-            "hashkey": "NIST-MATDB-5b3ad76c63b1ce87a685648f69a4de28",
-            "name": "CPO-27-Ni"
-        },
-        {
             "hashkey": "NIST-MATDB-62825c19639d03c5e5f7dac90a50e854",
             "name": "CID-5/6 (X = .82)"
         },
@@ -104,6 +100,10 @@
         {
             "hashkey": "NIST-MATDB-6f8faf90a064fc80f3d14ecbf2b2827d",
             "name": "CID-6"
+        },
+        {
+            "hashkey": "NIST-MATDB-775250b0154475da1a9521dd991a76d6",
+            "name": "MOF-74-Ni"
         },
         {
             "hashkey": "NIST-MATDB-7c33e609b56b5bcdf3def2edc8e42b60",
@@ -124,10 +124,6 @@
         {
             "hashkey": "NIST-MATDB-9e88cf677aaf8c7407c54bce7b40087f",
             "name": "CID-5/6 (X = .22)"
-        },
-        {
-            "hashkey": "NIST-MATDB-a68ce4a7b5526049f161803d76530ef0",
-            "name": "Mg-CPO-27"
         },
         {
             "hashkey": "NIST-MATDB-aa4213b281a8e62fa4682957c3fc8e6a",
@@ -172,6 +168,10 @@
         {
             "hashkey": "NIST-MATDB-f55e75d2f5d2d86f5e44ef5097f26d41",
             "name": "Zn(NDI-SEt)"
+        },
+        {
+            "hashkey": "NIST-MATDB-f5e80ffaaaf05f4ed655664fd22defb9",
+            "name": "Mg-MOF-74"
         },
         {
             "hashkey": "NIST-MATDB-fdfac35a17e4067db7b27c5813d555e9",

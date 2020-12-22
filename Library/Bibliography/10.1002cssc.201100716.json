@@ -10,19 +10,15 @@
         }
     ],
     "adsorbentMaterial": [
-        "Zeolite NaX",
         "Carbon",
         "MIL-100(Cr)",
         "MIL-140(Zr)-A",
         "MIL-53(Cr)",
         "MIL-47(V)",
-        "CuBTC"
+        "CuBTC",
+        "Zeolite 13X"
     ],
     "adsorbents": [
-        {
-            "hashkey": "NIST-MATDB-1e130146cc6d11f05471f1e054d640c8",
-            "name": "Zeolite NaX"
-        },
         {
             "hashkey": "NIST-MATDB-453276ee992ed07dc207ed08b2b221ce",
             "name": "Carbon"
@@ -46,6 +42,10 @@
         {
             "hashkey": "NIST-MATDB-991daf7313251e7e607e2bab2da57e33",
             "name": "CuBTC"
+        },
+        {
+            "hashkey": "NIST-MATDB-b76bbf3e404395a8b5d1b9ec08bf2d8f",
+            "name": "Zeolite 13X"
         }
     ],
     "authors": [
