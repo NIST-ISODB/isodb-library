@@ -11,15 +11,17 @@ Repo relies on isodbtools, a toolset developed by NIST for management of adsorpt
 
 Install via:
 
+```
 pip install git+https://github.com/NIST-ISODB/isodbtools.git#egg=isodbtools
+```
 
 ## Contributing
 
 Contributions of new isotherms, corrections and updates are highly welcome!
 
-#### Contributing a new isotherm
+#### Contributing new isotherms
 
-Use the [Isotherm digitizer web application]() (under development)
+Use the [Isotherm digitizer web application](http://digitizer.matscreen.com/digitizer)
 
 #### Contributing a correction
 
