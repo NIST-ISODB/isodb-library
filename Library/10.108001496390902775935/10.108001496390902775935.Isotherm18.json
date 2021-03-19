@@ -15,21 +15,21 @@
         "name": "Zeolite 13X"
     },
     "adsorptionUnits": "mmol/g",
-    "articleSource": "Figure 6",
+    "articleSource": "Table 6",
     "category": "exp",
     "compositionType": "molefraction",
     "concentrationUnits": "",
-    "date": "2017-06-30",
-    "digitizer": "John Luo",
+    "date": "2021-03-16",
+    "digitizer": "Daniel W. Siderius",
     "filename": "10.108001496390902775935.Isotherm18",
     "isotherm_data": [
         {
-            "pressure": 1.5,
+            "pressure": 1.1,
             "species_data": [
                 {
                     "InChIKey": "QQONPFPTGQHPMA-UHFFFAOYSA-N",
                     "adsorption": 2.076,
-                    "composition": 0
+                    "composition": 1
                 },
                 {
                     "InChIKey": "VXNZUUAINFGPBY-UHFFFAOYSA-N",
@@ -40,28 +40,28 @@
             "total_adsorption": null
         },
         {
-            "pressure": 1.5,
+            "pressure": 1.1,
             "species_data": [
                 {
                     "InChIKey": "QQONPFPTGQHPMA-UHFFFAOYSA-N",
                     "adsorption": 0.472,
-                    "composition": 0.773
+                    "composition": 0.5
                 },
                 {
                     "InChIKey": "VXNZUUAINFGPBY-UHFFFAOYSA-N",
                     "adsorption": 1.612,
-                    "composition": 0.773
+                    "composition": 0.5
                 }
             ],
             "total_adsorption": null
         },
         {
-            "pressure": 1.5,
+            "pressure": 1.1,
             "species_data": [
                 {
                     "InChIKey": "QQONPFPTGQHPMA-UHFFFAOYSA-N",
                     "adsorption": 0,
-                    "composition": 1
+                    "composition": 0
                 },
                 {
                     "InChIKey": "VXNZUUAINFGPBY-UHFFFAOYSA-N",
@@ -74,6 +74,6 @@
     ],
     "isotherm_type": "",
     "pressureUnits": "bar",
-    "tabular_data": 0,
+    "tabular_data": 1,
     "temperature": 373
 }
