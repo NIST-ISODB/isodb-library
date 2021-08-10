@@ -19,8 +19,8 @@
     "category": "exp",
     "compositionType": "molefraction",
     "concentrationUnits": "",
-    "date": "2017-07-10",
-    "digitizer": "Julia Chotoo",
+    "date": "2021-06-30",
+    "digitizer": "Victoria Koretsky",
     "filename": "10.1021ie0601293.Isotherm3",
     "isotherm_data": [
         {
@@ -28,13 +28,13 @@
             "species_data": [
                 {
                     "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
-                    "adsorption": 0.01181,
-                    "composition": 0.08489
+                    "adsorption": 0.0125,
+                    "composition": 0.0867
                 },
                 {
                     "InChIKey": "MYMOFIZGZYHOMD-UHFFFAOYSA-N",
-                    "adsorption": 0.06675,
-                    "composition": 0.90324
+                    "adsorption": 0.0623,
+                    "composition": 0.9133
                 }
             ],
             "total_adsorption": null
@@ -44,13 +44,13 @@
             "species_data": [
                 {
                     "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
-                    "adsorption": 0.06786,
-                    "composition": 0.48025
+                    "adsorption": 0.0736,
+                    "composition": 0.4807
                 },
                 {
                     "InChIKey": "MYMOFIZGZYHOMD-UHFFFAOYSA-N",
-                    "adsorption": 0.03319,
-                    "composition": 0.51715
+                    "adsorption": 0.0299,
+                    "composition": 0.5193
                 }
             ],
             "total_adsorption": null
@@ -60,13 +60,13 @@
             "species_data": [
                 {
                     "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
-                    "adsorption": 0.14679,
-                    "composition": 0.78812
+                    "adsorption": 0.1397,
+                    "composition": 0.7874
                 },
                 {
                     "InChIKey": "MYMOFIZGZYHOMD-UHFFFAOYSA-N",
-                    "adsorption": 0.02541,
-                    "composition": 0.20643
+                    "adsorption": 0.015,
+                    "composition": 0.2126
                 }
             ],
             "total_adsorption": null
@@ -76,8 +76,8 @@
             "species_data": [
                 {
                     "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
-                    "adsorption": 0.1792,
-                    "composition": 1.00156
+                    "adsorption": 0.1746,
+                    "composition": 1
                 },
                 {
                     "InChIKey": "MYMOFIZGZYHOMD-UHFFFAOYSA-N",
@@ -88,7 +88,7 @@
             "total_adsorption": null
         }
     ],
-    "isotherm_type": "",
+    "isotherm_type": "excess",
     "pressureUnits": "bar",
     "tabular_data": 0,
     "temperature": 358
