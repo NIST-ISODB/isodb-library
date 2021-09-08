@@ -1,0 +1,63 @@
+{
+    "DOI": "10.1016/j.seppur.2019.115850",
+    "adsorbates": [
+        {
+            "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+            "name": "Nitrogen"
+        },
+        {
+            "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+            "name": "Methane"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-cc9e82fdee5a3de2dc0d8ea40a1ecc5f",
+        "name": "SIM-1 (ZIF-94)"
+    },
+    "adsorptionUnits": "",
+    "articleSource": "Figure 8a, Figure 8b",
+    "category": "exp",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "2020-12-31",
+    "digitizer": "BISON-20 Team",
+    "filename": "10.1016j.seppur.2019.115850.Isotherm1",
+    "isotherm_data": [
+        {
+            "pressure": 1,
+            "species_data": [
+                {
+                    "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+                    "adsorption": 8.519,
+                    "composition": 0.7
+                },
+                {
+                    "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+                    "adsorption": 12.136,
+                    "composition": 0.3
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1,
+            "species_data": [
+                {
+                    "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+                    "adsorption": 7.4317,
+                    "composition": 0.5
+                },
+                {
+                    "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+                    "adsorption": 18.88,
+                    "composition": 0.5
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}

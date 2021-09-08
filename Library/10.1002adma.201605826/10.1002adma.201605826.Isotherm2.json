@@ -1,0 +1,47 @@
+{
+    "DOI": "10.1002/adma.201605826",
+    "adsorbates": [
+        {
+            "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+            "name": "Carbon Dioxide"
+        },
+        {
+            "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+            "name": "Methane"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-4da678e2c81bfeaa9c692cdceeb0e99a",
+        "name": "PIM-1"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "Figure 3, Table S2",
+    "category": "exp",
+    "compositionType": "volumefraction",
+    "concentrationUnits": "",
+    "date": "2020-12-31",
+    "digitizer": "BISON-20 Team",
+    "filename": "10.1002adma.201605826.Isotherm2",
+    "isotherm_data": [
+        {
+            "pressure": 1,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 2.45,
+                    "composition": 0.1
+                },
+                {
+                    "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+                    "adsorption": 0.705,
+                    "composition": 0.9
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}

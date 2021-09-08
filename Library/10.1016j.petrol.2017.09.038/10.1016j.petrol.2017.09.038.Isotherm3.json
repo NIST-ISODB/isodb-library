@@ -1,0 +1,115 @@
+{
+    "DOI": "10.1016/j.petrol.2017.09.038",
+    "adsorbates": [
+        {
+            "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+            "name": "Methane"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-32a7d129f0cb2ce0cbd045991cf83eac",
+        "name": "Black Shale CH-1 Iberian Range, Spain"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "Table 2",
+    "category": "exp",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "2020-12-31",
+    "digitizer": "BISON-20 Team",
+    "filename": "10.1016j.petrol.2017.09.038.Isotherm3",
+    "isotherm_data": [
+        {
+            "pressure": 3.1,
+            "species_data": [
+                {
+                    "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+                    "adsorption": 0.0478,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.0478
+        },
+        {
+            "pressure": 7,
+            "species_data": [
+                {
+                    "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+                    "adsorption": 0.081,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.081
+        },
+        {
+            "pressure": 11.1,
+            "species_data": [
+                {
+                    "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+                    "adsorption": 0.1003,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.1003
+        },
+        {
+            "pressure": 15.7,
+            "species_data": [
+                {
+                    "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+                    "adsorption": 0.1128,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.1128
+        },
+        {
+            "pressure": 19.6,
+            "species_data": [
+                {
+                    "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+                    "adsorption": 0.1191,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.1191
+        },
+        {
+            "pressure": 23.3,
+            "species_data": [
+                {
+                    "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+                    "adsorption": 0.123,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.123
+        },
+        {
+            "pressure": 27,
+            "species_data": [
+                {
+                    "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+                    "adsorption": 0.1254,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.1254
+        },
+        {
+            "pressure": 30.7,
+            "species_data": [
+                {
+                    "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+                    "adsorption": 0.1266,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.1266
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 323
+}

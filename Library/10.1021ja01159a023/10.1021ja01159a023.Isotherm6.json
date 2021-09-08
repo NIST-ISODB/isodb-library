@@ -1,0 +1,71 @@
+{
+    "DOI": "10.1021/ja01159a023",
+    "adsorbates": [
+        {
+            "InChIKey": "HSFWRNGVRCDJHI-UHFFFAOYSA-N",
+            "name": "Acetylene"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-a9013d146a76403a7339de52e28a7230",
+        "name": "Activated carbon (P. C. C. A 366C-EY-51C))"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "Table I",
+    "category": "exp",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "2020-12-31",
+    "digitizer": "BISON-20 Team",
+    "filename": "10.1021ja01159a023.Isotherm6",
+    "isotherm_data": [
+        {
+            "pressure": 0.328373,
+            "species_data": [
+                {
+                    "InChIKey": "HSFWRNGVRCDJHI-UHFFFAOYSA-N",
+                    "adsorption": 1.152,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.152
+        },
+        {
+            "pressure": 0.502092,
+            "species_data": [
+                {
+                    "InChIKey": "HSFWRNGVRCDJHI-UHFFFAOYSA-N",
+                    "adsorption": 1.408,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.408
+        },
+        {
+            "pressure": 0.759004,
+            "species_data": [
+                {
+                    "InChIKey": "HSFWRNGVRCDJHI-UHFFFAOYSA-N",
+                    "adsorption": 1.789,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.789
+        },
+        {
+            "pressure": 1.01165,
+            "species_data": [
+                {
+                    "InChIKey": "HSFWRNGVRCDJHI-UHFFFAOYSA-N",
+                    "adsorption": 2.05,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 2.05
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}

@@ -1,0 +1,60 @@
+{
+    "DOI": "10.1007/s10450-013-9546-z",
+    "adsorbates": [
+        {
+            "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+            "name": "Methane"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-68b2d54fe8feb41bddeb5c9d9b877083",
+        "name": "H+ mordenite"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "Table 1",
+    "category": "exp",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "2020-12-31",
+    "digitizer": "BISON-20 Team",
+    "filename": "10.1007s104500139546z.Isotherm15",
+    "isotherm_data": [
+        {
+            "pressure": 1.046,
+            "species_data": [
+                {
+                    "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+                    "adsorption": 0.755,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.755
+        },
+        {
+            "pressure": 5.03,
+            "species_data": [
+                {
+                    "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+                    "adsorption": 1.541,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.541
+        },
+        {
+            "pressure": 9.017,
+            "species_data": [
+                {
+                    "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+                    "adsorption": 1.824,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.824
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 282
+}

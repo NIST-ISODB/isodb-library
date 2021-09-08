@@ -1,0 +1,127 @@
+{
+    "DOI": "10.1021/je9702100",
+    "adsorbates": [
+        {
+            "InChIKey": "ATUOYWHBWRKTHZ-UHFFFAOYSA-N",
+            "name": "N-propane"
+        },
+        {
+            "InChIKey": "VGGSQFUCUMXWEO-UHFFFAOYSA-N",
+            "name": "Ethene"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-38543b7b938f8742a154fd5b9afc1945",
+        "name": "ZSM-5 zeolite (Si/Al=29)"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "Table 6",
+    "category": "exp",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "2020-12-31",
+    "digitizer": "BISON-20 Team",
+    "filename": "10.1021je9702100.Isotherm37",
+    "isotherm_data": [
+        {
+            "pressure": 0.0088,
+            "species_data": [
+                {
+                    "InChIKey": "ATUOYWHBWRKTHZ-UHFFFAOYSA-N",
+                    "adsorption": 0.145,
+                    "composition": 0.022727
+                },
+                {
+                    "InChIKey": "VGGSQFUCUMXWEO-UHFFFAOYSA-N",
+                    "adsorption": 0.562,
+                    "composition": 0.977273
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 0.1324,
+            "species_data": [
+                {
+                    "InChIKey": "ATUOYWHBWRKTHZ-UHFFFAOYSA-N",
+                    "adsorption": 0.33,
+                    "composition": 0.032477
+                },
+                {
+                    "InChIKey": "VGGSQFUCUMXWEO-UHFFFAOYSA-N",
+                    "adsorption": 1.025,
+                    "composition": 0.967523
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 0.2563,
+            "species_data": [
+                {
+                    "InChIKey": "ATUOYWHBWRKTHZ-UHFFFAOYSA-N",
+                    "adsorption": 0.411,
+                    "composition": 0.041748
+                },
+                {
+                    "InChIKey": "VGGSQFUCUMXWEO-UHFFFAOYSA-N",
+                    "adsorption": 1.102,
+                    "composition": 0.958252
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 0.4028,
+            "species_data": [
+                {
+                    "InChIKey": "ATUOYWHBWRKTHZ-UHFFFAOYSA-N",
+                    "adsorption": 0.474,
+                    "composition": 0.052383
+                },
+                {
+                    "InChIKey": "VGGSQFUCUMXWEO-UHFFFAOYSA-N",
+                    "adsorption": 1.128,
+                    "composition": 0.947617
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 0.6345,
+            "species_data": [
+                {
+                    "InChIKey": "ATUOYWHBWRKTHZ-UHFFFAOYSA-N",
+                    "adsorption": 0.562,
+                    "composition": 0.070764
+                },
+                {
+                    "InChIKey": "VGGSQFUCUMXWEO-UHFFFAOYSA-N",
+                    "adsorption": 1.158,
+                    "composition": 0.929236
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 0.8789,
+            "species_data": [
+                {
+                    "InChIKey": "ATUOYWHBWRKTHZ-UHFFFAOYSA-N",
+                    "adsorption": 0.618,
+                    "composition": 0.08943
+                },
+                {
+                    "InChIKey": "VGGSQFUCUMXWEO-UHFFFAOYSA-N",
+                    "adsorption": 1.182,
+                    "composition": 0.91057
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 293
+}

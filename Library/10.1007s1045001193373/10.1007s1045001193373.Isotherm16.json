@@ -1,0 +1,63 @@
+{
+    "DOI": "10.1007/s10450-011-9337-3",
+    "adsorbates": [
+        {
+            "InChIKey": "MYMOFIZGZYHOMD-UHFFFAOYSA-N",
+            "name": "Oxygen"
+        },
+        {
+            "InChIKey": "XKRFYHLGVUSROY-UHFFFAOYSA-N",
+            "name": "Argon"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-2724fa01848c088d0a092cdf85d261b7",
+        "name": "Activated carbon: Koestrolith 4AK"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "Table 8",
+    "category": "exp",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "2020-12-31",
+    "digitizer": "BISON-20 Team",
+    "filename": "10.1007s1045001193373.Isotherm16",
+    "isotherm_data": [
+        {
+            "pressure": 9.85,
+            "species_data": [
+                {
+                    "InChIKey": "MYMOFIZGZYHOMD-UHFFFAOYSA-N",
+                    "adsorption": 0.7389,
+                    "composition": 0.9
+                },
+                {
+                    "InChIKey": "XKRFYHLGVUSROY-UHFFFAOYSA-N",
+                    "adsorption": 0.0821,
+                    "composition": 0.1
+                }
+            ],
+            "total_adsorption": 0.821
+        },
+        {
+            "pressure": 9.92,
+            "species_data": [
+                {
+                    "InChIKey": "MYMOFIZGZYHOMD-UHFFFAOYSA-N",
+                    "adsorption": 0.77045,
+                    "composition": 0.95
+                },
+                {
+                    "InChIKey": "XKRFYHLGVUSROY-UHFFFAOYSA-N",
+                    "adsorption": 0.04055,
+                    "composition": 0.05
+                }
+            ],
+            "total_adsorption": 0.811
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 303
+}

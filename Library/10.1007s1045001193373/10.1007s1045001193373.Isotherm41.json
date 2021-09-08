@@ -1,0 +1,104 @@
+{
+    "DOI": "10.1007/s10450-011-9337-3",
+    "adsorbates": [
+        {
+            "InChIKey": "XKRFYHLGVUSROY-UHFFFAOYSA-N",
+            "name": "Argon"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-4a02cc6b12ad0d496bac2a904e1e2937",
+        "name": "Activated carbon: Koestrolith 13X-K2"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "Figure 2b",
+    "category": "exp",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "2020-12-31",
+    "digitizer": "BISON-20 Team",
+    "filename": "10.1007s1045001193373.Isotherm41",
+    "isotherm_data": [
+        {
+            "pressure": 0.959,
+            "species_data": [
+                {
+                    "InChIKey": "XKRFYHLGVUSROY-UHFFFAOYSA-N",
+                    "adsorption": 0.085,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.085
+        },
+        {
+            "pressure": 2.61,
+            "species_data": [
+                {
+                    "InChIKey": "XKRFYHLGVUSROY-UHFFFAOYSA-N",
+                    "adsorption": 0.209,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.209
+        },
+        {
+            "pressure": 4.03,
+            "species_data": [
+                {
+                    "InChIKey": "XKRFYHLGVUSROY-UHFFFAOYSA-N",
+                    "adsorption": 0.321,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.321
+        },
+        {
+            "pressure": 6.96,
+            "species_data": [
+                {
+                    "InChIKey": "XKRFYHLGVUSROY-UHFFFAOYSA-N",
+                    "adsorption": 0.53,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.53
+        },
+        {
+            "pressure": 10.1,
+            "species_data": [
+                {
+                    "InChIKey": "XKRFYHLGVUSROY-UHFFFAOYSA-N",
+                    "adsorption": 0.733,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.733
+        },
+        {
+            "pressure": 16,
+            "species_data": [
+                {
+                    "InChIKey": "XKRFYHLGVUSROY-UHFFFAOYSA-N",
+                    "adsorption": 1.05,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.05
+        },
+        {
+            "pressure": 21.9,
+            "species_data": [
+                {
+                    "InChIKey": "XKRFYHLGVUSROY-UHFFFAOYSA-N",
+                    "adsorption": 1.31,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.31
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 303
+}

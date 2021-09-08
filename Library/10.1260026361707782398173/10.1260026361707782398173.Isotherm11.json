@@ -1,0 +1,82 @@
+{
+    "DOI": "10.1260/026361707782398173",
+    "adsorbates": [
+        {
+            "InChIKey": "PFEOZHBOMNWTJB-UHFFFAOYSA-N",
+            "name": "3-Methylpentane"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-41ede36fa7795c589a6a3d1eae23d252",
+        "name": "Zeolite Beta"
+    },
+    "adsorptionUnits": "",
+    "articleSource": "Figure 2c",
+    "category": "exp",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "2020-12-31",
+    "digitizer": "BISON-20 Team",
+    "filename": "10.1260026361707782398173.Isotherm11",
+    "isotherm_data": [
+        {
+            "pressure": 0.00299,
+            "species_data": [
+                {
+                    "InChIKey": "PFEOZHBOMNWTJB-UHFFFAOYSA-N",
+                    "adsorption": 1.88,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.88
+        },
+        {
+            "pressure": 0.019,
+            "species_data": [
+                {
+                    "InChIKey": "PFEOZHBOMNWTJB-UHFFFAOYSA-N",
+                    "adsorption": 4.16,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 4.16
+        },
+        {
+            "pressure": 0.0609,
+            "species_data": [
+                {
+                    "InChIKey": "PFEOZHBOMNWTJB-UHFFFAOYSA-N",
+                    "adsorption": 5.68,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 5.68
+        },
+        {
+            "pressure": 0.124,
+            "species_data": [
+                {
+                    "InChIKey": "PFEOZHBOMNWTJB-UHFFFAOYSA-N",
+                    "adsorption": 6.37,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 6.37
+        },
+        {
+            "pressure": 0.267,
+            "species_data": [
+                {
+                    "InChIKey": "PFEOZHBOMNWTJB-UHFFFAOYSA-N",
+                    "adsorption": 7.22,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 7.22
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 423
+}

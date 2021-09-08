@@ -1,0 +1,82 @@
+{
+    "DOI": "10.1021/ie00068a032",
+    "adsorbates": [
+        {
+            "InChIKey": "RWSOTUBLDIXVET-UHFFFAOYSA-N",
+            "name": "Hydrogen sulfide"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-ec0558cb21d8c24fe77c8cc4cec4f6fa",
+        "name": "Activated carbon: PCB"
+    },
+    "adsorptionUnits": "cm3(STP)/g",
+    "articleSource": "Table I",
+    "category": "exp",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "2020-12-31",
+    "digitizer": "BISON-20 Team",
+    "filename": "10.1021ie00068a032.Isotherm7",
+    "isotherm_data": [
+        {
+            "pressure": 0.558475,
+            "species_data": [
+                {
+                    "InChIKey": "RWSOTUBLDIXVET-UHFFFAOYSA-N",
+                    "adsorption": 59,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 59
+        },
+        {
+            "pressure": 1.59269,
+            "species_data": [
+                {
+                    "InChIKey": "RWSOTUBLDIXVET-UHFFFAOYSA-N",
+                    "adsorption": 111,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 111
+        },
+        {
+            "pressure": 3.24743,
+            "species_data": [
+                {
+                    "InChIKey": "RWSOTUBLDIXVET-UHFFFAOYSA-N",
+                    "adsorption": 159,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 159
+        },
+        {
+            "pressure": 6.79134,
+            "species_data": [
+                {
+                    "InChIKey": "RWSOTUBLDIXVET-UHFFFAOYSA-N",
+                    "adsorption": 197,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 197
+        },
+        {
+            "pressure": 11.5142,
+            "species_data": [
+                {
+                    "InChIKey": "RWSOTUBLDIXVET-UHFFFAOYSA-N",
+                    "adsorption": 208,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 208
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 293
+}

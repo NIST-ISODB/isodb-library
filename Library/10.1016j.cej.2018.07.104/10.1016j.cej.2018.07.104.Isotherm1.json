@@ -1,0 +1,47 @@
+{
+    "DOI": "10.1016/j.cej.2018.07.104",
+    "adsorbates": [
+        {
+            "InChIKey": "HSFWRNGVRCDJHI-UHFFFAOYSA-N",
+            "name": "Acetylene"
+        },
+        {
+            "InChIKey": "VGGSQFUCUMXWEO-UHFFFAOYSA-N",
+            "name": "Ethene"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-b739e4e8604ec7436aff290e6142aba4",
+        "name": "TIFSIX-2-Ni-i"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "Table S6",
+    "category": "exp",
+    "compositionType": "volumefraction",
+    "concentrationUnits": "",
+    "date": "2020-12-31",
+    "digitizer": "BISON-20 Team",
+    "filename": "10.1016j.cej.2018.07.104.Isotherm1",
+    "isotherm_data": [
+        {
+            "pressure": 1,
+            "species_data": [
+                {
+                    "InChIKey": "HSFWRNGVRCDJHI-UHFFFAOYSA-N",
+                    "adsorption": 0.481,
+                    "composition": 0.01
+                },
+                {
+                    "InChIKey": "VGGSQFUCUMXWEO-UHFFFAOYSA-N",
+                    "adsorption": 3.175,
+                    "composition": 0.99
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}

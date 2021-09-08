@@ -1,0 +1,63 @@
+{
+    "DOI": "10.1016/j.cej.2018.11.118",
+    "adsorbates": [
+        {
+            "InChIKey": "ATUOYWHBWRKTHZ-UHFFFAOYSA-N",
+            "name": "N-propane"
+        },
+        {
+            "InChIKey": "QQONPFPTGQHPMA-UHFFFAOYSA-N",
+            "name": "Propene"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-dcb3a7624de3e6c829a848ecc5006230",
+        "name": "ZIF-67"
+    },
+    "adsorptionUnits": "ml/g",
+    "articleSource": "Table 1",
+    "category": "exp",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "2020-12-31",
+    "digitizer": "BISON-20 Team",
+    "filename": "10.1016j.cej.2018.11.118.Isotherm3",
+    "isotherm_data": [
+        {
+            "pressure": 1.75,
+            "species_data": [
+                {
+                    "InChIKey": "ATUOYWHBWRKTHZ-UHFFFAOYSA-N",
+                    "adsorption": 26.3,
+                    "composition": 0.5
+                },
+                {
+                    "InChIKey": "QQONPFPTGQHPMA-UHFFFAOYSA-N",
+                    "adsorption": 21,
+                    "composition": 0.5
+                }
+            ],
+            "total_adsorption": 47.3
+        },
+        {
+            "pressure": 1.75,
+            "species_data": [
+                {
+                    "InChIKey": "ATUOYWHBWRKTHZ-UHFFFAOYSA-N",
+                    "adsorption": 26.2,
+                    "composition": 0.5
+                },
+                {
+                    "InChIKey": "QQONPFPTGQHPMA-UHFFFAOYSA-N",
+                    "adsorption": 19.8,
+                    "composition": 0.5
+                }
+            ],
+            "total_adsorption": 46
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}

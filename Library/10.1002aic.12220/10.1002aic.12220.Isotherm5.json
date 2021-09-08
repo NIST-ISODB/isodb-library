@@ -1,0 +1,95 @@
+{
+    "DOI": "10.1002/aic.12220",
+    "adsorbates": [
+        {
+            "InChIKey": "KFZMGEQAYNKOFK-UHFFFAOYSA-N",
+            "name": "2-Propanol"
+        },
+        {
+            "InChIKey": "ZWEHNKRNPOVVGH-UHFFFAOYSA-N",
+            "name": "Methyl ethyl ketone"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-deba9b858dc403f4d82a6d52f6cd5a06",
+        "name": "Activated carbon Carbio 12"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "Table 4",
+    "category": "exp",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "2020-12-31",
+    "digitizer": "BISON-20 Team",
+    "filename": "10.1002aic.12220.Isotherm5",
+    "isotherm_data": [
+        {
+            "pressure": 0.000396,
+            "species_data": [
+                {
+                    "InChIKey": "KFZMGEQAYNKOFK-UHFFFAOYSA-N",
+                    "adsorption": 1.597,
+                    "composition": 0.899596
+                },
+                {
+                    "InChIKey": "ZWEHNKRNPOVVGH-UHFFFAOYSA-N",
+                    "adsorption": 0.489,
+                    "composition": 0.100404
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 0.000783,
+            "species_data": [
+                {
+                    "InChIKey": "KFZMGEQAYNKOFK-UHFFFAOYSA-N",
+                    "adsorption": 2.135,
+                    "composition": 0.8872
+                },
+                {
+                    "InChIKey": "ZWEHNKRNPOVVGH-UHFFFAOYSA-N",
+                    "adsorption": 0.664,
+                    "composition": 0.1128
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 0.00119,
+            "species_data": [
+                {
+                    "InChIKey": "KFZMGEQAYNKOFK-UHFFFAOYSA-N",
+                    "adsorption": 2.42,
+                    "composition": 0.881315
+                },
+                {
+                    "InChIKey": "ZWEHNKRNPOVVGH-UHFFFAOYSA-N",
+                    "adsorption": 0.709,
+                    "composition": 0.118685
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 0.001452,
+            "species_data": [
+                {
+                    "InChIKey": "KFZMGEQAYNKOFK-UHFFFAOYSA-N",
+                    "adsorption": 2.479,
+                    "composition": 0.871496
+                },
+                {
+                    "InChIKey": "ZWEHNKRNPOVVGH-UHFFFAOYSA-N",
+                    "adsorption": 0.712,
+                    "composition": 0.128504
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 303
+}

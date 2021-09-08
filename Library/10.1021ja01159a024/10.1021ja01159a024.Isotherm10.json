@@ -1,0 +1,82 @@
+{
+    "DOI": "10.1021/ja01159a024",
+    "adsorbates": [
+        {
+            "InChIKey": "QQONPFPTGQHPMA-UHFFFAOYSA-N",
+            "name": "Propene"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-90f0951725860967c6b057ba27a8977d",
+        "name": "Silica Gel"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "Table III",
+    "category": "exp",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "2020-12-31",
+    "digitizer": "BISON-20 Team",
+    "filename": "10.1021ja01159a024.Isotherm10",
+    "isotherm_data": [
+        {
+            "pressure": 0.068128,
+            "species_data": [
+                {
+                    "InChIKey": "QQONPFPTGQHPMA-UHFFFAOYSA-N",
+                    "adsorption": 1.052,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.052
+        },
+        {
+            "pressure": 0.126923,
+            "species_data": [
+                {
+                    "InChIKey": "QQONPFPTGQHPMA-UHFFFAOYSA-N",
+                    "adsorption": 1.468,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.468
+        },
+        {
+            "pressure": 0.285043,
+            "species_data": [
+                {
+                    "InChIKey": "QQONPFPTGQHPMA-UHFFFAOYSA-N",
+                    "adsorption": 2.065,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 2.065
+        },
+        {
+            "pressure": 0.571153,
+            "species_data": [
+                {
+                    "InChIKey": "QQONPFPTGQHPMA-UHFFFAOYSA-N",
+                    "adsorption": 2.64,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 2.64
+        },
+        {
+            "pressure": 1.01605,
+            "species_data": [
+                {
+                    "InChIKey": "QQONPFPTGQHPMA-UHFFFAOYSA-N",
+                    "adsorption": 3.179,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 3.179
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 273
+}

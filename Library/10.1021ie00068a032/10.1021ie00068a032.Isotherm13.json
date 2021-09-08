@@ -1,0 +1,82 @@
+{
+    "DOI": "10.1021/ie00068a032",
+    "adsorbates": [
+        {
+            "InChIKey": "UGFAIRIUMAVXCW-UHFFFAOYSA-N",
+            "name": "Carbon monoxide"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-ec0558cb21d8c24fe77c8cc4cec4f6fa",
+        "name": "Activated carbon: PCB"
+    },
+    "adsorptionUnits": "cm3(STP)/g",
+    "articleSource": "Table I",
+    "category": "exp",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "2020-12-31",
+    "digitizer": "BISON-20 Team",
+    "filename": "10.1021ie00068a032.Isotherm13",
+    "isotherm_data": [
+        {
+            "pressure": 2.31664,
+            "species_data": [
+                {
+                    "InChIKey": "UGFAIRIUMAVXCW-UHFFFAOYSA-N",
+                    "adsorption": 24.8,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 24.8
+        },
+        {
+            "pressure": 8.06687,
+            "species_data": [
+                {
+                    "InChIKey": "UGFAIRIUMAVXCW-UHFFFAOYSA-N",
+                    "adsorption": 51.8,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 51.8
+        },
+        {
+            "pressure": 19.719,
+            "species_data": [
+                {
+                    "InChIKey": "UGFAIRIUMAVXCW-UHFFFAOYSA-N",
+                    "adsorption": 78,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 78
+        },
+        {
+            "pressure": 36.3354,
+            "species_data": [
+                {
+                    "InChIKey": "UGFAIRIUMAVXCW-UHFFFAOYSA-N",
+                    "adsorption": 97.6,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 97.6
+        },
+        {
+            "pressure": 54.4686,
+            "species_data": [
+                {
+                    "InChIKey": "UGFAIRIUMAVXCW-UHFFFAOYSA-N",
+                    "adsorption": 106,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 106
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 294
+}

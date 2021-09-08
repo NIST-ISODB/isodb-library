@@ -1,0 +1,71 @@
+{
+    "DOI": "10.1021/la971082g",
+    "adsorbates": [
+        {
+            "InChIKey": "MYMOFIZGZYHOMD-UHFFFAOYSA-N",
+            "name": "Oxygen"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-1c6cd0b36b8b854ff831b0a13165da14",
+        "name": "Zeolite CaX"
+    },
+    "adsorptionUnits": "",
+    "articleSource": "Figure 5",
+    "category": "exp",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "2020-12-31",
+    "digitizer": "BISON-20 Team",
+    "filename": "10.1021la971082g.Isotherm2",
+    "isotherm_data": [
+        {
+            "pressure": 0.1304,
+            "species_data": [
+                {
+                    "InChIKey": "MYMOFIZGZYHOMD-UHFFFAOYSA-N",
+                    "adsorption": 27.2,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 27.2
+        },
+        {
+            "pressure": 0.1901,
+            "species_data": [
+                {
+                    "InChIKey": "MYMOFIZGZYHOMD-UHFFFAOYSA-N",
+                    "adsorption": 32.31,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 32.31
+        },
+        {
+            "pressure": 0.2594,
+            "species_data": [
+                {
+                    "InChIKey": "MYMOFIZGZYHOMD-UHFFFAOYSA-N",
+                    "adsorption": 50.03,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 50.03
+        },
+        {
+            "pressure": 0.3196,
+            "species_data": [
+                {
+                    "InChIKey": "MYMOFIZGZYHOMD-UHFFFAOYSA-N",
+                    "adsorption": 65.56,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 65.56
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 303
+}

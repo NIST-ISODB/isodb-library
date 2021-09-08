@@ -1,0 +1,82 @@
+{
+    "DOI": "10.1023/a:1026223914143",
+    "adsorbates": [
+        {
+            "InChIKey": "ATUOYWHBWRKTHZ-UHFFFAOYSA-N",
+            "name": "N-propane"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-081a0818678716f502aee0b58ac1b30a",
+        "name": "Zeolite 4A"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "Figure 2",
+    "category": "exp",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "2020-12-31",
+    "digitizer": "BISON-20 Team",
+    "filename": "10.1023a1026223914143.Isotherm4",
+    "isotherm_data": [
+        {
+            "pressure": 0.275,
+            "species_data": [
+                {
+                    "InChIKey": "ATUOYWHBWRKTHZ-UHFFFAOYSA-N",
+                    "adsorption": 0.125,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.125
+        },
+        {
+            "pressure": 0.895,
+            "species_data": [
+                {
+                    "InChIKey": "ATUOYWHBWRKTHZ-UHFFFAOYSA-N",
+                    "adsorption": 0.328,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.328
+        },
+        {
+            "pressure": 1.26,
+            "species_data": [
+                {
+                    "InChIKey": "ATUOYWHBWRKTHZ-UHFFFAOYSA-N",
+                    "adsorption": 0.463,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.463
+        },
+        {
+            "pressure": 2.21,
+            "species_data": [
+                {
+                    "InChIKey": "ATUOYWHBWRKTHZ-UHFFFAOYSA-N",
+                    "adsorption": 0.631,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.631
+        },
+        {
+            "pressure": 3.68,
+            "species_data": [
+                {
+                    "InChIKey": "ATUOYWHBWRKTHZ-UHFFFAOYSA-N",
+                    "adsorption": 0.839,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.839
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 473
+}

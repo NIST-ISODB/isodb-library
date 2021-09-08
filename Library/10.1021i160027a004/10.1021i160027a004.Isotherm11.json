@@ -1,0 +1,126 @@
+{
+    "DOI": "10.1021/i160027a004",
+    "adsorbates": [
+        {
+            "InChIKey": "IJDNQMDRQITEOD-UHFFFAOYSA-N",
+            "name": "N-Butane"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-1990bf8bfb41e0a7d9988311a839f020",
+        "name": "charcoal (Columbia G, 8/14 mesh)"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "Table III",
+    "category": "exp",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "2020-12-31",
+    "digitizer": "BISON-20 Team",
+    "filename": "10.1021i160027a004.Isotherm11",
+    "isotherm_data": [
+        {
+            "pressure": 0.034474,
+            "species_data": [
+                {
+                    "InChIKey": "IJDNQMDRQITEOD-UHFFFAOYSA-N",
+                    "adsorption": 2.183,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 2.183
+        },
+        {
+            "pressure": 0.068948,
+            "species_data": [
+                {
+                    "InChIKey": "IJDNQMDRQITEOD-UHFFFAOYSA-N",
+                    "adsorption": 2.749,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 2.749
+        },
+        {
+            "pressure": 0.103421,
+            "species_data": [
+                {
+                    "InChIKey": "IJDNQMDRQITEOD-UHFFFAOYSA-N",
+                    "adsorption": 3.287,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 3.287
+        },
+        {
+            "pressure": 0.344738,
+            "species_data": [
+                {
+                    "InChIKey": "IJDNQMDRQITEOD-UHFFFAOYSA-N",
+                    "adsorption": 3.779,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 3.779
+        },
+        {
+            "pressure": 0.72395,
+            "species_data": [
+                {
+                    "InChIKey": "IJDNQMDRQITEOD-UHFFFAOYSA-N",
+                    "adsorption": 4.136,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 4.136
+        },
+        {
+            "pressure": 1.31,
+            "species_data": [
+                {
+                    "InChIKey": "IJDNQMDRQITEOD-UHFFFAOYSA-N",
+                    "adsorption": 4.354,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 4.354
+        },
+        {
+            "pressure": 1.96501,
+            "species_data": [
+                {
+                    "InChIKey": "IJDNQMDRQITEOD-UHFFFAOYSA-N",
+                    "adsorption": 4.532,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 4.532
+        },
+        {
+            "pressure": 2.72343,
+            "species_data": [
+                {
+                    "InChIKey": "IJDNQMDRQITEOD-UHFFFAOYSA-N",
+                    "adsorption": 4.696,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 4.696
+        },
+        {
+            "pressure": 3.48185,
+            "species_data": [
+                {
+                    "InChIKey": "IJDNQMDRQITEOD-UHFFFAOYSA-N",
+                    "adsorption": 4.903,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 4.903
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 313
+}

@@ -1,0 +1,127 @@
+{
+    "DOI": "10.1016/j.ces.2007.11.021",
+    "adsorbates": [
+        {
+            "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+            "name": "Carbon Dioxide"
+        },
+        {
+            "InChIKey": "IJDNQMDRQITEOD-UHFFFAOYSA-N",
+            "name": "N-Butane"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-fed06c5d363c88d3b96bd99dce94d9f0",
+        "name": "Vycor Glass"
+    },
+    "adsorptionUnits": "",
+    "articleSource": "Figure 5",
+    "category": "exp",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "2020-12-31",
+    "digitizer": "BISON-20 Team",
+    "filename": "10.1016j.ces.2007.11.021.Isotherm8",
+    "isotherm_data": [
+        {
+            "pressure": 0.10986,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 4.1e-05,
+                    "composition": 0.354269
+                },
+                {
+                    "InChIKey": "IJDNQMDRQITEOD-UHFFFAOYSA-N",
+                    "adsorption": 0.000102,
+                    "composition": 0.645731
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 0.21275,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 8.3e-05,
+                    "composition": 0.309048
+                },
+                {
+                    "InChIKey": "IJDNQMDRQITEOD-UHFFFAOYSA-N",
+                    "adsorption": 0.000179,
+                    "composition": 0.690952
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 0.3803,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 0.000131,
+                    "composition": 0.331843
+                },
+                {
+                    "InChIKey": "IJDNQMDRQITEOD-UHFFFAOYSA-N",
+                    "adsorption": 0.000288,
+                    "composition": 0.668157
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 0.5703,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 0.000163,
+                    "composition": 0.298965
+                },
+                {
+                    "InChIKey": "IJDNQMDRQITEOD-UHFFFAOYSA-N",
+                    "adsorption": 0.000432,
+                    "composition": 0.701035
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.1492,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 0.000284,
+                    "composition": 0.314306
+                },
+                {
+                    "InChIKey": "IJDNQMDRQITEOD-UHFFFAOYSA-N",
+                    "adsorption": 0.000797,
+                    "composition": 0.685694
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 2.041,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 0.000328,
+                    "composition": 0.312592
+                },
+                {
+                    "InChIKey": "IJDNQMDRQITEOD-UHFFFAOYSA-N",
+                    "adsorption": 0.001045,
+                    "composition": 0.687408
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}

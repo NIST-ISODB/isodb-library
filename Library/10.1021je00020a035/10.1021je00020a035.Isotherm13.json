@@ -1,0 +1,115 @@
+{
+    "DOI": "10.1021/je00020a035",
+    "adsorbates": [
+        {
+            "InChIKey": "BDERNNFJNOPAEC-UHFFFAOYSA-N",
+            "name": "1-Propanol"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-113af70d6ffbd0d163e4aa3413e20451",
+        "name": "Zeolite DAY 13"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "Table 1",
+    "category": "exp",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "2020-12-31",
+    "digitizer": "BISON-20 Team",
+    "filename": "10.1021je00020a035.Isotherm13",
+    "isotherm_data": [
+        {
+            "pressure": 0.000241,
+            "species_data": [
+                {
+                    "InChIKey": "BDERNNFJNOPAEC-UHFFFAOYSA-N",
+                    "adsorption": 1.1809,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.1809
+        },
+        {
+            "pressure": 0.000953,
+            "species_data": [
+                {
+                    "InChIKey": "BDERNNFJNOPAEC-UHFFFAOYSA-N",
+                    "adsorption": 1.8648,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.8648
+        },
+        {
+            "pressure": 0.00214,
+            "species_data": [
+                {
+                    "InChIKey": "BDERNNFJNOPAEC-UHFFFAOYSA-N",
+                    "adsorption": 2.181,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 2.181
+        },
+        {
+            "pressure": 0.002843,
+            "species_data": [
+                {
+                    "InChIKey": "BDERNNFJNOPAEC-UHFFFAOYSA-N",
+                    "adsorption": 2.2503,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 2.2503
+        },
+        {
+            "pressure": 0.003561,
+            "species_data": [
+                {
+                    "InChIKey": "BDERNNFJNOPAEC-UHFFFAOYSA-N",
+                    "adsorption": 2.3545,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 2.3545
+        },
+        {
+            "pressure": 0.005778,
+            "species_data": [
+                {
+                    "InChIKey": "BDERNNFJNOPAEC-UHFFFAOYSA-N",
+                    "adsorption": 2.4859,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 2.4859
+        },
+        {
+            "pressure": 0.009203,
+            "species_data": [
+                {
+                    "InChIKey": "BDERNNFJNOPAEC-UHFFFAOYSA-N",
+                    "adsorption": 2.6113,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 2.6113
+        },
+        {
+            "pressure": 0.020754,
+            "species_data": [
+                {
+                    "InChIKey": "BDERNNFJNOPAEC-UHFFFAOYSA-N",
+                    "adsorption": 2.9144,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 2.9144
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}

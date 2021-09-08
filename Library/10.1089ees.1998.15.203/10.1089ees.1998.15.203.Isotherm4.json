@@ -1,0 +1,111 @@
+{
+    "DOI": "10.1089/ees.1998.15.203",
+    "adsorbates": [
+        {
+            "InChIKey": "MVPPADPHJFYWMZ-UHFFFAOYSA-N",
+            "name": "Chlorobenzene"
+        },
+        {
+            "InChIKey": "OKKJLVBELUTLKV-UHFFFAOYSA-N",
+            "name": "Methanol"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-1bbb13a3d0cf7920171de59ab842b110",
+        "name": "Highbank Soil 4471, Brazos County"
+    },
+    "adsorptionUnits": "mg/g",
+    "articleSource": "Table 4",
+    "category": "exp",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "2020-12-31",
+    "digitizer": "BISON-20 Team",
+    "filename": "10.1089ees.1998.15.203.Isotherm4",
+    "isotherm_data": [
+        {
+            "pressure": 0.029536,
+            "species_data": [
+                {
+                    "InChIKey": "MVPPADPHJFYWMZ-UHFFFAOYSA-N",
+                    "adsorption": 22.47,
+                    "composition": 0.066895
+                },
+                {
+                    "InChIKey": "OKKJLVBELUTLKV-UHFFFAOYSA-N",
+                    "adsorption": 15.44,
+                    "composition": 0.933105
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 0.03212,
+            "species_data": [
+                {
+                    "InChIKey": "MVPPADPHJFYWMZ-UHFFFAOYSA-N",
+                    "adsorption": 25.43,
+                    "composition": 0.141956
+                },
+                {
+                    "InChIKey": "OKKJLVBELUTLKV-UHFFFAOYSA-N",
+                    "adsorption": 23.24,
+                    "composition": 0.858044
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 0.033792,
+            "species_data": [
+                {
+                    "InChIKey": "MVPPADPHJFYWMZ-UHFFFAOYSA-N",
+                    "adsorption": 25.28,
+                    "composition": 0.184408
+                },
+                {
+                    "InChIKey": "OKKJLVBELUTLKV-UHFFFAOYSA-N",
+                    "adsorption": 26.9,
+                    "composition": 0.815592
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 0.037085,
+            "species_data": [
+                {
+                    "InChIKey": "MVPPADPHJFYWMZ-UHFFFAOYSA-N",
+                    "adsorption": 30.74,
+                    "composition": 0.213115
+                },
+                {
+                    "InChIKey": "OKKJLVBELUTLKV-UHFFFAOYSA-N",
+                    "adsorption": 32.46,
+                    "composition": 0.786885
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 0.037592,
+            "species_data": [
+                {
+                    "InChIKey": "MVPPADPHJFYWMZ-UHFFFAOYSA-N",
+                    "adsorption": 23.64,
+                    "composition": 0.266846
+                },
+                {
+                    "InChIKey": "OKKJLVBELUTLKV-UHFFFAOYSA-N",
+                    "adsorption": 39.93,
+                    "composition": 0.733154
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 297
+}

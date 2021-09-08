@@ -1,0 +1,82 @@
+{
+    "DOI": "10.1021/la9904298",
+    "adsorbates": [
+        {
+            "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+            "name": "Carbon Dioxide"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-21f4ef11b77e5214d3b8b507fcbfc15f",
+        "name": "A35/4 activated carbon"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "Figure 2",
+    "category": "exp",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "2020-12-31",
+    "digitizer": "BISON-20 Team",
+    "filename": "10.1021la9904298.Isotherm3",
+    "isotherm_data": [
+        {
+            "pressure": 4.974,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 2.088,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 2.088
+        },
+        {
+            "pressure": 6.984,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 3.781,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 3.781
+        },
+        {
+            "pressure": 8.612,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 5.869,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 5.869
+        },
+        {
+            "pressure": 9.986,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 8.091,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 8.091
+        },
+        {
+            "pressure": 10.86,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 9.709,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 9.709
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 293
+}

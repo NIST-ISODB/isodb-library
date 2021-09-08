@@ -1,0 +1,63 @@
+{
+    "DOI": "10.1021/ie00068a032",
+    "adsorbates": [
+        {
+            "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+            "name": "Carbon Dioxide"
+        },
+        {
+            "InChIKey": "RWSOTUBLDIXVET-UHFFFAOYSA-N",
+            "name": "Hydrogen sulfide"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-ec0558cb21d8c24fe77c8cc4cec4f6fa",
+        "name": "Activated carbon: PCB"
+    },
+    "adsorptionUnits": "cm3(STP)/g",
+    "articleSource": "Table II",
+    "category": "exp",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "2020-12-31",
+    "digitizer": "BISON-20 Team",
+    "filename": "10.1021ie00068a032.Isotherm4",
+    "isotherm_data": [
+        {
+            "pressure": 6.89476,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 142.926,
+                    "composition": 0.953
+                },
+                {
+                    "InChIKey": "RWSOTUBLDIXVET-UHFFFAOYSA-N",
+                    "adsorption": 31.374,
+                    "composition": 0.047
+                }
+            ],
+            "total_adsorption": 174.3
+        },
+        {
+            "pressure": 8.43918,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 128.573,
+                    "composition": 0.919
+                },
+                {
+                    "InChIKey": "RWSOTUBLDIXVET-UHFFFAOYSA-N",
+                    "adsorption": 66.8268,
+                    "composition": 0.081
+                }
+            ],
+            "total_adsorption": 195.4
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 293
+}

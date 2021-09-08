@@ -1,0 +1,47 @@
+{
+    "DOI": "10.1016/j.jiec.2013.08.018",
+    "adsorbates": [
+        {
+            "InChIKey": "BZHJMEDXRYGGRV-UHFFFAOYSA-N",
+            "name": "Chloroethene"
+        },
+        {
+            "InChIKey": "HSFWRNGVRCDJHI-UHFFFAOYSA-N",
+            "name": "Acetylene"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-dc94128bbaf86ffa0420cf32d4c1dc63",
+        "name": "Cu(II)/Activated carbon"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "Table 2",
+    "category": "exp",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "2020-12-31",
+    "digitizer": "BISON-20 Team",
+    "filename": "10.1016j.jiec.2013.08.018.Isotherm7",
+    "isotherm_data": [
+        {
+            "pressure": 1,
+            "species_data": [
+                {
+                    "InChIKey": "BZHJMEDXRYGGRV-UHFFFAOYSA-N",
+                    "adsorption": 0.498,
+                    "composition": 0.5
+                },
+                {
+                    "InChIKey": "HSFWRNGVRCDJHI-UHFFFAOYSA-N",
+                    "adsorption": 0.084,
+                    "composition": 0.5
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 313
+}

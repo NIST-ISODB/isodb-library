@@ -1,0 +1,93 @@
+{
+    "DOI": "10.1007/s10450-006-0146-z",
+    "adsorbates": [
+        {
+            "InChIKey": "BAPJBEWLBFYGME-UHFFFAOYSA-N",
+            "name": "2-Propenoic acid, methyl ester"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-1cca05d5c1ad74386e23d676c582a4f5",
+        "name": "Activated carbon: Granular (Shanghai Active Carbon Factory)"
+    },
+    "adsorptionUnits": "g/g",
+    "articleSource": "Figure 2",
+    "category": "exp",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "2020-12-31",
+    "digitizer": "BISON-20 Team",
+    "filename": "10.1007s104500060146z.Isotherm2",
+    "isotherm_data": [
+        {
+            "pressure": 0.0149,
+            "species_data": [
+                {
+                    "InChIKey": "BAPJBEWLBFYGME-UHFFFAOYSA-N",
+                    "adsorption": 0.178,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.178
+        },
+        {
+            "pressure": 0.0238,
+            "species_data": [
+                {
+                    "InChIKey": "BAPJBEWLBFYGME-UHFFFAOYSA-N",
+                    "adsorption": 0.231,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.231
+        },
+        {
+            "pressure": 0.0471,
+            "species_data": [
+                {
+                    "InChIKey": "BAPJBEWLBFYGME-UHFFFAOYSA-N",
+                    "adsorption": 0.263,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.263
+        },
+        {
+            "pressure": 0.0755,
+            "species_data": [
+                {
+                    "InChIKey": "BAPJBEWLBFYGME-UHFFFAOYSA-N",
+                    "adsorption": 0.283,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.283
+        },
+        {
+            "pressure": 0.108,
+            "species_data": [
+                {
+                    "InChIKey": "BAPJBEWLBFYGME-UHFFFAOYSA-N",
+                    "adsorption": 0.294,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.294
+        },
+        {
+            "pressure": 0.156,
+            "species_data": [
+                {
+                    "InChIKey": "BAPJBEWLBFYGME-UHFFFAOYSA-N",
+                    "adsorption": 0.305,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.305
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 313
+}

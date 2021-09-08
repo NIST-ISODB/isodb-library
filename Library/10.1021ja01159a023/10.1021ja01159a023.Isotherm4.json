@@ -1,0 +1,49 @@
+{
+    "DOI": "10.1021/ja01159a023",
+    "adsorbates": [
+        {
+            "InChIKey": "HSFWRNGVRCDJHI-UHFFFAOYSA-N",
+            "name": "Acetylene"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-b357bce586768b187732c4b2440c5e0e",
+        "name": "Silica gel (Davison Chemical Company, 14/20 mesh)"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "Table I",
+    "category": "exp",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "2020-12-31",
+    "digitizer": "BISON-20 Team",
+    "filename": "10.1021ja01159a023.Isotherm4",
+    "isotherm_data": [
+        {
+            "pressure": 0.519024,
+            "species_data": [
+                {
+                    "InChIKey": "HSFWRNGVRCDJHI-UHFFFAOYSA-N",
+                    "adsorption": 1.301,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.301
+        },
+        {
+            "pressure": 0.914191,
+            "species_data": [
+                {
+                    "InChIKey": "HSFWRNGVRCDJHI-UHFFFAOYSA-N",
+                    "adsorption": 1.731,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.731
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}

@@ -1,0 +1,104 @@
+{
+    "DOI": "10.1021/i260075a002",
+    "adsorbates": [
+        {
+            "InChIKey": "VGGSQFUCUMXWEO-UHFFFAOYSA-N",
+            "name": "Ethene"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-50d6afd9658b5a610dce986867fd29d7",
+        "name": "Activated Carbon, Type BPL, 6/16 mesh"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "Table I",
+    "category": "exp",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "2020-12-31",
+    "digitizer": "BISON-20 Team",
+    "filename": "10.1021i260075a002.Isotherm23",
+    "isotherm_data": [
+        {
+            "pressure": 0.006895,
+            "species_data": [
+                {
+                    "InChIKey": "VGGSQFUCUMXWEO-UHFFFAOYSA-N",
+                    "adsorption": 1.895,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.895
+        },
+        {
+            "pressure": 0.068948,
+            "species_data": [
+                {
+                    "InChIKey": "VGGSQFUCUMXWEO-UHFFFAOYSA-N",
+                    "adsorption": 3.727,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 3.727
+        },
+        {
+            "pressure": 0.351633,
+            "species_data": [
+                {
+                    "InChIKey": "VGGSQFUCUMXWEO-UHFFFAOYSA-N",
+                    "adsorption": 5.327,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 5.327
+        },
+        {
+            "pressure": 1.06179,
+            "species_data": [
+                {
+                    "InChIKey": "VGGSQFUCUMXWEO-UHFFFAOYSA-N",
+                    "adsorption": 6.346,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 6.346
+        },
+        {
+            "pressure": 2.3718,
+            "species_data": [
+                {
+                    "InChIKey": "VGGSQFUCUMXWEO-UHFFFAOYSA-N",
+                    "adsorption": 7.008,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 7.008
+        },
+        {
+            "pressure": 4.18512,
+            "species_data": [
+                {
+                    "InChIKey": "VGGSQFUCUMXWEO-UHFFFAOYSA-N",
+                    "adsorption": 7.448,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 7.448
+        },
+        {
+            "pressure": 5.99844,
+            "species_data": [
+                {
+                    "InChIKey": "VGGSQFUCUMXWEO-UHFFFAOYSA-N",
+                    "adsorption": 7.884,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 7.884
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 212
+}

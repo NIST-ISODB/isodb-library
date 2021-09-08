@@ -1,0 +1,104 @@
+{
+    "DOI": "10.1016/0378-3812(95)02965-6",
+    "adsorbates": [
+        {
+            "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+            "name": "Nitrogen"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-01fb3861a7522a55b6822e2a4c2349a6",
+        "name": "Mary Lee Coal"
+    },
+    "adsorptionUnits": "scf/ton",
+    "articleSource": "Table 3",
+    "category": "exp",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "2020-12-31",
+    "digitizer": "BISON-20 Team",
+    "filename": "10.10160378381295029656.Isotherm2",
+    "isotherm_data": [
+        {
+            "pressure": 7.4946,
+            "species_data": [
+                {
+                    "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+                    "adsorption": 59.3,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 59.3
+        },
+        {
+            "pressure": 20.5946,
+            "species_data": [
+                {
+                    "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+                    "adsorption": 126.66,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 126.66
+        },
+        {
+            "pressure": 35.2805,
+            "species_data": [
+                {
+                    "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+                    "adsorption": 176.51,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 176.51
+        },
+        {
+            "pressure": 52.607,
+            "species_data": [
+                {
+                    "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+                    "adsorption": 221.77,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 221.77
+        },
+        {
+            "pressure": 69.5957,
+            "species_data": [
+                {
+                    "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+                    "adsorption": 255.28,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 255.28
+        },
+        {
+            "pressure": 86.5085,
+            "species_data": [
+                {
+                    "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+                    "adsorption": 284.19,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 284.19
+        },
+        {
+            "pressure": 103.497,
+            "species_data": [
+                {
+                    "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+                    "adsorption": 306.44,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 306.44
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 80
+}

@@ -1,0 +1,127 @@
+{
+    "DOI": "10.1252/jcej.11.209",
+    "adsorbates": [
+        {
+            "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+            "name": "Water"
+        },
+        {
+            "InChIKey": "YXFVVABEGXRONW-UHFFFAOYSA-N",
+            "name": "Toluene"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-a0fd1c0c2d5c0043276979f9fa9c80f9",
+        "name": "Activated carbon: Shirasagi S"
+    },
+    "adsorptionUnits": "g/g",
+    "articleSource": "Table 2",
+    "category": "exp",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "2020-12-31",
+    "digitizer": "BISON-20 Team",
+    "filename": "10.1252jcej.11.209.Isotherm1",
+    "isotherm_data": [
+        {
+            "pressure": 0.03138,
+            "species_data": [
+                {
+                    "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+                    "adsorption": 0.084,
+                    "composition": 0.998428
+                },
+                {
+                    "InChIKey": "YXFVVABEGXRONW-UHFFFAOYSA-N",
+                    "adsorption": 0.242,
+                    "composition": 0.001572
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 0.031433,
+            "species_data": [
+                {
+                    "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+                    "adsorption": 0.048,
+                    "composition": 0.996734
+                },
+                {
+                    "InChIKey": "YXFVVABEGXRONW-UHFFFAOYSA-N",
+                    "adsorption": 0.27,
+                    "composition": 0.003266
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 0.032059,
+            "species_data": [
+                {
+                    "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+                    "adsorption": 0.013,
+                    "composition": 0.977294
+                },
+                {
+                    "InChIKey": "YXFVVABEGXRONW-UHFFFAOYSA-N",
+                    "adsorption": 0.318,
+                    "composition": 0.022706
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 0.027248,
+            "species_data": [
+                {
+                    "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+                    "adsorption": 0.018,
+                    "composition": 0.998141
+                },
+                {
+                    "InChIKey": "YXFVVABEGXRONW-UHFFFAOYSA-N",
+                    "adsorption": 0.259,
+                    "composition": 0.001859
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 0.027298,
+            "species_data": [
+                {
+                    "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+                    "adsorption": 0.013,
+                    "composition": 0.996337
+                },
+                {
+                    "InChIKey": "YXFVVABEGXRONW-UHFFFAOYSA-N",
+                    "adsorption": 0.289,
+                    "composition": 0.003663
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 0.027618,
+            "species_data": [
+                {
+                    "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+                    "adsorption": 0.01,
+                    "composition": 0.984794
+                },
+                {
+                    "InChIKey": "YXFVVABEGXRONW-UHFFFAOYSA-N",
+                    "adsorption": 0.32,
+                    "composition": 0.015206
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 303
+}

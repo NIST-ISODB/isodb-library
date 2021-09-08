@@ -1,0 +1,47 @@
+{
+    "DOI": "10.1016/j.ces.2011.03.046",
+    "adsorbates": [
+        {
+            "InChIKey": "OTMSDBZUPAUEDD-UHFFFAOYSA-N",
+            "name": "Ethane"
+        },
+        {
+            "InChIKey": "VGGSQFUCUMXWEO-UHFFFAOYSA-N",
+            "name": "Ethene"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-e3b5a7fa08ad829dde636e32593127ea",
+        "name": "Na-ETS-10 zeolite"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "Tables 3 & 4",
+    "category": "exp",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "2020-12-31",
+    "digitizer": "BISON-20 Team",
+    "filename": "10.1016j.ces.2011.03.046.Isotherm2",
+    "isotherm_data": [
+        {
+            "pressure": 1.01,
+            "species_data": [
+                {
+                    "InChIKey": "OTMSDBZUPAUEDD-UHFFFAOYSA-N",
+                    "adsorption": 1.44,
+                    "composition": 0.59
+                },
+                {
+                    "InChIKey": "VGGSQFUCUMXWEO-UHFFFAOYSA-N",
+                    "adsorption": 0.196364,
+                    "composition": 0.41
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 294
+}

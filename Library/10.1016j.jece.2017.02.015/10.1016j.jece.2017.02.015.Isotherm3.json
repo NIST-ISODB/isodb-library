@@ -1,0 +1,93 @@
+{
+    "DOI": "10.1016/j.jece.2017.02.015",
+    "adsorbates": [
+        {
+            "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+            "name": "Methane"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-fa17b90db2a8b839fedfdcf1b3b3ddd7",
+        "name": "Activated carbon: PINPEL20"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "Figure 4c",
+    "category": "exp",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "2020-12-31",
+    "digitizer": "BISON-20 Team",
+    "filename": "10.1016j.jece.2017.02.015.Isotherm3",
+    "isotherm_data": [
+        {
+            "pressure": 0.584,
+            "species_data": [
+                {
+                    "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+                    "adsorption": 0.637,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.637
+        },
+        {
+            "pressure": 1.03,
+            "species_data": [
+                {
+                    "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+                    "adsorption": 0.906,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 0.906
+        },
+        {
+            "pressure": 3,
+            "species_data": [
+                {
+                    "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+                    "adsorption": 1.68,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 1.68
+        },
+        {
+            "pressure": 5.03,
+            "species_data": [
+                {
+                    "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+                    "adsorption": 2.04,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 2.04
+        },
+        {
+            "pressure": 8,
+            "species_data": [
+                {
+                    "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+                    "adsorption": 2.44,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 2.44
+        },
+        {
+            "pressure": 10,
+            "species_data": [
+                {
+                    "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+                    "adsorption": 2.69,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 2.69
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 303
+}
