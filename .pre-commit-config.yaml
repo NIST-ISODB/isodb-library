@@ -10,7 +10,7 @@ repos:
     args: ['--autofix', '--indent=4', '--no-ensure-ascii']
 
 - repo: https://github.com/ambv/black
-  rev: 19.10b0
+  rev: 22.3.0
   hooks:
   - id: black
     language_version: python3
@@ -29,23 +29,23 @@ repos:
     language: system
     pass_filenames: false
     files: DOI_mapping.csv
-  - id: pressures
-    name: Check consistency of pressures
-    entry: python ./.github/validate.py pressures
-    language: system
-    pass_filenames: true
-    files: >-
-        (?x)^(
-            Library/.*/.*sotherm.*json
-        )$
-    verbose: true
-  - id: adsorption_values
-    name: Check consistency of adsorption values (y-axis)
-    entry: python ./.github/validate.py adsorption_values
-    language: system
-    pass_filenames: true
-    files: >-
-        (?x)^(
-            Library/.*/.*sotherm.*json
-        )$
-    verbose: true
+#  - id: pressures
+#    name: Check consistency of pressures
+#    entry: python ./.github/validate.py pressures
+#    language: system
+#    pass_filenames: true
+#    files: >-
+#        (?x)^(
+#            Library/.*/.*sotherm.*json
+#        )$
+#    verbose: true
+#  - id: adsorption_values
+#    name: Check consistency of adsorption values (y-axis)
+#    entry: python ./.github/validate.py adsorption_values
+#    language: system
+#    pass_filenames: true
+#    files: >-
+#        (?x)^(
+#            Library/.*/.*sotherm.*json
+#        )$
+#    verbose: true
