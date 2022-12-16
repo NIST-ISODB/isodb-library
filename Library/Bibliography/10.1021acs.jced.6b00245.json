@@ -15,13 +15,13 @@
         }
     ],
     "adsorbentMaterial": [
+        "Zeolite 5A",
+        "Zeolite 4A",
         "Silicate",
         "Zeolite CaX",
         "F400",
         "AA-300",
-        "5A",
         "Xtrusorb",
-        "4A",
         "Xtrusorb A754",
         "Grace B-127",
         "Nitroxy Pro",
@@ -30,6 +30,14 @@
         "BPL Carbon"
     ],
     "adsorbents": [
+        {
+            "hashkey": "NIST-MATDB-035dc75dddd00241bd76627f78cbef2d",
+            "name": "Zeolite 5A"
+        },
+        {
+            "hashkey": "NIST-MATDB-081a0818678716f502aee0b58ac1b30a",
+            "name": "Zeolite 4A"
+        },
         {
             "hashkey": "NIST-MATDB-18729ec0d0ad0c556cc317319ec81261",
             "name": "Silicate"
@@ -47,16 +55,8 @@
             "name": "AA-300"
         },
         {
-            "hashkey": "NIST-MATDB-4dd8e57bba533ac70e32f1b72e65943c",
-            "name": "5A"
-        },
-        {
             "hashkey": "NIST-MATDB-4ea0793b61cce54c7d7744d404766adc",
             "name": "Xtrusorb"
-        },
-        {
-            "hashkey": "NIST-MATDB-5080d668a7c993c2d96915f3aec85904",
-            "name": "4A"
         },
         {
             "hashkey": "NIST-MATDB-861564b288bf9aab0eecbae3f812e780",
