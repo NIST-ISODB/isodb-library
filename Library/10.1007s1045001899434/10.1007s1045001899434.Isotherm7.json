@@ -1,0 +1,75 @@
+{
+    "DOI": "10.1007/s10450-018-9943-4",
+    "adsorbates": [
+        {
+            "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+            "name": "Carbon Dioxide"
+        },
+        {
+            "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+            "name": "Nitrogen"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-b2879db9e35d5d689d1e35321de76e79",
+        "name": "ACPX-22"
+    },
+    "adsorptionUnits": "g/g",
+    "articleSource": "Figure 8c",
+    "category": "exp",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "2021-07-29",
+    "digitizer": "Victoria Koretsky",
+    "filename": "10.1007s1045001899434.Isotherm7",
+    "isotherm_data": [
+        {
+            "pressure": 1.67742,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 0.019669,
+                    "composition": 0.12
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.94624,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 0.020351,
+                    "composition": 0.12
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 2.94624,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 0.027361,
+                    "composition": 0.12
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 3.93548,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 0.03369,
+                    "composition": 0.12
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 348
+}

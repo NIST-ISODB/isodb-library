@@ -1,0 +1,97 @@
+{
+    "DOI": "10.1007/s10450-018-9984-8",
+    "adsorbates": [
+        {
+            "InChIKey": "NIST-ISODB-264D8CF23E4B4269D990",
+            "name": "Immunoglobulin G"
+        },
+        {
+            "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+            "name": "Water"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-15207ecf135444bbdfb122d23e1cf6f6",
+        "name": "MabDirect MM"
+    },
+    "adsorptionUnits": "mg/g",
+    "articleSource": "Figure 2",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2021-07-30",
+    "digitizer": "Victoria Koretsky",
+    "filename": "10.1007s1045001899848.Isotherm1",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "NIST-ISODB-264D8CF23E4B4269D990",
+                    "adsorption": 0.166898,
+                    "composition": 0
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "NIST-ISODB-264D8CF23E4B4269D990",
+                    "adsorption": 8.92907,
+                    "composition": 0.202656
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "NIST-ISODB-264D8CF23E4B4269D990",
+                    "adsorption": 20.612,
+                    "composition": 0.502309
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "NIST-ISODB-264D8CF23E4B4269D990",
+                    "adsorption": 27.3713,
+                    "composition": 0.699769
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "NIST-ISODB-264D8CF23E4B4269D990",
+                    "adsorption": 36.3839,
+                    "composition": 0.999423
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "NIST-ISODB-264D8CF23E4B4269D990",
+                    "adsorption": 58.4145,
+                    "composition": 1.99884
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 293
+}

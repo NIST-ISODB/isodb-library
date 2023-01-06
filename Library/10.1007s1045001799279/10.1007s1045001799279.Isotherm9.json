@@ -1,0 +1,119 @@
+{
+    "DOI": "10.1007/s10450-017-9927-9",
+    "adsorbates": [
+        {
+            "InChIKey": "CXKWCBBOMKCUKX-UHFFFAOYSA-M",
+            "name": "Methylene blue"
+        },
+        {
+            "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+            "name": "Water"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-56f9084ca980822e341ac26767ebf63b",
+        "name": "Cecalite pH 8"
+    },
+    "adsorptionUnits": "cm3(STP)/g",
+    "articleSource": "Figure 7a",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2021-08-02",
+    "digitizer": "Victoria Koretsky",
+    "filename": "10.1007s1045001799279.Isotherm9",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "CXKWCBBOMKCUKX-UHFFFAOYSA-M",
+                    "adsorption": 1.80088,
+                    "composition": 0.554017
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "CXKWCBBOMKCUKX-UHFFFAOYSA-M",
+                    "adsorption": 3.73673,
+                    "composition": 1.28116
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "CXKWCBBOMKCUKX-UHFFFAOYSA-M",
+                    "adsorption": 6.62389,
+                    "composition": 6.5097
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "CXKWCBBOMKCUKX-UHFFFAOYSA-M",
+                    "adsorption": 7.89602,
+                    "composition": 12.3269
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "CXKWCBBOMKCUKX-UHFFFAOYSA-M",
+                    "adsorption": 8.60398,
+                    "composition": 19.8407
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "CXKWCBBOMKCUKX-UHFFFAOYSA-M",
+                    "adsorption": 9.42257,
+                    "composition": 27.2507
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "CXKWCBBOMKCUKX-UHFFFAOYSA-M",
+                    "adsorption": 11.0597,
+                    "composition": 33.1717
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "CXKWCBBOMKCUKX-UHFFFAOYSA-M",
+                    "adsorption": 12.2212,
+                    "composition": 42.4169
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}

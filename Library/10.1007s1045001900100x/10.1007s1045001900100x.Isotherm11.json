@@ -1,0 +1,93 @@
+{
+    "DOI": "10.1007/s10450-019-00100-x",
+    "adsorbates": [
+        {
+            "InChIKey": "OGJPXUAPXNRGGI-UHFFFAOYSA-N",
+            "name": "Norfloxacin"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-d661a8e53d28ebb6542ffc7c3d029b00",
+        "name": "Fe-MCM-41"
+    },
+    "adsorptionUnits": "mmol/kg",
+    "articleSource": "Figure 8",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2021-08-06",
+    "digitizer": "Drake Bauernfeind",
+    "filename": "10.1007s1045001900100x.Isotherm11",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "OGJPXUAPXNRGGI-UHFFFAOYSA-N",
+                    "adsorption": 0,
+                    "composition": 0
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "OGJPXUAPXNRGGI-UHFFFAOYSA-N",
+                    "adsorption": 116.031,
+                    "composition": 4.39508
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "OGJPXUAPXNRGGI-UHFFFAOYSA-N",
+                    "adsorption": 212.214,
+                    "composition": 18.7146
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "OGJPXUAPXNRGGI-UHFFFAOYSA-N",
+                    "adsorption": 269.466,
+                    "composition": 52.4575
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "OGJPXUAPXNRGGI-UHFFFAOYSA-N",
+                    "adsorption": 309.16,
+                    "composition": 94.707
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "OGJPXUAPXNRGGI-UHFFFAOYSA-N",
+                    "adsorption": 334.351,
+                    "composition": 143.762
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 288
+}

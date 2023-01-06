@@ -1,0 +1,108 @@
+{
+    "DOI": "10.1007/s10450-017-9929-7",
+    "adsorbates": [
+        {
+            "InChIKey": "JOPOVCBBYLSVDA-UHFFFAOYSA-N",
+            "name": "Cr(VI)"
+        },
+        {
+            "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+            "name": "Water"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-e2b9e11ffab78af52ec08a603e6fb7d0",
+        "name": "ACBSG06"
+    },
+    "adsorptionUnits": "mg/g",
+    "articleSource": "Figure 2",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2021-08-05",
+    "digitizer": "Victoria Koretsky",
+    "filename": "10.1007s1045001799297.Isotherm7",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "JOPOVCBBYLSVDA-UHFFFAOYSA-N",
+                    "adsorption": 3.68717,
+                    "composition": 0.010743
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "JOPOVCBBYLSVDA-UHFFFAOYSA-N",
+                    "adsorption": 8.05697,
+                    "composition": 0.014422
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "JOPOVCBBYLSVDA-UHFFFAOYSA-N",
+                    "adsorption": 5.87207,
+                    "composition": 0.014422
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "JOPOVCBBYLSVDA-UHFFFAOYSA-N",
+                    "adsorption": 2.09278,
+                    "composition": 0.014422
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "JOPOVCBBYLSVDA-UHFFFAOYSA-N",
+                    "adsorption": 12.2496,
+                    "composition": 0.032818
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "JOPOVCBBYLSVDA-UHFFFAOYSA-N",
+                    "adsorption": 24.2961,
+                    "composition": 0.220456
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "JOPOVCBBYLSVDA-UHFFFAOYSA-N",
+                    "adsorption": 43.0745,
+                    "composition": 1.43826
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}

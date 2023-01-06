@@ -1,0 +1,93 @@
+{
+    "DOI": "10.1007/s10450-019-00020-w",
+    "adsorbates": [
+        {
+            "InChIKey": "PTFCDOFLOPIGGS-UHFFFAOYSA-N",
+            "name": "Zn(II)"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-fe0b71fbbff423b8b934a48222a5f309",
+        "name": "Ambersep GT-74"
+    },
+    "adsorptionUnits": "mg/g",
+    "articleSource": "Figure 10b",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2021-08-03",
+    "digitizer": "Drake Bauernfeind",
+    "filename": "10.1007s1045001900020w.Isotherm19",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "PTFCDOFLOPIGGS-UHFFFAOYSA-N",
+                    "adsorption": 1.44231,
+                    "composition": 16.6667
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "PTFCDOFLOPIGGS-UHFFFAOYSA-N",
+                    "adsorption": 9.13461,
+                    "composition": 104.762
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "PTFCDOFLOPIGGS-UHFFFAOYSA-N",
+                    "adsorption": 13.4615,
+                    "composition": 188.095
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "PTFCDOFLOPIGGS-UHFFFAOYSA-N",
+                    "adsorption": 17.7885,
+                    "composition": 319.048
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "PTFCDOFLOPIGGS-UHFFFAOYSA-N",
+                    "adsorption": 19.7115,
+                    "composition": 388.095
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "PTFCDOFLOPIGGS-UHFFFAOYSA-N",
+                    "adsorption": 24.0385,
+                    "composition": 735.714
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 293
+}

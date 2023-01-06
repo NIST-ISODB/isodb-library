@@ -1,0 +1,115 @@
+{
+    "DOI": "10.1007/s10450-018-9938-1",
+    "adsorbates": [
+        {
+            "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+            "name": "Carbon Dioxide"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-961a1be487641ea688a193971bb207f7",
+        "name": "Zeolite 13X / Carbon Honeycomb Monolith"
+    },
+    "adsorptionUnits": "cm3(STP)/g",
+    "articleSource": "Figure 9",
+    "category": "exp",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "2021-07-30",
+    "digitizer": "Victoria Koretsky",
+    "filename": "10.1007s1045001899381.Isotherm3",
+    "isotherm_data": [
+        {
+            "pressure": 0.100846,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 1.32318,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 0.482091,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 2.13711,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 0.959262,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 2.53754,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.45242,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 2.83351,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 0.063951,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 1.13166,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 0.222598,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 1.79761,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 0.338201,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 2.0457,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 0.779708,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 2.4679,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 303
+}

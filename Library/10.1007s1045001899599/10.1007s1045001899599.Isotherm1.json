@@ -1,0 +1,130 @@
+{
+    "DOI": "10.1007/s10450-018-9959-9",
+    "adsorbates": [
+        {
+            "InChIKey": "HAYXDMNJJFVXCI-UHFFFAOYSA-N",
+            "name": "Arsenate"
+        },
+        {
+            "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+            "name": "Water"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-795a22da4910bf6557d488ac6e17f832",
+        "name": "Fe(III)/ATP"
+    },
+    "adsorptionUnits": "mg/g",
+    "articleSource": "Figure 4",
+    "category": "sim",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2021-08-05",
+    "digitizer": "Victoria Koretsky",
+    "filename": "10.1007s1045001899599.Isotherm1",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "HAYXDMNJJFVXCI-UHFFFAOYSA-N",
+                    "adsorption": 3.88948,
+                    "composition": 19.802
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "HAYXDMNJJFVXCI-UHFFFAOYSA-N",
+                    "adsorption": 7.77897,
+                    "composition": 39.964
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "HAYXDMNJJFVXCI-UHFFFAOYSA-N",
+                    "adsorption": 12.6073,
+                    "composition": 59.946
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "HAYXDMNJJFVXCI-UHFFFAOYSA-N",
+                    "adsorption": 14.6191,
+                    "composition": 79.928
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "HAYXDMNJJFVXCI-UHFFFAOYSA-N",
+                    "adsorption": 16.7918,
+                    "composition": 99.91
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "HAYXDMNJJFVXCI-UHFFFAOYSA-N",
+                    "adsorption": 17.5161,
+                    "composition": 119.892
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "HAYXDMNJJFVXCI-UHFFFAOYSA-N",
+                    "adsorption": 18.9378,
+                    "composition": 139.874
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "HAYXDMNJJFVXCI-UHFFFAOYSA-N",
+                    "adsorption": 18.7768,
+                    "composition": 159.856
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "HAYXDMNJJFVXCI-UHFFFAOYSA-N",
+                    "adsorption": 19.1792,
+                    "composition": 199.82
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}

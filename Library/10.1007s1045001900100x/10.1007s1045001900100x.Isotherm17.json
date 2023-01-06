@@ -1,0 +1,82 @@
+{
+    "DOI": "10.1007/s10450-019-00100-x",
+    "adsorbates": [
+        {
+            "InChIKey": "OGJPXUAPXNRGGI-UHFFFAOYSA-N",
+            "name": "Norfloxacin"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-092b473f6df35f709c7d568c5307c92d",
+        "name": "Biochar-Clay Composite"
+    },
+    "adsorptionUnits": "mmol/kg",
+    "articleSource": "Figure 8",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2021-08-06",
+    "digitizer": "Drake Bauernfeind",
+    "filename": "10.1007s1045001900100x.Isotherm17",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "OGJPXUAPXNRGGI-UHFFFAOYSA-N",
+                    "adsorption": 1.52672,
+                    "composition": 0
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "OGJPXUAPXNRGGI-UHFFFAOYSA-N",
+                    "adsorption": 1.52672,
+                    "composition": 2.26843
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "OGJPXUAPXNRGGI-UHFFFAOYSA-N",
+                    "adsorption": 6.10687,
+                    "composition": 3.6862
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "OGJPXUAPXNRGGI-UHFFFAOYSA-N",
+                    "adsorption": 11.4504,
+                    "composition": 7.93951
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "OGJPXUAPXNRGGI-UHFFFAOYSA-N",
+                    "adsorption": 12.2137,
+                    "composition": 13.327
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 288
+}

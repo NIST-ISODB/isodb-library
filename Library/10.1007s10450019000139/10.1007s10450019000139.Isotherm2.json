@@ -1,0 +1,115 @@
+{
+    "DOI": "10.1007/s10450-019-00013-9",
+    "adsorbates": [
+        {
+            "InChIKey": "VEQPNABPJHWNSG-UHFFFAOYSA-N",
+            "name": "Ni(II)"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-5b3ab7ed12e00b62f758b334183fe1fc",
+        "name": "Diphonix Resin"
+    },
+    "adsorptionUnits": "mg/g",
+    "articleSource": "Figure 7",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2021-08-02",
+    "digitizer": "Drake Bauernfeind",
+    "filename": "10.1007s10450019000139.Isotherm2",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "VEQPNABPJHWNSG-UHFFFAOYSA-N",
+                    "adsorption": 1.54,
+                    "composition": 25
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "VEQPNABPJHWNSG-UHFFFAOYSA-N",
+                    "adsorption": 2.91,
+                    "composition": 50
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "VEQPNABPJHWNSG-UHFFFAOYSA-N",
+                    "adsorption": 5.03,
+                    "composition": 100
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "VEQPNABPJHWNSG-UHFFFAOYSA-N",
+                    "adsorption": 7.47,
+                    "composition": 150
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "VEQPNABPJHWNSG-UHFFFAOYSA-N",
+                    "adsorption": 9.91,
+                    "composition": 200
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "VEQPNABPJHWNSG-UHFFFAOYSA-N",
+                    "adsorption": 15.13,
+                    "composition": 300
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "VEQPNABPJHWNSG-UHFFFAOYSA-N",
+                    "adsorption": 19.01,
+                    "composition": 400
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "VEQPNABPJHWNSG-UHFFFAOYSA-N",
+                    "adsorption": 26.69,
+                    "composition": 600
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 294
+}

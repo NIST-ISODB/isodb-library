@@ -1,0 +1,82 @@
+{
+    "DOI": "10.1007/s10450-019-00141-2",
+    "adsorbates": [
+        {
+            "InChIKey": "XAGFODPZIPBFFR-UHFFFAOYSA-N",
+            "name": "Aluminum"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-80b69a12be6af789ec03d86d2dad3f57",
+        "name": "TiO2"
+    },
+    "adsorptionUnits": "mg/g",
+    "articleSource": "Figure 4",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2021-08-03",
+    "digitizer": "Drake Bauernfeind",
+    "filename": "10.1007s10450019001412.Isotherm2",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "XAGFODPZIPBFFR-UHFFFAOYSA-N",
+                    "adsorption": 0.073308,
+                    "composition": 0.507246
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "XAGFODPZIPBFFR-UHFFFAOYSA-N",
+                    "adsorption": 0.120301,
+                    "composition": 0.614734
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "XAGFODPZIPBFFR-UHFFFAOYSA-N",
+                    "adsorption": 0.259398,
+                    "composition": 0.769324
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "XAGFODPZIPBFFR-UHFFFAOYSA-N",
+                    "adsorption": 0.355263,
+                    "composition": 0.958937
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "XAGFODPZIPBFFR-UHFFFAOYSA-N",
+                    "adsorption": 0.586466,
+                    "composition": 1.13285
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 297
+}

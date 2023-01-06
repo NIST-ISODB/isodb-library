@@ -1,0 +1,108 @@
+{
+    "DOI": "10.1007/s10450-017-9861-x",
+    "adsorbates": [
+        {
+            "InChIKey": "NIST-ISODB-A974C5751199C37EF0D4",
+            "name": "Human Serum Albumin"
+        },
+        {
+            "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+            "name": "Water"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-e03d89aa9981d715ca1476188bdc2c80",
+        "name": "MabDirect MM 0M NaCl"
+    },
+    "adsorptionUnits": "mg/g",
+    "articleSource": "Figure 3",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2021-08-02",
+    "digitizer": "Rodrigo Aguilar",
+    "filename": "10.1007s104500179861x.Isotherm1",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "NIST-ISODB-A974C5751199C37EF0D4",
+                    "adsorption": 10.8505,
+                    "composition": 0.0761
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "NIST-ISODB-A974C5751199C37EF0D4",
+                    "adsorption": 17.5258,
+                    "composition": 0.1989
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "NIST-ISODB-A974C5751199C37EF0D4",
+                    "adsorption": 19.0464,
+                    "composition": 0.2783
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "NIST-ISODB-A974C5751199C37EF0D4",
+                    "adsorption": 26.5206,
+                    "composition": 0.6772
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "NIST-ISODB-A974C5751199C37EF0D4",
+                    "adsorption": 27.7577,
+                    "composition": 0.8489
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "NIST-ISODB-A974C5751199C37EF0D4",
+                    "adsorption": 30.5412,
+                    "composition": 1.2022
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "NIST-ISODB-A974C5751199C37EF0D4",
+                    "adsorption": 32.0103,
+                    "composition": 1.5826
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "excess",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 293
+}

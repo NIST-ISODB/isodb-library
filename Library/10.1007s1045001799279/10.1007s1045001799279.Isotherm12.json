@@ -1,0 +1,119 @@
+{
+    "DOI": "10.1007/s10450-017-9927-9",
+    "adsorbates": [
+        {
+            "InChIKey": "STZCRXQWRGQSJD-GEEYTBSJSA-M",
+            "name": "Methyl Orange"
+        },
+        {
+            "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+            "name": "Water"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-39c55e3b733875a777629bc688eb45b7",
+        "name": "Acticarbone pH 2.5"
+    },
+    "adsorptionUnits": "cm3(STP)/g",
+    "articleSource": "Figure 7d",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2021-08-02",
+    "digitizer": "Victoria Koretsky",
+    "filename": "10.1007s1045001799279.Isotherm12",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "STZCRXQWRGQSJD-GEEYTBSJSA-M",
+                    "adsorption": 3.01432,
+                    "composition": 0.604317
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "STZCRXQWRGQSJD-GEEYTBSJSA-M",
+                    "adsorption": 6.07422,
+                    "composition": 0.920863
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "STZCRXQWRGQSJD-GEEYTBSJSA-M",
+                    "adsorption": 9.26432,
+                    "composition": 1.38129
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "STZCRXQWRGQSJD-GEEYTBSJSA-M",
+                    "adsorption": 12.3568,
+                    "composition": 1.89928
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "STZCRXQWRGQSJD-GEEYTBSJSA-M",
+                    "adsorption": 19.4857,
+                    "composition": 3.85612
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "STZCRXQWRGQSJD-GEEYTBSJSA-M",
+                    "adsorption": 23.9453,
+                    "composition": 6
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "STZCRXQWRGQSJD-GEEYTBSJSA-M",
+                    "adsorption": 27.8841,
+                    "composition": 9.66907
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "STZCRXQWRGQSJD-GEEYTBSJSA-M",
+                    "adsorption": 29.349,
+                    "composition": 17.741
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 298
+}

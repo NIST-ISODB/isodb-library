@@ -1,0 +1,82 @@
+{
+    "DOI": "10.1007/s10450-019-00141-2",
+    "adsorbates": [
+        {
+            "InChIKey": "XAGFODPZIPBFFR-UHFFFAOYSA-N",
+            "name": "Aluminum"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-2039b32a18f1d3cf1f19460cebb86c3a",
+        "name": "Montmorillonite K10"
+    },
+    "adsorptionUnits": "mg/g",
+    "articleSource": "Figure 4",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2021-08-03",
+    "digitizer": "Drake Bauernfeind",
+    "filename": "10.1007s10450019001412.Isotherm1",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "XAGFODPZIPBFFR-UHFFFAOYSA-N",
+                    "adsorption": 0.193609,
+                    "composition": 0.045894
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "XAGFODPZIPBFFR-UHFFFAOYSA-N",
+                    "adsorption": 0.306391,
+                    "composition": 0.05314
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "XAGFODPZIPBFFR-UHFFFAOYSA-N",
+                    "adsorption": 0.546992,
+                    "composition": 0.160628
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "XAGFODPZIPBFFR-UHFFFAOYSA-N",
+                    "adsorption": 0.821429,
+                    "composition": 0.194444
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "XAGFODPZIPBFFR-UHFFFAOYSA-N",
+                    "adsorption": 1.34587,
+                    "composition": 0.567633
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 297
+}

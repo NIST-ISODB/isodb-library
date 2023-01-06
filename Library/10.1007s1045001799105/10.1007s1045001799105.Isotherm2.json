@@ -1,0 +1,104 @@
+{
+    "DOI": "10.1007/s10450-017-9910-5",
+    "adsorbates": [
+        {
+            "InChIKey": "JJWKPURADFRFRB-UHFFFAOYSA-N",
+            "name": "Carbonyl sulfide"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-0f5c42dac753aa41b536e4ce8312a8ef",
+        "name": "Fe2O3 modified activated carbon"
+    },
+    "adsorptionUnits": "mg/g",
+    "articleSource": "Figure 1",
+    "category": "exp",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "2021-07-27",
+    "digitizer": "Victoria Koretsky",
+    "filename": "10.1007s1045001799105.Isotherm2",
+    "isotherm_data": [
+        {
+            "pressure": 6.7e-05,
+            "species_data": [
+                {
+                    "InChIKey": "JJWKPURADFRFRB-UHFFFAOYSA-N",
+                    "adsorption": 1.81818,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 0.000103,
+            "species_data": [
+                {
+                    "InChIKey": "JJWKPURADFRFRB-UHFFFAOYSA-N",
+                    "adsorption": 3.43636,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 0.00015,
+            "species_data": [
+                {
+                    "InChIKey": "JJWKPURADFRFRB-UHFFFAOYSA-N",
+                    "adsorption": 4.01818,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 0.000204,
+            "species_data": [
+                {
+                    "InChIKey": "JJWKPURADFRFRB-UHFFFAOYSA-N",
+                    "adsorption": 4.16364,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 0.000253,
+            "species_data": [
+                {
+                    "InChIKey": "JJWKPURADFRFRB-UHFFFAOYSA-N",
+                    "adsorption": 4.54545,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 0.000298,
+            "species_data": [
+                {
+                    "InChIKey": "JJWKPURADFRFRB-UHFFFAOYSA-N",
+                    "adsorption": 5.12727,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 0.000336,
+            "species_data": [
+                {
+                    "InChIKey": "JJWKPURADFRFRB-UHFFFAOYSA-N",
+                    "adsorption": 5.69091,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 323
+}

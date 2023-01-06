@@ -1,0 +1,93 @@
+{
+    "DOI": "10.1007/s10450-019-00020-w",
+    "adsorbates": [
+        {
+            "InChIKey": "VEQPNABPJHWNSG-UHFFFAOYSA-N",
+            "name": "Ni(II)"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-fe0b71fbbff423b8b934a48222a5f309",
+        "name": "Ambersep GT-74"
+    },
+    "adsorptionUnits": "mg/g",
+    "articleSource": "Figure 10e",
+    "category": "exp",
+    "compositionType": "concentration",
+    "concentrationUnits": "",
+    "date": "2021-08-03",
+    "digitizer": "Drake Bauernfeind",
+    "filename": "10.1007s1045001900020w.Isotherm28",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "VEQPNABPJHWNSG-UHFFFAOYSA-N",
+                    "adsorption": 0,
+                    "composition": 0
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "VEQPNABPJHWNSG-UHFFFAOYSA-N",
+                    "adsorption": 3.36539,
+                    "composition": 33.3333
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "VEQPNABPJHWNSG-UHFFFAOYSA-N",
+                    "adsorption": 10.0962,
+                    "composition": 121.429
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "VEQPNABPJHWNSG-UHFFFAOYSA-N",
+                    "adsorption": 14.9038,
+                    "composition": 200
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "VEQPNABPJHWNSG-UHFFFAOYSA-N",
+                    "adsorption": 20.6731,
+                    "composition": 316.667
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "VEQPNABPJHWNSG-UHFFFAOYSA-N",
+                    "adsorption": 30.7692,
+                    "composition": 471.429
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 293
+}
