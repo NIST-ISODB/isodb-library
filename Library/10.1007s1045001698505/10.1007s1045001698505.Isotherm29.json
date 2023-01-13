@@ -1,0 +1,71 @@
+{
+    "DOI": "10.1007/s10450-016-9850-5",
+    "adsorbates": [
+        {
+            "InChIKey": "RAHZWNYVWXNFOC-UHFFFAOYSA-N",
+            "name": "Sulfur dioxide"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-7fb0e39f866d67466915bab460c2f549",
+        "name": "Nanolab CNT"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "Figure 11",
+    "category": "sim",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "2022-07-12",
+    "digitizer": "Eliana Mannes",
+    "filename": "10.1007s1045001698505.Isotherm29",
+    "isotherm_data": [
+        {
+            "pressure": 7.65586,
+            "species_data": [
+                {
+                    "InChIKey": "RAHZWNYVWXNFOC-UHFFFAOYSA-N",
+                    "adsorption": 1.92576,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 9.87037,
+            "species_data": [
+                {
+                    "InChIKey": "RAHZWNYVWXNFOC-UHFFFAOYSA-N",
+                    "adsorption": 2.23144,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 12.2747,
+            "species_data": [
+                {
+                    "InChIKey": "RAHZWNYVWXNFOC-UHFFFAOYSA-N",
+                    "adsorption": 2.44541,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 14.0463,
+            "species_data": [
+                {
+                    "InChIKey": "RAHZWNYVWXNFOC-UHFFFAOYSA-N",
+                    "adsorption": 2.84279,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 350
+}

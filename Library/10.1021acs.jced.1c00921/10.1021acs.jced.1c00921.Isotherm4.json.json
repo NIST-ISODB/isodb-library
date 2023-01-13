@@ -1,0 +1,126 @@
+{
+    "DOI": "10.1021/acs.jced.1c00921",
+    "adsorbates": [
+        {
+            "InChIKey": "FXRLMCRCYDHQFW-UHFFFAOYSA-N",
+            "name": "2,3,3,3-Tetrafluoropropene"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-1d2e999e9f9dd5311829563e2ed07d5a",
+        "name": "PA-01 Activated Carbon"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "AIF Supplementary Data",
+    "category": "exp",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "2023-01-11",
+    "digitizer": "Daniel Siderius",
+    "filename": "10.1021acs.jced.1c00921.Isotherm4.json",
+    "isotherm_data": [
+        {
+            "pressure": 0.0125,
+            "species_data": [
+                {
+                    "InChIKey": "FXRLMCRCYDHQFW-UHFFFAOYSA-N",
+                    "adsorption": 0.9758,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 0.0775,
+            "species_data": [
+                {
+                    "InChIKey": "FXRLMCRCYDHQFW-UHFFFAOYSA-N",
+                    "adsorption": 1.991,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 0.2725,
+            "species_data": [
+                {
+                    "InChIKey": "FXRLMCRCYDHQFW-UHFFFAOYSA-N",
+                    "adsorption": 2.988,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 0.825,
+            "species_data": [
+                {
+                    "InChIKey": "FXRLMCRCYDHQFW-UHFFFAOYSA-N",
+                    "adsorption": 3.781,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.6425,
+            "species_data": [
+                {
+                    "InChIKey": "FXRLMCRCYDHQFW-UHFFFAOYSA-N",
+                    "adsorption": 4.332,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 2.4825,
+            "species_data": [
+                {
+                    "InChIKey": "FXRLMCRCYDHQFW-UHFFFAOYSA-N",
+                    "adsorption": 4.631,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 3.2225,
+            "species_data": [
+                {
+                    "InChIKey": "FXRLMCRCYDHQFW-UHFFFAOYSA-N",
+                    "adsorption": 4.766,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 3.8,
+            "species_data": [
+                {
+                    "InChIKey": "FXRLMCRCYDHQFW-UHFFFAOYSA-N",
+                    "adsorption": 4.836,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 4.2125,
+            "species_data": [
+                {
+                    "InChIKey": "FXRLMCRCYDHQFW-UHFFFAOYSA-N",
+                    "adsorption": 4.89,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "excess",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 293
+}

@@ -1,9 +1,14 @@
 {
     "DOI": "10.1002/chem.201402244",
     "adsorbateGas": [
+        "Nitrogen",
         "Water"
     ],
     "adsorbates": [
+        {
+            "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+            "name": "Nitrogen"
+        },
         {
             "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
             "name": "Water"
@@ -40,15 +45,19 @@
         },
         {
             "filename": "10.1002chem.201402244.Isotherm2"
+        },
+        {
+            "filename": "10.1002chem.201402244.Isotherm3"
         }
     ],
     "journal": "Chemistry - A European Journal",
     "pressures": [
-        0.02,
-        1.3
+        0,
+        0.99
     ],
     "temperatures": [
-        383
+        77,
+        298
     ],
     "title": "Mechanical Downsizing of a Gadolinium(III)-based Metal-Organic Framework for Anticancer Drug Delivery",
     "year": 2014

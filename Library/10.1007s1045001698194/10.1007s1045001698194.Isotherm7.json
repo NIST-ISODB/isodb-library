@@ -1,0 +1,97 @@
+{
+    "DOI": "10.1007/s10450-016-9819-4",
+    "adsorbates": [
+        {
+            "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+            "name": "Carbon Dioxide"
+        },
+        {
+            "InChIKey": "HUMNYLRZRPPJDN-UHFFFAOYSA-N",
+            "name": "Benzaldehyde"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-da6272c9ec19a82e1ce086ace2054d7a",
+        "name": "SP-850"
+    },
+    "adsorptionUnits": "mg/g",
+    "articleSource": "Figure 3",
+    "category": "exp",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "2022-07-12",
+    "digitizer": "Eliana Mannes",
+    "filename": "10.1007s1045001698194.Isotherm7",
+    "isotherm_data": [
+        {
+            "pressure": 102,
+            "species_data": [
+                {
+                    "InChIKey": "HUMNYLRZRPPJDN-UHFFFAOYSA-N",
+                    "adsorption": 0,
+                    "composition": 8e-05
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 102,
+            "species_data": [
+                {
+                    "InChIKey": "HUMNYLRZRPPJDN-UHFFFAOYSA-N",
+                    "adsorption": 12.6214,
+                    "composition": 0.0008
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 102,
+            "species_data": [
+                {
+                    "InChIKey": "HUMNYLRZRPPJDN-UHFFFAOYSA-N",
+                    "adsorption": 32.0388,
+                    "composition": 0.00177
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 102,
+            "species_data": [
+                {
+                    "InChIKey": "HUMNYLRZRPPJDN-UHFFFAOYSA-N",
+                    "adsorption": 53.8835,
+                    "composition": 0.00308
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 102,
+            "species_data": [
+                {
+                    "InChIKey": "HUMNYLRZRPPJDN-UHFFFAOYSA-N",
+                    "adsorption": 170.874,
+                    "composition": 0.01103
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 102,
+            "species_data": [
+                {
+                    "InChIKey": "HUMNYLRZRPPJDN-UHFFFAOYSA-N",
+                    "adsorption": 206.796,
+                    "composition": 0.01568
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 313
+}
