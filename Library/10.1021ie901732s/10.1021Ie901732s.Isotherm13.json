@@ -1,0 +1,143 @@
+{
+    "DOI": "10.1021/ie901732s",
+    "adsorbates": [
+        {
+            "InChIKey": "CRSOQBOWXPBRES-UHFFFAOYSA-N",
+            "name": "Neopentane"
+        },
+        {
+            "InChIKey": "QQONPFPTGQHPMA-UHFFFAOYSA-N",
+            "name": "Propene"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-b76bbf3e404395a8b5d1b9ec08bf2d8f",
+        "name": "Zeolite 13X"
+    },
+    "adsorptionUnits": "molecules/unitcell",
+    "articleSource": "Figure 9B",
+    "category": "sim",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "2024-05-24",
+    "digitizer": "Daniel W. Siderius",
+    "filename": "10.1021Ie901732s.Isotherm13",
+    "isotherm_data": [
+        {
+            "pressure": 1.1,
+            "species_data": [
+                {
+                    "InChIKey": "CRSOQBOWXPBRES-UHFFFAOYSA-N",
+                    "adsorption": 20.6,
+                    "composition": 1
+                },
+                {
+                    "InChIKey": "QQONPFPTGQHPMA-UHFFFAOYSA-N",
+                    "adsorption": 0.03,
+                    "composition": 0
+                }
+            ],
+            "total_adsorption": 20.64
+        },
+        {
+            "pressure": 1.1,
+            "species_data": [
+                {
+                    "InChIKey": "CRSOQBOWXPBRES-UHFFFAOYSA-N",
+                    "adsorption": 18.84,
+                    "composition": 0.9
+                },
+                {
+                    "InChIKey": "QQONPFPTGQHPMA-UHFFFAOYSA-N",
+                    "adsorption": 3.49,
+                    "composition": 0.1
+                }
+            ],
+            "total_adsorption": 22.33
+        },
+        {
+            "pressure": 1.1,
+            "species_data": [
+                {
+                    "InChIKey": "CRSOQBOWXPBRES-UHFFFAOYSA-N",
+                    "adsorption": 16.16,
+                    "composition": 0.75
+                },
+                {
+                    "InChIKey": "QQONPFPTGQHPMA-UHFFFAOYSA-N",
+                    "adsorption": 8.33,
+                    "composition": 0.25
+                }
+            ],
+            "total_adsorption": 24.49
+        },
+        {
+            "pressure": 1.1,
+            "species_data": [
+                {
+                    "InChIKey": "CRSOQBOWXPBRES-UHFFFAOYSA-N",
+                    "adsorption": 11.2,
+                    "composition": 0.5
+                },
+                {
+                    "InChIKey": "QQONPFPTGQHPMA-UHFFFAOYSA-N",
+                    "adsorption": 16.75,
+                    "composition": 0.5
+                }
+            ],
+            "total_adsorption": 27.95
+        },
+        {
+            "pressure": 1.1,
+            "species_data": [
+                {
+                    "InChIKey": "CRSOQBOWXPBRES-UHFFFAOYSA-N",
+                    "adsorption": 5.65,
+                    "composition": 0.25
+                },
+                {
+                    "InChIKey": "QQONPFPTGQHPMA-UHFFFAOYSA-N",
+                    "adsorption": 25.11,
+                    "composition": 0.75
+                }
+            ],
+            "total_adsorption": 30.76
+        },
+        {
+            "pressure": 1.1,
+            "species_data": [
+                {
+                    "InChIKey": "CRSOQBOWXPBRES-UHFFFAOYSA-N",
+                    "adsorption": 2.45,
+                    "composition": 0.1
+                },
+                {
+                    "InChIKey": "QQONPFPTGQHPMA-UHFFFAOYSA-N",
+                    "adsorption": 31.77,
+                    "composition": 0.9
+                }
+            ],
+            "total_adsorption": 34.22
+        },
+        {
+            "pressure": 1.1,
+            "species_data": [
+                {
+                    "InChIKey": "CRSOQBOWXPBRES-UHFFFAOYSA-N",
+                    "adsorption": 0.1,
+                    "composition": 0
+                },
+                {
+                    "InChIKey": "QQONPFPTGQHPMA-UHFFFAOYSA-N",
+                    "adsorption": 35.1,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 35.2
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 373
+}
