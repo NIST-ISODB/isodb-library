@@ -12,7 +12,7 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v1
       with:
-        python-version: 3.7
+        python-version: 3.13
     - name: Install python dependencies
       run: |
         pip install -r .github/requirements.txt
