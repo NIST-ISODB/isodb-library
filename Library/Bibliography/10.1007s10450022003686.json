@@ -1,0 +1,91 @@
+{
+    "DOI": "10.1007/s10450-022-00368-6",
+    "adsorbateGas": [
+        "Nitrogen",
+        "Acetaldehyde",
+        "Water"
+    ],
+    "adsorbates": [
+        {
+            "InChIKey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+            "name": "Nitrogen"
+        },
+        {
+            "InChIKey": "IKHGUXGNUITLKF-UHFFFAOYSA-N",
+            "name": "Acetaldehyde"
+        },
+        {
+            "InChIKey": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+            "name": "Water"
+        }
+    ],
+    "adsorbentMaterial": [
+        "HKUST-1 (granule)",
+        "HKUST-1 (non-activated granule)",
+        "HKUST-1 (powder)",
+        "HKUST-1 (activated granule)",
+        "HKUST-1 (after water vapor)"
+    ],
+    "adsorbents": [
+        {
+            "hashkey": "NIST-MATDB-483dec1852b241fc4414fd36d0388ef9",
+            "name": "HKUST-1 (granule)"
+        },
+        {
+            "hashkey": "NIST-MATDB-8d5aaf3afcfc57c4f29537ae94d67d8e",
+            "name": "HKUST-1 (non-activated granule)"
+        },
+        {
+            "hashkey": "NIST-MATDB-ab9da13f23ec964e1e3e5fdb8ee656d6",
+            "name": "HKUST-1 (powder)"
+        },
+        {
+            "hashkey": "NIST-MATDB-be4ca5b0e7836df8f65cd8d67216d088",
+            "name": "HKUST-1 (activated granule)"
+        },
+        {
+            "hashkey": "NIST-MATDB-c53af1bb0aee13cd7039c7a6b57b0e12",
+            "name": "HKUST-1 (after water vapor)"
+        }
+    ],
+    "authors": [
+        "Mathilde François",
+        "Léa Sigot",
+        "Cécile Vallières"
+    ],
+    "categories": [
+        "exp"
+    ],
+    "isotherms": [
+        {
+            "filename": "10.1007s10450022003686.Isotherm1"
+        },
+        {
+            "filename": "10.1007s10450022003686.Isotherm2"
+        },
+        {
+            "filename": "10.1007s10450022003686.Isotherm3"
+        },
+        {
+            "filename": "10.1007s10450022003686.Isotherm4"
+        },
+        {
+            "filename": "10.1007s10450022003686.Isotherm5"
+        },
+        {
+            "filename": "10.1007s10450022003686.Isotherm6"
+        }
+    ],
+    "journal": "Adsorption",
+    "pressures": [
+        0,
+        1.01
+    ],
+    "temperatures": [
+        77,
+        293,
+        298
+    ],
+    "title": "Impact of humidity on HKUST-1 performance for the removal of acetaldehyde in air: an experimental study",
+    "year": 2022
+}

@@ -1,0 +1,95 @@
+{
+    "DOI": "10.1021/acs.iecr.1c02778",
+    "adsorbates": [
+        {
+            "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+            "name": "Methane"
+        },
+        {
+            "InChIKey": "WSFSSNUMVMOOMR-UHFFFAOYSA-N",
+            "name": "Formaldehyde"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-abe308ff7986521e2f080c59c07d41e1",
+        "name": "Molecular sieves 3A"
+    },
+    "adsorptionUnits": "g/g",
+    "articleSource": "Figure 4 (middle)",
+    "category": "exp",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "2023-08-08",
+    "digitizer": "Patrick Donahue",
+    "filename": "10.1021acs.iecr.1c02778.Isotherm6",
+    "isotherm_data": [
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+                    "adsorption": 0.119809,
+                    "composition": 1
+                },
+                {
+                    "InChIKey": "WSFSSNUMVMOOMR-UHFFFAOYSA-N",
+                    "adsorption": 0.000953,
+                    "composition": 0
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+                    "adsorption": 0.115042,
+                    "composition": 0.804983
+                },
+                {
+                    "InChIKey": "WSFSSNUMVMOOMR-UHFFFAOYSA-N",
+                    "adsorption": 0.034004,
+                    "composition": 0.195017
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+                    "adsorption": 0.104873,
+                    "composition": 0.756873
+                },
+                {
+                    "InChIKey": "WSFSSNUMVMOOMR-UHFFFAOYSA-N",
+                    "adsorption": 0.036864,
+                    "composition": 0.243127
+                }
+            ],
+            "total_adsorption": null
+        },
+        {
+            "pressure": 1.01325,
+            "species_data": [
+                {
+                    "InChIKey": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+                    "adsorption": 0.066419,
+                    "composition": 0.623711
+                },
+                {
+                    "InChIKey": "WSFSSNUMVMOOMR-UHFFFAOYSA-N",
+                    "adsorption": 0.075318,
+                    "composition": 0.376289
+                }
+            ],
+            "total_adsorption": null
+        }
+    ],
+    "isotherm_type": "",
+    "pressureUnits": "bar",
+    "tabular_data": 0,
+    "temperature": 313
+}
