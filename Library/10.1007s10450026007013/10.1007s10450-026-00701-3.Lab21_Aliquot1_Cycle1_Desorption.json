@@ -1,0 +1,49 @@
+{
+    "DOI": "10.1007/s10450-026-00701-3",
+    "adsorbates": [
+        {
+            "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+            "name": "Carbon Dioxide"
+        }
+    ],
+    "adsorbent": {
+        "hashkey": "NIST-MATDB-0a25e1da71b013d95f0b144bdede8735",
+        "name": "NIST RGTM-10257 (Zeolite 13X)"
+    },
+    "adsorptionUnits": "mmol/g",
+    "articleSource": "Supplementary Information",
+    "category": "exp",
+    "compositionType": "molefraction",
+    "concentrationUnits": "",
+    "date": "2026-09-01",
+    "digitizer": "NIST FACT Lab",
+    "filename": "10.1007s10450-026-00701-3.Lab21_Aliquot1_Cycle1_Desorption",
+    "isotherm_data": [
+        {
+            "pressure": 0.80519,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 4.83311,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 4.83311
+        },
+        {
+            "pressure": 0.605496,
+            "species_data": [
+                {
+                    "InChIKey": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+                    "adsorption": 4.67752,
+                    "composition": 1
+                }
+            ],
+            "total_adsorption": 4.67752
+        }
+    ],
+    "isotherm_type": "excess",
+    "pressureUnits": "bar",
+    "tabular_data": 1,
+    "temperature": 25
+}
